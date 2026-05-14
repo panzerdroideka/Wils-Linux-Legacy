@@ -1,0 +1,45 @@
+#!/bin/bash
+# Frankenstein Raw Sensor Logger
+
+KATALOG="/home/wils/Gaminglogger"
+LOGG_FIL="$KATALOG/Telemetri_$(date +%Y%m%d_%H%M%S).csv"
+
+mkdir -p "$KATALOG"
+echo "Tidspunkt,RAM_Brukt_MB,CPU_Temp_C,CPU_Last_%" > "$LOGG_FIL"
+
+clear
+echo "======================================================"
+echo " 🛠️ FRANKENSTEIN TELEMETRI AKTIVERT"
+echo "======================================================"
+echo "Logger CPU, Temperatur og Minne hvert 2. sekund."
+echo "Data lagres i: $LOGG_FIL"
+echo ""
+echo "🛑 TRYKK [CTRL+C] FOR Å STOPPE NÅR OPPDRAGET ER FERDIG"
+echo "======================================================"
+echo "Operating System: Kubuntu 24.04"
+echo "KDE Plasma Version: 5.27.12"
+echo "KDE Frameworks Version: 5.115.0"
+echo "Qt Version: 5.15.13"
+echo "Kernel Version: 6.17.0-14-generic (64-bit)"
+echo "Graphics Platform: X11"
+echo "Processors: 4 × Intel® Core™ i5-3210M CPU @ 2.50GHz"
+echo "Memory: 15,5 GiB of RAM"
+echo "Graphics Processor: Mesa Intel® HD Graphics 4000"
+echo "Manufacturer: SAMSUNG ELECTRONICS CO., LTD."
+echo "Product Name: 370R5E"
+echo ""
+echo "Made by Wils"
+echo ""
+echo "YouTube Channel @willyolsen1017"
+echo "https://discord.gg/7bwAhKU9h"
+echo "======================================================"
+
+while true; do
+    TID=$(date '+%H:%M:%S')
+    RAM=$(free -m | awk '/^Mem:/ {print $3}')
+    TEMP=$(sensors | awk '/Core 0/ {print $3}' | tr -d '+°C')
+    CPU=$(top -bn1 | grep "Cpu(s)" | sed "s/.*, *\([0-9.]*\)%* id.*/\1/" | awk '{print 100 - $1}')
+    
+    echo "$TID,$RAM,$TEMP,$CPU" >> "$LOGG_FIL"
+    sleep 2
+done
