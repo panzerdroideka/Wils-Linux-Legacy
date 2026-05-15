@@ -1,15 +1,18 @@
-⚔️ Wil's Way of Amazing LotRO Life
+⚔️ Wil's Way of Amazing LotRO Life ⚔️ 
 
 "If it isn't documented, it didn't happen." – The Warlord
 
-Wils 
-https://www.youtube.com/@willyolsen1017
+Wils-Linux-Legacy!
 
+GitHub:
+https://github.com/panzerdroideka/Wils-Linux-Legacy
+
+Discord:
 WilsOfDoc
 discord.gg/7bwAhKU9h
 
-Here is a invite to my Discord:
-https://discord.gg/a9aRZRvx
+YouTube
+https://www.youtube.com/@willyolsen1017
 
 
 #LotRO #LinuxGaming #Kubuntu #Wayland #DXVK #RuneKeeper #MiddleEarth #GamingOnLinux
