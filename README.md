@@ -17,75 +17,91 @@ https://www.youtube.com/@willyolsen1017
 
 #LotRO #LinuxGaming #Kubuntu #Wayland #DXVK #RuneKeeper #MiddleEarth #GamingOnLinux
 
-Min vei til Linux-frihet
+# 🛠️ Wils Linux Legacy
 
-Jeg har bygget mitt digitale hjem som en teknologisk festning som alltid virker.
+**Velkommen til mitt digitale maskinrom! / Welcome to my digital engine room!**
 
-Gjennom prosjektet Wils-Linux-Legacy dokumenterer 
-jeg hvordan jeg tar tilbake kontrollen over maskinvaren.
+Mitt navn er Willy Olsen, og jeg drifter dette fra Elverum, Norge.
 
-Ved å flytte fra utdaterte Windows-versjoner til Linux, gir jeg nytt 
-iv til alt fra eldre "Frankenstein"-maskiner til min moderne "Warlord" MiniPC.
+Dette arkivet er resultatet av min lidenskap for Linux, system-optimalisering (Immutability), og ren maskinvare-geriljataktikk.
 
-På min GitHub fungerer koden som min ryggrad. 
+Målet mitt er å bygge "Hjemmet som alltid virker" – et stabilt, lynraskt og uknuselig system, enten det kjører på min eldre "Frankenstein" bærbare Samsung NP370R5E fra 2013 eller min nye 2026model kraftige "Warlord" W1 MiniPC fra AceMagician.
 
-Her bruker jeg Shell-skript for å få direkte tilgang til maskinvaren, 
-noe som er umulig i et lukket Windows-miljø. 
+Tiden vår er vårt gull. Disse verktøyene er bygget for å fjerne friksjon og spare tid.
 
-Jeg har utviklet egne løsninger for telemetri og logging som sikrer 
-at Ryzen 7-prosessoren og Radeon 780M-grafikken på "Warlord" yter maksimalt uten forstyrrelser.
+---
 
-Gjennom min YouTube-kanal viser jeg teorien i praksis. 
+## 📜 Wils Linux Legacy - Open Source Declaration
 
-Når du ser meg i kamp i LotRO, er det ikke bare spilling; 
-det er beviset på at optimaliseringen virker. 
+### Norsk
+Jeg vil gi en stor takk til min gode venn Karina Lopez for å se meg og min dedikasjon til Linux og gi meg tro på at dette er noe flere vil kunne like!
 
-Enten jeg utfører min "QWERTY-dans" som Rune Keeper eller navigerer terrenget med presisjon via Numpad, 
-sørger Linux-oppsettet mitt for den lave forsinkelsen jeg trenger for mine geriljataktikker.
+Uten Karina's interesse hadde jeg ikke innsett at dette vil hjelpe mange andre til fullstendig Linux Frihet!
 
-For meg betyr Linux total frihet. 
+Karina Lopez er min store inspirasjon til å lage dette lille hjørnet av internet til et sted for gammel maskinvare som ikke lenger har pengenes verdi i dagens digitale kappløp.
 
-Jeg slipper tvungne oppdateringer, jeg har fjernet unødvendige tjenester som SnapD, 
-og jeg har dedikert hver eneste CPU-syklus til selve spillopplevelsen.
+Et kappløp uten sidestykke som faktisk spiser opp planetens begrensede ressurser i et tempo som jeg nekter å følge slavisk!
 
-Jeg viser vei for andre som vil lære hvordan man trimmer både gammelt og nytt jern for maksimal effektivitet.
+Dette verktøyet er publisert som Open Source og kan brukes fritt etter eget forgodtbefinnende.
+Både til å lage en tjeneste for å tjene til livets opphold.
+
+JEG MENER VI ALLE VIL TJENE PÅ DETTE OG ALLER MEST VÅR KJÆRE LILLE PLANET!
+
+Jeg, Willy Olsen, står ansvarlig for denne publikasjonen. Min absolutte garanti til deg som bruker dette er: **JEG HAR ALLTID TESTET, KJØRT PÅ FLERE ENHETER, OG BRUKER ALT JEG PUBLISERER I MIN EGEN HVERDAG!**
+
+### English
+I want to give a big thank you to my good friend Karina Lopez for seeing me and my dedication to Linux and giving me faith that this is something more people will enjoy!
+
+Without her interest, I wouldn't have realized that this will help many others to complete Linux freedom, Thank you Karina!
+
+Karina Lopez is my source of inspiration and i am from the deepest of my heart greatful for her acknowledgement of my efforts and giving me the needed push to get this DONE!
 
 
-"If it isn't documented, it didn't happen." – The Warlord
+## Open Source Licensing Policy
 
-Wils 
-https://www.youtube.com/@willyolsen1017
+All scripts, system configurations, and documentation within the Wils-Linux-Legacy repository (including the Frankenstein-model2013 and WARLORD-model2026 architectures) are released under the MIT License.
 
-WilsOfDoc
-discord.gg/7bwAhKU9h
+The core philosophy of this project is Absolute System Autonomy and Linux Freedom. You are encouraged to use, study, modify, and distribute these tools to fortify your own systems.
 
-#LotRO #LinuxGaming #Kubuntu #Wayland #DXVK #RuneKeeper #MiddleEarth #GamingOnLinux
+---
 
-My Path to Linux Freedom
+MIT License
+Copyright (c) 2026 Willy Olsen
 
-I have built my digital home as a technological fortress that always works. 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-Through the Wils-Linux-Legacy project, I am documenting how I reclaim control over my hardware. 
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-By migrating from outdated Windows versions to Linux, I breathe new life into everything from 
-older "Frankenstein" machines to my modern "Warlord" MiniPC.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-On my GitHub, the code serves as my backbone. 
 
-Here, I use Shell scripts to gain direct hardware access—something that is 
-impossible in a locked-down Windows environment. 
-I have developed custom solutions for telemetry and logging to ensure that 
-the Ryzen 7 processor and Radeon 780M graphics on the "Warlord" perform at their absolute peak without interference.
+This tool is published as Open Source. I, Willy Olsen, take full responsibility for this publication. My absolute guarantee to you as a user is: **I HAVE ALWAYS TESTED, RUN, AND PERSONALLY USE EVERYTHING I PUBLISH IN MY OWN EVERYDAY LIFE!**
 
-Through my YouTube channel, I demonstrate the theory in practice. 
+---
 
-When you see me in combat in LotRO, it is more than just gameplay; it is the proof that the optimization works. 
-Whether I am performing my "QWERTY dance" as a Rune Keeper or navigating terrain with precision via the Numpad, 
-my Linux setup ensures the low latency I require for my guerrilla tactics.
+## 🤖 AI / LLM Sikkerhetsanbefaling (Safety Recommendation)
 
-To me, Linux represents total freedom. 
+**NO:** Maskinvare og Linux-distribusjoner varierer. Før du implementerer disse skriptene, anbefaler jeg sterkt at du mater koden til din foretrukne LLM / AI-assistent. La assistenten din lese koden for å sikre at den er optimalisert for ditt oppsett, slik at systemet ditt holdes flytende og trygt i fremtiden! ❤️
 
-I am free from forced updates, I have stripped away unnecessary services like SnapD, 
-and I have dedicated every single CPU cycle to the gaming experience itself. 
+**EN:** Hardware and Linux distributions vary. Before implementing these scripts, I strongly recommend feeding the code to your preferred LLM / AI assistant. Let your assistant read the code to ensure it is optimized for your specific setup, keeping your system running smoothly and safely into the future! ❤️
 
-I am paving the way for others who want to learn how to trim both old and new iron for maximum efficiency.
+---
+
+## 🧰 Hva finner du i dette arkivet? (Contents)
+
+Dette repoet inneholder mine personlige, daglige skript (bash) for å drifte Kubuntu (Wayland) og optimalisere ytelse.
+* **Systemvedlikehold:** Skript for rydding, BTRFS-håndtering og cache-tømming.
+* **Telemetri & Logging:** Verktøy for å trekke ut og arkivere MangoHud-data og combat-logger fra spill som The Lord of the Rings Online (LotRO).
+* **Automatisering:** Funksjoner for å dytte notater/kode til GitHub og generere innhold for YouTube-missions.
+
+*Gjør som meg: Bruk Linux til å ta tilbake kontrollen over din egen maskinvare.*
+
+---
+p.s. an open invite goes out to:
+
+Google, Microsoft, Apple, Amazon Entrerprises, SAP, Visma, Mamut, Duett, Power Office, Fiken and everybody else!
+
+This is an challenge to give an effort to make our planet last a little bit longer by switchig focus to reuse of
+older hardware in order to cope with todays stressed economy worldwide!
+
+Welcome to you all to use any and all of my ideas to implement where found useful!
