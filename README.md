@@ -1,3 +1,15 @@
+⚔️ Wil's Way of Amazing LotRO Life
+
+"If it isn't documented, it didn't happen." – The Warlord
+
+Wils 
+https://www.youtube.com/@willyolsen1017
+
+WilsOfDoc
+discord.gg/7bwAhKU9h
+
+#LotRO #LinuxGaming #Kubuntu #Wayland #DXVK #RuneKeeper #MiddleEarth #GamingOnLinux
+
 Min vei til Linux-frihet
 
 Jeg har bygget mitt digitale hjem som en teknologisk festning som alltid virker.
@@ -30,6 +42,17 @@ Jeg slipper tvungne oppdateringer, jeg har fjernet unødvendige tjenester som Sn
 og jeg har dedikert hver eneste CPU-syklus til selve spillopplevelsen.
 
 Jeg viser vei for andre som vil lære hvordan man trimmer både gammelt og nytt jern for maksimal effektivitet.
+
+
+"If it isn't documented, it didn't happen." – The Warlord
+
+Wils 
+https://www.youtube.com/@willyolsen1017
+
+WilsOfDoc
+discord.gg/7bwAhKU9h
+
+#LotRO #LinuxGaming #Kubuntu #Wayland #DXVK #RuneKeeper #MiddleEarth #GamingOnLinux
 
 My Path to Linux Freedom
 
