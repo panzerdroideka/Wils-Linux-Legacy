@@ -8,6 +8,10 @@ https://www.youtube.com/@willyolsen1017
 WilsOfDoc
 discord.gg/7bwAhKU9h
 
+Here is a invite to my Discord:
+https://discord.gg/a9aRZRvx
+
+
 #LotRO #LinuxGaming #Kubuntu #Wayland #DXVK #RuneKeeper #MiddleEarth #GamingOnLinux
 
 Min vei til Linux-frihet
