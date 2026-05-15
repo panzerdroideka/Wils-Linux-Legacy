@@ -1,0 +1,3 @@
+# Drep Chrome for å frigjøre RAM til GPU
+pkill -f chrome && echo "✓ Chrome lukket - 3GB RAM frigjort" || echo "Chrome kjørte ikke"
+sleep 2
