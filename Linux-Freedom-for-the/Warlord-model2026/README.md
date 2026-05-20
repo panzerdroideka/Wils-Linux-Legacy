@@ -4,7 +4,7 @@
 
 ## 🇬🇧 English: The Path to Modern Linux Freedom
 
-Welcome to the Warlord protocol. This directory is dedicated to my primary powerhouse: the "Warlord". This is an Ace Magician MiniPC (AMD Ryzen 7 255 w/Radeon 780M, 32GB RAM) running Kubuntu 25.10 on the Wayland graphics platform. 
+Welcome to the Warlord protocol. This directory is dedicated to my primary powerhouse: the "Warlord". This is an Ace Magician MiniPC (AMD Ryzen 7 255 w/Radeon 780M, 32GB RAM) running Kubuntu 26.04 on the Wayland graphics platform. 
 
 While Frankenstein is about saving legacy hardware, Warlord is about unleashing modern hardware. This machine is immutized, stripped of SnapD and SystemD, and tuned to boot in under 10 seconds. It is designed to run The Lord of the Rings Online (LotRO) flawlessly while capturing intense combat telemetry and high-quality video for YouTube, without dropping a single frame.
 
@@ -24,7 +24,7 @@ Your modern rig might have an NVIDIA GPU or an Intel CPU. Copy the scripts found
 
 ## 🇳🇴 Norsk: Veien til moderne Linux-frihet
 
-Velkommen til Warlord-protokollen. Denne mappen er dedikert til mitt primære kraftverk: "Warlord". Dette er en Ace Magician MiniPC (AMD Ryzen 7 255 w/Radeon 780M, 32GB RAM) som kjører Kubuntu 25.10 på Wayland-grafikkplattformen.
+Velkommen til Warlord-protokollen. Denne mappen er dedikert til mitt primære kraftverk: "Warlord". Dette er en Ace Magician MiniPC (AMD Ryzen 7 255 w/Radeon 780M, 32GB RAM) som kjører Kubuntu 2604 på Wayland-grafikkplattformen.
 
 Mens Frankenstein handler om å redde gammelt jern, handler Warlord om å slippe løs moderne maskinvare. Denne maskinen er immutized, strippet for SnapD og SystemD, og tunet for å boote på under 10 sekunder. Den er bygget for å kjøre The Lord of the Rings Online (LotRO) feilfritt, samtidig som den fanger intens kamp-telemetri og høyoppløselig video for YouTube uten å miste en eneste frame.
 
