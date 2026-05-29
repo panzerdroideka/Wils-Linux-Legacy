@@ -158,9 +158,9 @@ older hardware in order to cope with todays stressed economy worldwide!
 Welcome to you all to use any and all of my ideas to implement where found useful!
 
 
-=================================================
+==========================================
 🏷 SØKEORD & EMNEKNAGGER (TAGS)
-=================================================
+==========================================
 #Shorts​ #TechShorts​ #LinuxMyth​ #TechFreedom​ #LinuxForBeginners​
 #HardwareOptimization​ #TerminalTips​ #AICoPilot​ #BareheadedTech​
 #Wils​-Linux-Legacy #AntiEWaste​ #Kubuntu​
