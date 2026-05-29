@@ -156,3 +156,24 @@ a little bit longer by switchig focus to reuse of
 older hardware in order to cope with todays stressed economy worldwide!
 
 Welcome to you all to use any and all of my ideas to implement where found useful!
+
+
+=================================================
+🏷 SØKEORD & EMNEKNAGGER (TAGS)
+=================================================
+#Shorts​ #TechShorts​ #LinuxMyth​ #TechFreedom​ #LinuxForBeginners​
+#HardwareOptimization​ #TerminalTips​ #AICoPilot​ #BareheadedTech​
+#Wils​-Linux-Legacy #AntiEWaste​ #Kubuntu​
+#OpenSource​ #GitHub​ #DataAnalysis​ #CombatLogs​ #LinuxFreedom​
+#LotRO​ #GuerillaGaming​ #MMORPG​ #SkillQueue​ #NoMouseCombat​
+#LinuxGaming​ #TheEdisonWay​ #BareMetalLinux​ #AntiWindows​
+#MicrosoftFreedom​ #GreenPc​ #SaveThePlanet​ #EcoFriendlyGaming​
+#KdePlasma​ #LinuxKubuntu​ #FreeOS​ #FreeGamingOS​ #KeyboardGaming​
+#MouseFreeGaming​ #PrecisionGamingWithKeyboard​ #PureKeyboardGaming​
+#GuerillaGamingOnKeyboard​ #OnlyKeyboardGaming​ #MmorpgOnKeyboard​
+#KeyboardOnlyMmorpg​ #GamingWithoutMouse​ #RepurposePC​
+#EcoModeGaming​ #NoEwasteGaming​ #SaveThePlanetGaming​
+#NatureFriendlyGaming​ #GreenGaming​ #EcoFriendlyProfile​
+#LowBudgetGaming​ #RepurposedGaming
+#Darkweb #DarkLinux #LinuxHack #LinuxForNovises
+#LinuxForBeginners #LinuxForEveryone #LinuxUseful #LinuxEveryday #DayliyDriver #FreeSoftware #FreeOperatingSystem #KdePlasma #Kde #OpenSource #FreedomToSpeak #InternetOnOlderHardware #OfficeOnLinux #GraphicsToolsForFree #VideoEditingForFree #LinuxPublishingPlatform #YoyTubePublisher #FreeYouTubeVideoPublisher #FreeHardwareTools #FreeEditingTools #FreeForEveryDayJournalists #FreeWriterSoftware
