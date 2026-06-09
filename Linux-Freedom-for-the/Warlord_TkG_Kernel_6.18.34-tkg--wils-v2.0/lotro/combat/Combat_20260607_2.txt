@@ -1,0 +1,356 @@
+### Chat Log: Combat 06/07 06:54 PM ###
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 2,364 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Moria Orc-warrior for 1,929 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 398 points to Power.
+Sustenance applied a heal to Nlkosi restoring 5,390 points to Morale.
+The Moria Orc-defiler scored a partially evaded hit with a weak thrown attack on Nlkosi for 1,474 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 2,496 Fire damage to Morale.
+The Moria Orc-warrior scored a hit with a weak melee attack on Nlkosi for 1,388 Common damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Moria Orc-warrior for 12,320 Fire damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Moria Orc-warrior for 5,478 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Your mighty blow defeated the Moria Orc-warrior.
+Nlkosi scored a critical hit with Essence of Storm on the Moria Orc-warrior for 27,165 Lightning damage to Morale.
+The Moria Orc-defiler scored a hit with Totem: Power Drain on Nlkosi for 40 Common damage to Power.
+Nlkosi scored a devastating hit with Ceaseless Argument on the Moria Orc-defiler for 21,151 Lightning damage to Morale.
+The Moria Orc-defiler scored a hit with a mighty thrown attack on Nlkosi for 3,841 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-defiler for 2,944 Fire damage to Morale.
+The Moria Orc-defiler scored a hit with Totem: Power Drain on Nlkosi for 40 Common damage to Power.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-defiler for 3,923 Fire damage to Morale.
+The Moria Orc-defiler scored a partially evaded hit with a weak thrown attack on Nlkosi for 1,501 Common damage to Morale.
+The Moria Orc-defiler scored a hit with Totem: Power Drain on Nlkosi for 40 Common damage to Power.
+Nlkosi missed trying to use Fiery Ridicule on the Moria Orc-defiler.
+Nlkosi tried to use Fiery Ridicule - Tier 2 on the Moria Orc-defiler but he was immune to the attempt.
+Nlkosi missed trying to use Fiery Ridicule on the Moria Orc-defiler.
+The Moria Orc-defiler scored a hit with Totem: Power Drain on Nlkosi for 40 Common damage to Power.
+The Moria Orc-defiler scored a hit with a weak melee attack on Nlkosi for 1,495 Common damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Moria Orc-defiler for 19,565 Lightning damage to Morale.
+Your mighty blow defeated the Defiler's Totem.
+Your mighty blow defeated the Moria Orc-defiler.
+Nlkosi scored a hit with Static Surge on the Moria Orc-defiler for 10,738 Lightning damage to Morale.
+Nlkosi scored a hit with Static Surge on the Defiler's Totem for 8,670 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-archer for 2,784 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Moria Orc-archer for 3,271 Lightning damage to Morale.
+The Moria Orc-archer scored a hit with a minor ranged attack on Nlkosi for 1,582 Common damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 367 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 7,413 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-archer for 3,098 Fire damage to Morale.
+The Moria Orc-archer scored a hit with a moderate ranged attack on Nlkosi for 1,740 Common damage to Morale.
+The Moria Orc-warrior scored a hit with a moderate melee attack on Nlkosi for 1,908 Common damage to Morale.
+The Moria Orc-archer scored a hit with a weak melee attack on Nlkosi for 1,286 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-archer for 2,862 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Your mighty blow defeated the Moria Orc-archer.
+Nlkosi scored a critical hit with Epic Conclusion on the Moria Orc-archer for 78,096 Lightning damage to Morale.
+The Moria Orc-warrior scored a hit with a weak melee attack on Nlkosi for 1,346 Common damage to Morale.
+Nlkosi scored a critical hit with Scribe's Spark on the Moria Orc-warrior for 20,302 Lightning damage to Morale.
+Nothing to dispel.
+The Moria Orc-warrior scored a hit with a moderate melee attack on Nlkosi for 1,851 Common damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Moria Orc-warrior.
+Nlkosi scored a hit with Essence of Storm on the Moria Orc-warrior for 7,907 Lightning damage to Morale.
+The Moria Orc-warrior missed trying to use a weak melee attack on Nlkosi.
+Your mighty blow defeated the Moria Orc-warrior.
+Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-warrior for 5,545 Lightning damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-warrior for 6,586 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Moria Orc-warrior for 12,204 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+The Moria Orc-warrior scored a partially evaded hit with a weak melee attack on Nlkosi for 1,183 Common damage to Morale.
+Nlkosi scored a devastating hit with Sustaining Bolt on the Moria Orc-warrior for 11,560 Lightning damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 515 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 6,752 points to Morale.
+Your mighty blow defeated the Moria Orc-warrior.
+Nlkosi scored a hit with Scribe's Spark on the Moria Orc-warrior for 7,753 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 3,775 Fire damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-warrior for 7,274 Fire damage to Morale.
+Nlkosi scored a hit with Chilling Rhetoric on the Moria Orc-warrior for 4,159 Frost damage to Morale.
+The Moria Orc-warrior scored a hit with a weak melee attack on Nlkosi for 1,221 Common damage to Morale.
+Your mighty blow defeated the Moria Orc-warrior.
+Nlkosi scored a critical hit with Shocking Words on the Moria Orc-warrior for 46,599 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 1,687 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,685 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,634 Lightning damage to Morale.
+The Moria Orc-defiler scored a hit with a weak melee attack on the Volcanic Rune-stone for 316 Common damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Moria Orc-defiler scored a hit with a mighty thrown attack on the Volcanic Rune-stone for 795 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Epic Conclusion on the Moria Orc-defiler for 21,502 Lightning damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Moria Orc-defiler.
+The Moria Orc-defiler scored a hit with a minor thrown attack on Nlkosi for 2,031 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 1,551 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,642 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,682 Lightning damage to Morale.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+The Moria Orc-defiler scored a hit with a moderate thrown attack on Nlkosi for 2,420 Common damage to Morale.
+You have lost 2,420 points of temporary Morale!
+The Moria Orc-defiler scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 396 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 1,554 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Moria Orc-defiler but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,600 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,683 Lightning damage to Morale.
+Nlkosi scored a hit with Distracting Flame on the Moria Orc-defiler.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Moria Orc-defiler.
+The Moria Orc-warrior tried to use Savage Swing on the Charged Fulgurite Rune-stone but it parried the attempt.
+The Moria Orc-warrior scored a hit with Savage Swing on the Volcanic Rune-stone for 1,656 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 5,785 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Moria Orc-warrior.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,693 Lightning damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-defiler for 5,497 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Nlkosi scored a critical hit with Essence of Storm on the Moria Orc-defiler for 24,573 Lightning damage to Morale.
+Nlkosi tried to use Induce Stunned on the Moria Orc-defiler but he was immune to the attempt.
+Your mighty blow defeated the Moria Orc-defiler.
+Nlkosi scored a hit with Shocking Words on the Moria Orc-defiler for 20,539 Lightning damage to Morale.
+You have lost 8,395 points of temporary Morale!
+Increased Morale applied a heal to Nlkosi restoring 19,284 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 2,078 Fire damage to Morale.
+The Moria Orc-warrior scored a partially evaded hit with a moderate melee attack on Nlkosi for 1,731 Common damage to Morale.
+The Moria Orc-warrior scored a hit with a weak melee attack on Nlkosi for 1,388 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Moria Orc-warrior for 1,632 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Nlkosi scored a critical hit with Essence of Storm on the Moria Orc-warrior for 23,610 Lightning damage to Morale.
+The Moria Orc-warrior scored a critical hit with a weak melee attack on Nlkosi for 1,984 Common damage to Morale.
+The Moria Orc-warrior scored a critical hit with a minor melee attack on Nlkosi for 2,480 Common damage to Morale.
+Your mighty blow defeated the Moria Orc-warrior.
+Nlkosi scored a hit with Epic Conclusion on the Moria Orc-warrior for 29,486 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Moria Orc-warrior for 5,048 Lightning damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-warrior for 5,096 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Moria Orc-warrior.
+The Moria Orc-warrior scored a hit with a weak melee attack on Nlkosi for 1,388 Common damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-warrior for 5,957 Lightning damage to Morale.
+Nlkosi scored a devastating hit with Writ of Lightning on the Moria Orc-warrior for 15,086 Lightning damage to Morale.
+The Moria Orc-warrior scored a hit with a minor melee attack on Nlkosi for 1,734 Common damage to Morale.
+Your mighty blow defeated the Moria Orc-warrior.
+Nlkosi scored a devastating hit with Essence of Flame on the Moria Orc-warrior for 32,153 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Moria Orc-warrior scored a hit with a minor melee attack on the Volcanic Rune-stone for 377 Common damage to Morale.
+The Moria Orc-defiler scored a hit with a mighty melee attack on the Volcanic Rune-stone for 712 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,597 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,625 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 1,564 Lightning damage to Morale.
+The Moria Orc-defiler tried to use a moderate thrown attack on the Volcanic Rune-stone but it evaded the attempt.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 5,785 Fire damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Moria Orc-archer scored a hit with a weak ranged attack on Nlkosi for 1,266 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 5,785 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Moria Orc-warrior.
+Nlkosi scored a critical hit with Ceaseless Argument on the Moria Orc-warrior for 16,462 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,668 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,598 Lightning damage to Morale.
+The Moria Orc-archer scored a hit with a moderate ranged attack on Nlkosi for 1,740 Common damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-defiler for 8,350 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-defiler for 6,376 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Moria Orc-defiler for 2,877 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 432 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 7,413 points to Morale.
+The Moria Orc-archer scored a hit with a minor ranged attack on Nlkosi for 1,582 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,695 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Moria Orc-defiler but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,679 Lightning damage to Morale.
+The Moria Orc-defiler scored a critical hit with a weak melee attack on the Charged Fulgurite Rune-stone for 450 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-defiler for 2,511 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Moria Orc-defiler.
+The Moria Orc-archer scored a hit with a weak ranged attack on Nlkosi for 1,228 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,689 Lightning damage to Morale.
+Nlkosi scored a critical hit with Scribe's Spark on the Moria Orc-defiler for 17,144 Lightning damage to Morale.
+Nlkosi tried to use Induce Stunned on the Moria Orc-defiler but he was immune to the attempt.
+Your mighty blow defeated the Moria Orc-defiler.
+Nlkosi scored a critical hit with Shocking Words on the Moria Orc-defiler for 53,488 Lightning damage to Morale.
+The Moria Orc-archer scored a hit with a minor ranged attack on Nlkosi for 1,535 Common damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Moria Orc-archer for 5,621 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+The Moria Orc-archer scored a hit with a weak melee attack on Nlkosi for 1,286 Common damage to Morale.
+Nlkosi scored a critical hit with Scribe's Spark on the Moria Orc-archer for 15,737 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Moria Orc-archer.
+The Moria Orc-archer scored a hit with a minor melee attack on Nlkosi for 1,608 Common damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Moria Orc-archer for 5,748 Lightning damage to Morale.
+Your mighty blow defeated the Moria Orc-archer.
+Nlkosi scored a critical hit with Ceaseless Argument on the Moria Orc-archer for 17,691 Lightning damage to Morale.
+The Moria Orc-archer scored a critical hit with a moderate ranged attack on Nlkosi for 2,414 Common damage to Morale.
+The Moria Orc-archer scored a critical hit with a weak melee attack on Nlkosi for 1,839 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Nlkosi scored a critical hit with Vivid Imagery on the Moria Orc-archer for 17,358 Lightning damage to Morale.
+Your mighty blow defeated the Moria Orc-archer.
+Nlkosi scored a critical hit with Epic Conclusion on the Moria Orc-archer for 86,282 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-archer for 3,237 Fire damage to Morale.
+The Moria Orc-archer scored a hit with a weak ranged attack on Nlkosi for 1,333 Common damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-archer for 6,809 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Nlkosi scored a critical hit with Sustaining Bolt on the Moria Orc-archer for 9,291 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 389 points to Power.
+Sustenance applied a heal to Nlkosi restoring 5,587 points to Morale.
+The Moria Orc-archer scored a hit with a minor ranged attack on Nlkosi for 1,535 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-archer for 3,045 Fire damage to Morale.
+The Moria Orc-archer scored a hit with a weak melee attack on Nlkosi for 1,247 Common damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Moria Orc-archer for 6,710 Lightning damage to Morale.
+Your mighty blow defeated the Moria Orc-archer.
+Nlkosi scored a critical hit with Shocking Words on the Moria Orc-archer for 46,599 Lightning damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-archer for 6,452 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-archer for 2,939 Fire damage to Morale.
+The Moria Orc-archer scored a critical hit with a moderate ranged attack on Nlkosi for 2,339 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-archer for 2,952 Fire damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-archer for 7,060 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Moria Orc-archer for 3,519 Lightning damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 491 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 8,319 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Moria Orc-archer for 2,554 Fire damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-archer for 6,953 Fire damage to Morale.
+The Moria Orc-archer scored a hit with a weak melee attack on Nlkosi for 1,247 Common damage to Morale.
+Your mighty blow defeated the Moria Orc-archer.
+Nlkosi scored a hit with Static Surge on the Moria Orc-archer for 12,148 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 2,455 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Moria Orc-warrior for 11,966 Fire damage to Morale.
+Nlkosi scored a devastating hit with Fiery Ridicule on the Moria Orc-warrior for 8,711 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Your mighty blow defeated the Moria Orc-warrior.
+Nlkosi scored a critical hit with Essence of Storm on the Moria Orc-warrior for 25,959 Lightning damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-defiler for 5,275 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Moria Orc-defiler for 10,990 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-defiler for 3,451 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Moria Orc-defiler for 2,983 Lightning damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 501 points to Power.
+Sustenance applied a heal to Nlkosi restoring 4,816 points to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-defiler for 6,345 Fire damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Moria Orc-defiler for 15,260 Lightning damage to Morale.
+The Moria Orc-defiler scored a hit with Totem: Power Drain on Nlkosi for 40 Common damage to Power.
+Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Moria Orc-defiler for 2,315 Fire damage to Morale.
+The Moria Orc-defiler scored a hit with Totem: Power Drain on Nlkosi for 40 Common damage to Power.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-defiler for 2,669 Fire damage to Morale.
+The Moria Orc-defiler scored a hit with a minor thrown attack on Nlkosi for 2,134 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-defiler for 2,869 Fire damage to Morale.
+The Moria Orc-defiler scored a hit with Totem: Power Drain on Nlkosi for 40 Common damage to Power.
+Your mighty blow defeated the Moria Orc-defiler.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-defiler for 3,274 Fire damage to Morale.
+The Moria Orc-defiler scored a hit with Totem: Power Drain on Nlkosi for 40 Common damage to Power.
+Your mighty blow defeated the Defiler's Totem.
+Nlkosi scored a hit with Ceaseless Argument on the Defiler's Totem for 5,561 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 1,528 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,657 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 1,572 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-archer for 1,664 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Moria Orc-warrior scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 302 Common damage to Morale.
+The Moria Orc-archer scored a hit with a weak ranged attack on the Charged Fulgurite Rune-stone for 275 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 5,785 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Moria Orc-warrior scored a hit with a minor melee attack on the Volcanic Rune-stone for 377 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Nothing to dispel.
+Nlkosi scored a critical hit with Essence of Storm on the Moria Orc-warrior for 24,906 Lightning damage to Morale.
+Nlkosi scored a hit with Improved Final Word on the Moria Orc-warrior.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 1,664 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,679 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 1,589 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone defeated the Moria Orc-warrior.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-archer for 1,693 Lightning damage to Morale.
+The Moria Orc-defiler tried to use a weak melee attack on the Volcanic Rune-stone but it blocked the attempt.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+The Moria Orc-archer tried to use a moderate ranged attack on the Charged Fulgurite Rune-stone but it blocked the attempt.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 1,662 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,597 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-archer for 1,619 Lightning damage to Morale.
+Your mighty blow defeated the Moria Orc-defiler.
+The Moria Orc-warrior tried to use Savage Swing on the Volcanic Rune-stone but it blocked the attempt.
+Nlkosi scored a hit with Concession and Rebuttal: Epic Conclusion on the Moria Orc-defiler for 35,644 Lightning damage to Morale.
+The Moria Orc-warrior scored a partially parried hit with Savage Swing on the Charged Fulgurite Rune-stone for 1,068 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 5,785 Fire damage to Morale.
+The Moria Orc-archer scored a partially blocked hit with a minor ranged attack on the Charged Fulgurite Rune-stone for 222 Common damage to Morale.
+The Moria Orc-archer tried to use a weak ranged attack on the Charged Fulgurite Rune-stone but it blocked the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 1,578 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-archer for 1,616 Lightning damage to Morale.
+Your mighty blow defeated the Moria Orc-warrior.
+Nlkosi scored a critical hit with Chilling Rhetoric on the Moria Orc-warrior for 7,846 Frost damage to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 1,485 points to Morale.
+Nlkosi applied a critical benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 495 points to Morale.
+Nlkosi applied a critical benefit with Word of Exaltation on Nlkosi.
+Nlkosi scored a hit with Concession and Rebuttal: Sustaining Bolt on the Moria Orc-archer for 6,839 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 425 points to Morale.
+Powerful Sustenance applied a heal to Nlkosi restoring 10,732 points to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 376 points to Power.
+Prelude to Hope applied a heal to Nlkosi restoring 432 points to Morale.
+Nlkosi scored a hit with Essence of Storm on the Moria Orc-archer for 5,578 Lightning damage to Morale.
+The Moria Orc-archer scored a hit with a moderate ranged attack on Nlkosi for 1,688 Common damage to Morale.
+You have lost 1,688 points of temporary Morale!
+Prelude to Hope applied a heal to Nlkosi restoring 477 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 1,289 points to Morale.
+The Moria Orc-archer scored a hit with a weak ranged attack on Nlkosi for 1,253 Common damage to Morale.
+You have lost 1,253 points of temporary Morale!
+Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+Prelude to Hope applied a heal to Nlkosi restoring 489 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 351 points to Morale.
+The Moria Orc-archer scored a hit with a minor ranged attack on Nlkosi for 1,567 Common damage to Morale.
+You have lost 1,567 points of temporary Morale!
+Nlkosi scored a hit with Distracting Flame on the Moria Orc-archer.
+Prelude to Hope applied a critical heal to Nlkosi restoring 549 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-archer for 3,316 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Your mighty blow defeated the Moria Orc-archer.
+Nlkosi scored a critical hit with Concession and Rebuttal: Shocking Words on the Moria Orc-archer for 51,897 Lightning damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 444 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 359 points to Morale.
+Prelude to Hope applied a critical heal to Nlkosi restoring 629 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 394 points to Morale.
+You have lost 3,244 points of temporary Morale!
+Prelude to Hope applied a heal to Nlkosi restoring 432 points to Morale.
+Nlkosi scored a devastating hit with Fiery Ridicule on the Moria Orc-defiler for 8,291 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 441 points to Morale.
+Nlkosi scored a critical hit with Essence of Flame on the Moria Orc-defiler for 23,141 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-defiler for 2,967 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 382 points to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 408 points to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-defiler for 8,229 Fire damage to Morale.
+Prelude to Hope applied a heal to Nlkosi restoring 493 points to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-defiler for 7,299 Fire damage to Morale.
+Your mighty blow defeated the Moria Orc-defiler.
+Nlkosi scored a hit with Concession and Rebuttal: Sustaining Bolt on the Moria Orc-defiler for 9,190 Lightning damage to Morale.
+The Moria Orc-defiler scored a hit with Totem: Power Drain on Nlkosi for 40 Common damage to Power.
+Powerful Sustenance applied a heal to Nlkosi restoring 10,420 points to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 434 points to Power.
+The Moria Orc-defiler scored a hit with Totem: Power Drain on Nlkosi for 40 Common damage to Power.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,551 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 1,680 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 5,785 Fire damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Nlkosi scored a critical hit with Essence of Storm on the Moria Orc-defiler for 24,714 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-defiler for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 5,785 Fire damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Moria Orc-defiler for 6,514 Lightning damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Moria Orc-defiler but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-defiler for 1,664 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 1,672 Lightning damage to Morale.
+Your mighty blow defeated the Moria Orc-defiler.
+The Moria Orc-warrior scored a hit with a weak melee attack on the Volcanic Rune-stone for 302 Common damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Moria Orc-defiler for 7,729 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 5,785 Fire damage to Morale.
+Your mighty blow defeated the Moria Orc-warrior.
+Nlkosi scored a critical hit with Epic Conclusion on the Moria Orc-warrior for 92,692 Lightning damage to Morale.

@@ -1,0 +1,216 @@
+### Chat Log: Combat 06/07 01:51 PM ###
+Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 2,180 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Vicious Cold for 2,720 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 397 points to Power.
+Sustenance applied a heal to Nlkosi restoring 5,711 points to Morale.
+The Vicious Cold missed trying to use Form of the Beast on Nlkosi.
+The Vicious Cold scored a hit with Form of the Beast on Nlkosi for 2,796 Frost damage to Morale.
+Nlkosi scored a devastating hit with Chilling Rhetoric on the Vicious Cold for 10,472 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Vicious Cold for 1,611 Fire damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Vicious Cold for 5,998 Lightning damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Vicious Cold for 6,415 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 3,978 Fire damage to Morale.
+The Vicious Cold scored a hit with Frost Vortex on Nlkosi for 1,118 Frost damage to Morale.
+The Vicious Cold scored a hit with Frost Vortex on Nlkosi for 1,118 Frost damage to Morale.
+The Vicious Cold scored a hit with Frost Vortex on Nlkosi for 1,118 Frost damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Vicious Cold for 6,392 Lightning damage to Morale.
+Your mighty blow defeated the Vicious Cold.
+Nlkosi scored a critical hit with Essence of Flame on the Vicious Cold for 26,836 Fire damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Invasive Snow-beast for 21,082 Lightning damage to Morale.
+The Invasive Snow-beast scored a hit with a moderate thrown attack on Nlkosi for 1,490 Common damage to Morale.
+Your mighty blow defeated the Invasive Snow-beast.
+Nlkosi scored a hit with Essence of Storm on the Invasive Snow-beast for 6,279 Lightning damage to Morale.
+The Invasive Snow-beast scored a hit with a minor thrown attack on Nlkosi for 1,354 Common damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Invasive Snow-beast for 8,069 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Your mighty blow defeated the Invasive Snow-beast.
+Nlkosi scored a critical hit with Writ of Lightning on the Invasive Snow-beast for 18,114 Lightning damage to Morale.
+Nlkosi scored a critical hit with Sustaining Bolt on the Invasive Snow-beast for 9,082 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 432 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 7,337 points to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Invasive Snow-beast for 6,245 Lightning damage to Morale.
+The Invasive Snow-beast scored a critical hit with a weak melee attack on Nlkosi for 1,597 Common damage to Morale.
+Your mighty blow defeated the Invasive Snow-beast.
+Nlkosi scored a critical hit with Essence of Storm on the Invasive Snow-beast for 25,353 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Nlkosi scored a critical hit with Scribe's Spark on the Invasive Snow-beast for 18,736 Lightning damage to Morale.
+Your mighty blow defeated the Invasive Snow-beast.
+Nlkosi scored a critical hit with Epic Conclusion on the Invasive Snow-beast for 85,389 Lightning damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Invasive Snow-beast tried to use Induce Knockeddown on the Volcanic Rune-stone but it was immune to the attempt.
+Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 5,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 5,956 Fire damage to Morale.
+The Invasive Snow-beast scored a hit with a weak melee attack on the Volcanic Rune-stone for 243 Common damage to Morale.
+The Invasive Snow-beast scored a hit with Melee Knockdown on the Volcanic Rune-stone.
+Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 5,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 5,956 Fire damage to Morale.
+The Invasive Snow-beast scored a partially blocked hit with a melee double attack on the Volcanic Rune-stone for 157 Common damage to Morale.
+The Invasive Snow-beast scored a hit with a melee double attack on the Volcanic Rune-stone for 243 Common damage to Morale.
+The Invasive Snow-beast scored a hit with a melee double attack on the Volcanic Rune-stone for 243 Common damage to Morale.
+The Invasive Snow-beast scored a hit with a melee double attack on the Volcanic Rune-stone for 243 Common damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Invasive Snow-beast for 1,664 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Invasive Snow-beast for 1,653 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 5,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 5,956 Fire damage to Morale.
+The Invasive Snow-beast scored a partially blocked hit with a weak melee attack on the Volcanic Rune-stone for 157 Common damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Invasive Snow-beast for 7,003 Lightning damage to Morale.
+The Invasive Snow-beast scored a critical hit with a moderate melee attack on the Volcanic Rune-stone for 435 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 5,956 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 5,956 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Invasive Snow-beast.
+Nlkosi scored a hit with Fulgurite Strike on the Invasive Snow-beast for 1,693 Lightning damage to Morale.
+Your mighty blow defeated the Invasive Snow-beast.
+Nlkosi scored a hit with Static Surge on the Invasive Snow-beast for 12,959 Lightning damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Vicious Cold for 6,060 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Nlkosi scored a critical hit with Sustaining Bolt on the Vicious Cold for 8,565 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 423 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 7,367 points to Morale.
+The Vicious Cold scored a hit with Frost Swipe High on Nlkosi for 3,347 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 3,372 Fire damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Vicious Cold for 6,717 Lightning damage to Morale.
+The Vicious Cold scored a hit with Melee Frost Max on Nlkosi for 4,686 Frost damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Vicious Cold for 8,394 Lightning damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on the Vicious Cold for 3,842 Fire damage to Morale.
+The Vicious Cold scored a hit with Form of the Beast on Nlkosi for 2,796 Frost damage to Morale.
+The Vicious Cold scored a hit with Form of the Beast on Nlkosi for 2,796 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Vicious Cold for 2,132 Fire damage to Morale.
+Your mighty blow defeated the Vicious Cold.
+Nlkosi scored a critical hit with Scribe's Spark on the Vicious Cold for 20,663 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Invasive Snow-beast for 3,411 Fire damage to Morale.
+The Invasive Snow-beast scored a hit with Thrown Stun on Nlkosi.
+Nlkosi scored a hit with Writ of Lightning on the Invasive Snow-beast for 7,706 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Invasive Snow-beast for 2,210 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Invasive Snow-beast for 3,821 Lightning damage to Morale.
+The Invasive Snow-beast scored a hit with a weak thrown attack on Nlkosi for 1,117 Common damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 532 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 8,383 points to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Your mighty blow defeated the Invasive Snow-beast.
+Nlkosi scored a critical hit with Epic Conclusion on the Invasive Snow-beast for 93,815 Lightning damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Vicious Cold for 6,586 Lightning damage to Morale.
+The Vicious Cold scored a hit with Frost Vortex on Nlkosi for 1,118 Frost damage to Morale.
+The Vicious Cold scored a hit with Frost Vortex on Nlkosi for 1,118 Frost damage to Morale.
+The Vicious Cold scored a hit with Frost Vortex on Nlkosi for 1,118 Frost damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Vicious Cold for 7,105 Fire damage to Morale.
+The Vicious Cold scored a hit with Snow Geyser on Nlkosi for 1,678 Frost damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Vicious Cold for 11,143 Fire damage to Morale.
+Nlkosi scored a devastating hit with Fiery Ridicule on the Vicious Cold for 10,863 Fire damage to Morale.
+The Vicious Cold scored a hit with Freezing on Nlkosi for 1,118 Frost damage to Morale.
+Your mighty blow defeated the Vicious Cold.
+Nlkosi scored a critical hit with Writ of Lightning on the Vicious Cold for 18,356 Lightning damage to Morale.
+Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+The Vicious Cold scored a hit with Freezing on Nlkosi for 1,039 Frost damage to Morale.
+You have lost 1,039 points of temporary Morale!
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Your mighty blow defeated the Invasive Snow-beast.
+Nlkosi scored a critical hit with Shocking Words on the Invasive Snow-beast for 37,707 Lightning damage to Morale.
+The Vicious Cold scored a hit with Freezing on Nlkosi for 1,039 Frost damage to Morale.
+You have lost 1,039 points of temporary Morale!
+Nlkosi scored a critical hit with Fiery Ridicule on the Invasive Snow-beast for 6,339 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Invasive Snow-beast for 2,891 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Invasive Snow-beast for 3,062 Lightning damage to Morale.
+The Vicious Cold scored a hit with Freezing on Nlkosi for 1,039 Frost damage to Morale.
+You have lost 1,039 points of temporary Morale!
+The Invasive Snow-beast scored a partially evaded hit with a minor thrown attack on Nlkosi for 1,267 Common damage to Morale.
+You have lost 1,267 points of temporary Morale!
+Sustaining Bolt applied a heal to Nlkosi restoring 378 points to Power.
+Sustenance applied a heal to Nlkosi restoring 5,704 points to Morale.
+The Invasive Snow-beast scored a hit with a melee double attack on Nlkosi for 1,117 Common damage to Morale.
+You have lost 1,117 points of temporary Morale!
+Nlkosi scored a hit with Essence of Storm on the Invasive Snow-beast for 5,799 Lightning damage to Morale.
+The Invasive Snow-beast scored a hit with a weak thrown attack on Nlkosi for 1,117 Common damage to Morale.
+The Invasive Snow-beast scored a hit with a melee double attack on Nlkosi for 1,117 Common damage to Morale.
+You have lost 1,117 points of temporary Morale!
+Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Invasive Snow-beast for 1,935 Fire damage to Morale.
+You have lost 1,117 points of temporary Morale!
+Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 6,807 Fire damage to Morale.
+The Invasive Snow-beast scored a hit with a moderate melee attack on Nlkosi for 1,490 Common damage to Morale.
+You have lost 1,490 points of temporary Morale!
+The Vicious Cold tried to use Freezing on Nlkosi but he resisted the attempt.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a hit with Fulgurite Strike on the Invasive Snow-beast for 1,634 Lightning damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on the Invasive Snow-beast for 1,750 Lightning damage to Morale.
+The Invasive Snow-beast scored a hit with a minor thrown attack on Nlkosi for 1,354 Common damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Invasive Snow-beast scored a partially evaded hit with a moderate swipe attack on Nlkosi for 1,351 Common damage to Morale.
+You have lost 1,351 points of temporary Morale!
+Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 6,807 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Invasive Snow-beast for 1,916 Fire damage to Morale.
+Your mighty blow defeated the Invasive Snow-beast.
+Nlkosi scored a critical hit with Ceaseless Argument on the Invasive Snow-beast for 16,665 Lightning damage to Morale.
+Your mighty blow defeated the Invasive Snow-beast.
+The Vicious Cold scored a hit with Freezing on Nlkosi for 975 Frost damage to Morale.
+Nlkosi scored a hit with Static Surge on the Invasive Snow-beast for 13,927 Lightning damage to Morale.
+You have lost 239 points of temporary Morale!
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Your mighty blow defeated the Invasive Snow-beast.
+Nlkosi scored a critical hit with Epic Conclusion on the Invasive Snow-beast for 103,927 Lightning damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Vicious Cold for 6,211 Lightning damage to Morale.
+Nlkosi scored a critical hit with Writ of Lightning on the Vicious Cold for 15,305 Lightning damage to Morale.
+The Vicious Cold scored a hit with Form of the Beast on Nlkosi for 2,436 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 2,772 Fire damage to Morale.
+The Vicious Cold scored a hit with Form of the Beast on Nlkosi for 2,436 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 3,493 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Vicious Cold for 11,898 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Vicious Cold for 4,872 Lightning damage to Morale.
+The Vicious Cold scored a hit with Frost Wave on Nlkosi for 2,481 Frost damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 448 points to Power.
+Sustenance applied a heal to Nlkosi restoring 4,767 points to Morale.
+Your mighty blow defeated the Vicious Cold.
+Nlkosi scored a critical hit with Fiery Ridicule on the Vicious Cold for 8,049 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 3,917 Fire damage to Morale.
+The Vicious Cold scored a hit with Frost Vortex on Nlkosi for 1,241 Frost damage to Morale.
+The Vicious Cold scored a hit with Frost Vortex on Nlkosi for 1,241 Frost damage to Morale.
+The Vicious Cold scored a hit with Frost Vortex on Nlkosi for 1,241 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 4,001 Fire damage to Morale.
+Nothing to dispel.
+The Vicious Cold scored a hit with Snow Geyser on Nlkosi for 1,861 Frost damage to Morale.
+Nlkosi scored a critical hit with Improved Final Word on the Vicious Cold.
+Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Vicious Cold for 2,843 Fire damage to Morale.
+The Vicious Cold scored a hit with Freezing on Nlkosi for 1,241 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 3,381 Fire damage to Morale.
+The Vicious Cold scored a hit with Freezing on Nlkosi for 1,241 Frost damage to Morale.
+The Vicious Cold scored a hit with Form of the Beast on Nlkosi for 3,101 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 4,135 Fire damage to Morale.
+The Vicious Cold scored a hit with Form of the Beast on Nlkosi for 3,101 Frost damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Vicious Cold for 8,828 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+The Vicious Cold scored a hit with Freezing on Nlkosi for 1,241 Frost damage to Morale.
+Nlkosi scored a critical hit with Writ of Lightning on the Vicious Cold for 17,624 Lightning damage to Morale.
+Your mighty blow defeated the Vicious Cold.
+Nlkosi scored a critical hit with Fiery Ridicule on the Vicious Cold for 8,962 Fire damage to Morale.
+The Vicious Cold scored a hit with Freezing on Nlkosi for 1,241 Frost damage to Morale.
+The Vicious Cold scored a hit with Freezing on Nlkosi for 1,241 Frost damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+The Vicious Cold tried to use Freezing on Nlkosi but he resisted the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Meddlesome Stone-giant for 1,696 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+The Meddlesome Stone-giant tried to use Induce Stunned on the Volcanic Rune-stone but it was immune to the attempt.
+Nlkosi scored a hit with Volcanic Rune-stone on the Meddlesome Stone-giant for 6,416 Fire damage to Morale.
+The Meddlesome Stone-giant scored a hit with Earth-shaking Step on the Volcanic Rune-stone.
+Nlkosi scored a hit with Volcanic Rune-stone on the Meddlesome Stone-giant for 6,416 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 83 points to Power.
+Nlkosi scored a hit with Fulgurite Strike on the Meddlesome Stone-giant for 1,588 Lightning damage to Morale.
+Nlkosi scored a devastating hit with Shocking Words on the Meddlesome Stone-giant for 61,539 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Meddlesome Stone-giant for 6,416 Fire damage to Morale.
+Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+Nothing to dispel.
+Nlkosi scored a hit with Improved Final Word on the Meddlesome Stone-giant.
+Nlkosi scored a hit with Fulgurite Strike on the Meddlesome Stone-giant for 1,528 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Meddlesome Stone-giant for 6,416 Fire damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Meddlesome Stone-giant for 7,728 Lightning damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Meddlesome Stone-giant for 6,357 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Meddlesome Stone-giant for 6,416 Fire damage to Morale.
+The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Meddlesome Stone-giant but he was immune to the attempt.
+Nlkosi scored a hit with Fulgurite Strike on the Meddlesome Stone-giant for 1,688 Lightning damage to Morale.
+Nlkosi scored a critical hit with Concession and Rebuttal: Epic Conclusion on the Meddlesome Stone-giant for 77,460 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Meddlesome Stone-giant for 2,041 Fire damage to Morale.
+Nlkosi scored a hit with Epic Conclusion - Wounding Memory on the Meddlesome Stone-giant for 5,703 Lightning damage to Morale.
+Nlkosi scored a hit with Concession and Rebuttal: Sustaining Bolt on the Meddlesome Stone-giant for 6,278 Lightning damage to Morale.
+Powerful Sustenance applied a critical heal to Nlkosi restoring 13,843 points to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 393 points to Power.
+The Meddlesome Stone-giant scored a hit with Crush on Nlkosi for 2,944 Common damage to Morale.
+Nlkosi scored a critical hit with Epic Conclusion - Wounding Memory on the Meddlesome Stone-giant for 11,572 Lightning damage to Morale.
+Nlkosi applied a benefit with Break The Bonds on Nlkosi.
