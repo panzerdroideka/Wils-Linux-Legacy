@@ -1,0 +1,25 @@
+wils@WARLORD:~$ cd GitHub
+wils@WARLORD:~/GitHub$ ls
+GitHubMappeStruktur.txt  panzerdroideka
+wils@WARLORD:~/GitHub$ cd panzerdroideka
+wils@WARLORD:~/GitHub/panzerdroideka$ ls
+Warlord-Logs-Private  Warlord-Logs-Public  Wils-Linux-Legacy
+wils@WARLORD:~/GitHub/panzerdroideka$ cd Wils-Linux-Legacy
+wils@WARLORD:~/GitHub/panzerdroideka/Wils-Linux-Legacy$ ls
+CONTRIBUTING.md  LICENSE  Linux-Freedom-for-the  README.md  configs  docs  scripts  secrets  venv
+wils@WARLORD:~/GitHub/panzerdroideka/Wils-Linux-Legacy$ cd LinuxFreedom-for-the
+
+wils@WARLORD:~/GitHub/panzerdroideka/Wils-Linux-Legacy$ ls
+CONTRIBUTING.md  LICENSE  Linux-Freedom-for-the  README.md  configs  docs  scripts  secrets  venv
+wils@WARLORD:~/GitHub/panzerdroideka/Wils-Linux-Legacy$ cd Linux-Freedom-for-the
+wils@WARLORD:~/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the$ ls
+Armv7-klimt-Tab-S  Frankenstein-model2013  Warlord-model2026  erfaringslogg_kernel_rollback.md
+wils@WARLORD:~/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the$ ls -las
+total 4
+0 drwxrwxr-x 1 wils wils  176 May 26 11:01 .
+0 drwxrwxr-x 1 wils wils  190 May 31 15:20 ..
+0 drwxrwxr-x 1 wils wils  238 May 18 12:27 Armv7-klimt-Tab-S
+0 drwxrwxr-x 1 wils wils 1002 May 15 18:02 Frankenstein-model2013
+0 drwxrwxr-x 1 wils wils  664 May 21 23:14 Warlord-model2026
+4 -rw-rw-r-- 1 wils wils 3451 May 26 10:44 erfaringslogg_kernel_rollback.md
+wils@WARLORD:~/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the$
