@@ -1,3 +1,21 @@
+## 🎖️ WARLORD PERFORMANCE CERTIFICATE
+
+<img src="Wils-LotRO-Parametres-Displayed.png" alt="Warlord Performance Banner" width="800">
+
+### Extreme Linux Gaming & Tactical Fluidity
+
+*   **Rig Name:** AceMagician W1 "WARLORD" (2026 Model)
+*   **OS / Environment:** Kubuntu Linux (Wayland / Naked-Wine / MangoHud)
+*   **Engine Core:** TkG-Kernel `6.18.34-tkg--wils-v2.0` (Performance Governor)
+
+#### 🔥 The Runic Skill-Queue Engine
+By binding zero-cooldown, instant-cast abilities to primary keys (`e, r, t`), 
+and syncing with movement (`w, y`), internal global queue delays are completely eliminated. 
+Backed by the aggressive CPU-scheduling of the custom TkG-Kernel, 
+inputs are captured at a microsecond level—delivering up 
+to **40 full frames per second directly inside intense combat spikes**.
+
+
 ⚔️ Wil's Way of Amazing LotRO Life ⚔️ 
 
 "If it isn't documented, it didn't happen." – The Warlord
