@@ -1,5 +1,5 @@
 #!/bin/bash
-# Wils-Linux-Legacy 2.0.0 - Kamp Telemetri (Mappe-overvåker)
+# Wils-Linux-Legacy 2.0.1 - Kamp Telemetri (Mappe-overvåker)
 
 TELEMETRI_LOGG="/home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/logs/kamp_historikk.log"
 SPILL_MAPPE="/home/wils/Games/WARLORDLOTRO/Spillfiler"
@@ -11,7 +11,7 @@ LEVEL=$(echo "$LEVEL" | tr -d "[:space:]")
 
 # --- HØYGLANSPOLERT RAPPORT-GENERATOR VED AVSLUTNING (Ctrl+C) ---
 generer_rapport() {
-    echo -e "\n============================================================"
+echo -e "\n==================================="
     echo "=== Generating Battle-report... ==="
     echo "⚔ WARLORD STRIDS-TELEMETRI ⚔"
     echo ""
@@ -22,34 +22,60 @@ generer_rapport() {
     echo "• Mål: the White Hand Black-arrow"
     echo ""
 
-    # Her henter vi ut data fra loggen som ble skrevet under denne økten
+    # ⚡ LIGHTNING-ANGREP (Trimmet og polert)
     echo "⚡ TOPP KRAFT-ANGREP (LIGHTNING):"
     grep "[$KARAKTER Lvl:$LEVEL]" "$TELEMETRI_LOGG" | grep -i "Epic Conclusion\|Shocking Words" | head -n 6 | sed 's/^.*\] //' | while read -r l; do
-        echo "• $l"
+        # Fjerner "Karakternavn scored a/an" og rydder opp i setningsoppbygningen
+        RENS_LINJE=$(echo "$l" | sed -E "s/^$KARAKTER scored (an? )?//; s/ for //; s/ to Morale\.$//")
+        echo "• $RENS_LINJE"
     done
 
+    # 🔥 FIRE-ANGREP (Trimmet og polert)
     echo ""
     echo "🔥 TOPP KRAFT-ANGREP (FIRE):"
     grep "[$KARAKTER Lvl:$LEVEL]" "$TELEMETRI_LOGG" | grep -i "Essence of Flame" | head -n 6 | sed 's/^.*\] //' | while read -r l; do
-        echo "• $l"
+        RENS_LINJE=$(echo "$l" | sed -E "s/^$KARAKTER scored (an? )?//; s/ for //; s/ to Morale\.$//")
+        echo "• $RENS_LINJE"
     done
 
+    # 💚 OVERLEVELSE & HELBREDELSE (Stabilisert og oppsummert)
     echo ""
-    echo "💚 OVERLEVELSE & HELBREDELSE (TOPPNOTERINGER):"
-    grep "[$KARAKTER Lvl:$LEVEL]" "$TELEMETRI_LOGG" | grep -i "applied a heal" | sed 's/^.*\] //' | while read -r l; do
-        # Formaterer rålogg til din standard: "Morale/Power gjenopprettet - Ferdighet (Heal på Karakter)"
-        POENG=$(echo "$l" | grep -oE '[0-9,]+ points' | awk '{print $1}')
-        TYPE=$(echo "$l" | grep -oE 'Morale|Power')
-        FERDIGHET=$(echo "$l" | sed -E "s/^.*Lvl:lvl[0-9]+ //; s/ applied a heal.*//")
-        if [[ -n "$POENG" ]]; then
-            echo "• $POENG $TYPE gjenopprettet - $FERDIGHET (Heal på $KARAKTER)"
-        fi
-    done
+    echo "💚 OVERLEVELSE & HELBREDELSE (OPPSUMMERT & TOPPNOTERINGER):"
+
+    TMP_HEALS=$(mktemp)
+    grep "[$KARAKTER Lvl:$LEVEL]" "$TELEMETRI_LOGG" | grep -i "applied a heal" | sed 's/^.*\] //' > "$TMP_HEALS"
+
+    if [ -s "$TMP_HEALS" ]; then
+        sed -E "s/^.*Lvl:lvl[0-9]+ //; s/ applied a heal.*//" "$TMP_HEALS" | grep -v -E "^$KARAKTER$" | sort -u | while read -r ferdighet; do
+            [ -z "$ferdighet" ] && continue
+
+            FERDIGHET_DATA=$(grep "$ferdighet" "$TMP_HEALS")
+            TYPE=$(echo "$FERDIGHET_DATA" | grep -oE 'Morale|Power' | head -n 1)
+
+            TOTAL=0
+            MAX=0
+            while read -r poeng; do
+                RENS_POENG=$(echo "$poeng" | tr -d ',')
+                TOTAL=$((TOTAL + RENS_POENG))
+                if [ "$RENS_POENG" -gt "$MAX" ]; then
+                    MAX=$RENS_POENG
+                fi
+            done < <(echo "$FERDIGHET_DATA" | grep -oE '[0-9,]+ points' | awk '{print $1}')
+
+            TOTAL_FORMATED=$(echo "$TOTAL" | sed ':a;s/\([0-9]\)\([0-9]\{3\}\)\($\|,\)/\1,\2\3/;ta')
+            MAX_FORMATED=$(echo "$MAX" | sed ':a;s/\([0-9]\)\([0-9]\{3\}\)\($\|,\)/\1,\2\3/;ta')
+
+            echo "• $ferdighet: Totalt $TOTAL_FORMATED $TYPE gjenopprettet (Max enkelt-treff: $MAX_FORMATED)"
+        done
+    else
+        echo "• Ingen helbredelsesdata registrert i denne økten."
+    fi
+    rm -f "$TMP_HEALS"
 
     echo ""
-    echo "============================================================"
+    echo "==============================================================="
     echo "🏷 SØKEORD & EMNEKNAGGER (TAGS)"
-    echo "============================================================"
+    echo "==============================================================="
     echo "#Shorts #TechShorts #LinuxMyth #TechFreedom #LinuxForBeginners"
     echo "#HardwareOptimization #TerminalTips #AICoPilot #BareheadedTech"
     echo "#Wils-Linux-Legacy #AntiEWaste #Kubuntu #OpenSource #GitHub"
