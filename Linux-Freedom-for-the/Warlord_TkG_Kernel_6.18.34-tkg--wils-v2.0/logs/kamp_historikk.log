@@ -951,3 +951,527 @@ Operatør: Nlkosi (Level lvl136) | Fokus: Positional Damage
 [2026-06-12 02:00:23.930328914] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Essence of Storm on the Vile Crypt-horror of Gadim for 41,144 Lightning damage to Morale.
 [2026-06-12 02:00:23.932971656] [Nlkosi Lvl:lvl138] The Vile Crypt-horror of Gadim scored a hit with Virulent Cloud on Nlkosi for 41 Common damage to Power.
 [2026-06-12 02:00:23.938110863] [Nlkosi Lvl:lvl138] The Vile Crypt-horror of Gadim scored a hit with Virulent Cloud on Nlkosi for 23 Common damage to Power.
+[2026-06-12 12:02:10.583873293] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Enduring Crypt-sentinel of Gadim for 3,162 Fire damage to Morale.
+[2026-06-12 12:02:10.589765747] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Essence of Flame on the Enduring Crypt-sentinel of Gadim for 22,651 Fire damage to Morale.
+[2026-06-12 12:02:10.592340417] [Nlkosi Lvl:lvl138] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[2026-06-12 12:02:10.594802721] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Crypt-guardian of Gadim for 3,133 Fire damage to Morale.
+[2026-06-12 12:02:10.597360130] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Crypt-guardian of Gadim for 13,341 Fire damage to Morale.
+[2026-06-12 12:02:10.602608843] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Sustaining Bolt on the Crypt-guardian of Gadim for 8,509 Lightning damage to Morale.
+[2026-06-12 12:02:10.605149090] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a heal to Nlkosi restoring 570 points to Power.
+[2026-06-12 12:02:10.607712730] [Nlkosi Lvl:lvl138] Sustenance applied a critical heal to Nlkosi restoring 8,203 points to Morale.
+[2026-06-12 12:02:10.610174503] [Nlkosi Lvl:lvl138] The Crypt-guardian of Gadim scored a hit with Shadow Aura on Nlkosi for 196 Shadow damage to Morale.
+[2026-06-12 12:02:10.612637489] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Crypt-guardian of Gadim for 2,805 Fire damage to Morale.
+[2026-06-12 12:02:10.615295843] [Nlkosi Lvl:lvl138] The Crypt-guardian of Gadim scored a hit with Shadow Aura on Nlkosi for 27 Shadow damage to Morale.
+[2026-06-12 12:02:10.621446910] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Vile Crypt-horror of Gadim for 2,132 Lightning damage to Morale.
+[2026-06-12 12:02:10.626055930] [Nlkosi Lvl:lvl138] The Crypt-guardian of Gadim scored a hit with Shadow Aura on Nlkosi for 233 Shadow damage to Morale.
+[2026-06-12 12:02:10.630092942] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a heal to Nlkosi restoring 557 points to Power.
+[2026-06-12 12:02:10.633338041] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 7,392 points to Morale.
+[2026-06-12 12:02:10.639000372] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Crypt-guardian of Gadim for 3,277 Fire damage to Morale.
+[2026-06-12 12:02:10.641677420] [Nlkosi Lvl:lvl138] The Vile Crypt-horror of Gadim scored a hit with a moderate melee attack on Nlkosi for 1,201 Common damage to Morale.
+[2026-06-12 12:02:10.644666370] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Writ of Lightning on the Crypt-guardian of Gadim for 5,038 Lightning damage to Morale.
+[2026-06-12 12:02:10.647715220] [Nlkosi Lvl:lvl138] The Enduring Crypt-sentinel of Gadim scored a hit with a ranged double attack on Nlkosi for 1,572 Common damage to Morale.
+[2026-06-12 12:02:10.651419421] [Nlkosi Lvl:lvl138] Nlkosi scored a devastating hit with Fiery Ridicule on the Crypt-guardian of Gadim for 10,384 Fire damage to Morale.
+[2026-06-12 12:02:10.657109383] [Nlkosi Lvl:lvl138] The Crypt-guardian of Gadim scored a hit with a minor melee attack on Nlkosi for 1,528 Common damage to Morale.
+[2026-06-12 12:02:10.659682991] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Volcanic Rune-stone on the Crypt-guardian of Gadim for 7,431 Fire damage to Morale.
+[2026-06-12 12:02:10.662418807] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Volcanic Rune-stone on the Vile Crypt-horror of Gadim for 7,320 Fire damage to Morale.
+[2026-06-12 12:02:10.665084595] [Nlkosi Lvl:lvl138] The Vile Crypt-horror of Gadim scored a hit with a minor melee attack on Nlkosi for 1,103 Common damage to Morale.
+[2026-06-12 12:02:10.670502898] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Enduring Crypt-sentinel of Gadim for 1,917 Lightning damage to Morale.
+[2026-06-12 12:02:10.673160821] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Vile Crypt-horror of Gadim for 1,942 Lightning damage to Morale.
+[2026-06-12 12:02:10.675889414] [Nlkosi Lvl:lvl138] The Vile Crypt-horror of Gadim scored a hit with Shadow Aura on Nlkosi for 1,080 Shadow damage to Morale.
+[2026-06-12 12:02:10.684108473] [Nlkosi Lvl:lvl138] The Enduring Crypt-sentinel of Gadim scored a partially evaded hit with a weak ranged attack on Nlkosi for 968 Common damage to Morale.
+[2026-06-12 12:02:10.687807104] [Nlkosi Lvl:lvl138] The Vile Crypt-horror of Gadim scored a hit with Shadow Aura on Nlkosi for 157 Shadow damage to Morale.
+[2026-06-12 12:02:10.695359119] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Vivid Imagery on the Vile Crypt-horror of Gadim for 7,783 Lightning damage to Morale.
+[2026-06-12 12:02:10.698467398] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 1,431 points to Morale.
+[2026-06-12 12:02:10.706921297] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 547 points to Morale.
+[2026-06-12 12:02:10.709480840] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Enduring Crypt-sentinel of Gadim for 1,941 Lightning damage to Morale.
+[2026-06-12 12:02:10.715823408] [Nlkosi Lvl:lvl138] Prelude to Hope applied a critical heal to Nlkosi restoring 895 points to Morale.
+[2026-06-12 12:02:10.719376242] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 507 points to Morale.
+[2026-06-12 12:02:10.722125943] [Nlkosi Lvl:lvl138] The Enduring Crypt-sentinel of Gadim scored a hit with Shadow Aura on Nlkosi for 40 Shadow damage to Morale.
+[2026-06-12 12:02:10.724663886] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Storm on the Enduring Crypt-sentinel of Gadim for 7,994 Lightning damage to Morale.
+[2026-06-12 12:02:10.727205716] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Enduring Crypt-sentinel of Gadim for 1,912 Lightning damage to Morale.
+[2026-06-12 12:02:10.730052095] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 688 points to Morale.
+[2026-06-12 12:02:10.735302060] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Epic Conclusion on the Enduring Crypt-sentinel of Gadim for 115,801 Lightning damage to Morale.
+[2026-06-12 12:02:10.737918266] [Nlkosi Lvl:lvl138] The Disease Cloud tried to use Diseased Feebleness on Nlkosi but he resisted the attempt.
+[2026-06-12 12:02:10.743143546] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 532 points to Morale.
+[2026-06-12 12:02:10.746102802] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 491 points to Morale.
+[2026-06-12 12:02:10.748803513] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 581 points to Morale.
+[2026-06-12 12:02:10.756602622] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 513 points to Morale.
+[2026-06-12 12:02:10.760054671] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 538 points to Morale.
+[2026-06-12 12:02:10.763081971] [Nlkosi Lvl:lvl138] The Vile Crypt-horror of Gadim scored a hit with Virulent Cloud on Nlkosi for 47 Common damage to Power.
+[2026-06-12 12:02:10.765942486] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 619 points to Morale.
+[2026-06-12 12:02:10.768677299] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 670 points to Morale.
+[2026-06-12 12:02:10.771361190] [Nlkosi Lvl:lvl138] Prelude to Hope applied a critical heal to Nlkosi restoring 749 points to Morale.
+[2026-06-12 12:02:10.773978488] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Enduring Crypt-sentinel of Gadim for 2,773 Fire damage to Morale.
+[2026-06-12 12:02:10.779756722] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Enduring Crypt-sentinel of Gadim for 13,802 Fire damage to Morale.
+[2026-06-12 12:02:10.783034682] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Enduring Crypt-sentinel of Gadim for 2,961 Fire damage to Morale.
+[2026-06-12 12:02:10.786069276] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Enduring Crypt-sentinel of Gadim for 2,926 Lightning damage to Morale.
+[2026-06-12 12:02:10.788678720] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a critical heal to Nlkosi restoring 703 points to Power.
+[2026-06-12 12:02:10.791358122] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 6,868 points to Morale.
+[2026-06-12 12:02:10.793768371] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Volcanic Rune-stone on the Crypt-guardian of Gadim for 6,924 Fire damage to Morale.
+[2026-06-12 12:02:10.796348932] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Volcanic Rune-stone on the Vile Crypt-horror of Gadim for 6,924 Fire damage to Morale.
+[2026-06-12 12:02:10.801908865] [Nlkosi Lvl:lvl138] The Vile Crypt-horror of Gadim scored a hit with a minor melee attack on Nlkosi for 1,092 Common damage to Morale.
+[2026-06-12 12:02:10.804317141] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Crypt-guardian of Gadim for 1,921 Lightning damage to Morale.
+[2026-06-12 12:02:10.806599084] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Vile Crypt-horror of Gadim for 1,994 Lightning damage to Morale.
+[2026-06-12 12:02:10.822775822] [Nlkosi Lvl:lvl138] The Vile Crypt-horror of Gadim scored a hit with Shadow Aura on Nlkosi for 802 Shadow damage to Morale.
+[2026-06-12 12:02:10.828876687] [Nlkosi Lvl:lvl138] The Vile Crypt-horror of Gadim scored a hit with Virulent Cloud on Nlkosi for 2 Common damage to Power.
+[2026-06-12 12:02:10.831721674] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Epic Conclusion on the Vile Crypt-horror of Gadim for 75,467 Lightning damage to Morale.
+[2026-06-12 12:02:10.840266900] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Crypt-guardian of Gadim for 1,993 Lightning damage to Morale.
+[2026-06-12 12:02:10.843505308] [Nlkosi Lvl:lvl138] The Crypt-guardian of Gadim scored a critical hit with a weak melee attack on the Volcanic Rune-stone for 371 Common damage to Morale.
+[2026-06-12 12:02:10.846979176] [Nlkosi Lvl:lvl138] The Crypt-guardian of Gadim scored a hit with Shadow Aura on Nlkosi for 50 Shadow damage to Morale.
+[2026-06-12 12:02:10.849585905] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Ceaseless Argument on the Crypt-guardian of Gadim for 7,351 Lightning damage to Morale.
+[2026-06-12 12:02:10.854946163] [Nlkosi Lvl:lvl138] The Vile Crypt-horror of Gadim scored a hit with Virulent Cloud on Nlkosi for 10 Common damage to Power.
+[2026-06-12 12:02:10.857558162] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Essence of Storm on the Enduring Crypt-sentinel of Gadim for 31,568 Lightning damage to Morale.
+[2026-06-12 12:02:10.860150414] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Vile Crypt-horror of Gadim for 11,733 Fire damage to Morale.
+[2026-06-12 12:02:10.862775226] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Vile Crypt-horror of Gadim for 3,100 Lightning damage to Morale.
+[2026-06-12 12:02:10.865309493] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a heal to Nlkosi restoring 549 points to Power.
+[2026-06-12 12:02:10.868278887] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 5,856 points to Morale.
+[2026-06-12 12:02:10.870708982] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Vile Crypt-horror of Gadim for 3,780 Fire damage to Morale.
+[2026-06-12 12:02:10.876528602] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Scribe's Spark on the Vile Crypt-horror of Gadim for 7,003 Lightning damage to Morale.
+[2026-06-12 12:02:10.880825069] [Nlkosi Lvl:lvl138] The Vile Crypt-horror of Gadim scored a hit with Shadow Aura on Nlkosi for 546 Shadow damage to Morale.
+[2026-06-12 12:02:10.888107270] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Shocking Words on the Vile Crypt-horror of Gadim for 19,754 Lightning damage to Morale.
+[2026-06-12 12:02:10.896974597] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Ceaseless Argument on the Enduring Crypt-sentinel of Gadim for 17,813 Lightning damage to Morale.
+[2026-06-12 12:02:10.899911872] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Enduring Crypt-sentinel of Gadim for 2,998 Fire damage to Morale.
+[2026-06-12 12:02:10.902775111] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Enduring Crypt-sentinel of Gadim for 4,293 Lightning damage to Morale.
+[2026-06-12 12:02:10.909098364] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 5,903 points to Morale.
+[2026-06-12 12:02:10.911701657] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Writ of Lightning on the Crypt-guardian of Gadim for 5,961 Lightning damage to Morale.
+[2026-06-12 12:02:10.914367715] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Crypt-guardian of Gadim for 3,432 Fire damage to Morale.
+[2026-06-12 12:02:10.917088082] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Crypt-guardian of Gadim for 14,094 Fire damage to Morale.
+[2026-06-12 12:02:10.919818789] [Nlkosi Lvl:lvl138] The Crypt-guardian of Gadim scored a hit with Shadow Aura on Nlkosi for 248 Shadow damage to Morale.
+[2026-06-12 12:02:10.922478636] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Crypt-guardian of Gadim for 8,051 Fire damage to Morale.
+[2026-06-12 12:02:10.925183965] [Nlkosi Lvl:lvl138] The Crypt-guardian of Gadim scored a hit with Disease on Nlkosi for 80 Common damage to Power.
+[2026-06-12 12:02:10.927529095] [Nlkosi Lvl:lvl138] The Crypt-guardian of Gadim tried to use Disease on Nlkosi but he resisted the attempt.
+[2026-06-12 12:02:10.932810337] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Improved Final Word on the Enduring Crypt-sentinel of Gadim.
+[2026-06-12 12:02:10.935568113] [Nlkosi Lvl:lvl138] The Enduring Crypt-sentinel of Gadim scored a hit with a minor ranged attack on Nlkosi for 1,310 Common damage to Morale.
+[2026-06-12 12:02:10.940965309] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Distracting Flame on the Enduring Crypt-sentinel of Gadim.
+[2026-06-12 12:02:10.948589627] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Epic Conclusion on the Enduring Crypt-sentinel of Gadim for 63,140 Lightning damage to Morale.
+[2026-06-12 12:02:10.955356243] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Shocking Words on the Crypt-guardian of Gadim for 16,533 Lightning damage to Morale.
+[2026-06-12 12:02:10.960765429] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Ceaseless Argument on the Crypt-guardian of Gadim for 5,141 Lightning damage to Morale.
+[2026-06-12 12:02:10.963980945] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Writ of Lightning on the Crypt-guardian of Gadim for 15,254 Lightning damage to Morale.
+[2026-06-12 12:02:10.967019536] [Nlkosi Lvl:lvl138] The Crypt-guardian of Gadim scored a hit with Disease on Nlkosi for 75 Common damage to Power.
+[2026-06-12 12:02:10.970322431] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Vile Crypt-horror of Gadim for 6,162 Fire damage to Morale.
+[2026-06-12 12:02:10.973604559] [Nlkosi Lvl:lvl138] Nlkosi scored a devastating hit with Essence of Flame on the Vile Crypt-horror of Gadim for 29,426 Fire damage to Morale.
+[2026-06-12 12:02:10.985378615] [Nlkosi Lvl:lvl138] The Vile Crypt-horror of Gadim scored a hit with Virulent Cloud on Nlkosi for 17 Common damage to Power.
+[2026-06-12 12:02:10.987952674] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Storm on the Enduring Crypt-sentinel of Gadim for 6,314 Lightning damage to Morale.
+[2026-06-12 12:02:10.990599928] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Shocking Words on the Enduring Crypt-sentinel of Gadim for 14,812 Lightning damage to Morale.
+[2026-06-12 12:02:10.993019974] [Nlkosi Lvl:lvl138] The Enduring Crypt-sentinel of Gadim scored a hit with Shadow Aura on Nlkosi for 558 Shadow damage to Morale.
+[2026-06-12 12:02:10.995509789] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Vivid Imagery on the Enduring Crypt-sentinel of Gadim for 7,446 Lightning damage to Morale.
+[2026-06-12 12:02:10.998077617] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Vile Crypt-horror of Gadim for 2,971 Fire damage to Morale.
+[2026-06-12 12:02:11.842506] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Vile Crypt-horror of Gadim for 4,063 Lightning damage to Morale.
+[2026-06-12 12:02:11.4109295] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a heal to Nlkosi restoring 525 points to Power.
+[2026-06-12 12:02:11.6977634] [Nlkosi Lvl:lvl138] Sustenance applied a critical heal to Nlkosi restoring 9,877 points to Morale.
+[2026-06-12 12:02:11.11079264] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Vile Crypt-horror of Gadim for 7,518 Fire damage to Morale.
+[2026-06-12 12:02:11.14633430] [Nlkosi Lvl:lvl138] The Vile Crypt-horror of Gadim scored a hit with Shadow Aura on Nlkosi for 259 Shadow damage to Morale.
+[2026-06-12 12:02:11.20737030] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Vile Crypt-horror of Gadim for 12,939 Fire damage to Morale.
+[2026-06-12 12:02:11.23315448] [Nlkosi Lvl:lvl138] The Disease Cloud tried to use Virulent Cloud on Nlkosi but he resisted the attempt.
+[2026-06-12 12:02:11.26029323] [Nlkosi Lvl:lvl138] The Vile Crypt-horror of Gadim scored a hit with Virulent Cloud on Nlkosi for 3 Common damage to Power.
+[2026-06-12 12:02:11.34900387] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Vile Crypt-horror of Gadim for 1,919 Lightning damage to Morale.
+[2026-06-12 12:02:11.45286479] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Vile Crypt-horror of Gadim for 2,006 Lightning damage to Morale.
+[2026-06-12 15:05:59.328806253] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Storm on the Wastes Ruffian for 6,076 Lightning damage to Morale.
+[2026-06-12 15:05:59.331492547] [Nlkosi Lvl:lvl138] The Wastes Ruffian scored a hit with a weak melee attack on Nlkosi for 873 Common damage to Morale.
+[2026-06-12 15:05:59.334293351] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Shocking Words on the Wastes Ruffian for 18,259 Lightning damage to Morale.
+[2026-06-12 15:05:59.337464243] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Vivid Imagery on the Wastes Ruffian for 6,437 Lightning damage to Morale.
+[2026-06-12 15:05:59.341391572] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Scribe's Spark on the Wastes Ruffian for 5,432 Lightning damage to Morale.
+[2026-06-12 15:05:59.347214956] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Epic Conclusion on the Wastes Ruffian for 78,057 Lightning damage to Morale.
+[2026-06-12 15:05:59.349909144] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Essence of Flame on the Keeper's Rat for 27,366 Fire damage to Morale.
+[2026-06-12 15:05:59.352324832] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Essence of Flame on the Desert Rat-keeper for 25,492 Fire damage to Morale.
+[2026-06-12 15:05:59.355931072] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Dead-eye Outlaw for 3,216 Fire damage to Morale.
+[2026-06-12 15:05:59.362179766] [Nlkosi Lvl:lvl138] The Wastes Ruffian scored a hit with a strong melee attack on Nlkosi for 1,310 Common damage to Morale.
+[2026-06-12 15:05:59.366599477] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Sustaining Bolt on the Dead-eye Outlaw for 12,020 Lightning damage to Morale.
+[2026-06-12 15:05:59.369990162] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a heal to Nlkosi restoring 584 points to Power.
+[2026-06-12 15:05:59.373247563] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 7,899 points to Morale.
+[2026-06-12 15:05:59.375870561] [Nlkosi Lvl:lvl138] The Dead-eye Outlaw scored a partially evaded hit with a weak ranged attack on Nlkosi for 839 Common damage to Morale.
+[2026-06-12 15:05:59.378816270] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Writ of Lightning on the Dead-eye Outlaw for 6,459 Lightning damage to Morale.
+[2026-06-12 15:05:59.383929382] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Dead-eye Outlaw for 2,443 Fire damage to Morale.
+[2026-06-12 15:05:59.387021831] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Dead-eye Outlaw for 8,633 Fire damage to Morale.
+[2026-06-12 15:05:59.389722040] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Essence of Storm on the Wastes Ruffian for 34,633 Lightning damage to Morale.
+[2026-06-12 15:05:59.392639157] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Dead-eye Outlaw for 3,950 Fire damage to Morale.
+[2026-06-12 15:05:59.396025274] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Writ of Lightning on the Dead-eye Outlaw for 7,994 Lightning damage to Morale.
+[2026-06-12 15:05:59.398575268] [Nlkosi Lvl:lvl138] The Dead-eye Outlaw tried to use a moderate ranged attack on Nlkosi but he evaded the attempt.
+[2026-06-12 15:05:59.401117828] [Nlkosi Lvl:lvl138] The Dead-eye Outlaw scored a hit with a weak ranged attack on Nlkosi for 917 Common damage to Morale.
+[2026-06-12 15:05:59.403958806] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Dead-eye Outlaw for 5,347 Fire damage to Morale.
+[2026-06-12 15:05:59.407592396] [Nlkosi Lvl:lvl138] The Dead-eye Outlaw scored a partially evaded hit with a minor ranged attack on Nlkosi for 1,049 Common damage to Morale.
+[2026-06-12 15:05:59.410614555] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Shocking Words on the Dead-eye Outlaw for 69,357 Lightning damage to Morale.
+[2026-06-12 15:05:59.413088470] [Nlkosi Lvl:lvl138] The Dead-eye Outlaw scored a hit with a minor melee attack on Nlkosi for 1,092 Common damage to Morale.
+[2026-06-12 15:05:59.415581279] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Ceaseless Argument on the Dead-eye Outlaw for 7,843 Lightning damage to Morale.
+[2026-06-12 15:05:59.418054703] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Improved Final Word on the Dead-eye Outlaw.
+[2026-06-12 15:05:59.422115126] [Nlkosi Lvl:lvl138] The Dead-eye Outlaw scored a hit with a weak melee attack on Nlkosi for 873 Common damage to Morale.
+[2026-06-12 15:05:59.425093976] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Ceaseless Argument on the Dead-eye Outlaw for 5,543 Lightning damage to Morale.
+[2026-06-12 15:05:59.429902840] [Nlkosi Lvl:lvl138] The Dead-eye Outlaw scored a hit with a moderate melee attack on Nlkosi for 1,201 Common damage to Morale.
+[2026-06-12 15:05:59.433108166] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Vivid Imagery on the Dead-eye Outlaw for 6,026 Lightning damage to Morale.
+[2026-06-12 15:05:59.436240617] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Chilling Rhetoric on the Dead-eye Outlaw for 3,920 Frost damage to Morale.
+[2026-06-12 15:05:59.439076125] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Wastes Ruffian for 2,940 Fire damage to Morale.
+[2026-06-12 15:05:59.441792223] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Wastes Ruffian for 4,101 Lightning damage to Morale.
+[2026-06-12 15:05:59.444715872] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a heal to Nlkosi restoring 546 points to Power.
+[2026-06-12 15:05:59.447485148] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 7,117 points to Morale.
+[2026-06-12 15:05:59.450760542] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Wastes Ruffian for 7,518 Fire damage to Morale.
+[2026-06-12 15:05:59.453897612] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Wastes Ruffian for 13,352 Fire damage to Morale.
+[2026-06-12 15:05:59.456736015] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Keeper's Rat for 3,874 Fire damage to Morale.
+[2026-06-12 15:05:59.459822693] [Nlkosi Lvl:lvl138] The Desert Rat-keeper missed trying to use a weak thrown attack on Nlkosi.
+[2026-06-12 15:05:59.462409945] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Keeper's Rat for 9,460 Fire damage to Morale.
+[2026-06-12 15:05:59.465055064] [Nlkosi Lvl:lvl138] The Desert Rat-keeper scored a hit with a minor thrown attack on Nlkosi for 1,092 Common damage to Morale.
+[2026-06-12 15:05:59.467678953] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Keeper's Rat for 4,597 Fire damage to Morale.
+[2026-06-12 15:05:59.470373472] [Nlkosi Lvl:lvl138] The Desert Rat-keeper scored a hit with a moderate thrown attack on Nlkosi for 1,201 Common damage to Morale.
+[2026-06-12 15:05:59.473728983] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Desert Rat-keeper for 4,141 Fire damage to Morale.
+[2026-06-12 15:05:59.477161063] [Nlkosi Lvl:lvl138] The Desert Rat-keeper scored a hit with a weak thrown attack on Nlkosi for 873 Common damage to Morale.
+[2026-06-12 15:05:59.479883083] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Desert Rat-keeper for 4,473 Fire damage to Morale.
+[2026-06-12 15:05:59.485630498] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Essence of Storm on the Desert Rat-keeper for 39,303 Lightning damage to Morale.
+[2026-06-12 15:05:59.489154216] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Shocking Words on the Dead-eye Outlaw for 20,522 Lightning damage to Morale.
+[2026-06-12 15:05:59.500857198] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Distracting Flame on the Dead-eye Outlaw.
+[2026-06-12 15:05:59.503604113] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Dead-eye Outlaw for 14,534 Fire damage to Morale.
+[2026-06-12 15:05:59.506058141] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Wastes Ruffian for 3,558 Fire damage to Morale.
+[2026-06-12 15:05:59.508377352] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Sustaining Bolt on the Wastes Ruffian for 9,649 Lightning damage to Morale.
+[2026-06-12 15:05:59.511804354] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a heal to Nlkosi restoring 595 points to Power.
+[2026-06-12 15:05:59.514424035] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 8,107 points to Morale.
+[2026-06-12 15:05:59.516922455] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Wastes Ruffian for 3,641 Fire damage to Morale.
+[2026-06-12 15:05:59.522310020] [Nlkosi Lvl:lvl138] The Cutthroat Cutpurse scored a hit with a melee triple attack on Nlkosi for 424 Common damage to Morale.
+[2026-06-12 15:05:59.527850877] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Ceaseless Argument on the Cutthroat Cutpurse for 7,826 Lightning damage to Morale.
+[2026-06-12 15:05:59.530497337] [Nlkosi Lvl:lvl138] The Cutthroat Cutpurse scored a hit with a minor melee attack on Nlkosi for 1,059 Common damage to Morale.
+[2026-06-12 15:05:59.533119634] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Epic Conclusion on the Cutthroat Cutpurse for 116,443 Lightning damage to Morale.
+[2026-06-12 15:05:59.535619546] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Scribe's Spark on Shubâza for 23,971 Lightning damage to Morale.
+[2026-06-12 15:05:59.538154092] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Writ of Lightning on Shubâza for 7,221 Lightning damage to Morale.
+[2026-06-12 15:05:59.541464049] [Nlkosi Lvl:lvl138] Shubâza scored a hit with a minor melee attack on Nlkosi for 1,638 Common damage to Morale.
+[2026-06-12 15:05:59.544245658] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Storm on Shubâza for 8,082 Lightning damage to Morale.
+[2026-06-12 15:05:59.549737133] [Nlkosi Lvl:lvl138] Shubâza scored a hit with a moderate melee attack on Nlkosi for 1,801 Common damage to Morale.
+[2026-06-12 15:05:59.552348089] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Vivid Imagery on Shubâza for 22,159 Lightning damage to Morale.
+[2026-06-12 15:05:59.556240394] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Scribe's Spark on Shubâza for 23,226 Lightning damage to Morale.
+[2026-06-12 15:05:59.564053816] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Improved Final Word on Shubâza.
+[2026-06-12 15:05:59.567147125] [Nlkosi Lvl:lvl138] Nlkosi scored a devastating hit with Shocking Words on Shubâza for 75,902 Lightning damage to Morale.
+[2026-06-12 15:05:59.569863445] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Enraged Mûmak for 2,778 Lightning damage to Morale.
+[2026-06-12 15:05:59.572750757] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a critical heal to Nlkosi restoring 677 points to Power.
+[2026-06-12 15:05:59.575555668] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 7,011 points to Morale.
+[2026-06-12 15:05:59.578721411] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Enraged Mûmak for 3,012 Fire damage to Morale.
+[2026-06-12 15:05:59.582075889] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Enraged Mûmak for 3,540 Fire damage to Morale.
+[2026-06-12 15:05:59.584910586] [Nlkosi Lvl:lvl138] Nlkosi scored a devastating hit with Fiery Ridicule on the Enraged Mûmak for 9,477 Fire damage to Morale.
+[2026-06-12 15:05:59.587309823] [Nlkosi Lvl:lvl138] The Enraged Mûmak scored a hit with Melee Knockdown on Nlkosi.
+[2026-06-12 15:05:59.594383930] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule - Tier 3 on the Enraged Mûmak for 4,879 Fire damage to Morale.
+[2026-06-12 15:05:59.597098546] [Nlkosi Lvl:lvl138] The Enraged Mûmak scored a hit with a weak melee attack on Nlkosi for 1,135 Common damage to Morale.
+[2026-06-12 15:05:59.602122655] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Essence of Storm on the Enraged Mûmak for 29,505 Lightning damage to Morale.
+[2026-06-12 15:05:59.604583055] [Nlkosi Lvl:lvl138] The Enraged Mûmak scored a hit with a moderate melee attack on Nlkosi for 1,561 Common damage to Morale.
+[2026-06-12 15:05:59.607568256] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule - Tier 3 on the Enraged Mûmak for 5,869 Fire damage to Morale.
+[2026-06-12 15:05:59.610168052] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Ceaseless Argument on the Enraged Mûmak for 10,006 Lightning damage to Morale.
+[2026-06-12 15:05:59.613431694] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Epic Conclusion on the Enraged Mûmak for 116,770 Lightning damage to Morale.
+[2026-06-12 15:05:59.620279566] [Nlkosi Lvl:lvl138] Nlkosi scored a devastating hit with Ceaseless Argument on the Ordâkhai Sorceress for 18,825 Lightning damage to Morale.
+[2026-06-12 15:05:59.623676612] [Nlkosi Lvl:lvl138] The Ordâkhai Sorceress scored a hit with a weak melee attack on Nlkosi for 1,070 Shadow damage to Morale.
+[2026-06-12 15:05:59.627299453] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Sorceress for 7,605 Lightning damage to Morale.
+[2026-06-12 15:05:59.630234904] [Nlkosi Lvl:lvl138] The Ordâkhai Cat-keeper missed trying to use a moderate melee attack on Nlkosi.
+[2026-06-12 15:05:59.633075390] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Static Surge on the Ordâkhai Cat-keeper for 31,343 Lightning damage to Morale.
+[2026-06-12 15:05:59.635766072] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Look-out for 7,541 Lightning damage to Morale.
+[2026-06-12 15:05:59.638338497] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Look-out for 3,776 Lightning damage to Morale.
+[2026-06-12 15:05:59.642047496] [Nlkosi Lvl:lvl138] The Ordâkhai Look-out scored a devastating hit with a weak thrown attack on Nlkosi for 1,938 Common damage to Morale.
+[2026-06-12 15:05:59.644951198] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a heal to Nlkosi restoring 636 points to Power.
+[2026-06-12 15:05:59.647729471] [Nlkosi Lvl:lvl138] Sustenance applied a critical heal to Nlkosi restoring 11,244 points to Morale.
+[2026-06-12 15:05:59.650457221] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Look-out for 2,876 Fire damage to Morale.
+[2026-06-12 15:05:59.656285434] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Look-out for 12,435 Fire damage to Morale.
+[2026-06-12 15:05:59.659448882] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Battle-cat for 2,931 Fire damage to Morale.
+[2026-06-12 15:05:59.664016945] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Battle-cat for 7,929 Lightning damage to Morale.
+[2026-06-12 15:05:59.666657666] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Ordâkhai Battle-cat for 3,095 Fire damage to Morale.
+[2026-06-12 15:05:59.669044010] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Shocking Words on the Ordâkhai Battle-cat for 14,323 Lightning damage to Morale.
+[2026-06-12 15:05:59.677712760] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Sorceress for 2,050 Lightning damage to Morale.
+[2026-06-12 15:05:59.680492925] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Look-out for 2,009 Lightning damage to Morale.
+[2026-06-12 15:05:59.683945454] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Battle-cat for 1,976 Lightning damage to Morale.
+[2026-06-12 15:05:59.687653881] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Battle-cat for 2,037 Lightning damage to Morale.
+[2026-06-12 15:05:59.705668612] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Battle-cat for 8,220 Lightning damage to Morale.
+[2026-06-12 15:05:59.723814593] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Sorceress for 1,982 Lightning damage to Morale.
+[2026-06-12 15:05:59.727275937] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Look-out for 1,890 Lightning damage to Morale.
+[2026-06-12 15:05:59.743876295] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Sorceress for 3,685 Fire damage to Morale.
+[2026-06-12 15:05:59.746822957] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 2,319 Fire damage to Morale.
+[2026-06-12 15:05:59.754597948] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Warrior for 12,465 Fire damage to Morale.
+[2026-06-12 15:05:59.757899680] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Cat-keeper for 12,086 Fire damage to Morale.
+[2026-06-12 15:05:59.761064421] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Sustaining Bolt on the Ordâkhai Warrior for 8,509 Lightning damage to Morale.
+[2026-06-12 15:05:59.763709299] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a heal to Nlkosi restoring 577 points to Power.
+[2026-06-12 15:05:59.766457616] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 7,839 points to Morale.
+[2026-06-12 15:05:59.769146295] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 3,125 Fire damage to Morale.
+[2026-06-12 15:05:59.771697651] [Nlkosi Lvl:lvl138] The Ordâkhai Cat-keeper tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[2026-06-12 15:05:59.774828450] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Static Surge on the Ordâkhai Cat-keeper for 17,151 Lightning damage to Morale.
+[2026-06-12 15:05:59.783119888] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 1,969 Lightning damage to Morale.
+[2026-06-12 15:05:59.785590807] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,021 Lightning damage to Morale.
+[2026-06-12 15:05:59.788593982] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Look-out for 2,026 Lightning damage to Morale.
+[2026-06-12 15:05:59.802042032] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Warrior for 6,844 Lightning damage to Morale.
+[2026-06-12 15:05:59.820028330] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 1,906 Lightning damage to Morale.
+[2026-06-12 15:05:59.823194744] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,056 Lightning damage to Morale.
+[2026-06-12 15:05:59.825844411] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Chilling Rhetoric on the Ordâkhai Warrior for 6,328 Frost damage to Morale.
+[2026-06-12 15:05:59.831317543] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Warrior for 7,448 Fire damage to Morale.
+[2026-06-12 15:05:59.837054829] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Champion for 17,756 Lightning damage to Morale.
+[2026-06-12 15:05:59.839822132] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Champion for 35,976 Lightning damage to Morale.
+[2026-06-12 15:05:59.842832009] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Champion for 2,081 Lightning damage to Morale.
+[2026-06-12 15:05:59.846306127] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Vivid Imagery on the Ordâkhai Champion for 5,962 Lightning damage to Morale.
+[2026-06-12 15:05:59.848781895] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Shocking Words on the Ordâkhai Champion for 15,800 Lightning damage to Morale.
+[2026-06-12 15:05:59.851212580] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Shocking Touch on the Ordâkhai Champion for 2,479 Lightning damage to Morale.
+[2026-06-12 15:05:59.853589357] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Sustaining Bolt on the Ordâkhai Champion for 8,948 Lightning damage to Morale.
+[2026-06-12 15:05:59.856827502] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a critical heal to Nlkosi restoring 651 points to Power.
+[2026-06-12 15:05:59.860223567] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 7,213 points to Morale.
+[2026-06-12 15:05:59.862635668] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Champion for 7,333 Fire damage to Morale.
+[2026-06-12 15:05:59.864826935] [Nlkosi Lvl:lvl138] The Ordâkhai Cat-keeper scored a hit with a weak melee attack on Nlkosi for 1,017 Common damage to Morale.
+[2026-06-12 15:05:59.869865911] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Writ of Lightning on the Ordâkhai Champion for 19,395 Lightning damage to Morale.
+[2026-06-12 15:05:59.876645688] [Nlkosi Lvl:lvl138] The Ordâkhai Cat-keeper scored a hit with a moderate melee attack on Nlkosi for 1,398 Common damage to Morale.
+[2026-06-12 15:05:59.881102417] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Cat-keeper for 24,479 Lightning damage to Morale.
+[2026-06-12 15:05:59.887647364] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Cat-keeper for 11,401 Lightning damage to Morale.
+[2026-06-12 15:05:59.890428141] [Nlkosi Lvl:lvl138] The Ordâkhai Look-out scored a partially evaded hit with a moderate thrown attack on Nlkosi for 1,188 Common damage to Morale.
+[2026-06-12 15:05:59.893584206] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Look-out for 9,061 Lightning damage to Morale.
+[2026-06-12 15:05:59.896621033] [Nlkosi Lvl:lvl138] The Ordâkhai Look-out scored a hit with a weak thrown attack on Nlkosi for 944 Common damage to Morale.
+[2026-06-12 15:05:59.899408261] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Look-out for 6,537 Lightning damage to Morale.
+[2026-06-12 15:05:59.902452982] [Nlkosi Lvl:lvl138] The Ordâkhai Look-out scored a hit with a minor thrown attack on Nlkosi for 1,180 Common damage to Morale.
+[2026-06-12 15:05:59.905715793] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Look-out for 6,279 Lightning damage to Morale.
+[2026-06-12 15:05:59.912161899] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Chilling Rhetoric on the Ordâkhai Look-out for 8,918 Frost damage to Morale.
+[2026-06-12 15:05:59.919775875] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,062 Lightning damage to Morale.
+[2026-06-12 15:05:59.923360275] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Look-out for 2,008 Lightning damage to Morale.
+[2026-06-12 15:05:59.932109682] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Warrior for 6,312 Lightning damage to Morale.
+[2026-06-12 15:05:59.942677793] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Look-out for 2,044 Lightning damage to Morale.
+[2026-06-12 15:05:59.947128612] [Nlkosi Lvl:lvl138] Nlkosi tried to use Induce Stunned on the Ordâkhai Look-out but he was immune to the attempt.
+[2026-06-12 15:05:59.953481456] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Shocking Words on the Ordâkhai Look-out for 55,409 Lightning damage to Morale.
+[2026-06-12 15:05:59.956213694] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Sorcerer for 7,086 Fire damage to Morale.
+[2026-06-12 15:05:59.958893246] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Sorcerer for 15,353 Fire damage to Morale.
+[2026-06-12 15:05:59.961966730] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Warrior for 11,723 Fire damage to Morale.
+[2026-06-12 15:05:59.964657421] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Cat-keeper for 8,763 Lightning damage to Morale.
+[2026-06-12 15:05:59.970264058] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Essence of Storm on the Ordâkhai Cat-keeper for 34,020 Lightning damage to Morale.
+[2026-06-12 15:05:59.973386261] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Warrior for 24,704 Lightning damage to Morale.
+[2026-06-12 15:05:59.976218573] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Battle-cat for 9,144 Fire damage to Morale.
+[2026-06-12 15:05:59.978996014] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Battle-cat for 9,588 Fire damage to Morale.
+[2026-06-12 15:05:59.981279309] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Battle-cat for 5,429 Lightning damage to Morale.
+[2026-06-12 15:05:59.983896336] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a heal to Nlkosi restoring 656 points to Power.
+[2026-06-12 15:05:59.986584383] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 8,026 points to Morale.
+[2026-06-12 15:05:59.989842876] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Battle-cat for 3,840 Fire damage to Morale.
+[2026-06-12 15:05:59.993032913] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Distracting Flame on the Ordâkhai Battle-cat.
+[2026-06-12 15:05:59.995746527] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Battle-cat for 2,815 Fire damage to Morale.
+[2026-06-12 15:05:59.998570924] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Chilling Rhetoric on the Ordâkhai Battle-cat for 4,772 Frost damage to Morale.
+[2026-06-12 15:06:00.5542543] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Epic Conclusion on the Ordâkhai Battle-cat for 70,878 Lightning damage to Morale.
+[2026-06-12 15:06:00.16550460] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 1,939 Lightning damage to Morale.
+[2026-06-12 15:06:00.19473608] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 1,889 Lightning damage to Morale.
+[2026-06-12 15:06:00.31431637] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Shocking Words on the Ordâkhai Warrior for 15,718 Lightning damage to Morale.
+[2026-06-12 15:06:00.43724249] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Warrior for 2,402 Lightning damage to Morale.
+[2026-06-12 15:06:00.46199766] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 1,942 Lightning damage to Morale.
+[2026-06-12 15:06:00.48656940] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a critical heal to Nlkosi restoring 665 points to Power.
+[2026-06-12 15:06:00.51339968] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 7,528 points to Morale.
+[2026-06-12 15:06:00.53971822] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 2,592 Fire damage to Morale.
+[2026-06-12 15:06:00.60406316] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Sustaining Bolt on the Ordâkhai Cat-keeper for 7,025 Lightning damage to Morale.
+[2026-06-12 15:06:00.66001983] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 6,812 points to Morale.
+[2026-06-12 15:06:00.69201468] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Cat-keeper for 9,314 Fire damage to Morale.
+[2026-06-12 15:06:00.73452330] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Cat-keeper for 6,859 Fire damage to Morale.
+[2026-06-12 15:06:00.77718249] [Nlkosi Lvl:lvl138] The Ordâkhai Cat-keeper scored a hit with a weak melee attack on Nlkosi for 1,048 Common damage to Morale.
+[2026-06-12 15:06:00.81101731] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Essence of Storm on the Ordâkhai Cat-keeper for 34,633 Lightning damage to Morale.
+[2026-06-12 15:06:00.93202070] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Champion for 2,038 Lightning damage to Morale.
+[2026-06-12 15:06:00.96308384] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,044 Lightning damage to Morale.
+[2026-06-12 15:06:00.99469168] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Sorceress for 1,971 Lightning damage to Morale.
+[2026-06-12 15:06:00.114753353] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Warrior for 8,653 Lightning damage to Morale.
+[2026-06-12 15:06:00.117353649] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Shocking Words on the Ordâkhai Warrior for 21,938 Lightning damage to Morale.
+[2026-06-12 15:06:00.119959666] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Sorceress for 1,983 Lightning damage to Morale.
+[2026-06-12 15:06:00.123191460] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Champion for 2,072 Lightning damage to Morale.
+[2026-06-12 15:06:00.136569391] [Nlkosi Lvl:lvl138] Nlkosi scored a devastating hit with Distracting Flame on the Ordâkhai Champion.
+[2026-06-12 15:06:00.140352756] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Champion for 2,002 Lightning damage to Morale.
+[2026-06-12 15:06:00.143680666] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Champion for 6,103 Lightning damage to Morale.
+[2026-06-12 15:06:00.152693687] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Champion for 11,466 Fire damage to Morale.
+[2026-06-12 15:06:00.155477500] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Sustaining Bolt on the Ordâkhai Champion for 11,033 Lightning damage to Morale.
+[2026-06-12 15:06:00.159182270] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Distracting Flame on the Ordâkhai Champion for 1,711 Fire damage to Morale.
+[2026-06-12 15:06:00.162149599] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Champion for 1,904 Lightning damage to Morale.
+[2026-06-12 15:06:00.168406708] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a heal to Nlkosi restoring 628 points to Power.
+[2026-06-12 15:06:00.172004463] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 8,905 points to Morale.
+[2026-06-12 15:06:00.175723891] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Champion for 7,555 Fire damage to Morale.
+[2026-06-12 15:06:00.178471417] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Champion for 3,655 Fire damage to Morale.
+[2026-06-12 15:06:00.181176084] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Distracting Flame on the Ordâkhai Champion for 1,910 Fire damage to Morale.
+[2026-06-12 15:06:00.183787040] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Champion for 8,059 Lightning damage to Morale.
+[2026-06-12 15:06:00.186305176] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Champion for 35,883 Lightning damage to Morale.
+[2026-06-12 15:06:00.189943755] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 1,941 Lightning damage to Morale.
+[2026-06-12 15:06:00.192839944] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,017 Lightning damage to Morale.
+[2026-06-12 15:06:00.210615836] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 1,910 Lightning damage to Morale.
+[2026-06-12 15:06:00.213588285] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Warrior for 3,253 Lightning damage to Morale.
+[2026-06-12 15:06:00.223446826] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 6,386 points to Morale.
+[2026-06-12 15:06:00.226249653] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 2,529 Fire damage to Morale.
+[2026-06-12 15:06:00.232772880] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Warrior for 11,222 Fire damage to Morale.
+[2026-06-12 15:06:00.235453213] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Warrior for 14,010 Fire damage to Morale.
+[2026-06-12 15:06:00.238692981] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,105 Lightning damage to Morale.
+[2026-06-12 15:06:00.244889489] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 1,876 points to Morale.
+[2026-06-12 15:06:00.249627043] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 7,270 Fire damage to Morale.
+[2026-06-12 15:06:00.255101578] [Nlkosi Lvl:lvl138] Prelude to Hope applied a critical heal to Nlkosi restoring 968 points to Morale.
+[2026-06-12 15:06:00.261473067] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 583 points to Morale.
+[2026-06-12 15:06:00.266020532] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 517 points to Morale.
+[2026-06-12 15:06:00.269421145] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 592 points to Morale.
+[2026-06-12 15:06:00.272816529] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 568 points to Morale.
+[2026-06-12 15:06:00.275675018] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 490 points to Morale.
+[2026-06-12 15:06:00.278601923] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 551 points to Morale.
+[2026-06-12 15:06:00.281450675] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 510 points to Morale.
+[2026-06-12 15:06:00.284180539] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 649 points to Morale.
+[2026-06-12 15:06:00.287109768] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 506 points to Morale.
+[2026-06-12 15:06:00.290236710] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 632 points to Morale.
+[2026-06-12 15:06:00.293492076] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on Potók Dôlo for 1,899 Lightning damage to Morale.
+[2026-06-12 15:06:00.301660179] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Essence of Storm on Potók Dôlo for 27,683 Lightning damage to Morale.
+[2026-06-12 15:06:00.304855125] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on Potók Dôlo for 1,997 Lightning damage to Morale.
+[2026-06-12 15:06:00.308018052] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Shocking Words on Potók Dôlo for 18,980 Lightning damage to Morale.
+[2026-06-12 15:06:00.310882924] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Ceaseless Argument on Potók Dôlo for 16,157 Lightning damage to Morale.
+[2026-06-12 15:06:00.313486446] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Scribe's Spark on Potók Dôlo for 7,681 Lightning damage to Morale.
+[2026-06-12 15:06:00.316062528] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on Potók Dôlo for 1,965 Lightning damage to Morale.
+[2026-06-12 15:06:00.318554435] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Epic Conclusion on Potók Dôlo for 90,276 Lightning damage to Morale.
+[2026-06-12 18:20:44.275547656] [Nlkosi Lvl:lvl138] Nlkosi scored a devastating hit with Fiery Ridicule on the Ordâkhai Sorcerer for 7,898 Fire damage to Morale.
+[2026-06-12 18:20:44.278452617] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Sorcerer for 13,751 Fire damage to Morale.
+[2026-06-12 18:20:44.280858323] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Warrior for 11,647 Fire damage to Morale.
+[2026-06-12 18:20:44.283629820] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Warrior for 12,018 Fire damage to Morale.
+[2026-06-12 18:20:44.286104923] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Sorcerer for 2,792 Lightning damage to Morale.
+[2026-06-12 18:20:44.288592330] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a heal to Nlkosi restoring 550 points to Power.
+[2026-06-12 18:20:44.291034984] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 7,503 points to Morale.
+[2026-06-12 18:20:44.293757881] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 3,163 Fire damage to Morale.
+[2026-06-12 18:20:44.299082965] [Nlkosi Lvl:lvl138] The Ordâkhai Warrior scored a critical hit with a weak melee attack on Nlkosi for 1,491 Common damage to Morale.
+[2026-06-12 18:20:44.301506354] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Warrior for 7,571 Fire damage to Morale.
+[2026-06-12 18:20:44.304068507] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 3,064 Fire damage to Morale.
+[2026-06-12 18:20:44.306939145] [Nlkosi Lvl:lvl138] The Ordâkhai Warrior scored a hit with a moderate melee attack on Nlkosi for 1,434 Common damage to Morale.
+[2026-06-12 18:20:44.309473908] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Shocking Words on the Ordâkhai Warrior for 14,987 Lightning damage to Morale.
+[2026-06-12 18:20:44.311895924] [Nlkosi Lvl:lvl138] Nlkosi scored a devastating hit with Fiery Ridicule on the Ordâkhai Warrior for 9,272 Fire damage to Morale.
+[2026-06-12 18:20:44.314498902] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 3,041 Fire damage to Morale.
+[2026-06-12 18:20:44.317360794] [Nlkosi Lvl:lvl138] The Ordâkhai Warrior scored a hit with a weak melee attack on Nlkosi for 1,011 Common damage to Morale.
+[2026-06-12 18:20:44.320065117] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Warrior for 6,289 Lightning damage to Morale.
+[2026-06-12 18:20:44.322554577] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Ordâkhai Warrior for 2,327 Fire damage to Morale.
+[2026-06-12 18:20:44.327581084] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Vivid Imagery on the Ordâkhai Warrior for 17,398 Lightning damage to Morale.
+[2026-06-12 18:20:44.330068410] [Nlkosi Lvl:lvl138] The Ordâkhai Look-out scored a hit with a minor thrown attack on Nlkosi for 1,212 Common damage to Morale.
+[2026-06-12 18:20:44.332909825] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Look-out for 7,731 Lightning damage to Morale.
+[2026-06-12 18:20:44.335604430] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Look-out for 39,473 Lightning damage to Morale.
+[2026-06-12 18:20:44.337965435] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Warrior for 8,036 Lightning damage to Morale.
+[2026-06-12 18:20:44.340522108] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Static Surge on the Ordâkhai Warrior for 34,939 Lightning damage to Morale.
+[2026-06-12 18:20:44.343080063] [Nlkosi Lvl:lvl138] The Ordâkhai Look-out scored a hit with a weak thrown attack on Nlkosi for 939 Common damage to Morale.
+[2026-06-12 18:20:44.345777504] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Essence of Storm on the Ordâkhai Look-out for 37,655 Lightning damage to Morale.
+[2026-06-12 18:20:44.348679059] [Nlkosi Lvl:lvl138] The Ordâkhai Warrior scored a hit with a weak melee attack on Nlkosi for 980 Common damage to Morale.
+[2026-06-12 18:20:44.351266378] [Nlkosi Lvl:lvl138] The Ordâkhai Warrior scored a hit with a melee double attack on Nlkosi for 980 Common damage to Morale.
+[2026-06-12 18:20:44.356072581] [Nlkosi Lvl:lvl138] Nlkosi scored a devastating hit with Scribe's Spark on the Ordâkhai Warrior for 31,360 Lightning damage to Morale.
+[2026-06-12 18:20:44.358676761] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,075 Lightning damage to Morale.
+[2026-06-12 18:20:44.361320473] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Look-out for 2,031 Lightning damage to Morale.
+[2026-06-12 18:20:44.369409911] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 1,912 Lightning damage to Morale.
+[2026-06-12 18:20:44.371895443] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Look-out for 2,079 Lightning damage to Morale.
+[2026-06-12 18:20:44.374528136] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Look-out for 6,844 Lightning damage to Morale.
+[2026-06-12 18:20:44.380005659] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 1,996 Lightning damage to Morale.
+[2026-06-12 18:20:44.382895532] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Look-out for 1,885 Lightning damage to Morale.
+[2026-06-12 18:20:44.385845125] [Nlkosi Lvl:lvl138] The Ordâkhai Look-out tried to use a weak thrown attack on Nlkosi but he evaded the attempt.
+[2026-06-12 18:20:44.388836484] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Look-out for 7,462 Lightning damage to Morale.
+[2026-06-12 18:20:44.391813046] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Look-out for 4,353 Lightning damage to Morale.
+[2026-06-12 18:20:44.394549108] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a critical heal to Nlkosi restoring 745 points to Power.
+[2026-06-12 18:20:44.397083159] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 7,292 points to Morale.
+[2026-06-12 18:20:44.399298036] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 1,957 Lightning damage to Morale.
+[2026-06-12 18:20:44.401884273] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 3,181 Fire damage to Morale.
+[2026-06-12 18:20:44.404297143] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Warrior for 12,684 Fire damage to Morale.
+[2026-06-12 18:20:44.406899810] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 4,343 Fire damage to Morale.
+[2026-06-12 18:20:44.409885368] [Nlkosi Lvl:lvl138] The Ordâkhai Sorcerer scored a hit with a moderate thrown attack on Nlkosi for 1,683 Shadow damage to Morale.
+[2026-06-12 18:20:44.412476525] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Sorcerer for 3,229 Fire damage to Morale.
+[2026-06-12 18:20:44.415456112] [Nlkosi Lvl:lvl138] The Ordâkhai Sorcerer scored a hit with a minor thrown attack on Nlkosi for 1,530 Shadow damage to Morale.
+[2026-06-12 18:20:44.420838611] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Sorcerer for 11,502 Fire damage to Morale.
+[2026-06-12 18:20:44.423399161] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Sustaining Bolt on the Ordâkhai Sorcerer for 8,607 Lightning damage to Morale.
+[2026-06-12 18:20:44.426092104] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a critical heal to Nlkosi restoring 660 points to Power.
+[2026-06-12 18:20:44.428675055] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 5,713 points to Morale.
+[2026-06-12 18:20:44.431449327] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Warrior for 9,572 Fire damage to Morale.
+[2026-06-12 18:20:44.434175270] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 3,360 Fire damage to Morale.
+[2026-06-12 18:20:44.436693462] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Warrior for 3,330 Lightning damage to Morale.
+[2026-06-12 18:20:44.439306418] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a critical heal to Nlkosi restoring 643 points to Power.
+[2026-06-12 18:20:44.442139748] [Nlkosi Lvl:lvl138] Sustenance applied a critical heal to Nlkosi restoring 11,123 points to Morale.
+[2026-06-12 18:20:44.445062011] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 3,265 Fire damage to Morale.
+[2026-06-12 18:20:44.447416042] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Shocking Words on the Ordâkhai Warrior for 18,439 Lightning damage to Morale.
+[2026-06-12 18:20:44.450039448] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Sorcerer for 3,300 Fire damage to Morale.
+[2026-06-12 18:20:44.452930122] [Nlkosi Lvl:lvl138] The Ordâkhai Sorcerer scored a hit with a weak thrown attack on Nlkosi for 1,187 Shadow damage to Morale.
+[2026-06-12 18:20:44.455598540] [Nlkosi Lvl:lvl138] The Ordâkhai Sorcerer scored a hit with a minor thrown attack on Nlkosi for 1,484 Shadow damage to Morale.
+[2026-06-12 18:20:44.458164039] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Sorcerer for 2,942 Fire damage to Morale.
+[2026-06-12 18:20:44.463869911] [Nlkosi Lvl:lvl138] The Ordâkhai Sorcerer scored a hit with Max Shadow Damage on Nlkosi for 4,336 Shadow damage to Morale.
+[2026-06-12 18:20:44.466292438] [Nlkosi Lvl:lvl138] The Ordâkhai Sorcerer scored a hit with Painful Memory on Nlkosi.
+[2026-06-12 18:20:44.468853238] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Sorcerer for 7,269 Lightning damage to Morale.
+[2026-06-12 18:20:44.471209474] [Nlkosi Lvl:lvl138] The Ordâkhai Sorcerer scored a hit with a weak melee attack on Nlkosi for 1,032 Shadow damage to Morale.
+[2026-06-12 18:20:44.473721055] [Nlkosi Lvl:lvl138] The Ordâkhai Sorcerer scored a hit with Max Shadow Damage on Nlkosi for 4,202 Shadow damage to Morale.
+[2026-06-12 18:20:44.476177033] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on the Ordâkhai Sorcerer for 5,196 Fire damage to Morale.
+[2026-06-12 18:20:44.478940785] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Sorcerer for 8,125 Lightning damage to Morale.
+[2026-06-12 18:20:44.484460786] [Nlkosi Lvl:lvl138] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on Nlkosi for 3,002 Shadow damage to Morale.
+[2026-06-12 18:20:44.487009404] [Nlkosi Lvl:lvl138] The Ordâkhai Sorcerer scored a hit with Song of Despair on Nlkosi.
+[2026-06-12 18:20:44.489303447] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Sorcerer for 7,616 Lightning damage to Morale.
+[2026-06-12 18:20:44.491919248] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Sorcerer for 8,141 Lightning damage to Morale.
+[2026-06-12 18:20:44.494822676] [Nlkosi Lvl:lvl138] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on Nlkosi for 2,601 Shadow damage to Morale.
+[2026-06-12 18:20:44.497384298] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Vivid Imagery on the Ordâkhai Sorcerer for 9,382 Lightning damage to Morale.
+[2026-06-12 18:20:44.499739632] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Look-out for 4,278 Fire damage to Morale.
+[2026-06-12 18:20:44.504717400] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Look-out for 14,035 Fire damage to Morale.
+[2026-06-12 18:20:44.507349972] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Sustaining Bolt on the Ordâkhai Look-out for 14,020 Lightning damage to Morale.
+[2026-06-12 18:20:44.510063141] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a heal to Nlkosi restoring 638 points to Power.
+[2026-06-12 18:20:44.512447138] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 6,596 points to Morale.
+[2026-06-12 18:20:44.515143347] [Nlkosi Lvl:lvl138] Nlkosi scored a devastating hit with Fiery Ridicule on the Ordâkhai Warrior for 11,136 Fire damage to Morale.
+[2026-06-12 18:20:44.517886852] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Warrior for 9,688 Fire damage to Morale.
+[2026-06-12 18:20:44.520326801] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Static Surge on the Ordâkhai Warrior for 20,785 Lightning damage to Morale.
+[2026-06-12 18:20:44.522770237] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Look-out for 5,673 Lightning damage to Morale.
+[2026-06-12 18:20:44.525795839] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Improved Final Word on the Ordâkhai Look-out.
+[2026-06-12 18:20:44.530976307] [Nlkosi Lvl:lvl138] The Ordâkhai Look-out scored a hit with a moderate thrown attack on Nlkosi for 1,374 Common damage to Morale.
+[2026-06-12 18:20:44.536019956] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 1,460 points to Morale.
+[2026-06-12 18:20:44.541433812] [Nlkosi Lvl:lvl138] The Ordâkhai Look-out scored a hit with a minor thrown attack on Nlkosi for 1,249 Common damage to Morale.
+[2026-06-12 18:20:44.546558098] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 489 points to Morale.
+[2026-06-12 18:20:44.549058929] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Look-out for 9,693 Fire damage to Morale.
+[2026-06-12 18:20:44.551203146] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Concession and Rebuttal: Sustaining Bolt on the Ordâkhai Look-out for 7,930 Lightning damage to Morale.
+[2026-06-12 18:20:44.555805847] [Nlkosi Lvl:lvl138] Powerful Sustenance applied a heal to Nlkosi restoring 15,566 points to Morale.
+[2026-06-12 18:20:44.558433670] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a critical heal to Nlkosi restoring 740 points to Power.
+[2026-06-12 18:20:44.560839247] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 669 points to Morale.
+[2026-06-12 18:20:44.563426826] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 3,223 Fire damage to Morale.
+[2026-06-12 18:20:44.568625869] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Warrior for 7,319 Fire damage to Morale.
+[2026-06-12 18:20:44.574026161] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 545 points to Morale.
+[2026-06-12 18:20:44.576929439] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Concession and Rebuttal: Shocking Words on the Ordâkhai Warrior for 49,840 Lightning damage to Morale.
+[2026-06-12 18:20:44.582887562] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 520 points to Morale.
+[2026-06-12 18:20:44.585408139] [Nlkosi Lvl:lvl138] Prelude to Hope applied a critical heal to Nlkosi restoring 975 points to Morale.
+[2026-06-12 18:20:44.588048815] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 660 points to Morale.
+[2026-06-12 18:20:44.593483510] [Nlkosi Lvl:lvl138] Prelude to Hope applied a critical heal to Nlkosi restoring 722 points to Morale.
+[2026-06-12 18:20:44.598529753] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 509 points to Morale.
+[2026-06-12 18:20:44.601045631] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Warrior for 2,382 Lightning damage to Morale.
+[2026-06-12 18:20:44.608971770] [Nlkosi Lvl:lvl138] Sustenance applied a critical heal to Nlkosi restoring 10,785 points to Morale.
+[2026-06-12 18:20:44.611677906] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Warrior for 6,234 Fire damage to Morale.
+[2026-06-12 18:20:44.614174078] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Warrior for 20,281 Lightning damage to Morale.
+[2026-06-12 18:20:44.617112571] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 5,945 Lightning damage to Morale.
+[2026-06-12 18:20:44.619854884] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Vivid Imagery on the Ordâkhai Warrior for 7,033 Lightning damage to Morale.
+[2026-06-12 18:20:44.625573278] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Shocking Words on the Ordâkhai Warrior for 14,424 Lightning damage to Morale.
+[2026-06-12 18:20:44.628117989] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Sorcerer for 2,040 Lightning damage to Morale.
+[2026-06-12 18:20:44.630944997] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 1,882 Lightning damage to Morale.
+[2026-06-12 18:20:44.633476404] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Look-out for 1,993 Lightning damage to Morale.
+[2026-06-12 18:20:44.644024424] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,080 Lightning damage to Morale.
+[2026-06-12 18:20:44.646669349] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Sorcerer for 2,007 Lightning damage to Morale.
+[2026-06-12 18:20:44.649081588] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 1,884 Lightning damage to Morale.
+[2026-06-12 18:20:44.651306383] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Look-out for 2,060 Lightning damage to Morale.
+[2026-06-12 18:20:44.653803797] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Look-out for 8,134 Lightning damage to Morale.
+[2026-06-12 18:20:44.664747062] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 1,883 Lightning damage to Morale.
+[2026-06-12 18:20:44.667325354] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Sorcerer for 1,986 Lightning damage to Morale.
+[2026-06-12 18:20:44.670114082] [Nlkosi Lvl:lvl138] Nlkosi tried to use Induce Stunned on the Ordâkhai Sorcerer but he was immune to the attempt.
+[2026-06-12 18:20:44.672849512] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Shocking Words on the Ordâkhai Sorcerer for 20,699 Lightning damage to Morale.
+[2026-06-12 18:20:44.675640425] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 1,941 points to Morale.
+[2026-06-12 18:20:44.681037050] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 1,985 Lightning damage to Morale.
+[2026-06-12 18:20:44.683478491] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 1,987 Lightning damage to Morale.
+[2026-06-12 18:20:44.691015056] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 511 points to Morale.
+[2026-06-12 18:20:44.693717115] [Nlkosi Lvl:lvl138] Prelude to Hope applied a critical heal to Nlkosi restoring 863 points to Morale.
+[2026-06-12 18:20:44.698726791] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 576 points to Morale.
+[2026-06-12 18:20:44.701204139] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 569 points to Morale.
+[2026-06-12 18:20:44.712097011] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 700 points to Morale.
+[2026-06-12 18:20:44.714374432] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 676 points to Morale.
+[2026-06-12 18:20:44.716827165] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Warrior for 6,705 Lightning damage to Morale.
+[2026-06-12 18:20:44.719579366] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 554 points to Morale.
+[2026-06-12 18:20:44.724427837] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Static Surge on the Ordâkhai Warrior for 34,117 Lightning damage to Morale.
+[2026-06-12 18:20:44.727113436] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Static Surge on the Ordâkhai Warrior for 12,862 Lightning damage to Morale.
+[2026-06-12 18:20:44.729524473] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 719 points to Morale.
+[2026-06-12 18:20:44.731764736] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 728 points to Morale.
+[2026-06-12 18:20:44.734231905] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 655 points to Morale.
+[2026-06-12 18:20:44.737198128] [Nlkosi Lvl:lvl138] Prelude to Hope applied a heal to Nlkosi restoring 630 points to Morale.
+[2026-06-12 18:20:44.740171865] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Sorcerer for 3,250 Fire damage to Morale.
+[2026-06-12 18:20:44.745369265] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Sorcerer for 12,947 Fire damage to Morale.
+[2026-06-12 18:20:44.748170706] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Sorcerer for 3,512 Lightning damage to Morale.
+[2026-06-12 18:20:44.750816001] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a heal to Nlkosi restoring 541 points to Power.
+[2026-06-12 18:20:44.753283882] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 6,365 points to Morale.
+[2026-06-12 18:20:44.756169067] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Sorcerer for 3,741 Fire damage to Morale.
+[2026-06-12 18:20:44.759040045] [Nlkosi Lvl:lvl138] Nlkosi scored a devastating hit with Fiery Ridicule on the Ordâkhai Warrior for 8,928 Fire damage to Morale.
+[2026-06-12 18:20:44.761698194] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Warrior for 7,427 Fire damage to Morale.
+[2026-06-12 18:20:44.764233197] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Warrior for 28,038 Lightning damage to Morale.
+[2026-06-12 18:20:44.766908077] [Nlkosi Lvl:lvl138] The Ordâkhai Warrior scored a hit with a minor melee attack on Nlkosi for 1,303 Common damage to Morale.
+[2026-06-12 18:20:44.772296918] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Vivid Imagery on the Ordâkhai Warrior for 5,206 Lightning damage to Morale.
+[2026-06-12 18:20:44.775023732] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Vivid Imagery on the Ordâkhai Warrior for 5,743 Lightning damage to Morale.
+[2026-06-12 18:20:44.780508338] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Static Surge on the Ordâkhai Warrior for 11,400 Lightning damage to Morale.
+[2026-06-12 18:20:44.783156188] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Static Surge on the Ordâkhai Warrior for 30,232 Lightning damage to Morale.
+[2026-06-12 18:20:44.788648087] [Nlkosi Lvl:lvl138] Nlkosi scored a devastating hit with Essence of Storm on the Ordâkhai Warrior for 44,044 Lightning damage to Morale.
+[2026-06-12 18:20:44.791297881] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Shocking Words on the Ordâkhai Look-out for 25,178 Lightning damage to Morale.
+[2026-06-12 18:20:44.794113719] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Warrior for 7,170 Fire damage to Morale.
+[2026-06-12 18:20:44.798925422] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Sustaining Bolt on the Ordâkhai Warrior for 8,974 Lightning damage to Morale.
+[2026-06-12 18:20:44.804411070] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 6,107 points to Morale.
+[2026-06-12 18:20:44.807403732] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 3,166 Fire damage to Morale.
+[2026-06-12 18:20:44.813053540] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Warrior for 21,532 Lightning damage to Morale.
+[2026-06-12 18:20:44.818647817] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Look-out for 19,742 Lightning damage to Morale.
+[2026-06-12 18:20:44.823787321] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Essence of Flame on the Ordâkhai Look-out for 22,798 Fire damage to Morale.
+[2026-06-12 18:20:44.826463954] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Sorcerer for 3,442 Lightning damage to Morale.
+[2026-06-12 18:20:44.829055781] [Nlkosi Lvl:lvl138] Sustaining Bolt applied a heal to Nlkosi restoring 543 points to Power.
+[2026-06-12 18:20:44.831698672] [Nlkosi Lvl:lvl138] Sustenance applied a heal to Nlkosi restoring 7,983 points to Morale.
+[2026-06-12 18:20:44.837126123] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Sorcerer for 6,240 Lightning damage to Morale.
+[2026-06-12 18:20:44.839749008] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Sorcerer for 27,092 Lightning damage to Morale.
+[2026-06-12 18:20:44.842778156] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Volcanic Rune-stone on Mádathal the Deathward for 7,135 Fire damage to Morale.
+[2026-06-12 18:20:44.848017753] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on Mádathal the Deathward for 2,036 Lightning damage to Morale.
+[2026-06-12 18:20:44.859048808] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on Mádathal the Deathward for 2,084 Lightning damage to Morale.
+[2026-06-12 18:20:44.864668682] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Scribe's Spark on Mádathal the Deathward for 6,546 Lightning damage to Morale.
+[2026-06-12 18:20:44.867450628] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Fulgurite Strike on Mádathal the Deathward for 2,077 Lightning damage to Morale.
+[2026-06-12 18:20:44.875434181] [Nlkosi Lvl:lvl138] Nlkosi scored a critical hit with Shocking Words on Mádathal the Deathward for 54,313 Lightning damage to Morale.
+[2026-06-12 18:20:44.877922359] [Nlkosi Lvl:lvl138] Nlkosi scored a hit with Static Surge on Mádathal the Deathward for 15,746 Lightning damage to Morale.
