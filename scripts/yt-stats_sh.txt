@@ -1,0 +1,12 @@
+#!/bin/bash
+# Wils-Linux-Legacy v2.0.1 - YT Stats Generator
+
+# 1. Hent og presenter statistikk (din eksisterende logikk)
+# ...
+
+# 2. Legg til signaturen og tags
+echo ""
+echo "============================================================"
+echo "🏷 SØKEORD & EMNEKNAGGER (TAGS)"
+echo "============================================================"
+cat ~/scripts/tags.txt

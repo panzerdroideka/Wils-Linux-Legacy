@@ -36,10 +36,11 @@ if [[ "$svar" =~ ^[Yy]$ ]]; then
     echo ""
     echo "--> [Y] Verifisert! Kobler inn automatisk overgang til DEL 3..."
     echo "--------------------------------------------------------"
-    if [ -f "./wils-immutize-vault.sh" ]; then
-        ./wils-immutize-vault.sh
+    # F1-fiks: Bruker absolutt sti slik at den alltid treffer blink
+    if [ -f "$HOME/scripts/wils-immutize-vault.sh" ]; then
+        "$HOME/scripts/wils-immutize-vault.sh"
     else
-        echo "FEIL: Finner ikke 'wils-immutize-vault.sh' i denne mappen."
+        echo "FEIL: Finner ikke 'wils-immutize-vault.sh' i $HOME/scripts/."
         echo "Vennligst kjør DEL 3-skriptet manuelt for å låse hvelvet!"
     fi
 else

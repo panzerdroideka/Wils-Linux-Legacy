@@ -1,36 +1,36 @@
 #!/bin/bash
-# Wils-Linux-Legacy 2.0.1 - Wil's Etterbrenner (Post-analyse)
+# Wils-Linux-Legacy 2.0.2 - Wil's Manuelle BattleReport-Generator
 
-TELEMETRI_LOGG="/home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/logs/kamp_historikk.log"
 SPILL_MAPPE="/home/wils/Games/WARLORDLOTRO/Spillfiler"
 
+# Sjekker om zenity er installert for grafisk filvalg
+if ! command -v zenity &> /dev/null; then
+    echo "Zenity er ikke installert. Installeres via terminalen med: sudo apt install zenity"
+    exit 1
+fi
+
+# 1. Åpner en grafisk filvelger i spillmappen din
+VALGT_FIL=$(zenity --file-selection --filename="$SPILL_MAPPE/" --title="Velg LotRO Combat Logfil for analyse" --file-filter="Combat filer (Combat_*.txt Combat.log) | Combat_*.txt Combat.log" 2>/dev/null)
+
+# Hvis brukeren trykker avbryt i vinduet
+if [ -z "$VALGT_FIL" ]; then
+    echo "Ingen fil ble valgt. Avbryter."
+    exit 1
+fi
+
+# 2. Henter brukerdata kjapt
 read -p "Angi operatør og level (format: Navn,Level): " input_data
 IFS="," read -r KARAKTER LEVEL <<< "$input_data"
 KARAKTER=$(echo "$KARAKTER" | tr -d "[:space:]")
 LEVEL=$(echo "$LEVEL" | tr -d "[:space:]")
 
-echo "=== Wil's Etterbrenner Aktivert: Analyserer eksisterende logger... ==="
+# Fallback hvis felt står tomme
+[ -z "$KARAKTER" ] && KARAKTER="Nlkosi"
+[ -z "$LEVEL" ] && LEVEL="lvl138"
 
-# 1. Sikrer at rådata fra spillmappen blir filtrert og lagret kronologisk i historikken
-if [ -d "$SPILL_MAPPE" ]; then
-    cat "$SPILL_MAPPE"/Combat_*.txt "$SPILL_MAPPE"/Combat.log 2>/dev/null | grep -i -E "$KARAKTER|Positional|Critical" | while read -r linje; do
-        if [[ "$linje" =~ ^\[([0-9][:space:]:-]+)\] ]]; then
-            TIDSSTEMPEL="${BASH_REMATCH[1]}"
-            REN_LINJE=$(echo "$linje" | sed -E 's/^\[.+\] //')
-        else
-            TIDSSTEMPEL=$(date +"%Y-%m-%d %H:%M:%S.%3N")
-            REN_LINJE="$linje"
-        fi
-
-        if ! grep -q "$REN_LINJE" "$TELEMETRI_LOGG" 2>/dev/null; then
-            echo "[$TIDSSTEMPEL] [$KARAKTER Lvl:$LEVEL] $REN_LINJE" >> "$TELEMETRI_LOGG"
-        fi
-    done
-fi
-
-# 2. GENERERER DEN HØYGLANSPOLERTE RAPPORTEN
-clear
 DIV="==================================="
+# 3. GENERERER DEN HØYGLANSPOLERTE RAPPORTEN DIREKTE FRA RÅLOGGEN
+clear
 echo -e "\n$DIV"
 echo "=== Generating Battle-report... ==="
 echo "⚔ WARLORD STRIDS-TELEMETRI ⚔"
@@ -42,18 +42,21 @@ echo "• Lokasjon: Umbar"
 echo "• Mål: the White Hand Black-arrow"
 echo ""
 
-# ⚡ LIGHTNING-ANGREP (Søker på kun karakternavn for å berge lørdagens missions)
+# ⚡ LIGHTNING-ANGREP (Søker nå smart på kun karakternavn)
 echo "⚡ TOPP KRAFT-ANGREP (LIGHTNING):"
-grep "$KARAKTER" "$TELEMETRI_LOGG" | grep -i "Epic Conclusion\|Shocking Words" | head -n 6 | sed 's/^.*\] //' | while read -r l; do
-    RENS_LINJE=$(echo "$l" | sed -E "s/^$KARAKTER scored (an? )?//; s/ for //; s/ to Morale\.$//")
+grep "$KARAKTER" "$VALGT_FIL" | grep -i "Epic Conclusion\|Shocking Words" | head -n 6 | while read -r l; do
+    # Fjerner tidsstempler [00:00:00] hvis de finnes i råteksten, og rensker setningen
+    REN_LINJE=$(echo "$l" | sed -E 's/^\[.+\] //')
+    RENS_LINJE=$(echo "$REN_LINJE" | sed -E "s/^$KARAKTER scored (an? )?//; s/ for //; s/ to Morale\.$//")
     echo "• $RENS_LINJE"
 done
 
-# 🔥 FIRE-ANGREP (Søker på kun karakternavn for å berge lørdagens missions)
+# 🔥 FIRE-ANGREP (Søker nå smart på kun karakternavn)
 echo ""
 echo "🔥 TOPP KRAFT-ANGREP (FIRE):"
-grep "$KARAKTER" "$TELEMETRI_LOGG" | grep -i "Essence of Flame" | head -n 6 | sed 's/^.*\] //' | while read -r l; do
-    RENS_LINJE=$(echo "$l" | sed -E "s/^$KARAKTER scored (an? )?//; s/ for //; s/ to Morale\.$//")
+grep "$KARAKTER" "$VALGT_FIL" | grep -i "Essence of Flame" | head -n 6 | while read -r l; do
+    REN_LINJE=$(echo "$l" | sed -E 's/^\[.+\] //')
+    RENS_LINJE=$(echo "$REN_LINJE" | sed -E "s/^$KARAKTER scored (an? )?//; s/ for //; s/ to Morale\.$//")
     echo "• $RENS_LINJE"
 done
 
@@ -62,10 +65,11 @@ echo ""
 echo "💚 OVERLEVELSE & HELBREDELSE (OPPSUMMERT & TOPPNOTERINGER):"
 
 TMP_HEALS=$(mktemp)
-grep "$KARAKTER" "$TELEMETRI_LOGG" | grep -i "applied a heal" | sed 's/^.*\] //' > "$TMP_HEALS"
+grep "$KARAKTER" "$VALGT_FIL" | grep -i "applied a heal" | sed -E 's/^\[.+\] //' > "$TMP_HEALS"
 
 if [ -s "$TMP_HEALS" ]; then
-    sed -E "s/^.*Lvl:[a-zA-Z0-9]+ //; s/ applied a heal.*//" "$TMP_HEALS" | grep -v -E "^$KARAKTER$" | sort -u | while read -r ferdighet; do
+    # Henter ut unike ferdighetsnavn som har levert healing i filen
+    sed -E "s/ applied a heal.*//" "$TMP_HEALS" | grep -v -E "^$KARAKTER$" | sort -u | while read -r ferdighet; do
         [ -z "$ferdighet" ] && continue
 
         FERDIGHET_DATA=$(grep "$ferdighet" "$TMP_HEALS")
@@ -91,6 +95,7 @@ else
 fi
 rm -f "$TMP_HEALS"
 
+echo ""
 echo "$DIV"
 echo "🔗 OPEN SOURCE & GITHUB-LENKER"
 echo "$DIV"
@@ -107,9 +112,11 @@ echo ""
 echo "https://discord.gg/7bwAhKU9h"
 echo "$DIV"
 echo ""
-echo "========================================================="
+echo "$DIV"
+echo ""
+echo "=============================================================="
 echo "🏷 SØKEORD & EMNEKNAGGER (TAGS)"
-echo "========================================================="
+echo "=============================================================="
 echo "#Shorts #TechShorts #LinuxMyth #TechFreedom #LinuxForBeginners"
 echo "#HardwareOptimization #TerminalTips #AICoPilot #BareheadedTech"
 echo "#Wils-Linux-Legacy #AntiEWaste #Kubuntu #OpenSource #GitHub"

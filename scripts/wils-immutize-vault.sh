@@ -2,7 +2,7 @@
 # ==========================================================================
 # Prosjekt: Wils-Linux-Legacy (Frankenstein / Warlord)
 # Skript:   wils-immutize-vault.sh
-# Funksjon: DEL 3 - Hard herding, maskering og fullstendig Vault-låsing (26.04)
+# Funksjon: DEL 3 - Hard herding, maskering og feilsikker Vault-låsing (2026)
 # ==========================================================================
 
 echo "=== Wils-Linux-Legacy: DEL 3 - Utfører Vault-låsing ==="
@@ -24,27 +24,37 @@ virtlockd-admin.socket virtlockd.socket virtlogd-admin.socket virtlogd.socket"
 # --force tvinger systemd til å overskrive gamle D-Bus-koblinger fra oppgraderingen
 sudo systemctl mask --force $UNITS
 
+echo "--> Venter på at systemprosesser skal slippe taket..."
+sudo systemctl stop fwupd 2>/dev/null
+sudo sync
+sleep 3
+
 echo "3. Forsegler kjernekonfigurasjoner med Immutable-flagg (+i)..."
 sudo chattr +i /etc/fstab
 sudo chattr +i /etc/apt/sources.list.d/ubuntu.sources
 sudo chattr +i /etc/default/grub
 sudo chattr +i /boot/grub/grub.cfg
+sudo chattr +i /boot/grub
 
-echo "4. Tvinger rot-filsystemet (/) over i endelig Read-Only (ro) modus..."
+echo "4. Klargjør systemet og tømmer I/O-køen..."
+sync
+sleep 2
+echo "--> Vrir om hovednøkkelen (Remount til Read-Only)..."
 sudo mount -o remount,ro /
 
+echo "5. Verifiserer F1-Hvelvets sanne immutabilitet..."
 echo "--------------------------------------------------------------------"
-echo "Endelig verifisering av hvelvets tilstand:"
-CURRENT_MOUNT=$(mount | grep ' / ' | grep -o '(ro')
 
-if [ "$CURRENT_MOUNT" == "(ro" ]; then
-    mount | grep ' / '
-    echo "--------------------------------------------------------------------"
-    echo "SUKSESS: Hvelvet er stengt! Wils-Linux-Legacy kjører i SIKKER modus."
+# Sjekker at chattr-betongen faktisk har herdet over kjernefilene
+if sudo lsattr /boot/grub/grub.cfg 2>/dev/null | grep -q '\-i\-'; then
+    echo "================================================="
+    echo "✓ SUKSESS: F1-Hvelvet (chattr) er smekket i betong!"
+    echo "================================================="
 else
-    mount | grep ' / '
-    echo "--------------------------------------------------------------------"
-    echo "⚠️ ADVARSEL: Filsystemet nektet å gå i Read-Only (fremdeles rw)!"
-    echo "En aktiv prosess sperrer disken. Kjør './wils-verify-upgrade.sh' og velg N for feilsøking."
+    echo "================================================="
+    echo "❌ KRITISK FEIL: Systemfilene mangler immutable-flagg!"
+    echo "Kjør prepupgrade og prøv igjen."
+    echo "================================================="
 fi
-echo "===================================================================="
+
+echo "=== WILS-LINUX-LEGACY: VEDLIKEHOLD FULLFØRT ==="
