@@ -59,16 +59,8 @@ Tiden vår er vårt gull. Disse verktøyene er bygget for å fjerne friksjon og 
 ## 📜 Wils Linux Legacy - Open Source Declaration
 
 ### Norsk
-Jeg vil gi en stor takk til min gode venn Karina Lopez 
-for å se meg og min dedikasjon til Linux og gi meg tro 
-på at dette er noe flere vil kunne like!
-
-Uten Karina's interesse hadde jeg ikke innsett at 
-dette vil hjelpe mange andre til fullstendig Linux Frihet!
-
-Karina Lopez er min store inspirasjon til å lage dette 
-lille hjørnet av internet til et sted for gammel maskinvare 
-som ikke lenger har pengenes verdi i dagens digitale kappløp.
+Jeg håper at min dedikasjon til Linux i dette 
+lille hjørnet av internet blir et sted til å få liv i gammel maskinvare som ikke lenger har pengenes verdi i dagens digitale kappløp.
 
 Et kappløp uten sidestykke som faktisk spiser opp planetens 
 begrensede ressurser i et tempo som jeg nekter å følge slavisk!
@@ -89,14 +81,6 @@ OG BRUKER ALT JEG PUBLISERER I MIN EGEN HVERDAG!**
 ### English
 I want to give a big thank you to my good friend Karina Lopez for seeing 
 me and my dedication to Linux and giving me faith that this is something more people will enjoy!
-
-Without her interest, I wouldn't have realized that this 
-will help many others to complete Linux freedom, Thank you Karina!
-
-Karina Lopez is my source of inspiration and i am from the 
-deepest of my heart greatful for her acknowledgement of 
-my efforts and giving me the needed push to get this DONE!
-
 
 ## Open Source Licensing Policy
 
