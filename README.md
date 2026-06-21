@@ -60,15 +60,13 @@ Tiden vår er vårt gull. Disse verktøyene er bygget for å fjerne friksjon og 
 
 ### Norsk
 Jeg håper at min dedikasjon til Linux i dette 
-lille hjørnet av internet blir et sted til å få liv i gammel maskinvare som ikke lenger har pengenes verdi i dagens digitale kappløp.
+lille hjørnet av internet blir et sted til å få nytt liv i gammel maskinvare som ikke lenger har pengenes verdi i dagens digitale kappløp.
 
-Et kappløp uten sidestykke som faktisk spiser opp planetens 
-begrensede ressurser i et tempo som jeg nekter å følge slavisk!
+Et kappløp uten sidestykke som faktisk spiser opp planetens begrensede ressurser i et tempo som jeg nekter å følge slavisk!
 
 Dette verktøyet er publisert som Open Source og 
 kan brukes fritt etter eget forgodtbefinnende.
-Både til å lage en tjeneste for å tjene til livets opphold 
-eller gjenopplive gammel hardware til fordums prakt!
+Både til å lage en tjeneste for å tjene til livets opphold eller gjenopplive gammel hardware til fordums prakt!
 
 JEG MENER VI ALLE VIL TJENE PÅ DETTE OG ALLER MEST VÅR KJÆRE LILLE PLANET!
 
@@ -162,40 +160,27 @@ older hardware in order to cope with todays stressed economy worldwide!
 
 Welcome to you all to use any and all of my ideas to implement where found useful!
 
-==============================
+---
 🏷 SØKEORD & EMNEKNAGGER (TAGS)
-==============================
-#Arkona​ #Heilung​ #KatiRan​ #BlazeOfPerdition​ #Kamelot​ #Savatage​ #Korpiklaani​ #BlindGuardian​
+---
+#Arkona​ #Heilung​ #KatiRan​ #BlazeOfPerdition​ 
+#Kamelot​ #Savatage​ #Korpiklaani​ #BlindGuardian​
 #Havukruun​ #Ihsahn​ #Tyr​ #Ensiferum​ #Thaurorod​ #TwilightForce​ #ThreeDaysGrace​ #TheKillers​
-#Helloween​ #OzzyOsbourne​ #IronMaiden​ #KISS​ #Nazareth​ #Metallica​ #DIO​ #DeepPurple​ #DireStraits​
-#Sinner​ #WASP​ #Whitesnake​ #MelodicDeathMetal​ #PowerMetal​ #HeavyMetal​ #HardRock​ #KeltiskMetal​
-#UrMusikk​ #JoikMetal​ #PaganMetal​ #MetalGaming​ #GamingSoundtrack​ #AtmosphericMetal​
-#MythologicalMetal​ #GaulishMetal​ #CelticFolk​ #SymphonicRock​
-#LordOfTheRingsOnlineLinux​ #GundabadMissions​ #ClegurMissions​ #HerneMissions​ #ZajanaMissions​
+#Helloween​ #OzzyOsbourne​ #IronMaiden​ #KISS​ 
+#Nazareth​ #Metallica​ #DIO​ #DeepPurple​ 
+#DireStraits​ #Sinner​ #WASP​ #Whitesnake​ #MelodicDeathMetal​ #PowerMetal​ #HeavyMetal​ 
+#HardRock​ #KeltiskMetal​ #UrMusikk​ #JoikMetal​ #PaganMetal​ #MetalGaming​ #GamingSoundtrack​ #AtmosphericMetal​ #MythologicalMetal​ #GaulishMetal​ #CelticFolk​ #SymphonicRock​ #LordOfTheRingsOnlineLinux​ #GundabadMissions​ #ClegurMissions​ #HerneMissions​ #ZajanaMissions​
 #AnnakKhurfu​ #LotROGameplay​ #MiddleEarthGaming​ #LinuxMMORPG​ #LotRO2026​ #LotROUpdate​ #Umbar​
 #SouthIthilien​ #LotROCombat​ #LotROMissions​ #LotROGuide​ #StandingStoneGames​
 #KeyboardGaming​ #MouseFreeGaming​ #PrecisionGamingWithKeyboard​ #PureKeyboardGaming​
 #GuerillaGamingOnKeyboard​ #OnlyKeyboardGaming​ #MmorpgOnKeyboard​ #KeyboardOnlyMmorpg​
-#GamingWithoutMouse​ #GuerillaGaming​ #SkillQueue​ #NoMouseCombat​
-#AntiEWaste​ #GreenPc​ #SaveThePlanet​ #EcoFriendlyGaming​ #RepurposePC​ #EcoModeGaming​
-#NoEwasteGaming​ #SaveThePlanetGaming​ #NatureFriendlyGaming​ #GreenGaming​ #EcoFriendlyProfile​
-#LowBudgetGaming​ #RepurposedGaming​ #AntiWindows​ #MicrosoftFreedom​ #TechFreedom​
-#LinuxFreedom​ #WineWayland​ #Vulkan​ #MangoHud​ #SimpleScreenRecorder​ #PerformanceStripping​
-#DisableBaloo​ #KernelTuning​ #LinuxKernel7​ #BtrfsSubvolumes​ #LinuxOptimization​ #StreamlineLinux​
-#LinuxAdministrator​ #SystemStripping​ #NoMoreSnap​ #DebianGaming​ #UbuntuGaming​ #LinuxCustomization​
-#OpenSourceGaming​ #PCGamingOnLinux​ #FreeOS​ #FreeGamingOS​ #BareMetalLinux​ #TerminalTips​ #AICoPilot​
-#BareheadedTech​ #LinuxForBeginners​ #LinuxMyth​ #TechShorts​ #Shorts​
+#GamingWithoutMouse​ #GuerillaGaming​ #SkillQueue​ #NoMouseCombat​ #AntiEWaste​ #GreenPc​ #SaveThePlanet​ #EcoFriendlyGaming​ #RepurposePC​ #EcoModeGaming​
+#NoEwasteGaming​ #SaveThePlanetGaming​ #NatureFriendlyGaming​ #GreenGaming​ #EcoFriendlyProfile​ #LowBudgetGaming​ #RepurposedGaming​ #AntiWindows​ #MicrosoftFreedom​ #TechFreedom​ #LinuxFreedom​ #WineWayland​ #Vulkan​ #MangoHud​ #SimpleScreenRecorder​ #PerformanceStripping​ #DisableBaloo​ #KernelTuning​ #LinuxKernel7​ #BtrfsSubvolumes​ #LinuxOptimization​ #StreamlineLinux​ #LinuxAdministrator​ #SystemStripping​ #NoMoreSnap​ #DebianGaming​ #UbuntuGaming​ #LinuxCustomization​
+#OpenSourceGaming​ #PCGamingOnLinux​ #FreeOS​ #FreeGamingOS​ #BareMetalLinux​ #TerminalTips​ #AICoPilot​ #BareheadedTech​ #LinuxForBeginners​ #LinuxMyth​ #TechShorts​ #Shorts​
 #AceMagicianAM08​ #Ryzen7​ #MiniPCGaming​ #FrankensteinLaptop​ #Samsung12GBRAM​
-#HardwareOptimization​ #PCMonitor​ #ZachryAmplifier​ #SonySubwoofer​
-#AudioEngineering​ #GalvanicIsolator​ #GroundLoopFix​ #HomeTheaterAudio​
-#PAEquipment​ #Panzerdroideka​ #WarlordLogsPublic​ #TelemetryData​
-#CombatLogAnalysis​ #EdisonWayMethodology​ #DataDrivenGaming​
-#IfItIsntDocumentedItDidntHappen​ #OpenSource​ #GitHub​ #DataAnalysis​
-#CombatLogs​
-#TolkienGaming​ #Eriador​ #KhazadDum​ #LotROCommunity​ #RuneKeeperDPS​ #LotROTactics​
-#DragonFlyCobalt​ #VModaAudio​ #AudioQuest​ #HiResAudio​ #CambridgeSoundWorks​ #DesktopAudio​
-#AudioMonitor​ #PipeWire​ #KDEFrameworks6​ #KDEPlasma6​ #Kubuntu25​ #WaylandCompositor​
-#LinuxTerminal​ #ShellScripting​ #BashScripting​ #SlavicMetal​ #VikingMetal​ #DarkFolk​
+#HardwareOptimization​ #PCMonitor​ #ZachryAmplifier​ #SonySubwoofer​ #AudioEngineering​ #GalvanicIsolator​ #GroundLoopFix​ #HomeTheaterAudio​
+#PAEquipment​ #Panzerdroideka​ #WarlordLogsPublic​ #TelemetryData​ #CombatLogAnalysis​ #EdisonWayMethodology​ #DataDrivenGaming​
+#IfItIsntDocumentedItDidntHappen​ #OpenSource​ #GitHub​ #DataAnalysis​ #CombatLogs​ #TolkienGaming​ #Eriador​ #KhazadDum​ #LotROCommunity​ #RuneKeeperDPS​ #LotROTactics​ #DragonFlyCobalt​ #VModaAudio​ #AudioQuest​ #HiResAudio​ #CambridgeSoundWorks​ #DesktopAudio​ #AudioMonitor​ #PipeWire​ #KDEFrameworks6​ #KDEPlasma6​ #Kubuntu25​ #WaylandCompositor​ #LinuxTerminal​ #ShellScripting​ #BashScripting​ #SlavicMetal​ #VikingMetal​ #DarkFolk​
 #NordicMythology​ #EpicBattles​ #GamingMusic​ #MMORPGCommunity​ #ActionRPG​ #TechEnthusiast​
 #LinuxSetup​ #OpenSourceSoftware​ #CustomPC​ #PCBuilds​ #LinuxTips​ #PCGamingSetup​
 #Moonsorrow​ #AngusMcSIX​ #Skalmold​ #Wardruna​ #Vardruna​ #JumaltenAika​ #NordicFolkMetal​
