@@ -1,6 +1,5 @@
 ## 🎖️ WARLORD PERFORMANCE CERTIFICATE
 
-<<<<<<< HEAD
 <img src="Wils-LotRO-Parametres-Displayed.png" alt="Warlord Performance Banner" width="800">
 =======
 ![Warlord Performance Certificate](warlord_performance_certificate.png)
