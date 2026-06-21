@@ -162,23 +162,50 @@ older hardware in order to cope with todays stressed economy worldwide!
 
 Welcome to you all to use any and all of my ideas to implement where found useful!
 
-
-==========================================
+==============================
 🏷 SØKEORD & EMNEKNAGGER (TAGS)
-==========================================
-#Shorts​ #TechShorts​ #LinuxMyth​ #TechFreedom​ #LinuxForBeginners​
-#HardwareOptimization​ #TerminalTips​ #AICoPilot​ #BareheadedTech​
-#Wils​-Linux-Legacy #AntiEWaste​ #Kubuntu​
-#OpenSource​ #GitHub​ #DataAnalysis​ #CombatLogs​ #LinuxFreedom​
-#LotRO​ #GuerillaGaming​ #MMORPG​ #SkillQueue​ #NoMouseCombat​
-#LinuxGaming​ #TheEdisonWay​ #BareMetalLinux​ #AntiWindows​
-#MicrosoftFreedom​ #GreenPc​ #SaveThePlanet​ #EcoFriendlyGaming​
-#KdePlasma​ #LinuxKubuntu​ #FreeOS​ #FreeGamingOS​ #KeyboardGaming​
-#MouseFreeGaming​ #PrecisionGamingWithKeyboard​ #PureKeyboardGaming​
-#GuerillaGamingOnKeyboard​ #OnlyKeyboardGaming​ #MmorpgOnKeyboard​
-#KeyboardOnlyMmorpg​ #GamingWithoutMouse​ #RepurposePC​
-#EcoModeGaming​ #NoEwasteGaming​ #SaveThePlanetGaming​
-#NatureFriendlyGaming​ #GreenGaming​ #EcoFriendlyProfile​
-#LowBudgetGaming​ #RepurposedGaming
-#Darkweb #DarkLinux #LinuxHack #LinuxForNovises
-#LinuxForBeginners #LinuxForEveryone #LinuxUseful #LinuxEveryday #DayliyDriver #FreeSoftware #FreeOperatingSystem #KdePlasma #Kde #OpenSource #FreedomToSpeak #InternetOnOlderHardware #OfficeOnLinux #GraphicsToolsForFree #VideoEditingForFree #LinuxPublishingPlatform #YoyTubePublisher #FreeYouTubeVideoPublisher #FreeHardwareTools #FreeEditingTools #FreeForEveryDayJournalists #FreeWriterSoftware
+==============================
+#Arkona​ #Heilung​ #KatiRan​ #BlazeOfPerdition​ #Kamelot​ #Savatage​ #Korpiklaani​ #BlindGuardian​
+#Havukruun​ #Ihsahn​ #Tyr​ #Ensiferum​ #Thaurorod​ #TwilightForce​ #ThreeDaysGrace​ #TheKillers​
+#Helloween​ #OzzyOsbourne​ #IronMaiden​ #KISS​ #Nazareth​ #Metallica​ #DIO​ #DeepPurple​ #DireStraits​
+#Sinner​ #WASP​ #Whitesnake​ #MelodicDeathMetal​ #PowerMetal​ #HeavyMetal​ #HardRock​ #KeltiskMetal​
+#UrMusikk​ #JoikMetal​ #PaganMetal​ #MetalGaming​ #GamingSoundtrack​ #AtmosphericMetal​
+#MythologicalMetal​ #GaulishMetal​ #CelticFolk​ #SymphonicRock​
+#LordOfTheRingsOnlineLinux​ #GundabadMissions​ #ClegurMissions​ #HerneMissions​ #ZajanaMissions​
+#AnnakKhurfu​ #LotROGameplay​ #MiddleEarthGaming​ #LinuxMMORPG​ #LotRO2026​ #LotROUpdate​ #Umbar​
+#SouthIthilien​ #LotROCombat​ #LotROMissions​ #LotROGuide​ #StandingStoneGames​
+#KeyboardGaming​ #MouseFreeGaming​ #PrecisionGamingWithKeyboard​ #PureKeyboardGaming​
+#GuerillaGamingOnKeyboard​ #OnlyKeyboardGaming​ #MmorpgOnKeyboard​ #KeyboardOnlyMmorpg​
+#GamingWithoutMouse​ #GuerillaGaming​ #SkillQueue​ #NoMouseCombat​
+#AntiEWaste​ #GreenPc​ #SaveThePlanet​ #EcoFriendlyGaming​ #RepurposePC​ #EcoModeGaming​
+#NoEwasteGaming​ #SaveThePlanetGaming​ #NatureFriendlyGaming​ #GreenGaming​ #EcoFriendlyProfile​
+#LowBudgetGaming​ #RepurposedGaming​ #AntiWindows​ #MicrosoftFreedom​ #TechFreedom​
+#LinuxFreedom​ #WineWayland​ #Vulkan​ #MangoHud​ #SimpleScreenRecorder​ #PerformanceStripping​
+#DisableBaloo​ #KernelTuning​ #LinuxKernel7​ #BtrfsSubvolumes​ #LinuxOptimization​ #StreamlineLinux​
+#LinuxAdministrator​ #SystemStripping​ #NoMoreSnap​ #DebianGaming​ #UbuntuGaming​ #LinuxCustomization​
+#OpenSourceGaming​ #PCGamingOnLinux​ #FreeOS​ #FreeGamingOS​ #BareMetalLinux​ #TerminalTips​ #AICoPilot​
+#BareheadedTech​ #LinuxForBeginners​ #LinuxMyth​ #TechShorts​ #Shorts​
+#AceMagicianAM08​ #Ryzen7​ #MiniPCGaming​ #FrankensteinLaptop​ #Samsung12GBRAM​
+#HardwareOptimization​ #PCMonitor​ #ZachryAmplifier​ #SonySubwoofer​
+#AudioEngineering​ #GalvanicIsolator​ #GroundLoopFix​ #HomeTheaterAudio​
+#PAEquipment​ #Panzerdroideka​ #WarlordLogsPublic​ #TelemetryData​
+#CombatLogAnalysis​ #EdisonWayMethodology​ #DataDrivenGaming​
+#IfItIsntDocumentedItDidntHappen​ #OpenSource​ #GitHub​ #DataAnalysis​
+#CombatLogs​
+#TolkienGaming​ #Eriador​ #KhazadDum​ #LotROCommunity​ #RuneKeeperDPS​ #LotROTactics​
+#DragonFlyCobalt​ #VModaAudio​ #AudioQuest​ #HiResAudio​ #CambridgeSoundWorks​ #DesktopAudio​
+#AudioMonitor​ #PipeWire​ #KDEFrameworks6​ #KDEPlasma6​ #Kubuntu25​ #WaylandCompositor​
+#LinuxTerminal​ #ShellScripting​ #BashScripting​ #SlavicMetal​ #VikingMetal​ #DarkFolk​
+#NordicMythology​ #EpicBattles​ #GamingMusic​ #MMORPGCommunity​ #ActionRPG​ #TechEnthusiast​
+#LinuxSetup​ #OpenSourceSoftware​ #CustomPC​ #PCBuilds​ #LinuxTips​ #PCGamingSetup​
+#Moonsorrow​ #AngusMcSIX​ #Skalmold​ #Wardruna​ #Vardruna​ #JumaltenAika​ #NordicFolkMetal​
+#IcelandicMetal​ #VikingFolk​ #PaganFolk​ #EpicPowerMetal​ #HeavyMetalGamer​ #FolkMetalGamer​
+#NordicRoots​ #TidalDiscovery​ #MusicForGaming​ #LotROSoundtrack​ #FantasyMetal​ #BattleMusic​
+#EpicGamingMusic​ #MetalAndGaming​ #AtmosphericFolk​ #DarkPaganMetal​ #WarlordSoundtrack​
+#MetalHeadGamer​ #VikingGaming​
+
+This is the way
+
+Wils
+
+wils@WARLORD:~$
