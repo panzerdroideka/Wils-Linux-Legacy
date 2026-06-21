@@ -1,29 +1,32 @@
-## 🎖️ WARLORD PERFORMANCE CERTIFICATE
-
+---
+ 🎖️ WARLORD PERFORMANCE CERTIFICATE
+---
 <img src="Wils-LotRO-Parametres-Displayed.png" alt="Warlord Performance Banner" width="800">
-=======
+---
 ![Warlord Performance Certificate](warlord_performance_certificate.png)
->>>>>>> d2b6b7a (Update README.md)
-
-### Extreme Linux Gaming & Tactical Fluidity
+ d2b6b7a (Update README.md)
+---
+### Extreme Linux Gaming & Tactical Fluidity ###
+---
 
 *   **Rig Name:** AceMagician W1 "WARLORD" (2026 Model)
 *   **OS / Environment:** Kubuntu Linux (Wayland / Naked-Wine / MangoHud)
 *   **Engine Core:** TkG-Kernel `6.18.34-tkg--wils-v2.0` (Performance Governor)
-
-#### 🔥 The Runic Skill-Queue Engine
+---
+ 🔥 The Runic Skill-Queue Engine
 By binding zero-cooldown, instant-cast abilities to primary keys (`e, r, t`), 
 and syncing with movement (`w, y`), internal global queue delays are completely eliminated. 
 Backed by the aggressive CPU-scheduling of the custom TkG-Kernel, 
 inputs are captured at a microsecond level—delivering up 
 to **40 full frames per second directly inside intense combat spikes**.
-
-
+---
 ⚔️ Wil's Way of Amazing LotRO Life ⚔️ 
-
-"If it isn't documented, it didn't happen." – The Warlord
-
+---
+"If it isn't documented, it didn't happen."
+ – The Warlord
+---
 Wils-Linux-Legacy!
+---
 
 GitHub:
 https://github.com/panzerdroideka/Wils-Linux-Legacy
@@ -38,25 +41,26 @@ https://www.youtube.com/@willyolsen1017
 
 #LotRO #LinuxGaming #Kubuntu #Wayland #DXVK #RuneKeeper #MiddleEarth #GamingOnLinux
 
-# 🛠️ Wils Linux Legacy
-
-**Velkommen til mitt digitale maskinrom! / Welcome to my digital engine room!**
+---
+ 🛠️ Wils Linux Legacy
+---
+Velkommen til mitt digitale maskinrom! / Welcome to my digital engine room!**
 
 Mitt navn er Willy Olsen, og jeg drifter dette fra Elverum, Norge.
 
 Dette arkivet er resultatet av min lidenskap for Linux, 
 system-optimalisering (Immutability), og ren maskinvare-geriljataktikk.
 
-Målet mitt er å bygge "Hjemmet som alltid virker" – et stabilt, 
-lynraskt og uknuselig system, enten det kjører på min eldre "Frankenstein" 
+Målet mitt er å bygge "Hjemmet som alltid virker"
+ – et stabilt, lynraskt og uknuselig system, enten det kjører på min eldre "Frankenstein" 
 bærbare Samsung NP370R5E fra 2013 eller min nye 
 2026model kraftige "Warlord" W1 MiniPC fra AceMagician.
 
 Tiden vår er vårt gull. Disse verktøyene er bygget for å fjerne friksjon og spare tid.
 
 ---
-
-## 📜 Wils Linux Legacy - Open Source Declaration
+ 📜 Wils Linux Legacy - Open Source Declaration
+---
 
 ### Norsk
 Jeg håper at min dedikasjon til Linux i dette 
@@ -188,6 +192,7 @@ Welcome to you all to use any and all of my ideas to implement where found usefu
 #NordicRoots​ #TidalDiscovery​ #MusicForGaming​ #LotROSoundtrack​ #FantasyMetal​ #BattleMusic​
 #EpicGamingMusic​ #MetalAndGaming​ #AtmosphericFolk​ #DarkPaganMetal​ #WarlordSoundtrack​
 #MetalHeadGamer​ #VikingGaming​
+---
 
 This is the way
 
