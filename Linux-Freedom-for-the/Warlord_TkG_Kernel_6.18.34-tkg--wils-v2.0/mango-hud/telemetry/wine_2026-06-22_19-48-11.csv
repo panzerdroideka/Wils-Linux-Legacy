@@ -1,0 +1,4 @@
+os,cpu,gpu,ram,kernel,driver,cpuscheduler
+Ubuntu 26.04 LTS,AMD Ryzen 7 255 w/ Radeon 780M Graphics,AMD Radeon 780M Graphics (RADV PHOENIX),32124680,6.18.34-tkg--wils-v2.0,,performance
+fps,frametime,cpu_load,cpu_power,gpu_load,cpu_temp,gpu_temp,gpu_core_clock,gpu_mem_clock,gpu_vram_used,gpu_power,ram_used,swap_used,process_rss,cpu_mhz,elapsed
+34.8443,28.6991,6.47922,9.4696,81,71,77,2596,2800,0.480209,38,10.3763,0,0,4618,413084356
