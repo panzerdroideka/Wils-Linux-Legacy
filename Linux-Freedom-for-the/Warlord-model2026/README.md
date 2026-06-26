@@ -1,3 +1,5 @@
+Sharing my love and passion for this, , is caring, not the income!
+
 # Linux Freedom for the Warlord
 
 *[Scroll down for Norwegian version]*

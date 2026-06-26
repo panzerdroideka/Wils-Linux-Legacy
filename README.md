@@ -1,3 +1,4 @@
+Sharing my love and passion for this, , is caring, not the income!
 ---
  🎖️ WARLORD PERFORMANCE CERTIFICATE
 ---
