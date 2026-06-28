@@ -1,0 +1,3 @@
+# Wils-Linux-Legacy: Overvåking av F1-Hvelvet
+-w /etc/default/grub -p wa -k grub_monitor
+-w /home/wils/Scripts -p wa -k scripts_monitor
