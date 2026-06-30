@@ -1,3 +1,17 @@
+This kind of hardening of your Linux System is very very restrictive!
+
+This kind of Titan welding shuts out your apt install and flatpak install, 
+you have to be sure to know the limitations of your rig AFTER HARDENING THIS WAY!
+
+If you go on hardening this way you will be safe from a lot, TO SAFE in my opinion!
+
+I had to step back to medium hardening, this MAX hardening locked me out 
+of mye GSR (GpuScreenRecording tool) 
+To capture video from LotRO and editing this rawmaterial 
+with sound and creating shorts with the highlights of any captured event 
+was impossible with MAX hardening of my Kubuntu!
+
+
 # 🛡️ Warlord F1-Bunker: Total Immutability & Hardware Control
 
 **[NORSK]**
