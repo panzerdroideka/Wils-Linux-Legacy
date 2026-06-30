@@ -1,0 +1,916 @@
+# ====================================================================
+# Willy sine system-snarveier og aliaser
+# ====================================================================
+
+# ====================================================================
+# Det tretrinns herdede vedlikeholdsmaskineriet
+# ====================================================================
+alias prepupgrade='~/scripts/wils-prep-upgrade.sh'
+alias rep='~/scripts/vedlikehold.sh'
+alias verifyupgrade='~/scripts/wils-verify-upgrade.sh'
+
+# Standard ls-aliaser
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+# Vedlikehold og system
+alias temp='watch -n 2 sensors'
+alias opp='sudo apt update && sudo apt upgrade'
+alias rens="~/scripts/rens.sh"
+alias full='sudo apt full-upgrade'
+alias fix='sudo apt --fix-broken install'
+alias clean='sudo apt autoremove && sudo apt autoclean && sync'
+alias clear-cache="sudo /home/wils/scripts/clear-cache.sh"
+alias reboote='sudo rtcwake -m off -s 10'
+alias maale-reboot="sudo /home/wils/scripts/maale_reboot.sh"
+
+# Systemtilstand (Immutiserte snarveier)
+alias montert='mount | grep " / "'
+alias rootrw='sudo mount -o remount,rw /'
+alias rootro='sudo mount -o remount,ro /'
+alias greproot='sudo btrfs property get / ro && mount | grep " / "'
+alias langjournal='journalctl -xe'
+alias clearcache='sudo resolvectl flush-caches'
+
+# Verktøy og opptak
+alias obs='flatpak run md.obsidian.Obsidian --enable-features=UseOzonePlatform --ozone-platform=wayland'
+alias gsr='flatpak run com.dec05eba.gpu_screen_recorder'
+alias stoprec='pkill -SIGINT -f gpu-screen-recorder'
+
+# Prosjekt- og publiseringsgateway
+alias dytt='~/scripts/obsidian_sync.sh'
+alias arkiv='~/scripts/logg_arkiv.sh'
+alias ytgateway='/home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/venv/bin/python /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/scripts/yt_queue_worker.py'
+alias gitsync='~/scripts/gitsync.sh'
+alias halloffame='echo -e "\n=== HALL OF FAME (TOPP 5 RASKESTE) ==="; sort -n ~/boot_historikk.log | head -n 5'
+
+# Alias for synkronisering av Warlord-Logs til offentlig bevis-arkiv
+alias push-status='echo "=== Starter synkronisering av Warlord v2.0-bevis ===" && \
+cd /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/ && \
+git add Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/lotro/combat/Combat.log && \
+git add Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/mango-hud/telemetry/ && \
+git commit -m "Status-bevis: Kamp- og telemetrilogger for Warlord-v2.0 - $(date +%Y-%m-%d_%H:%M)" && \
+git push origin main && \
+cd - > /dev/null && \
+echo "=== Warlord v2.0-bevis er nå live på GitHub! ==="'
+
+# Wil's Kamp Telemetri
+alias kamptelemetri='sudo /home/wils/scripts/kamp_telemetri.sh'
+alias yt-stats='~/scripts/yt-stats.sh'
+alias champ='~/scripts/yt-stats.sh'
+alias mission-end='~/scripts/mission_end.sh'
+alias manuell_battlereport='sudo /home/wils/scripts/manuell_battlereport.sh'
+
+# Wil's Etterbrenner (Post-analyse av glemte kamper)
+alias etterbrenner='sudo /home/wils/scripts/etterbrenner.sh'
+
+
+# ====================================================================
+# PRIVATE LOTRO- LOGG OG TELEMETRIARKIVERING
+# ====================================================================
+alias arkiver-private='
+echo "🗄️ Starter gerilja-arkivering av private logger...";
+TIDSSTEMPEL=$(date "+%Y-%m-%d_%H-%M-%S");
+PRIVATE_REPO="$HOME/GitHub/panzerdroideka/Warlord-Logs-Private";
+COMBAT_DIR="$PRIVATE_REPO/LotRO/Combat";
+TELEMETRY_DIR="$PRIVATE_REPO/MangoHud/Telemetry";
+
+if [ -d "$HOME/Games/WARLORDLOTRO/Spillfiler" ]; then
+    mv "$HOME/Games/WARLORDLOTRO/Spillfiler"/Combat_*.txt "$COMBAT_DIR/" 2>/dev/null;
+    echo "  -> Kamp-logger flyttet til $COMBAT_DIR";
+fi;
+
+mv "$HOME"/wine_*.csv "$TELEMETRY_DIR/" 2>/dev/null;
+
+if [ -d "$PRIVATE_REPO" ]; then
+    cd "$PRIVATE_REPO" || exit;
+    echo "📥 Henter siste endringer fra GitHub...";
+    git pull origin main --rebase || { echo "❌ Pull feilet!"; exit 1; };
+    if [[ -n $(git status --porcelain) ]]; then
+        echo "📤 Nye logger funnet! Pusher til Warlord-Logs-Private...";
+        git add .;
+        git commit -m "Privat logg-innhenting: $TIDSSTEMPEL";
+        git push origin main && echo "✅ Alt trygt gjemt i hvelvet!";
+    else
+        echo "☕ Ingen nye filer å arkivere.";
+    fi;
+else
+    echo "❌ Feil: Fant ikke mappen $PRIVATE_REPO";
+fi'
+source ~/.bash_aliases
+source ~/.bashrc
+sync
+clear
+manuell_battlereport
+~/home/wils/./manuell_battlereport.sh
+~/home/wils/scripts/./manuell_battlereport.sh
+~/home/wils/scripts/manuell_battlereport.sh
+/home/wils/scripts/manuell_battlereport.sh
+source ~/.bash_aliases
+source ~/.bashrc
+manuell_battlereport
+~/home/wils/scripts/battlerepport.sh
+~/home/wils/scripts/manuell_battlerepport.sh
+/home/wils/scripts/manuell_battlerepport.sh
+/home/wils/scripts/.manuell_battlerepport.sh
+/home/wils/scripts/./manuell_battlerepport.sh
+~/home/wils/scripts/manuell_battlerepport.sh
+cd scrip+ts
+cd scripts
+./manuell_battlerepport.sh
+manuell_battlerepport.sh
+ls -las
+source ~/.bash_aliases
+cd ..
+manuell_battlereport
+source ~/.bash_aliases
+source ~/.bashrc
+sync
+manuell_battlereport
+source ~/.bash_aliases
+source ~/.bashrc
+manuell_battlereport
+etterbrenner
+arkiv
+arkiver_public
+gitsync
+mount | grep " / "
+verifuupgrade
+verifupgrade
+verifyupgrade
+mount | grep " / "
+exit
+prepupgrade
+rep
+verifyupgrafe
+verifyupgrade
+etterbrenner
+arkiv
+gitsync
+kamptelemetri
+manuell_battlereport
+sjekk-spagetti
+cd scripts
+./sjekk-spagetti
+ls
+./sjekk-spagetti.sh
+./sjekk_spagetti.sh
+cp ~/scripts/kamp_telemetri.sh /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/scripts/
+cp ~/scripts/etterbrenner.sh /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/scripts/
+cp ~/scripts/manuell_battlereport.sh /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/scripts/
+cp ~/scripts/sjekk_spagetti.sh /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/scripts/
+cp ~/scripts/* /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/scripts/ 2>/dev/null
+./sjekk_spagetti.sh
+gitsync
+cd ..
+c
+clear
+etterbrenner
+manuell_battlereport
+etterbrenner
+clear
+kamptelemetri
+manuell_battlereport
+etterbrenner
+manuell_battlereport
+prepupgrade
+rep
+verifyupgrade
+etterbrenner
+manuell_battlereport
+etterbrenner
+manuell_battlereport
+ETTERBRENNER
+etterbrenner
+manuell_battlereport
+kamptelemetri
+etterbrenner
+manuell_battlereport
+kamptelemetri
+manuell_battlereport
+kamptelemetri
+manuell_battlereport
+dytt
+prepupgrade
+rep
+verifyupgrade
+manuell_battlereport
+kamptelemetri
+manuell_battlereport
+kamptelemetri
+manuell_battlereport
+kamptelemetri
+manuell_battlereport
+kamptelemetri
+manuell_battlereport
+prepupgrade
+rep
+verifyupgrade
+manuell_battlereport
+prepupgrade
+rep
+verifyupgrade
+sudo dmesg >> dmesglog.txt
+sudo langjournal >> langjournal.txt
+sudo journalctl -xe >> langjournakl.txt
+nano ~/scripts/warlord_finale.sh
+chmod +x ~/scripts/warlord_finale.sh
+nano ~/.bash_aliases
+source ./bash_aliases
+source .bash_aliases
+finale
+source .bash_aliases
+finale
+source .bash_aliases
+finale
+cd /home/wils/GitHub/Warlord-Logs-Public/
+ls
+git status
+git remote -v
+git init
+git branch -m main
+git remote add origin https://github.com/panzerdroideka/Warlord-Logs-Public.git
+git add .
+git commit -m "Første init av Warlord logg-arkiv"
+git push -u origin main
+git add .
+git commit -m "Første init av Warlord logg-arkiv"
+git push -u origin main
+ssh-keygen -t ed25519 -C "wils@warlord"
+ssh-keygen -p -f ~/.ssh/id_ed25519
+clear
+finale
+git remote remove origin
+git remote add origin git@github.com:panzerdroideka/Warlord-Logs-Public.git
+git remote -v
+git push -u origin main
+git pull origin main --rebase
+git push -u origin main
+finale
+cd 
+clear
+manuell_battlereport
+finale
+manuell_battlereport
+finale
+dutt
+dytt
+manuell_battlereport
+prepupgrade
+rep
+gitrsync
+gitsync
+cd /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/
+git status
+cd 
+clear
+finale
+Qgitsync
+gitsync
+exit
+rep
+verifyupgrade
+manuell_battlereport
+prepupgrade
+rep
+gitsync
+rep
+verifyupgrade
+clear
+finale
+clear
+gitsync
+clea
+clear
+kamptelemetri
+manuell_battlereport
+kamptelemetri
+manuell_battlereport
+clear
+sync
+manuell_battlereport
+gitsync
+prepupgrade
+rep
+vreifyupgrade
+verifyupgrade
+manuell_battlereport
+finale
+dytt
+gitsync
+manuell_battlereport
+finale
+prepupgrade
+rep
+verifyupgrade
+mount | grep " / "
+manuell_battlereport
+flatpak install --system com.dec05eba.gpu_screen_recorder
+manuell_battlereport
+flatpak install flathub no.mhogstad.losslesscut
+flatpak install flathub jm权.mikaelfinstad.LosslessCut
+flatpak install flathub jm.mikaelfinstad.LosslessCut
+flatpak search losslesscut
+flatpak install LosslessCut
+manuell_battlereport
+prepupgrase
+prepupgrade
+rep
+verifyupgrade
+cd scripts
+chmod +x action_finner.sh
+ls -las
+nano make_short.sh
+chmod +x make_short.sh
+ls -las
+cd ..
+source ~/.bash_aliases
+source ~/.bashrc
+sync
+finnaction
+lagshort
+finnaction
+lagshort
+clear
+touch /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/mango-hud/telemetry/test.csv
+mv ~/.config/MangoHud/MangoHud.conf ~/.config/MangoHud/MangoHud.conf.bak
+~/.config/MangoHud/MangoHud.conf
+cd scripts
+chmod +x lagshort_auto.sh
+./lagshort_auto.sh Combat_20260623_2.txt din_video.mp4
+./lagshort_auto.sh Combat_20260623_2.txt /home/wils/Videoklipp/Eluveitie driven Rune-Keeper lvl144 Annak-Khurfu Missions - The Matron of The Keep.mp4
+chmod +x lagshort.sh
+./lagshort.sh Combat_20260623_2.txt "/home/wils/Videoklipp/Eluveitie driven Rune-Keeper lvl144 Annak-Khurfu Missions - The Matron of The Keep.mp4"
+~/scripts/lagshort.sh "/home/wils/Games/WARLORDLOTRO/Spillfiler/Combat_20260623_2.txt" "/home/wils/Videoklipp/Eluveitie driven Rune-Keeper lvl144 Annak-Khurfu Missions - The Matron of The Keep.mp4"
+cd ..
+ls
+cd Videoklipp
+ls
+ls -las
+wlr-randr
+sudo apt install wlr-randr
+wlr-randr
+sudo wlr-randr
+cd ..
+manuell_battlereport
+btop
+manuell_battlereport
+prepupgrade
+# Legg til PPA for å få tilgang til installasjonsverktøyet
+sudo add-apt-repository ppa:phoerious/davinci-resolve
+sudo apt update
+# Installer selve verktøyet som hjelper deg med å laste ned og pakke ut DaVinci
+sudo apt install davinci-resolve
+sudo add-apt-repository ppa:phoerious/davinci-resolve
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+flatpak install flathub org.shotcut.Shotcut
+# Legg til PPA for å få tilgang til installasjonsverktøyet
+sudo add-apt-repository ppa:phoerious/davinci-resolve
+sudo apt update
+# Installer selve verktøyet som hjelper deg med å laste ned og pakke ut DaVinci
+sudo apt install davinci-resolve
+manuell_battlereport
+clear
+manuell_battlereport
+btop
+prepupgrade
+rep
+verifyupgrade
+manuell_battlereport
+finale
+gitsync
+finale
+btop
+clear
+git pull --rebase origin main
+git pull origin main
+gitsync
+prepupgrade
+rep
+verifyupgrade
+clear
+cd GitHub
+ls
+cd panzerdroideka
+ls
+cd Wils-Linux-Legacy
+ls
+cd Wils_Way_to_YT_Shorts_heaven
+ls
+git init
+git remote add origin https://github.com/panzerdroideka/Wils-Linux-Legacy/Wils-Way_to_YT_Shorts_heaven.git
+git add .
+git commit -m "Initial commit: Dokumenterer Wils-metoden for Shorts"
+git push -u origin main
+git branch -M main
+git remote set-url origin https://github.com/panzerdroideka/Wils_Way_to_YT_Shorts_heaven.git
+git remote set-url origin https://github.com/panzerdroideka/Wils-Linux-Legacy/Wils_Way_to_YT_Shorts_heaven.git
+mv READEME.md README.md
+git add README.md
+git commit -m "Rettet skrivefeil i filnavn"
+git remote set-url origin https://github.com/panzerdroideka/Wils_Way_to_YT_Shorts_heaven.git
+git push -u origin main
+# 1. Bytt ut .jpg med .png i README-filen din så bildet vises riktig
+sed -i 's/.jpg/.png/g' README.md
+# 2. Lagre den lille endringen
+git add README.md
+git commit -m "Korrigerte bildeformat til png"
+# 3. Tving filene dine opp til GitHub (overskriver den tomme web-versjonen)
+btop
+finale
+gitsync
+finale
+manuell_battlereport
+btop
+dytt
+gitsync
+git commit Fjernet readme med feil navn!
+gitsync
+dytt
+gitsync
+prepupgrade
+rep
+verifyupgrade
+clear
+dytt
+clear
+gitsync
+cd GitHub
+ls
+cd panzerdroideka
+ls
+cd Wils-Linux-Legacy
+ls
+cd Wils_Way_to_YT_Shorts_Heaven
+cd Wils_Way_to_YT_Shorts_heaven
+ls
+git add -A
+git commit -m "Ryddet opp o filnavn og fjernet ugyldig README"
+git push origin main
+git pull --rebase origin main
+git push -f origin main
+gitsync
+sudo apt install yt-dlp
+cd ..
+cd 
+manuell_battlereport
+gitsync
+dytt
+exit
+btop
+cd GitHub
+ls
+cd panzerdroideka
+ls
+cd Wils-Linux-Legacy
+ls
+cd Wils_Way_to_YT_Shorts-heaven
+cd Wils_Way_to_YT_Shorts_heaven
+ls
+git status
+gitsync
+git submodule status
+git submodule update --init --recursive
+gitsync
+cd /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Wils_Way_to_YT_Shorts_heaven
+git add .
+git commit -m "Oppdatering av innhold i Shorts_heaven"
+git push
+cd /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/
+git add Wils_Way_to_YT_Shorts_heaven
+git commit -m "Oppdaterer peker for Wils_Way_to_YT_Shorts_heaven submodul"
+git push
+git status
+git submodule update --init --recursive
+gitsync
+ls
+cd Wils_Way_to_YT_Shorts_heaven
+ls
+git commit push
+cd /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/
+git add Wils_Way_to_YT_Shorts_heaven
+git commit -m "Oppdaterer peker for Wils_Way_to_YT_Shorts_heaven submodul"
+git push
+gitsync
+cd /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/
+git add Wils_Way_to_YT_Shorts_heaven
+git commit -m "Oppdaterer peker for Wils_Way_to_YT_Shorts_heaven submodul"
+git push
+cd /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Wils_Way_to_YT_Shorts_heaven
+git add .
+git commit -m "Fikser untracked content"
+git push
+cd ..
+cd /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/
+git add Wils_Way_to_YT_Shorts_heaven
+git commit -m "Oppdaterer submodul-peker"
+git push
+git status
+cd Wils_Way_to_YT_Shorts_heaven
+git status
+gitsync
+cd ..
+ls
+# Gå til hovedrepositoriet
+cd /home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/
+# Fjern submodul-konfigurasjonen (forsiktig)
+git submodule deinit -f Wils_Way_to_YT_Shorts_heaven
+git rm -f Wils_Way_to_YT_Shorts_heaven
+# Commit fjerningen
+git commit -m "Fjerner submodul for å nullstille referanse"
+# Legg den til på nytt
+git submodule add https://github.com/panzerdroideka/Wils_Way_to_YT_Shorts_heaven.git Wils_Way_to_YT_Shorts_heaven
+# Commit den nye submodul-pekeren
+git commit -m "Legger til submodul på nytt for å fikse 404"
+git push
+git rm --cached Wils_Way_to_YT_Shorts_heaven
+rm -rf .git/modules/Wils_Way_to_YT_Shorts_heaven
+# Åpne .gitmodules og se om submodulen fortsatt står der
+cat .gitmodules
+# Hvis den står der, må du slette den linjen med en tekst-editor (nano .gitmodules)
+git submodule add https://github.com/panzerdroideka/Wils_Way_to_YT_Shorts_heaven.git Wils_Way_to_YT_Shorts_heaven
+ls -l .gitmodules
+git add .gitmodules Wils_Way_to_YT_Shorts_heaven
+git commit -m "Legger til submodulen Wils_Way_to_YT_Shorts_heaven på nytt"
+git push
+dytt
+gitsync
+cd 
+manuell_battlereport
+finale
+cd GitHub
+gitsync
+finale
+cd Warlord-Logs_Public
+ls
+cd Warlord_Logs_Public
+cd Warlord-Logs-Public
+gitsync
+finale
+git status
+git push
+gitsync
+git status
+finale
+git pull
+finale
+gitsync
+finale
+git push
+git pull
+git status
+gitsync
+dytt
+arkiv
+cd 
+arkiv
+prepupgrade
+rep
+finale
+cd GitHub
+ls -laRs > Local-GitHub-Folderstructure.txt
+cd ~/GitHub/Warlord_TkG_Kernel_6.18.34-tkg-wils-v2.0
+ls -las
+cd Warlord_Logs_Public
+cd panzerdroideka
+ls
+ls -las
+cd ..
+ls
+rm -rf Warlord-Logs-Public
+ls -las
+cd panzerdroideka
+ls -las
+cd Warlord-Logs-Private
+ls -las
+cd ..
+cd Warlord-Logs-Public
+ls -las
+git add .
+git commit -m "Endelig ryddet struktur: Fjernet duplikater og rettet stier"
+git pull origin main --rebase
+git push origin main
+cd ~/GitHub/panzerdroideka/Warlord-Logs-Public
+git remote update
+git fetch origin
+git pull origin main --rebase
+finale
+ls -la .git
+nano warlord_finale.sh
+finale
+nano warlord_finale.sh
+git status
+gitsync
+finale
+grep "TARGET_REPO" warlord_finale.sh
+cd 
+git -C "/home/wils/GitHub/panzerdroideka/Warlord-Logs-Public" status
+nano warlord_finale.sh
+cd scripts
+nano warlord_finale.sh
+finale
+cd ..
+finale
+gitsync
+prepupgrade
+rep
+verifyupgrade
+clear
+kamptelemetri
+alias kamptelemetri
+ls -l /home/wils/scripts/kamp_telemetri.sh
+chmod +x /home/wils/scripts/kamp_telemetri.sh
+ls -l /home/wils/scripts/kamp_telemetri.sh
+kamptelemetri
+source  ~/.bash_aliases
+source  ~/.bashrc
+sync
+kamptelemetri
+cd scripts
+ls -las
+cd ..
+sudo /home/wils/scripts/kamp_telemetri.sh
+/home/wils/scripts/kamp_telemetri.sh
+ls -l "/home/wils/GitHub/panzerdroideka/Wils-Linux-Legacy/Linux-Freedom-for-the/Warlord_TkG_Kernel_6.18.34-tkg--wils-v2.0/logs/kamp_historikk.log"
+bash /home/wils/scripts/kamp_telemetri.sh
+which bash
+/bin/bash -x /home/wils/scripts/kamp_telemetri.sh
+sync
+cat /home/wils/scripts/kamp_telemetri.sh
+sync
+kamptelemetri
+nano ~/.config/dolphinrc
+sync
+kamptelemetri
+Nlkosi,lvl146
+kamptelemetri
+manuell_battlereport
+cat /home/wils/scripts/manuell_battlereport.sh | grep -E "dmesg|journalctl"
+crontab -l
+systemctl list-timers --all
+systemctl list-timers --all --no-pager
+systemctl cat [navnet-på-timeren]
+sudo systemctl stop sysstat-collect.timer
+sudo systemctl disable sysstat-collect.timer
+finale
+gitsync
+cd GitHub
+ls
+sudo rm -r Warlord-Logs-Public
+ls
+ls -las
+sync
+cclear
+clear
+ls -las
+cd panzerdroideka
+ls -las
+cd Warlord-Logs-Private
+øs
+ls
+cd ..
+ls -las
+cd Wils-Linux-Legacy
+als
+ls
+find /home/wils -type l -name "Warlord-Logs-Public"
+sudo find /home/wils -type l -name "Warlord-Logs-Public"
+cd ..
+ls
+cd ..
+ls
+cd panzerdroideka
+ls
+ls -las
+mkdir -p /home/wils/GitHub/panzerdroideka/Warlord-Logs-Public
+ls -las
+cd /home/wils/GitHub/panzerdroideka/Warlord-Logs-Public
+git init
+# 3. Legg til fjernarkivet (GitHub-adressen din)
+# Siden du har gjort dette før, kan du hente URL-en med:
+git remote add origin https://github.com/panzerdroideka/Warlord-Logs-Public.git
+git pull origin main
+ls
+cd ..
+ls
+cd ..
+ls
+cd panzerdroideka
+ls -las
+git branch -m main
+ls
+cd Warlord-Logs-Public
+ls
+git branch -m main
+git branch --set-upstream-to=origin/main main
+git reset --hard origin/main
+ls -las
+finale
+gitsync
+source ~/.bash_aliases
+source ~/.bashrc
+sjekk_sikkerhet
+sudo nano ~/.bash_aliases
+source ~/.bash_aliases
+sjekk_sikkerhet
+sjekk-sikkerhet
+# Lag en midlertidig ren fil
+sort -u /etc/modprobe.d/warlord-security.conf | grep "^blacklist" > /tmp/warlord-clean.conf
+# Overskriv den gamle med den rene
+sudo mv /tmp/warlord-clean.conf /etc/modprobe.d/warlord-security.conf
+sudo nano ~/.bash_aliases
+source ~/.bash_aliases
+sjekk-sikkerhet
+sudo sed -i '/^$/d' /etc/modprobe.d/warlord-security.conf
+grep "^blacklist" /etc/modprobe.d/warlord-security.conf
+sudo nano ~/.bash_aliases
+source ~/.bash_aliases
+source ~/.bashrc
+sjekk-sikkerhet
+sudo nano /etc/modprobe.d/warlord-security.conf
+cat <<EOF | sudo tee /etc/modprobe.d/warlord-security.conf
+# --- Warlord Hardening: Blacklist ---
+# Sårbarhet: CVE-2026-46331
+blacklist act_pedit
+# Nettverksprotokoller
+blacklist dccp
+blacklist sctp
+blacklist rds
+blacklist tipc
+# Filsystemer
+blacklist cramfs
+blacklist freevxfs
+blacklist jffs2
+blacklist hfs
+blacklist hfsplus
+blacklist squashfs
+EOF
+
+sudo nano /etc/modprobe.d/warlord-security.conf
+sjekk-sikkerhet
+sudo nano ~/.bashrc
+source ~/.bashrc
+source ~/.bash_aliases
+sjekk-sikkerhet
+lsmod | grep -E 'act_pedit|dccp|sctp|rds|tipc|cramfs|hfs|squashfs'
+dmesg | grep -iE 'segfault|protection|violation|refused'
+sudo dmesg | grep -iE 'segfault|protection|violation|refused'
+sudo sysctl -w kernel.unprivileged_userns_clone=0
+# Sjekk om filen eksisterer
+if [ ! -f /etc/sysctl.d/99-warlord-hardening.conf ]; then     echo "Filen mangler. Oppretter...";     echo "kernel.unprivileged_userns_clone = 0" | sudo tee /etc/sysctl.d/99-warlord-hardening.conf
+    sudo sysctl -p /etc/sysctl.d/99-warlord-hardening.conf; else     echo "Filen eksisterer allerede. Verifiserer innhold...";     cat /etc/sysctl.d/99-warlord-hardening.conf; fi
+lspci | grep -i thunderbolt
+lspci | grep -i firewire
+lspci | grep -i firewire-core
+lsmod | grep thunderbolt
+source ~/.bashrc
+source ~/.bash_aliases
+sjekk-sikkerhet
+lsmod | grep thunderbolt
+sudo rmmod thunderbolt
+lsmod | grep thunderbolt
+sudo sysctl -w kernel.unprivileged_bpf_disabled=1
+mitigations=auto,nosmt
+unprivileged_bpf_disabled=1
+echo "kernel.unprivileged_bpf_disabled = 1" | sudo tee -a /etc/sysctl.d/99-warlord-hardening.conf
+prepupgrade
+sudo nano /etc/default/grub
+sudo update-grub
+lscpu | grep "Thread(s) per core"
+sudo nano /etc/default/grub
+sync
+sudo update-grub
+sync
+lscpu | grep "Thread(s) per core"
+reboot
+lscpu | grep "Thread(s) per core"
+sudo nano /etc/default/grub
+lscpu | grep "Thread(s) per core"
+cat /proc/cmdline
+cat /sys/devices/system/cpu/cpu*/topology/core_id
+prepupgrade
+sudo nano /etc/default/grub
+sudo update-grub
+rep
+timeshift --create --comments "Før_packagekit_oppdateringsforsøk"
+sudo timeshift --create --comments "Før_packagekit_oppdateringsforsøk"
+sudo apt update
+sudo apt upgrade
+sudo apt full-upgrade
+apt list --upgradeable
+sudo apt-mark hold libegl-mesa0 libgbm1 libgl1-mesa-dri libglx-mesa0 mesa-libgallium mesa-opencl-icd
+sudo apt update
+sudo apt upgrade
+sudo apt update
+sudo apt upgrade
+sudo upfate-grub
+sudo update-grub
+rep
+verifyupgrade
+sudo apt update
+sudo apt install auditd audispd-plugins
+sudo sh -c 'echo "-w /etc/default/grub -p wa -k grub_monitor" >> /etc/audit/rules.d/audit.rules'
+sudo sh -c 'echo "-w /home/wils/Scripts -p wa -k scripts_monitor" >> /etc/audit/rules.d/audit.rules'
+sudo auditctl -R /etc/audit/rules.d/audit.rules
+sudo systemctl restart auditd
+sudo auditctl -l
+touch /etc/default/grub
+sudo ausearch -k grub_monitor
+verifyupgrade
+cd GitHub
+ls
+cd panzerdroideka
+ls
+cd Wils-Linux-Legacy
+ls
+ls -las
+mkdir Warlord-F1-Bunker
+cd Warlord-F1-Bunker
+ls
+nano README.md
+nano mask_bloatware.sh
+nano lock_mesa_stack.sh
+ls -las
+nano auditd_vault_rules.rules
+ls
+ls -las
+las -lax
+la -lax
+chmod +x mask_bloatware.sh
+chmod +x lock_mesa_stack.sh
+nano README.md
+nano auditd_vault_rules.rules
+nano lock_mesa_stack.sh
+nano mask_bloatware.sh
+ls -las
+chmod +x mask_bloatware.sh
+chmod +x lock_mesa_stack.sh
+ls -las
+nano README.md
+nano mask_bloatware.sh
+nano lock_mesa_stack.sh
+nano auditd_vault_rules.rules
+ls -las
+cd ..
+ls -las
+git status
+git add Warlord-F1-Bunker/
+git commit -m "Lanserer Warlord F1-Bunker: System-immutabilisering og ekstrem maskinvare-optimalisering"
+git push
+dytt
+cd 
+ls
+gitsync
+finale
+exit
+prepupgrade
+rep
+verifyupgrade
+shotcut
+flatpak list | grep -i shotcut
+flatpak run org.shotcut.Shotcut
+sudo sysctl -w kernel.unprivileged_userns_clone=1
+sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
+shotcut
+sudo apt install shotcut
+sudo apt install pipx
+pipx ensurepath
+pipx install tidal-dl
+exit
+tidal-dl
+sync
+tidal-dl
+clear
+yt-dlp -x --audio-format mp3 https://tidal.com/track/28451207/u
+btop
+finale
+sudo apt install gpuscreenrecorder
+apt search gpuscreenrecorder
+flatpak list | grep gpu
+flatpak uninstall --user com.dec05eba.gpu_screen_recorder
+flatpak override --user --device=dri com.dec05eba.gpu_screen_recorder
+sudo apt install gpuscreenrecorder
+groups
+flatpak override --system --device=dri --socket=wayland --talk-name=org.freedesktop.portal.Desktop com.dec05eba.gpu_screen_recorder
+sudo flatpak override --system --device=dri --socket=wayland --talk-name=org.freedesktop.portal.Desktop com.dec05eba.gpu_screen_recorder
+flatpak run com.dec05eba.gpu_screen_recorder
+sudo flatpak run com.dec05eba.gpu_screen_recorder
+flatpak run gpu_screen_recorder
+flatpak run com.dec05eba.gpu_screen_recorder
+sudo sysctl -w kernel.unprivileged_userns_clone=1
+sudo apt update
+sudo apt install git build-essential cmake libavcodec-dev libavformat-dev libavutil-dev libswresample-dev libswscale-dev libx11-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev libxfixes-dev libxi-dev libxinerama-dev libxrandr-dev libxrender-dev libxtst-dev libgbm-dev libdrm-dev libpulse-dev libxkbcommon-dev libwayland-dev
+git clone https://github.com/dec05eba/gpu-screen-recorder
+cd gpu-screen-recorder
+mkdir build
+cd build
+cmake ..
+make
+sudo make install
+git clone https://github.com/dec05eba/gpu-screen-recorder.git
+cd ..
+clear
+sudo rm /etc/apt/sources.list.d/google-chrome.sources.7096.tmp
+sudo apt update
+wget https://github.com/dec05eba/gpu-screen-recorder/releases/latest/download/gpu-screen-recorder-x86_64.tar.gz
