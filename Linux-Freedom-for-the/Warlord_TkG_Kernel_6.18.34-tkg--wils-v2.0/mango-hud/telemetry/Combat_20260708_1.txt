@@ -1,0 +1,235 @@
+### Chat Log: Combat 07/08 09:21 PM ###
+[07/08 09:22:56 PM] Nlkosi scored a hit with Sustaining Bolt on the Gundabad Cave-crusher for 5,176 Lightning damage to Morale.
+[07/08 09:22:57 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,025 points to Power.
+[07/08 09:22:57 PM] Sustenance applied a heal to Nlkosi restoring 15,448 points to Morale.
+[07/08 09:22:58 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Gundabad Cave-crusher for 11,150 Fire damage to Morale.
+[07/08 09:22:59 PM] Your mighty blow defeated the Gundabad Cave-crusher.
+[07/08 09:22:59 PM] Nlkosi scored a critical hit with Essence of Flame on the Gundabad Cave-crusher for 31,450 Fire damage to Morale.
+[07/08 09:23:02 PM] Nlkosi scored a hit with Fiery Ridicule on the Gundabad Stone-heaver for 7,497 Fire damage to Morale.
+[07/08 09:23:03 PM] Nlkosi scored a hit with Writ of Lightning on the Gundabad Stone-heaver for 12,854 Lightning damage to Morale.
+[07/08 09:23:04 PM] Nlkosi scored a hit with Fiery Ridicule on the Gundabad Stone-heaver for 8,777 Fire damage to Morale.
+[07/08 09:23:05 PM] Your mighty blow defeated the Gundabad Stone-heaver.
+[07/08 09:23:05 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Gundabad Stone-heaver for 15,474 Fire damage to Morale.
+[07/08 09:23:07 PM] Nlkosi scored a hit with Fiery Ridicule on the Two-headed Troll for 7,476 Fire damage to Morale.
+[07/08 09:23:08 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Two-headed Troll for 19,918 Fire damage to Morale.
+[07/08 09:23:09 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Two-headed Troll for 15,535 Fire damage to Morale.
+[07/08 09:23:10 PM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/08 09:23:10 PM] Your mighty blow defeated the Two-headed Troll.
+[07/08 09:23:10 PM] Nlkosi scored a critical hit with Epic Conclusion on the Two-headed Troll for 156,049 Lightning damage to Morale.
+[07/08 09:23:35 PM] Nlkosi scored a hit with Fiery Ridicule on the Two-headed Troll for 4,915 Fire damage to Morale.
+[07/08 09:23:35 PM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/08 09:23:35 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Two-headed Troll for 12,673 Lightning damage to Morale.
+[07/08 09:23:36 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,047 points to Power.
+[07/08 09:23:36 PM] Sustenance applied a heal to Nlkosi restoring 10,938 points to Morale.
+[07/08 09:23:37 PM] Nlkosi scored a hit with Chilling Rhetoric on the Two-headed Troll for 6,306 Frost damage to Morale.
+[07/08 09:23:38 PM] Nlkosi scored a hit with Fiery Ridicule on the Two-headed Troll for 5,501 Fire damage to Morale.
+[07/08 09:23:38 PM] Nlkosi scored a critical hit with Writ of Lightning on the Two-headed Troll for 27,004 Lightning damage to Morale.
+[07/08 09:23:39 PM] Your mighty blow defeated the Two-headed Troll.
+[07/08 09:23:39 PM] Nlkosi scored a critical hit with Epic Conclusion on the Two-headed Troll for 122,658 Lightning damage to Morale.
+[07/08 09:23:56 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/08 09:23:57 PM] Nlkosi scored a hit with Fulgurite Strike on the Gundabad Cave-crusher for 4,028 Lightning damage to Morale.
+[07/08 09:23:58 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/08 09:23:58 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Gundabad Cave-crusher for 15,881 Fire damage to Morale.
+[07/08 09:23:59 PM] Nlkosi scored a hit with Fiery Ridicule on the Gundabad Cave-crusher for 5,729 Fire damage to Morale.
+[07/08 09:23:59 PM] Nlkosi scored a hit with Sustaining Bolt on the Gundabad Cave-crusher for 7,043 Lightning damage to Morale.
+[07/08 09:24:00 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,163 points to Power.
+[07/08 09:24:00 PM] Sustenance applied a heal to Nlkosi restoring 14,691 points to Morale.
+[07/08 09:24:00 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Gundabad Cave-crusher for 15,881 Fire damage to Morale.
+[07/08 09:24:00 PM] The Volcanic Rune-stone defeated the Gundabad Cave-crusher.
+[07/08 09:24:02 PM] Nlkosi scored a hit with Fiery Ridicule on the Gundabad Stone-heaver for 6,310 Fire damage to Morale.
+[07/08 09:24:03 PM] Nlkosi scored a hit with Essence of Flame on the Gundabad Stone-heaver for 19,937 Fire damage to Morale.
+[07/08 09:24:03 PM] Your mighty blow defeated the Gundabad Stone-heaver.
+[07/08 09:24:04 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Gundabad Stone-heaver for 17,678 Fire damage to Morale.
+[07/08 09:24:10 PM] Nlkosi scored a hit with Fiery Ridicule on the Two-headed Troll for 9,255 Fire damage to Morale.
+[07/08 09:24:11 PM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/08 09:24:11 PM] Nlkosi scored a critical hit with Writ of Lightning on the Two-headed Troll for 29,879 Lightning damage to Morale.
+[07/08 09:24:13 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Two-headed Troll for 8,276 Fire damage to Morale.
+[07/08 09:24:13 PM] Nlkosi scored a hit with Chilling Rhetoric on the Two-headed Troll for 9,105 Frost damage to Morale.
+[07/08 09:24:13 PM] Your mighty blow defeated the Two-headed Troll.
+[07/08 09:24:13 PM] Nlkosi scored a hit with Shocking Words on the Two-headed Troll for 46,677 Lightning damage to Morale.
+[07/08 09:24:19 PM] Nlkosi scored a hit with Fiery Ridicule on the Two-headed Troll for 6,517 Fire damage to Morale.
+[07/08 09:24:20 PM] Nlkosi scored a hit with Essence of Flame on the Two-headed Troll for 23,681 Fire damage to Morale.
+[07/08 09:24:20 PM] Nlkosi scored a hit with Fiery Ridicule on the Two-headed Troll for 7,820 Fire damage to Morale.
+[07/08 09:24:21 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Two-headed Troll for 19,255 Lightning damage to Morale.
+[07/08 09:24:21 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,128 points to Power.
+[07/08 09:24:21 PM] Sustenance applied a heal to Nlkosi restoring 13,097 points to Morale.
+[07/08 09:24:22 PM] Your mighty blow defeated the Two-headed Troll.
+[07/08 09:24:22 PM] Nlkosi scored a hit with Fiery Ridicule on the Two-headed Troll for 9,384 Fire damage to Morale.
+[07/08 09:24:27 PM] Nlkosi scored a hit with Fiery Ridicule on the Two-headed Troll for 7,898 Fire damage to Morale.
+[07/08 09:24:27 PM] Nlkosi scored a hit with Writ of Lightning on the Two-headed Troll for 11,263 Lightning damage to Morale.
+[07/08 09:24:28 PM] Nlkosi scored a hit with Fiery Ridicule on the Two-headed Troll for 9,879 Fire damage to Morale.
+[07/08 09:24:29 PM] Nlkosi scored a hit with Chilling Rhetoric on the Two-headed Troll for 9,528 Frost damage to Morale.
+[07/08 09:24:30 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Two-headed Troll for 16,542 Fire damage to Morale.
+[07/08 09:24:30 PM] Your mighty blow defeated the Two-headed Troll.
+[07/08 09:24:31 PM] Nlkosi scored a hit with Ceaseless Argument on the Two-headed Troll for 12,127 Lightning damage to Morale.
+[07/08 09:24:33 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Two-headed Troll for 17,204 Fire damage to Morale.
+[07/08 09:24:34 PM] Nlkosi scored a hit with Fiery Ridicule on the Two-headed Troll for 7,923 Fire damage to Morale.
+[07/08 09:24:35 PM] Nlkosi scored a hit with Essence of Flame on the Two-headed Troll for 27,398 Fire damage to Morale.
+[07/08 09:24:36 PM] Nlkosi scored a hit with Fiery Ridicule on the Two-headed Troll for 11,033 Fire damage to Morale.
+[07/08 09:24:37 PM] Your mighty blow defeated the Two-headed Troll.
+[07/08 09:24:37 PM] Nlkosi scored a hit with Writ of Lightning on the Two-headed Troll for 14,039 Lightning damage to Morale.
+[07/08 09:24:44 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Two-headed Troll for 18,415 Fire damage to Morale.
+[07/08 09:24:44 PM] Nlkosi scored a hit with Writ of Lightning on the Two-headed Troll for 11,295 Lightning damage to Morale.
+[07/08 09:24:46 PM] Nlkosi scored a devastating hit with Chilling Rhetoric on the Two-headed Troll for 31,761 Frost damage to Morale.
+[07/08 09:24:46 PM] Your mighty blow defeated the Two-headed Troll.
+[07/08 09:24:46 PM] Nlkosi scored a hit with Epic Conclusion on the Two-headed Troll for 76,230 Lightning damage to Morale.
+[07/08 09:24:57 PM] Nlkosi scored a hit with Fiery Ridicule on the Two-headed Troll for 6,007 Fire damage to Morale.
+[07/08 09:24:57 PM] Nlkosi scored a hit with Writ of Lightning on the Two-headed Troll for 10,698 Lightning damage to Morale.
+[07/08 09:24:59 PM] Nlkosi scored a hit with Essence of Storm on the Two-headed Troll for 17,290 Lightning damage to Morale.
+[07/08 09:24:59 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Two-headed Troll for 4,084 Fire damage to Morale.
+[07/08 09:25:01 PM] Nlkosi scored a hit with Sustaining Bolt on the Two-headed Troll for 9,486 Lightning damage to Morale.
+[07/08 09:25:01 PM] The Two-headed Troll scored a critical hit with Thrown Knockdown on Nlkosi.
+[07/08 09:25:02 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,262 points to Power.
+[07/08 09:25:02 PM] Sustenance applied a heal to Nlkosi restoring 12,925 points to Morale.
+[07/08 09:25:02 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Two-headed Troll for 8,182 Fire damage to Morale.
+[07/08 09:25:05 PM] Your mighty blow defeated the Two-headed Troll.
+[07/08 09:25:05 PM] Nlkosi scored a hit with Writ of Lightning on the Two-headed Troll for 12,515 Lightning damage to Morale.
+[07/08 09:25:09 PM] Your mighty blow defeated the Gundabad Cave-crusher.
+[07/08 09:25:09 PM] Nlkosi scored a hit with Shocking Words on the Gundabad Cave-crusher for 43,474 Lightning damage to Morale.
+[07/08 09:25:20 PM] The Gundabad Stone-heaver scored a hit with Stomp on Nlkosi.
+[07/08 09:25:22 PM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[07/08 09:25:24 PM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/08 09:25:24 PM] Your mighty blow defeated the Gundabad Stone-heaver.
+[07/08 09:25:24 PM] Nlkosi scored a devastating hit with Ceaseless Argument on the Gundabad Stone-heaver for 32,801 Lightning damage to Morale.
+[07/08 09:25:38 PM] Nlkosi scored a hit with Essence of Storm on the Gundabad Cave-crusher for 10,901 Lightning damage to Morale.
+[07/08 09:25:39 PM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/08 09:25:39 PM] Your mighty blow defeated the Gundabad Cave-crusher.
+[07/08 09:25:39 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Gundabad Cave-crusher for 28,367 Lightning damage to Morale.
+[07/08 09:25:42 PM] Nlkosi scored a devastating hit with Scribe's Spark on the Two-headed Troll for 42,075 Lightning damage to Morale.
+[07/08 09:25:42 PM] The Two-headed Troll scored a partially evaded hit with a weak swipe attack on Nlkosi for 2,884 Common damage to Morale.
+[07/08 09:25:43 PM] Nlkosi scored a hit with Vivid Imagery on the Two-headed Troll for 14,989 Lightning damage to Morale.
+[07/08 09:25:44 PM] Your mighty blow defeated the Two-headed Troll.
+[07/08 09:25:45 PM] Nlkosi scored a critical hit with Epic Conclusion on the Two-headed Troll for 154,429 Lightning damage to Morale.
+[07/08 09:25:49 PM] Nlkosi scored a hit with Sustaining Bolt on the Gundabad Cave-crusher for 4,452 Lightning damage to Morale.
+[07/08 09:25:50 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,009 points to Power.
+[07/08 09:25:50 PM] Sustenance applied a heal to Nlkosi restoring 12,391 points to Morale.
+[07/08 09:25:51 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Gundabad Cave-crusher for 12,822 Fire damage to Morale.
+[07/08 09:25:52 PM] Your mighty blow defeated the Gundabad Cave-crusher.
+[07/08 09:25:52 PM] Nlkosi scored a hit with Static Surge on the Gundabad Cave-crusher for 26,909 Lightning damage to Morale.
+[07/08 09:25:58 PM] Nlkosi scored a hit with Essence of Storm on the Gundabad Cave-crusher for 16,470 Lightning damage to Morale.
+[07/08 09:26:00 PM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/08 09:26:00 PM] Your mighty blow defeated the Gundabad Cave-crusher.
+[07/08 09:26:00 PM] Nlkosi scored a critical hit with Shocking Words on the Gundabad Cave-crusher for 87,471 Lightning damage to Morale.
+[07/08 09:26:03 PM] Nlkosi scored a hit with Fiery Ridicule on the Gundabad Stone-heaver for 6,674 Fire damage to Morale.
+[07/08 09:26:05 PM] Your mighty blow defeated the Gundabad Stone-heaver.
+[07/08 09:26:05 PM] Nlkosi scored a critical hit with Essence of Flame on the Gundabad Stone-heaver for 36,167 Fire damage to Morale.
+[07/08 09:26:22 PM] Nlkosi scored a hit with Epic Conclusion on the Two-headed Troll for 32,679 Lightning damage to Morale.
+[07/08 09:26:24 PM] Nlkosi scored a hit with Ceaseless Argument on the Two-headed Troll for 10,782 Lightning damage to Morale.
+[07/08 09:26:26 PM] Nlkosi scored a hit with Ceaseless Argument on the Two-headed Troll for 11,495 Lightning damage to Morale.
+[07/08 09:26:26 PM] The Two-headed Troll scored a hit with a weak swipe attack on Nlkosi for 3,326 Common damage to Morale.
+[07/08 09:26:26 PM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/08 09:26:26 PM] Your mighty blow defeated the Two-headed Troll.
+[07/08 09:26:27 PM] Nlkosi scored a critical hit with Essence of Storm on the Two-headed Troll for 49,982 Lightning damage to Morale.
+[07/08 09:26:30 PM] Nlkosi scored a hit with Writ of Lightning on the Gundabad Stone-heaver for 9,768 Lightning damage to Morale.
+[07/08 09:26:31 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Gundabad Stone-heaver for 12,895 Fire damage to Morale.
+[07/08 09:26:31 PM] Nlkosi scored a hit with Sustaining Bolt on the Gundabad Stone-heaver for 7,225 Lightning damage to Morale.
+[07/08 09:26:32 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,338 points to Power.
+[07/08 09:26:32 PM] Sustenance applied a heal to Nlkosi restoring 15,149 points to Morale.
+[07/08 09:26:32 PM] Your mighty blow defeated the Gundabad Stone-heaver.
+[07/08 09:26:33 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Gundabad Stone-heaver for 12,701 Fire damage to Morale.
+[07/08 09:26:37 PM] Nlkosi scored a hit with Fiery Ridicule on the Gundabad Stone-heaver for 7,561 Fire damage to Morale.
+[07/08 09:26:38 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Gundabad Stone-heaver for 17,181 Fire damage to Morale.
+[07/08 09:26:39 PM] Your mighty blow defeated the Gundabad Stone-heaver.
+[07/08 09:26:39 PM] Nlkosi scored a hit with Essence of Storm on the Gundabad Stone-heaver for 16,443 Lightning damage to Morale.
+[07/08 09:26:46 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Gundabad Stone-heaver for 16,928 Fire damage to Morale.
+[07/08 09:26:48 PM] Nlkosi scored a hit with Writ of Lightning on the Gundabad Stone-heaver for 11,098 Lightning damage to Morale.
+[07/08 09:26:48 PM] Your mighty blow defeated the Gundabad Stone-heaver.
+[07/08 09:26:49 PM] Nlkosi scored a hit with Sustaining Bolt on the Gundabad Stone-heaver for 6,987 Lightning damage to Morale.
+[07/08 09:26:50 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,085 points to Power.
+[07/08 09:26:50 PM] Sustenance applied a heal to Nlkosi restoring 15,717 points to Morale.
+[07/08 09:27:01 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Two-headed Troll for 15,881 Fire damage to Morale.
+[07/08 09:27:01 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/08 09:27:02 PM] The Two-headed Troll tried to use Induce Stunned on the Volcanic Rune-stone but it was immune to the attempt.
+[07/08 09:27:02 PM] The Two-headed Troll scored a hit with Stomp on the Volcanic Rune-stone.
+[07/08 09:27:02 PM] Nlkosi scored a hit with Fulgurite Strike on the Two-headed Troll for 4,188 Lightning damage to Morale.
+[07/08 09:27:02 PM] Nlkosi scored a hit with Fulgurite Strike on the Two-headed Troll for 4,026 Lightning damage to Morale.
+[07/08 09:27:03 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/08 09:27:04 PM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/08 09:27:04 PM] Your mighty blow defeated the Two-headed Troll.
+[07/08 09:27:04 PM] Nlkosi scored a critical hit with Shocking Words on the Two-headed Troll for 94,524 Lightning damage to Morale.
+[07/08 09:27:05 PM] Nlkosi scored a hit with Fulgurite Strike on the Two-headed Troll for 4,060 Lightning damage to Morale.
+[07/08 09:27:08 PM] Nlkosi scored a hit with Distracting Flame on the Two-headed Troll.
+[07/08 09:27:08 PM] Nlkosi scored a hit with Fulgurite Strike on the Two-headed Troll for 4,378 Lightning damage to Morale.
+[07/08 09:27:09 PM] Nlkosi scored a hit with Essence of Storm on the Two-headed Troll for 18,109 Lightning damage to Morale.
+[07/08 09:27:10 PM] Your mighty blow defeated the Two-headed Troll.
+[07/08 09:27:10 PM] Nlkosi scored a hit with Epic Conclusion on the Two-headed Troll for 83,914 Lightning damage to Morale.
+[07/08 09:27:39 PM] The Gundabad Cave-crusher scored a hit with Melee Arc Knockback on Nlkosi for 2,578 Common damage to Morale.
+[07/08 09:27:40 PM] The Two-headed Troll scored a hit with a weak swipe attack on Nlkosi for 3,326 Common damage to Morale.
+[07/08 09:27:41 PM] The Gundabad Stone-heaver scored a hit with Melee Arc Knockback on Nlkosi for 1,746 Common damage to Morale.
+[07/08 09:27:44 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Gundabad Stone-heaver for 15,881 Fire damage to Morale.
+[07/08 09:27:44 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Two-headed Troll for 15,881 Fire damage to Morale.
+[07/08 09:27:44 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/08 09:27:45 PM] The Two-headed Troll scored a partially parried hit with a minor swipe attack on Nlkosi for 4,070 Common damage to Morale.
+[07/08 09:27:46 PM] Nlkosi scored a hit with Fulgurite Strike on the Gundabad Cave-crusher for 4,089 Lightning damage to Morale.
+[07/08 09:27:46 PM] Nlkosi scored a hit with Fulgurite Strike on the Two-headed Troll for 3,972 Lightning damage to Morale.
+[07/08 09:27:46 PM] Nlkosi scored a hit with Fulgurite Strike on the Gundabad Stone-heaver for 4,208 Lightning damage to Morale.
+[07/08 09:27:46 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/08 09:27:46 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Two-headed Troll for 15,881 Fire damage to Morale.
+[07/08 09:27:46 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Gundabad Stone-heaver for 15,881 Fire damage to Morale.
+[07/08 09:27:46 PM] The Volcanic Rune-stone defeated the Gundabad Stone-heaver.
+[07/08 09:27:46 PM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/08 09:27:46 PM] Your mighty blow defeated the Two-headed Troll.
+[07/08 09:27:47 PM] Nlkosi scored a critical hit with Epic Conclusion on the Two-headed Troll for 125,157 Lightning damage to Morale.
+[07/08 09:27:49 PM] Nlkosi scored a hit with Fulgurite Strike on the Gundabad Cave-crusher for 4,264 Lightning damage to Morale.
+[07/08 09:27:49 PM] Your mighty blow defeated the Gundabad Cave-crusher.
+[07/08 09:27:50 PM] Nlkosi scored a critical hit with Vivid Imagery on the Gundabad Cave-crusher for 33,179 Lightning damage to Morale.
+[07/08 09:28:00 PM] Nlkosi scored a hit with Essence of Storm on the Two-headed Troll for 15,123 Lightning damage to Morale.
+[07/08 09:28:00 PM] Nlkosi scored a hit with Sustaining Bolt on the Two-headed Troll for 6,419 Lightning damage to Morale.
+[07/08 09:28:01 PM] The Two-headed Troll scored a hit with a weak swipe attack on Nlkosi for 3,326 Common damage to Morale.
+[07/08 09:28:01 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,067 points to Power.
+[07/08 09:28:01 PM] Sustenance applied a heal to Nlkosi restoring 15,120 points to Morale.
+[07/08 09:28:05 PM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/08 09:28:05 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Two-headed Troll for 32,383 Lightning damage to Morale.
+[07/08 09:28:05 PM] The Two-headed Troll scored a hit with Thrown Knockdown on Nlkosi.
+[07/08 09:28:07 PM] The Two-headed Troll scored a hit with Stomp on Nlkosi.
+[07/08 09:28:08 PM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[07/08 09:28:10 PM] Your mighty blow defeated the Two-headed Troll.
+[07/08 09:28:10 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Two-headed Troll for 33,573 Lightning damage to Morale.
+[07/08 09:28:10 PM] The Gundabad Cave-crusher scored a hit with a moderate melee attack on Nlkosi for 3,438 Common damage to Morale.
+[07/08 09:28:11 PM] Your mighty blow defeated the Gundabad Cave-crusher.
+[07/08 09:28:12 PM] Nlkosi scored a devastating hit with Scribe's Spark on the Gundabad Cave-crusher for 46,470 Lightning damage to Morale.
+[07/08 09:28:34 PM] The Gundabad Stone-heaver scored a hit with Melee Arc Knockback on Nlkosi for 1,746 Common damage to Morale.
+[07/08 09:28:35 PM] The Gundabad Cave-crusher tried to use a minor melee attack on Nlkosi but he evaded the attempt.
+[07/08 09:28:35 PM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/08 09:28:36 PM] Nlkosi scored a critical hit with Scribe's Spark on the Gundabad Cave-crusher for 29,028 Lightning damage to Morale.
+[07/08 09:28:36 PM] Your mighty blow defeated the Gundabad Cave-crusher.
+[07/08 09:28:37 PM] Nlkosi scored a hit with Epic Conclusion on the Gundabad Cave-crusher for 38,830 Lightning damage to Morale.
+[07/08 09:28:38 PM] The Gundabad Stone-heaver scored a hit with a melee double attack on Nlkosi for 1,746 Common damage to Morale.
+[07/08 09:28:39 PM] The Gundabad Stone-heaver scored a hit with a melee double attack on Nlkosi for 1,746 Common damage to Morale.
+[07/08 09:28:39 PM] Nlkosi scored a hit with Ceaseless Argument on the Gundabad Stone-heaver for 12,002 Lightning damage to Morale.
+[07/08 09:28:40 PM] Nlkosi scored a hit with Vivid Imagery on the Gundabad Stone-heaver for 13,503 Lightning damage to Morale.
+[07/08 09:28:41 PM] Nothing to dispel.
+[07/08 09:28:41 PM] Nlkosi scored a critical hit with Improved Final Word on the Gundabad Stone-heaver.
+[07/08 09:28:42 PM] Your mighty blow defeated the Gundabad Stone-heaver.
+[07/08 09:28:42 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Gundabad Stone-heaver for 13,826 Fire damage to Morale.
+[07/08 09:28:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on Drôk-and-Kharb for 17,469 Fire damage to Morale.
+[07/08 09:28:55 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/08 09:28:56 PM] Nlkosi scored a hit with Fulgurite Strike on Drôk-and-Kharb for 4,724 Lightning damage to Morale.
+[07/08 09:28:57 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/08 09:28:57 PM] Drôk-and-Kharb scored a hit with a moderate swipe attack on Nlkosi for 8,040 Common damage to Morale.
+[07/08 09:28:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on Drôk-and-Kharb for 17,469 Fire damage to Morale.
+[07/08 09:28:57 PM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/08 09:28:58 PM] Nlkosi scored a critical hit with Scribe's Spark on Drôk-and-Kharb for 45,398 Lightning damage to Morale.
+[07/08 09:28:59 PM] Nlkosi scored a hit with Shocking Words on Drôk-and-Kharb for 45,906 Lightning damage to Morale.
+[07/08 09:28:59 PM] Nlkosi scored a hit with Volcanic Rune-stone on Drôk-and-Kharb for 17,469 Fire damage to Morale.
+[07/08 09:28:59 PM] Nlkosi scored a hit with Fulgurite Strike on Drôk-and-Kharb for 4,767 Lightning damage to Morale.
+[07/08 09:29:00 PM] Your mighty blow defeated Drôk-and-Kharb.
+[07/08 09:29:00 PM] Nlkosi scored a hit with Essence of Storm on Drôk-and-Kharb for 18,812 Lightning damage to Morale.
+[07/08 09:29:44 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Gundabad Stone-heaver for 11,150 Fire damage to Morale.
+[07/08 09:29:44 PM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/08 09:29:44 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Gundabad Stone-heaver for 13,422 Lightning damage to Morale.
+[07/08 09:29:45 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,294 points to Power.
+[07/08 09:29:45 PM] Sustenance applied a heal to Nlkosi restoring 12,018 points to Morale.
+[07/08 09:29:46 PM] The Gundabad Stone-heaver scored a hit with Thrown Knockdown on Nlkosi.
+[07/08 09:29:47 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Gundabad Stone-heaver for 3,812 Fire damage to Morale.
+[07/08 09:29:49 PM] Your mighty blow defeated the Gundabad Stone-heaver.
+[07/08 09:29:49 PM] Nlkosi scored a hit with Fiery Ridicule on the Gundabad Stone-heaver for 5,771 Fire damage to Morale.
+[07/08 09:31:45 PM] Nlkosi scored a hit with Fiery Ridicule on the Gundabad Cave-crusher for 5,326 Fire damage to Morale.
+[07/08 09:31:46 PM] Nlkosi scored a hit with Essence of Flame on the Gundabad Cave-crusher for 16,139 Fire damage to Morale.
+[07/08 09:31:46 PM] Nlkosi scored a hit with Sustaining Bolt on the Gundabad Cave-crusher for 6,809 Lightning damage to Morale.
+[07/08 09:31:47 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,109 points to Power.
+[07/08 09:31:47 PM] Sustenance applied a heal to Nlkosi restoring 12,979 points to Morale.
+[07/08 09:31:47 PM] Your mighty blow defeated the Gundabad Cave-crusher.
+[07/08 09:31:48 PM] Nlkosi scored a hit with Fiery Ridicule on the Gundabad Cave-crusher for 5,561 Fire damage to Morale.
+[07/08 09:38:47 PM] Nlkosi applied a benefit with Journey to the Hall of Vérnozal on Nlkosi.
+[07/08 09:40:32 PM] The Longbeard Soldier defeated the Mountain Deep-claw.

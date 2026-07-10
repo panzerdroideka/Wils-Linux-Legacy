@@ -1,0 +1,185 @@
+### Chat Log: Combat 06/22 01:10 PM ###
+The Goblin-town Sentry scored a hit with Tar Pot on Nlkosi.
+The Goblin-town Sentry scored a hit with a moderate melee attack on Nlkosi for 3,233 Common damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Goblin-town Sentry for 7,031 Lightning damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on the Goblin-town Sentry for 7,447 Lightning damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Goblin-town Sentry for 22,784 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+Your mighty blow defeated the Goblin-town Sentry.
+Nlkosi scored a critical hit with Ceaseless Argument on the Goblin-town Sentry for 22,320 Lightning damage to Morale.
+Nlkosi scored a critical hit with Sustaining Bolt on the Goblin-town Look-out for 11,188 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 775 points to Power.
+Sustenance applied a heal to Nlkosi restoring 10,351 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Goblin-town Look-out for 4,677 Fire damage to Morale.
+The Goblin-town Look-out scored a hit with a mighty thrown attack on Nlkosi for 4,973 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Goblin-town Look-out for 4,053 Fire damage to Morale.
+The Goblin-town Look-out scored a hit with a weak thrown attack on Nlkosi for 2,210 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Goblin-town Look-out for 4,905 Fire damage to Morale.
+The Goblin-town Look-out scored a hit with a moderate thrown attack on Nlkosi for 3,233 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Goblin-town Look-out for 5,561 Fire damage to Morale.
+Your mighty blow defeated the Goblin-town Look-out.
+Nlkosi scored a hit with Essence of Flame on the Goblin-town Look-out for 13,928 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Goblin-town Soldier for 6,317 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+Your mighty blow defeated the Goblin-town Soldier.
+Nlkosi scored a critical hit with Essence of Storm on the Goblin-town Soldier for 48,697 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+Nlkosi scored a critical hit with Sustaining Bolt on the Goblin-town Look-out for 8,242 Lightning damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 906 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 12,410 points to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Goblin-town Look-out for 3,529 Fire damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Goblin-town Look-out for 7,976 Fire damage to Morale.
+The Goblin-town Look-out scored a hit with a mighty thrown attack on Nlkosi for 5,290 Common damage to Morale.
+Nlkosi scored a devastating hit with Fiery Ridicule on the Goblin-town Look-out for 11,373 Fire damage to Morale.
+The Goblin-town Look-out tried to use a moderate thrown attack on Nlkosi but he evaded the attempt.
+Nlkosi scored a hit with Fiery Ridicule on the Goblin-town Look-out for 4,577 Fire damage to Morale.
+The Goblin-town Look-out scored a hit with a weak thrown attack on Nlkosi for 2,351 Common damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Goblin-town Look-out for 4,868 Fire damage to Morale.
+Your mighty blow defeated the Goblin-town Look-out.
+Nlkosi scored a hit with Essence of Flame on the Goblin-town Look-out for 13,762 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Goblin-town Soldier for 4,359 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+Nlkosi scored a critical hit with Sustaining Bolt on the Goblin-town Soldier for 11,485 Lightning damage to Morale.
+Sustaining Bolt applied a critical heal to Nlkosi restoring 966 points to Power.
+Sustenance applied a critical heal to Nlkosi restoring 12,073 points to Morale.
+Nlkosi scored a hit with Chilling Rhetoric on the Goblin-town Soldier for 4,682 Frost damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Goblin-town Soldier for 2,390 Fire damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Goblin-town Soldier for 10,820 Lightning damage to Morale.
+Your mighty blow defeated the Goblin-town Soldier.
+Nlkosi scored a hit with Essence of Storm on the Goblin-town Soldier for 11,559 Lightning damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Goblin-town Sentry for 6,760 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+Your mighty blow defeated the Goblin-town Sentry.
+Nlkosi scored a devastating hit with Shocking Words on the Goblin-town Sentry for 71,216 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Goblin-town Look-out for 4,572 Fire damage to Morale.
+The Goblin-town Look-out scored a hit with a mighty thrown attack on Nlkosi for 5,290 Common damage to Morale.
+Nlkosi scored a critical hit with Essence of Flame on the Goblin-town Look-out for 23,402 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Goblin-town Look-out for 4,777 Fire damage to Morale.
+Your mighty blow defeated the Goblin-town Look-out.
+Nlkosi scored a critical hit with Sustaining Bolt on the Goblin-town Look-out for 12,245 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 848 points to Power.
+Sustenance applied a heal to Nlkosi restoring 11,658 points to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Goblin-town Soldier for 9,580 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Goblin-town Soldier for 4,293 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on the Goblin-town Soldier for 4,444 Fire damage to Morale.
+The Goblin-town Soldier scored a partially evaded hit with a weak melee attack on Nlkosi for 2,091 Common damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Goblin-town Soldier for 8,808 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Goblin-town Soldier for 3,583 Fire damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on the Goblin-town Soldier for 9,386 Lightning damage to Morale.
+The Goblin-town Soldier scored a hit with a melee double attack on Nlkosi for 2,281 Common damage to Morale.
+Your mighty blow defeated the Goblin-town Soldier.
+Nlkosi scored a hit with Essence of Storm on the Goblin-town Soldier for 11,385 Lightning damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+Your mighty blow defeated the Goblin-town Sentry.
+Nlkosi scored a critical hit with Shocking Words on the Goblin-town Sentry for 65,241 Lightning damage to Morale.
+The Goblin-town Look-out scored a hit with a mighty thrown attack on Nlkosi for 5,290 Common damage to Morale.
+The Goblin-town Look-out scored a hit with a moderate thrown attack on Nlkosi for 3,233 Common damage to Morale.
+Nlkosi scored a hit with Writ of Lightning on the Goblin-town Look-out for 6,189 Lightning damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Goblin-town Look-out for 3,889 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 779 points to Power.
+Sustenance applied a heal to Nlkosi restoring 10,117 points to Morale.
+The Goblin-town Look-out scored a hit with a weak thrown attack on Nlkosi for 2,351 Common damage to Morale.
+Nlkosi scored a devastating hit with Fiery Ridicule on the Goblin-town Look-out for 9,596 Fire damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Goblin-town Look-out for 10,205 Fire damage to Morale.
+The Goblin-town Look-out scored a hit with a moderate thrown attack on Nlkosi for 3,233 Common damage to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Goblin-town Look-out for 8,955 Fire damage to Morale.
+Your mighty blow defeated the Goblin-town Look-out.
+Nlkosi scored a critical hit with Fiery Ridicule on the Goblin-town Look-out for 9,420 Fire damage to Morale.
+The Goblin-town Sentry scored a hit with Tar Pot on Nlkosi.
+Nothing to dispel.
+Nlkosi scored a hit with Shocking Words on the Goblin-town Sentry for 18,654 Lightning damage to Morale.
+Nlkosi scored a critical hit with Improved Final Word on the Goblin-town Sentry.
+Nlkosi scored a hit with Vivid Imagery on the Goblin-town Sentry for 6,444 Lightning damage to Morale.
+The Goblin-town Sentry scored a hit with a moderate melee attack on Nlkosi for 3,233 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+Your mighty blow defeated the Goblin-town Sentry.
+Nlkosi scored a critical hit with Ceaseless Argument on the Goblin-town Sentry for 20,727 Lightning damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Goblin-town Look-out for 9,369 Fire damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on the Goblin-town Look-out for 3,282 Lightning damage to Morale.
+The Goblin-town Look-out scored a hit with a mighty thrown attack on Nlkosi for 5,290 Common damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 828 points to Power.
+Sustenance applied a heal to Nlkosi restoring 9,577 points to Morale.
+The Goblin-town Look-out scored a hit with a minor thrown attack on Nlkosi for 2,939 Common damage to Morale.
+Nlkosi scored a hit with Epic Conclusion on the Goblin-town Look-out for 22,238 Lightning damage to Morale.
+The Goblin-town Look-out scored a critical hit with a weak melee attack on Nlkosi for 2,882 Common damage to Morale.
+Your mighty blow defeated the Goblin-town Look-out.
+Nlkosi scored a hit with Ceaseless Argument on the Goblin-town Look-out for 8,759 Lightning damage to Morale.
+The Goblin-town Sentry scored a hit with Tar Pot on Nlkosi.
+Nlkosi scored a hit with Scribe's Spark on the Goblin-town Sentry for 7,650 Lightning damage to Morale.
+The Goblin-town Sentry scored a hit with a weak melee attack on Nlkosi for 2,351 Common damage to Morale.
+Nlkosi scored a hit with Shocking Words on the Goblin-town Sentry for 25,284 Lightning damage to Morale.
+Nlkosi scored a hit with Essence of Storm on the Goblin-town Sentry for 10,862 Lightning damage to Morale.
+The Goblin-town Sentry scored a devastating hit with a moderate melee attack on Nlkosi for 6,240 Common damage to Morale.
+Your mighty blow defeated the Goblin-town Sentry.
+Nlkosi scored a hit with Vivid Imagery on the Goblin-town Sentry for 8,809 Lightning damage to Morale.
+Nlkosi scored a hit with Essence of Flame on the Gundabad Warrior for 9,194 Fire damage to Morale.
+Increased Morale applied a heal to Nlkosi restoring 19,939 points to Morale.
+Nlkosi scored a critical hit with Fiery Ridicule on the Gundabad Warrior for 6,964 Fire damage to Morale.
+The Gundabad Warrior scored a hit with a moderate melee attack on Nlkosi for 3,418 Common damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Gundabad Warrior for 6,974 Lightning damage to Morale.
+The Gundabad Warrior scored a hit with a weak melee attack on Nlkosi for 2,486 Common damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+Your mighty blow defeated the Gundabad Warrior.
+Nlkosi scored a devastating hit with Epic Conclusion on the Gundabad Warrior for 88,408 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Gundabad Warrior for 1,745 Fire damage to Morale.
+The Gundabad Warrior scored a hit with a minor melee attack on Nlkosi for 3,107 Common damage to Morale.
+Nlkosi scored a hit with Static Surge on the Gundabad Warrior for 13,879 Lightning damage to Morale.
+Nlkosi scored a hit with Static Surge on the Gundabad Warrior for 15,876 Lightning damage to Morale.
+Nlkosi scored a critical hit with Static Surge on the Gundabad Warrior for 30,952 Lightning damage to Morale.
+The Gundabad Warrior missed trying to use a weak melee attack on Nlkosi.
+The Gundabad Warrior scored a hit with a minor melee attack on Nlkosi for 3,107 Common damage to Morale.
+The Gundabad Warrior scored a critical hit with a moderate melee attack on Nlkosi for 4,887 Common damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Gundabad Warrior for 8,566 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Gundabad Warrior for 8,566 Fire damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Gundabad Warrior for 8,749 Fire damage to Morale.
+Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Gundabad Warrior for 3,724 Fire damage to Morale.
+The Gundabad Warrior scored a hit with a minor melee attack on Nlkosi for 3,107 Common damage to Morale.
+The Gundabad Warrior scored a hit with a weak melee attack on Nlkosi for 2,620 Common damage to Morale.
+Your mighty blow defeated the Gundabad Warrior.
+The Gundabad Warrior scored a hit with a minor melee attack on Nlkosi for 3,107 Common damage to Morale.
+Nlkosi scored a critical hit with Scribe's Spark on the Gundabad Warrior for 21,694 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Gundabad Warrior for 8,566 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Gundabad Warrior.
+Nlkosi scored a hit with Volcanic Rune-stone on the Gundabad Warrior for 8,566 Fire damage to Morale.
+The Gundabad Warrior scored a hit with a weak melee attack on the Volcanic Rune-stone for 603 Common damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on the Gundabad Warrior for 7,722 Lightning damage to Morale.
+Nlkosi scored a hit with Volcanic Rune-stone on the Gundabad Warrior for 8,566 Fire damage to Morale.
+The Volcanic Rune-stone defeated the Gundabad Warrior.
+Nlkosi scored a hit with Essence of Storm on the Gundabad Warrior for 6,861 Lightning damage to Morale.
+Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+Nlkosi scored a hit with Writ of Lightning on Blúghosh, Emissary of Gorgar for 7,115 Lightning damage to Morale.
+Nlkosi scored a hit with Sustaining Bolt on Blúghosh, Emissary of Gorgar for 6,356 Lightning damage to Morale.
+Sustaining Bolt applied a heal to Nlkosi restoring 985 points to Power.
+Sustenance applied a heal to Nlkosi restoring 10,589 points to Morale.
+Nlkosi scored a hit with Fulgurite Strike on Blúghosh, Emissary of Gorgar for 2,619 Lightning damage to Morale.
+Nlkosi scored a hit with Essence of Flame on Blúghosh, Emissary of Gorgar for 14,072 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on Blúghosh, Emissary of Gorgar for 5,305 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule on Blúghosh, Emissary of Gorgar for 5,464 Fire damage to Morale.
+Blúghosh, Emissary of Gorgar scored a hit with a weak melee attack on Nlkosi for 4,667 Fire damage to Morale.
+Nlkosi scored a hit with Fulgurite Strike on Blúghosh, Emissary of Gorgar for 2,918 Lightning damage to Morale.
+Nlkosi scored a hit with Shocking Words on Blúghosh, Emissary of Gorgar for 32,346 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 2 on Blúghosh, Emissary of Gorgar for 3,513 Fire damage to Morale.
+Nlkosi scored a hit with Vivid Imagery on Blúghosh, Emissary of Gorgar for 8,534 Lightning damage to Morale.
+Nothing to dispel.
+Nlkosi scored a critical hit with Improved Final Word on Blúghosh, Emissary of Gorgar.
+Blúghosh, Emissary of Gorgar scored a hit with a weak melee attack on Nlkosi for 4,527 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 2 on Blúghosh, Emissary of Gorgar for 3,545 Fire damage to Morale.
+Nlkosi scored a hit with Distracting Flame on Blúghosh, Emissary of Gorgar.
+Nlkosi scored a hit with Head-butt on Blúghosh, Emissary of Gorgar for 7,835 Common damage to Morale.
+Blúghosh, Emissary of Gorgar scored a hit with Destroying Acid on Nlkosi.
+Nlkosi scored a hit with Chilling Rhetoric on Blúghosh, Emissary of Gorgar for 6,954 Frost damage to Morale.
+Nlkosi scored a hit with Scribe's Spark on Blúghosh, Emissary of Gorgar for 9,934 Lightning damage to Morale.
+Nlkosi scored a hit with Distracting Flame on Blúghosh, Emissary of Gorgar for 2,783 Fire damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 2 on Blúghosh, Emissary of Gorgar for 3,094 Fire damage to Morale.
+Blúghosh, Emissary of Gorgar scored a hit with a mighty melee attack on Nlkosi for 10,313 Fire damage to Morale.
+Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+Nlkosi scored a critical hit with Ceaseless Argument on Blúghosh, Emissary of Gorgar for 26,731 Lightning damage to Morale.
+Nlkosi scored a hit with Fiery Ridicule - Tier 2 on Blúghosh, Emissary of Gorgar for 4,150 Fire damage to Morale.
+Nlkosi scored a hit with Distracting Flame on Blúghosh, Emissary of Gorgar for 3,068 Fire damage to Morale.
+Blúghosh, Emissary of Gorgar scored a hit with a minor melee attack on Nlkosi for 5,729 Fire damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on Blúghosh, Emissary of Gorgar for 11,354 Lightning damage to Morale.
+Nlkosi scored a hit with Ceaseless Argument on Blúghosh, Emissary of Gorgar for 10,841 Lightning damage to Morale.
+Blúghosh, Emissary of Gorgar scored a critical hit with a weak melee attack on Nlkosi for 6,757 Fire damage to Morale.
+Your mighty blow defeated Blúghosh, Emissary of Gorgar.
+Nlkosi scored a critical hit with Essence of Storm on Blúghosh, Emissary of Gorgar for 45,466 Lightning damage to Morale.

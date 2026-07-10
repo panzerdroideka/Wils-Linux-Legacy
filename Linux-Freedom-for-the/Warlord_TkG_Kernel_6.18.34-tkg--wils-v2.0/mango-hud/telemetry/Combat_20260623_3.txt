@@ -1,0 +1,287 @@
+### Chat Log: Combat 06/23 10:50 PM ###
+[06/23 10:53:24 PM] Nlkosi scored a hit with Sustaining Bolt on the Vicious Cold for 3,197 Lightning damage to Morale.
+[06/23 10:53:24 PM] The Vicious Cold scored a hit with Snow Geyser on Nlkosi for 3,807 Frost damage to Morale.
+[06/23 10:53:25 PM] Sustaining Bolt applied a heal to Nlkosi restoring 765 points to Power.
+[06/23 10:53:25 PM] Sustenance applied a heal to Nlkosi restoring 11,061 points to Morale.
+[06/23 10:53:25 PM] The Vicious Cold scored a hit with Freezing on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:53:26 PM] Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 4,393 Fire damage to Morale.
+[06/23 10:53:28 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Vicious Cold for 8,894 Fire damage to Morale.
+[06/23 10:53:28 PM] The Vicious Cold scored a hit with Freezing on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:53:29 PM] The Vicious Cold scored a hit with Frost Swipe High on Nlkosi for 7,369 Frost damage to Morale.
+[06/23 10:53:29 PM] Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 4,137 Fire damage to Morale.
+[06/23 10:53:31 PM] Nlkosi scored a hit with Essence of Storm on the Vicious Cold for 9,096 Lightning damage to Morale.
+[06/23 10:53:31 PM] The Vicious Cold scored a hit with Frost Vortex on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:53:31 PM] The Vicious Cold tried to use Freezing on Nlkosi but he resisted the attempt.
+[06/23 10:53:31 PM] The Vicious Cold scored a hit with Frost Vortex on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:53:31 PM] The Vicious Cold scored a hit with Frost Vortex on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:53:32 PM] Nlkosi scored a hit with Vivid Imagery on the Vicious Cold for 11,597 Lightning damage to Morale.
+[06/23 10:53:32 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Vicious Cold for 3,265 Fire damage to Morale.
+[06/23 10:53:34 PM] The Vicious Cold scored a hit with Freezing on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:53:34 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 10:53:34 PM] Your mighty blow defeated the Vicious Cold.
+[06/23 10:53:35 PM] Nlkosi scored a critical hit with Shocking Words on the Vicious Cold for 82,670 Lightning damage to Morale.
+[06/23 10:53:37 PM] The Vicious Cold scored a hit with Freezing on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:53:39 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 10,660 Fire damage to Morale.
+[06/23 10:53:39 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/23 10:53:40 PM] The Invasive Snow-beast scored a hit with a weak melee attack on the Volcanic Rune-stone for 457 Common damage to Morale.
+[06/23 10:53:40 PM] The Vicious Cold scored a hit with Freezing on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:53:40 PM] Nlkosi scored a hit with Fulgurite Strike on the Invasive Snow-beast for 2,754 Lightning damage to Morale.
+[06/23 10:53:40 PM] Nlkosi scored a hit with Fulgurite Strike on the Invasive Snow-beast for 2,534 Lightning damage to Morale.
+[06/23 10:53:40 PM] Nlkosi scored a hit with Fulgurite Strike on the Invasive Snow-beast for 2,717 Lightning damage to Morale.
+[06/23 10:53:41 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/23 10:53:41 PM] The Invasive Snow-beast scored a devastating hit with a weak melee attack on the Volcanic Rune-stone for 823 Common damage to Morale.
+[06/23 10:53:41 PM] The Invasive Snow-beast scored a hit with a weak melee attack on the Volcanic Rune-stone for 538 Common damage to Morale.
+[06/23 10:53:41 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 10,660 Fire damage to Morale.
+[06/23 10:53:41 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 10,660 Fire damage to Morale.
+[06/23 10:53:41 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 10,660 Fire damage to Morale.
+[06/23 10:53:42 PM] The Invasive Snow-beast scored a hit with a moderate melee attack on the Volcanic Rune-stone for 628 Common damage to Morale.
+[06/23 10:53:42 PM] Nlkosi scored a hit with Essence of Storm on the Invasive Snow-beast for 10,231 Lightning damage to Morale.
+[06/23 10:53:43 PM] The Invasive Snow-beast tried to use Induce Knockeddown on the Volcanic Rune-stone but it was immune to the attempt.
+[06/23 10:53:43 PM] The Invasive Snow-beast scored a partially parried hit with a moderate melee attack on the Volcanic Rune-stone for 405 Common damage to Morale.
+[06/23 10:53:43 PM] The Invasive Snow-beast scored a hit with Melee Knockdown on the Volcanic Rune-stone.
+[06/23 10:53:43 PM] Your mighty blow defeated the Invasive Snow-beast.
+[06/23 10:53:43 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 10,660 Fire damage to Morale.
+[06/23 10:53:43 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 10,660 Fire damage to Morale.
+[06/23 10:53:43 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Invasive Snow-beast for 24,848 Lightning damage to Morale.
+[06/23 10:53:43 PM] Nlkosi scored a hit with Fulgurite Strike on the Invasive Snow-beast for 2,704 Lightning damage to Morale.
+[06/23 10:53:43 PM] Nlkosi scored a hit with Fulgurite Strike on the Invasive Snow-beast for 2,609 Lightning damage to Morale.
+[06/23 10:53:44 PM] The Invasive Snow-beast scored a hit with a weak melee attack on the Volcanic Rune-stone for 457 Common damage to Morale.
+[06/23 10:53:45 PM] The Invasive Snow-beast scored a critical hit with a mighty swipe attack on the Volcanic Rune-stone for 1,576 Common damage to Morale.
+[06/23 10:53:45 PM] The Invasive Snow-beast scored a hit with a mighty swipe attack on the Charged Fulgurite Rune-stone for 1,211 Common damage to Morale.
+[06/23 10:53:45 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 10,660 Fire damage to Morale.
+[06/23 10:53:45 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 10,660 Fire damage to Morale.
+[06/23 10:53:46 PM] Your mighty blow defeated the Invasive Snow-beast.
+[06/23 10:53:46 PM] Nlkosi scored a hit with Scribe's Spark on the Invasive Snow-beast for 13,176 Lightning damage to Morale.
+[06/23 10:53:46 PM] The Invasive Snow-beast tried to use a weak melee attack on the Volcanic Rune-stone but it blocked the attempt.
+[06/23 10:53:46 PM] Nlkosi scored a hit with Fulgurite Strike on the Invasive Snow-beast for 2,741 Lightning damage to Morale.
+[06/23 10:53:47 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 10,660 Fire damage to Morale.
+[06/23 10:53:47 PM] The Volcanic Rune-stone defeated the Invasive Snow-beast.
+[06/23 10:53:52 PM] Nlkosi scored a hit with Fiery Ridicule on the Invasive Snow-beast for 4,770 Fire damage to Morale.
+[06/23 10:53:53 PM] Nlkosi scored a critical hit with Essence of Flame on the Invasive Snow-beast for 23,698 Fire damage to Morale.
+[06/23 10:53:53 PM] Your mighty blow defeated the Invasive Snow-beast.
+[06/23 10:53:53 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Invasive Snow-beast for 10,094 Fire damage to Morale.
+[06/23 10:53:53 PM] Nlkosi scored a hit with Sustaining Bolt on the Invasive Snow-beast for 4,949 Lightning damage to Morale.
+[06/23 10:53:54 PM] Sustaining Bolt applied a heal to Nlkosi restoring 934 points to Power.
+[06/23 10:53:54 PM] Sustenance applied a critical heal to Nlkosi restoring 17,612 points to Morale.
+[06/23 10:54:00 PM] Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 4,198 Fire damage to Morale.
+[06/23 10:54:01 PM] Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 4,321 Fire damage to Morale.
+[06/23 10:54:02 PM] The Vicious Cold scored a hit with Melee Frost Max on Nlkosi for 10,316 Frost damage to Morale.
+[06/23 10:54:02 PM] Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 4,317 Fire damage to Morale.
+[06/23 10:54:03 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 10:54:03 PM] Nlkosi scored a critical hit with Essence of Storm on the Vicious Cold for 36,695 Lightning damage to Morale.
+[06/23 10:54:04 PM] The Vicious Cold scored a hit with Frost Wave on Nlkosi for 5,076 Frost damage to Morale.
+[06/23 10:54:05 PM] Nlkosi scored a hit with Vivid Imagery on the Vicious Cold for 11,663 Lightning damage to Morale.
+[06/23 10:54:05 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Vicious Cold for 3,873 Fire damage to Morale.
+[06/23 10:54:06 PM] Nothing to dispel.
+[06/23 10:54:06 PM] Nlkosi scored a hit with Improved Final Word on the Vicious Cold.
+[06/23 10:54:07 PM] Your mighty blow defeated the Vicious Cold.
+[06/23 10:54:07 PM] Nlkosi scored a critical hit with Shocking Words on the Vicious Cold for 68,154 Lightning damage to Morale.
+[06/23 10:54:10 PM] Nlkosi scored a hit with Sustaining Bolt on the Invasive Snow-beast for 4,816 Lightning damage to Morale.
+[06/23 10:54:11 PM] Sustaining Bolt applied a heal to Nlkosi restoring 823 points to Power.
+[06/23 10:54:11 PM] Sustenance applied a critical heal to Nlkosi restoring 14,368 points to Morale.
+[06/23 10:54:12 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Invasive Snow-beast for 10,235 Fire damage to Morale.
+[06/23 10:54:12 PM] The Invasive Snow-beast scored a hit with a weak melee attack on Nlkosi for 2,217 Common damage to Morale.
+[06/23 10:54:12 PM] The Invasive Snow-beast scored a hit with a mighty swipe attack on Nlkosi for 4,988 Common damage to Morale.
+[06/23 10:54:13 PM] Nlkosi scored a hit with Scribe's Spark on the Invasive Snow-beast for 9,439 Lightning damage to Morale.
+[06/23 10:54:14 PM] Nlkosi scored a hit with Essence of Storm on the Invasive Snow-beast for 9,584 Lightning damage to Morale.
+[06/23 10:54:14 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Invasive Snow-beast for 3,234 Fire damage to Morale.
+[06/23 10:54:15 PM] The Invasive Snow-beast scored a hit with a melee double attack on Nlkosi for 2,217 Common damage to Morale.
+[06/23 10:54:15 PM] The Invasive Snow-beast scored a hit with a melee double attack on Nlkosi for 2,217 Common damage to Morale.
+[06/23 10:54:15 PM] The Invasive Snow-beast scored a hit with a melee double attack on Nlkosi for 2,217 Common damage to Morale.
+[06/23 10:54:16 PM] Your mighty blow defeated the Invasive Snow-beast.
+[06/23 10:54:16 PM] Nlkosi scored a hit with Epic Conclusion on the Invasive Snow-beast for 35,350 Lightning damage to Morale.
+[06/23 10:54:17 PM] The Invasive Snow-beast scored a hit with a moderate melee attack on Nlkosi for 3,048 Common damage to Morale.
+[06/23 10:54:19 PM] The Invasive Snow-beast scored a hit with a weak melee attack on Nlkosi for 2,217 Common damage to Morale.
+[06/23 10:54:21 PM] The Invasive Snow-beast scored a partially evaded hit with a minor melee attack on Nlkosi for 2,541 Common damage to Morale.
+[06/23 10:54:23 PM] Nlkosi scored a hit with Ceaseless Argument on the Invasive Snow-beast for 6,728 Lightning damage to Morale.
+[06/23 10:54:23 PM] The Invasive Snow-beast scored a critical hit with Melee Knockdown on Nlkosi.
+[06/23 10:54:25 PM] The Invasive Snow-beast scored a hit with a weak melee attack on Nlkosi for 2,150 Common damage to Morale.
+[06/23 10:54:25 PM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[06/23 10:54:26 PM] Nlkosi scored a hit with Ceaseless Argument on the Invasive Snow-beast for 9,578 Lightning damage to Morale.
+[06/23 10:54:27 PM] The Invasive Snow-beast scored a critical hit with a moderate swipe attack on Nlkosi for 4,097 Common damage to Morale.
+[06/23 10:54:27 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 10:54:28 PM] Nlkosi scored a critical hit with Scribe's Spark on the Invasive Snow-beast for 26,327 Lightning damage to Morale.
+[06/23 10:54:28 PM] The Invasive Snow-beast scored a hit with a weak melee attack on Nlkosi for 2,084 Common damage to Morale.
+[06/23 10:54:29 PM] Your mighty blow defeated the Invasive Snow-beast.
+[06/23 10:54:29 PM] Nlkosi scored a hit with Shocking Words on the Invasive Snow-beast for 30,852 Lightning damage to Morale.
+[06/23 10:54:32 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Vicious Cold for 9,899 Lightning damage to Morale.
+[06/23 10:54:33 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 943 points to Power.
+[06/23 10:54:33 PM] Sustenance applied a critical heal to Nlkosi restoring 15,032 points to Morale.
+[06/23 10:54:34 PM] The Vicious Cold scored a hit with Form of the Beast on Nlkosi for 5,964 Frost damage to Morale.
+[06/23 10:54:34 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Vicious Cold for 8,203 Fire damage to Morale.
+[06/23 10:54:34 PM] The Vicious Cold scored a hit with Form of the Beast on Nlkosi for 5,964 Frost damage to Morale.
+[06/23 10:54:35 PM] Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 4,812 Fire damage to Morale.
+[06/23 10:54:37 PM] Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 5,310 Fire damage to Morale.
+[06/23 10:54:38 PM] The Vicious Cold scored a hit with Snow Geyser on Nlkosi for 3,807 Frost damage to Morale.
+[06/23 10:54:38 PM] Nlkosi scored a critical hit with Essence of Flame on the Vicious Cold for 25,007 Fire damage to Morale.
+[06/23 10:54:39 PM] Nlkosi scored a hit with Writ of Lightning on the Vicious Cold for 10,462 Lightning damage to Morale.
+[06/23 10:54:39 PM] The Vicious Cold scored a hit with Freezing on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:54:39 PM] Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 6,374 Fire damage to Morale.
+[06/23 10:54:41 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Vicious Cold for 25,757 Lightning damage to Morale.
+[06/23 10:54:41 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 10:54:41 PM] Your mighty blow defeated the Vicious Cold.
+[06/23 10:54:42 PM] The Vicious Cold scored a hit with Freezing on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:54:45 PM] The Vicious Cold scored a hit with Freezing on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:54:48 PM] The Vicious Cold scored a hit with Freezing on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:54:51 PM] The Vicious Cold scored a hit with Freezing on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:54:54 PM] The Vicious Cold scored a hit with Freezing on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:54:58 PM] Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 3,451 Fire damage to Morale.
+[06/23 10:54:58 PM] Nlkosi scored a hit with Sustaining Bolt on the Vicious Cold for 3,918 Lightning damage to Morale.
+[06/23 10:54:59 PM] Sustaining Bolt applied a heal to Nlkosi restoring 777 points to Power.
+[06/23 10:54:59 PM] Sustenance applied a heal to Nlkosi restoring 10,583 points to Morale.
+[06/23 10:54:59 PM] The Vicious Cold scored a hit with Form of the Beast on Nlkosi for 6,345 Frost damage to Morale.
+[06/23 10:54:59 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Vicious Cold for 7,921 Fire damage to Morale.
+[06/23 10:55:00 PM] The Vicious Cold scored a critical hit with Form of the Beast on Nlkosi for 9,074 Frost damage to Morale.
+[06/23 10:55:01 PM] Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 4,007 Fire damage to Morale.
+[06/23 10:55:02 PM] Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 3,565 Fire damage to Morale.
+[06/23 10:55:04 PM] The Vicious Cold scored a hit with Frost Wave on Nlkosi for 5,076 Frost damage to Morale.
+[06/23 10:55:05 PM] The Vicious Cold scored a hit with Melee Frost Max on Nlkosi for 10,316 Frost damage to Morale.
+[06/23 10:55:05 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Vicious Cold for 3,245 Fire damage to Morale.
+[06/23 10:55:06 PM] Nlkosi scored a hit with Vivid Imagery on the Vicious Cold for 9,035 Lightning damage to Morale.
+[06/23 10:55:07 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 10:55:07 PM] Your mighty blow defeated the Vicious Cold.
+[06/23 10:55:07 PM] Nlkosi scored a critical hit with Epic Conclusion on the Vicious Cold for 109,207 Lightning damage to Morale.
+[06/23 10:55:12 PM] Nothing to dispel.
+[06/23 10:55:12 PM] Nlkosi scored a hit with Improved Final Word on the Invasive Snow-beast.
+[06/23 10:55:13 PM] Prelude to Hope applied a heal to Nlkosi restoring 2,333 points to Morale.
+[06/23 10:55:13 PM] Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+[06/23 10:55:13 PM] Nlkosi applied a benefit with Word of Exaltation on Nlkosi.
+[06/23 10:55:13 PM] You have lost 18,278 points of temporary Morale!
+[06/23 10:55:14 PM] Prelude to Hope applied a heal to Nlkosi restoring 752 points to Morale.
+[06/23 10:55:14 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[06/23 10:55:14 PM] The Invasive Snow-beast scored a hit with a weak thrown attack on Nlkosi for 2,217 Common damage to Morale.
+[06/23 10:55:14 PM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[06/23 10:55:14 PM] You have lost 2,217 points of temporary Morale!
+[06/23 10:55:15 PM] Prelude to Hope applied a heal to Nlkosi restoring 963 points to Morale.
+[06/23 10:55:15 PM] Nlkosi scored a hit with Concession and Rebuttal: Shocking Words on the Invasive Snow-beast for 28,005 Lightning damage to Morale.
+[06/23 10:55:16 PM] Prelude to Hope applied a heal to Nlkosi restoring 936 points to Morale.
+[06/23 10:55:17 PM] Prelude to Hope applied a heal to Nlkosi restoring 745 points to Morale.
+[06/23 10:55:17 PM] Nlkosi scored a hit with Ceaseless Argument on the Invasive Snow-beast for 7,968 Lightning damage to Morale.
+[06/23 10:55:18 PM] Your mighty blow defeated the Invasive Snow-beast.
+[06/23 10:55:18 PM] Prelude to Hope applied a heal to Nlkosi restoring 904 points to Morale.
+[06/23 10:55:18 PM] Nlkosi scored a hit with Essence of Storm on the Invasive Snow-beast for 8,714 Lightning damage to Morale.
+[06/23 10:55:19 PM] Prelude to Hope applied a heal to Nlkosi restoring 851 points to Morale.
+[06/23 10:55:20 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,013 points to Morale.
+[06/23 10:55:21 PM] Prelude to Hope applied a heal to Nlkosi restoring 971 points to Morale.
+[06/23 10:55:22 PM] Prelude to Hope applied a heal to Nlkosi restoring 747 points to Morale.
+[06/23 10:55:23 PM] Prelude to Hope applied a heal to Nlkosi restoring 912 points to Morale.
+[06/23 10:55:24 PM] Prelude to Hope applied a heal to Nlkosi restoring 877 points to Morale.
+[06/23 10:55:25 PM] Prelude to Hope applied a heal to Nlkosi restoring 752 points to Morale.
+[06/23 10:55:26 PM] The Invasive Snow-beast scored a hit with a moderate swipe attack on Nlkosi for 3,048 Common damage to Morale.
+[06/23 10:55:26 PM] You have lost 3,048 points of temporary Morale!
+[06/23 10:55:27 PM] The Invasive Snow-beast tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[06/23 10:55:28 PM] Nlkosi scored a hit with Essence of Storm on the Invasive Snow-beast for 10,984 Lightning damage to Morale.
+[06/23 10:55:29 PM] Nlkosi scored a hit with Concession and Rebuttal: Sustaining Bolt on the Invasive Snow-beast for 10,364 Lightning damage to Morale.
+[06/23 10:55:30 PM] Powerful Sustenance applied a heal to Nlkosi restoring 18,481 points to Morale.
+[06/23 10:55:30 PM] Sustaining Bolt applied a heal to Nlkosi restoring 798 points to Power.
+[06/23 10:55:30 PM] You have lost 2,217 points of temporary Morale!
+[06/23 10:55:31 PM] Nlkosi scored a hit with Head-butt on the Invasive Snow-beast for 7,301 Common damage to Morale.
+[06/23 10:55:32 PM] Nlkosi scored a hit with Fiery Ridicule on the Invasive Snow-beast for 4,748 Fire damage to Morale.
+[06/23 10:55:32 PM] The Invasive Snow-beast scored a hit with a weak melee attack on Nlkosi for 2,217 Common damage to Morale.
+[06/23 10:55:32 PM] You have lost 2,217 points of temporary Morale!
+[06/23 10:55:33 PM] Nlkosi scored a hit with Concession and Rebuttal: Writ of Lightning on the Invasive Snow-beast for 7,910 Lightning damage to Morale.
+[06/23 10:55:33 PM] You have lost 15,801 points of temporary Morale!
+[06/23 10:55:34 PM] The Invasive Snow-beast scored a hit with a moderate melee attack on Nlkosi for 3,048 Common damage to Morale.
+[06/23 10:55:35 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Invasive Snow-beast for 2,771 Fire damage to Morale.
+[06/23 10:55:36 PM] Your mighty blow defeated the Invasive Snow-beast.
+[06/23 10:55:36 PM] Nlkosi scored a hit with Ceaseless Argument on the Invasive Snow-beast for 8,852 Lightning damage to Morale.
+[06/23 10:55:42 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 9,818 Fire damage to Morale.
+[06/23 10:55:42 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/23 10:55:43 PM] The Invasive Snow-beast tried to use a moderate melee attack on the Volcanic Rune-stone but it parried the attempt.
+[06/23 10:55:44 PM] Nlkosi scored a hit with Fulgurite Strike on the Invasive Snow-beast for 2,550 Lightning damage to Morale.
+[06/23 10:55:44 PM] Nlkosi scored a hit with Fulgurite Strike on the Invasive Snow-beast for 2,572 Lightning damage to Morale.
+[06/23 10:55:44 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/23 10:55:44 PM] The Invasive Snow-beast scored a hit with a weak melee attack on the Volcanic Rune-stone for 457 Common damage to Morale.
+[06/23 10:55:44 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 9,818 Fire damage to Morale.
+[06/23 10:55:44 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 9,818 Fire damage to Morale.
+[06/23 10:55:45 PM] The Invasive Snow-beast scored a hit with a mighty swipe attack on the Volcanic Rune-stone for 1,211 Common damage to Morale.
+[06/23 10:55:45 PM] Nothing to dispel.
+[06/23 10:55:45 PM] Nlkosi scored a hit with Essence of Storm on the Invasive Snow-beast for 8,964 Lightning damage to Morale.
+[06/23 10:55:45 PM] Nlkosi scored a hit with Improved Final Word on the Invasive Snow-beast.
+[06/23 10:55:46 PM] The Invasive Snow-beast scored a hit with a moderate melee attack on the Volcanic Rune-stone for 628 Common damage to Morale.
+[06/23 10:55:46 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 9,818 Fire damage to Morale.
+[06/23 10:55:46 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Invasive Snow-beast for 9,818 Fire damage to Morale.
+[06/23 10:55:46 PM] Your mighty blow defeated the Invasive Snow-beast.
+[06/23 10:55:46 PM] Your mighty blow defeated the Invasive Snow-beast.
+[06/23 10:55:47 PM] Nlkosi scored a hit with Concession and Rebuttal: Shocking Words on the Invasive Snow-beast for 32,053 Lightning damage to Morale.
+[06/23 10:55:47 PM] Nlkosi scored a hit with Concession and Rebuttal: Shocking Words on the Invasive Snow-beast for 28,077 Lightning damage to Morale.
+[06/23 10:55:49 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 10:55:50 PM] Nlkosi scored a critical hit with Scribe's Spark on the Invasive Snow-beast for 25,491 Lightning damage to Morale.
+[06/23 10:55:51 PM] The Invasive Snow-beast tried to use a minor thrown attack on Nlkosi but he evaded the attempt.
+[06/23 10:55:53 PM] The Invasive Snow-beast scored a hit with a weak thrown attack on Nlkosi for 2,217 Common damage to Morale.
+[06/23 10:55:54 PM] Nlkosi scored a hit with Scribe's Spark on the Invasive Snow-beast for 11,248 Lightning damage to Morale.
+[06/23 10:55:55 PM] Your mighty blow defeated the Invasive Snow-beast.
+[06/23 10:55:56 PM] Nlkosi scored a hit with Essence of Storm on the Invasive Snow-beast for 11,971 Lightning damage to Morale.
+[06/23 10:55:57 PM] Nlkosi scored a hit with Ceaseless Argument on the Vicious Cold for 9,899 Lightning damage to Morale.
+[06/23 10:55:58 PM] Your mighty blow defeated the Vicious Cold.
+[06/23 10:55:58 PM] Nlkosi scored a critical hit with Concession and Rebuttal: Epic Conclusion on the Vicious Cold for 139,163 Lightning damage to Morale.
+[06/23 10:56:01 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 10:56:01 PM] Nlkosi scored a devastating hit with Scribe's Spark on the Vicious Cold for 34,423 Lightning damage to Morale.
+[06/23 10:56:02 PM] Nlkosi scored a hit with Sustaining Bolt on the Vicious Cold for 5,603 Lightning damage to Morale.
+[06/23 10:56:02 PM] The Vicious Cold scored a hit with Form of the Beast on Nlkosi for 6,155 Frost damage to Morale.
+[06/23 10:56:03 PM] Sustaining Bolt applied a heal to Nlkosi restoring 799 points to Power.
+[06/23 10:56:03 PM] Sustenance applied a heal to Nlkosi restoring 8,151 points to Morale.
+[06/23 10:56:03 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Vicious Cold for 8,560 Fire damage to Morale.
+[06/23 10:56:03 PM] The Vicious Cold scored a partially evaded hit with Form of the Beast on Nlkosi for 5,643 Frost damage to Morale.
+[06/23 10:56:05 PM] Nlkosi scored a hit with Fiery Ridicule on the Vicious Cold for 4,080 Fire damage to Morale.
+[06/23 10:56:08 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on the Vicious Cold for 6,281 Fire damage to Morale.
+[06/23 10:56:08 PM] The Vicious Cold scored a critical hit with Freezing on Nlkosi for 2,462 Frost damage to Morale.
+[06/23 10:56:08 PM] Your mighty blow defeated the Vicious Cold.
+[06/23 10:56:08 PM] Nlkosi scored a critical hit with Scribe's Spark on the Vicious Cold for 27,658 Lightning damage to Morale.
+[06/23 10:56:11 PM] The Vicious Cold scored a hit with Freezing on Nlkosi for 2,462 Frost damage to Morale.
+[06/23 10:56:11 PM] The Meddlesome Stone-giant scored a hit with a weak swipe attack on Nlkosi for 3,779 Common damage to Morale.
+[06/23 10:56:14 PM] The Vicious Cold scored a hit with Freezing on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:56:14 PM] The Meddlesome Stone-giant scored a partially evaded hit with Melee Knockback on Nlkosi for 4,465 Common damage to Morale.
+[06/23 10:56:17 PM] The Vicious Cold scored a hit with Freezing on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:56:18 PM] Nlkosi scored a hit with Fulgurite Strike on the Meddlesome Stone-giant for 2,602 Lightning damage to Morale.
+[06/23 10:56:18 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/23 10:56:19 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 10:56:19 PM] Nothing to dispel.
+[06/23 10:56:19 PM] Nlkosi scored a critical hit with Shocking Words on the Meddlesome Stone-giant for 80,981 Lightning damage to Morale.
+[06/23 10:56:20 PM] Nlkosi scored a hit with Improved Final Word on the Meddlesome Stone-giant.
+[06/23 10:56:20 PM] The Vicious Cold scored a hit with Freezing on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:56:21 PM] Nlkosi scored a hit with Fulgurite Strike on the Meddlesome Stone-giant for 2,539 Lightning damage to Morale.
+[06/23 10:56:23 PM] The Vicious Cold scored a hit with Freezing on Nlkosi for 2,538 Frost damage to Morale.
+[06/23 10:56:23 PM] Nlkosi scored a hit with Essence of Storm on the Meddlesome Stone-giant for 11,048 Lightning damage to Morale.
+[06/23 10:56:23 PM] The Meddlesome Stone-giant tried to use a weak swipe attack on Nlkosi but he evaded the attempt.
+[06/23 10:56:24 PM] Nlkosi scored a critical hit with Static Surge on the Meddlesome Stone-giant for 32,315 Lightning damage to Morale.
+[06/23 10:56:24 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Meddlesome Stone-giant but he was immune to the attempt.
+[06/23 10:56:24 PM] Nlkosi scored a hit with Fulgurite Strike on the Meddlesome Stone-giant for 2,700 Lightning damage to Morale.
+[06/23 10:56:25 PM] The Meddlesome Stone-giant scored a hit with a mighty swipe attack on Nlkosi for 8,767 Common damage to Morale.
+[06/23 10:56:25 PM] The Meddlesome Stone-giant scored a hit with a mighty swipe attack on the Charged Fulgurite Rune-stone for 2,128 Common damage to Morale.
+[06/23 10:56:26 PM] Nlkosi scored a hit with Epic Conclusion on the Meddlesome Stone-giant for 39,530 Lightning damage to Morale.
+[06/23 10:56:27 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Meddlesome Stone-giant but he was immune to the attempt.
+[06/23 10:56:27 PM] Nlkosi scored a hit with Fulgurite Strike on the Meddlesome Stone-giant for 2,601 Lightning damage to Morale.
+[06/23 10:56:27 PM] The Meddlesome Stone-giant scored a critical hit with a moderate swipe attack on Nlkosi for 7,661 Common damage to Morale.
+[06/23 10:56:27 PM] The Meddlesome Stone-giant scored a hit with a moderate swipe attack on the Charged Fulgurite Rune-stone for 1,301 Common damage to Morale.
+[06/23 10:56:29 PM] Nlkosi scored a hit with Ceaseless Argument on the Meddlesome Stone-giant for 6,028 Lightning damage to Morale.
+[06/23 10:56:29 PM] The Meddlesome Stone-giant scored a partially evaded hit with a weak swipe attack on Nlkosi for 3,572 Common damage to Morale.
+[06/23 10:56:31 PM] Nlkosi scored a hit with Ceaseless Argument on the Meddlesome Stone-giant for 7,913 Lightning damage to Morale.
+[06/23 10:56:31 PM] Nlkosi scored a hit with Static Surge on the Meddlesome Stone-giant for 17,393 Lightning damage to Morale.
+[06/23 10:56:32 PM] The Meddlesome Stone-giant scored a hit with Earth-shaking Step on Nlkosi.
+[06/23 10:56:34 PM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[06/23 10:56:34 PM] The Meddlesome Stone-giant scored a hit with a moderate swipe attack on Nlkosi for 5,357 Common damage to Morale.
+[06/23 10:56:35 PM] Nlkosi scored a hit with Ceaseless Argument on the Meddlesome Stone-giant for 7,924 Lightning damage to Morale.
+[06/23 10:56:36 PM] Nlkosi scored a hit with Essence of Storm on the Meddlesome Stone-giant for 10,295 Lightning damage to Morale.
+[06/23 10:56:36 PM] The Meddlesome Stone-giant scored a hit with a weak swipe attack on Nlkosi for 3,896 Common damage to Morale.
+[06/23 10:56:38 PM] Nlkosi scored a hit with Ceaseless Argument on the Meddlesome Stone-giant for 9,719 Lightning damage to Morale.
+[06/23 10:56:38 PM] The Meddlesome Stone-giant scored a hit with a moderate swipe attack on Nlkosi for 5,197 Common damage to Morale.
+[06/23 10:56:40 PM] Nlkosi scored a hit with Shocking Words on the Meddlesome Stone-giant for 27,873 Lightning damage to Morale.
+[06/23 10:56:41 PM] Nlkosi scored a hit with Ceaseless Argument on the Meddlesome Stone-giant for 7,640 Lightning damage to Morale.
+[06/23 10:56:43 PM] Nlkosi scored a hit with Ceaseless Argument on the Meddlesome Stone-giant for 8,038 Lightning damage to Morale.
+[06/23 10:56:43 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Meddlesome Stone-giant for 9,248 Fire damage to Morale.
+[06/23 10:56:43 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/23 10:56:44 PM] Nlkosi scored a critical hit with a melee attack on the Meddlesome Stone-giant for 743 Lightning damage to Morale.
+[06/23 10:56:45 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Meddlesome Stone-giant for 9,248 Fire damage to Morale.
+[06/23 10:56:45 PM] Nlkosi scored a hit with a melee attack on the Meddlesome Stone-giant for 494 Lightning damage to Morale.
+[06/23 10:56:46 PM] Nlkosi scored a devastating hit with a melee attack on the Meddlesome Stone-giant for 956 Lightning damage to Morale.
+[06/23 10:56:46 PM] The Meddlesome Stone-giant scored a hit with a weak swipe attack on Nlkosi for 3,663 Common damage to Morale.
+[06/23 10:56:46 PM] Nlkosi scored a hit with Fulgurite Strike on the Meddlesome Stone-giant for 2,560 Lightning damage to Morale.
+[06/23 10:56:47 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/23 10:56:47 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Meddlesome Stone-giant for 9,248 Fire damage to Morale.
+[06/23 10:56:48 PM] The Meddlesome Stone-giant scored a hit with Melee Knockback on Nlkosi for 4,578 Common damage to Morale.
+[06/23 10:56:48 PM] Nlkosi scored a hit with Static Surge on the Meddlesome Stone-giant for 17,234 Lightning damage to Morale.
+[06/23 10:56:49 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Meddlesome Stone-giant for 9,248 Fire damage to Morale.
+[06/23 10:56:50 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Meddlesome Stone-giant but he was immune to the attempt.
+[06/23 10:56:50 PM] Nlkosi scored a hit with Fulgurite Strike on the Meddlesome Stone-giant for 2,621 Lightning damage to Morale.
+[06/23 10:56:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Meddlesome Stone-giant for 9,248 Fire damage to Morale.

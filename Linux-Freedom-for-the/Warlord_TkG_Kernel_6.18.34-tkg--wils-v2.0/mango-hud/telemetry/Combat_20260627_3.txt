@@ -1,0 +1,442 @@
+### Chat Log: Combat 06/27 04:45 PM ###
+[06/27 04:46:43 PM] Your mighty blow defeated the Crystalline Warg.
+[06/27 04:46:43 PM] Nlkosi scored a devastating hit with Essence of Flame on the Crystalline Warg for 30,656 Fire damage to Morale.
+[06/27 04:46:49 PM] Nlkosi scored a hit with Fiery Ridicule on the Crystalline Frost-warg for 4,493 Fire damage to Morale.
+[06/27 04:46:49 PM] Nlkosi scored a hit with Sustaining Bolt on the Crystalline Frost-warg for 3,761 Lightning damage to Morale.
+[06/27 04:46:50 PM] Sustaining Bolt applied a heal to Nlkosi restoring 812 points to Power.
+[06/27 04:46:50 PM] Sustenance applied a heal to Nlkosi restoring 9,103 points to Morale.
+[06/27 04:46:52 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Crystalline Frost-warg for 10,715 Fire damage to Morale.
+[06/27 04:46:53 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Crystalline Frost-warg for 11,325 Fire damage to Morale.
+[06/27 04:46:54 PM] Your mighty blow defeated the Crystalline Frost-warg.
+[06/27 04:46:54 PM] Nlkosi scored a hit with Fiery Ridicule on the Crystalline Frost-warg for 6,790 Fire damage to Morale.
+[06/27 04:46:57 PM] Nlkosi scored a hit with Essence of Storm on the Crystalline Pack-leader for 12,764 Lightning damage to Morale.
+[06/27 04:46:58 PM] Nothing to dispel.
+[06/27 04:46:58 PM] Nlkosi scored a hit with Vivid Imagery on the Crystalline Pack-leader for 12,206 Lightning damage to Morale.
+[06/27 04:46:59 PM] Nlkosi scored a hit with Improved Final Word on the Crystalline Pack-leader.
+[06/27 04:46:59 PM] Nlkosi scored a hit with Static Surge on the Crystalline Pack-leader for 21,931 Lightning damage to Morale.
+[06/27 04:47:01 PM] Your mighty blow defeated the Crystalline Pack-leader.
+[06/27 04:47:01 PM] Nlkosi scored a hit with Shocking Words on the Crystalline Pack-leader for 30,527 Lightning damage to Morale.
+[06/27 04:47:31 PM] Nlkosi scored a hit with Sustaining Bolt on the Crystalline Pack-leader for 4,687 Lightning damage to Morale.
+[06/27 04:47:32 PM] Sustaining Bolt applied a heal to Nlkosi restoring 847 points to Power.
+[06/27 04:47:32 PM] Sustenance applied a critical heal to Nlkosi restoring 13,989 points to Morale.
+[06/27 04:47:32 PM] Nlkosi scored a hit with Fiery Ridicule on the Crystalline Pack-leader for 4,835 Fire damage to Morale.
+[06/27 04:47:35 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Crystalline Pack-leader for 9,526 Fire damage to Morale.
+[06/27 04:47:36 PM] Nlkosi scored a hit with Essence of Flame on the Crystalline Pack-leader for 15,927 Fire damage to Morale.
+[06/27 04:47:36 PM] Nlkosi scored a hit with Essence of Flame on the Crystalline Warg for 14,710 Fire damage to Morale.
+[06/27 04:47:37 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Crystalline Pack-leader for 11,088 Fire damage to Morale.
+[06/27 04:47:39 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Crystalline Pack-leader for 4,184 Fire damage to Morale.
+[06/27 04:47:42 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Warg for 15,649 Fire damage to Morale.
+[06/27 04:47:42 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 15,488 Fire damage to Morale.
+[06/27 04:47:42 PM] The Volcanic Rune-stone defeated the Crystalline Pack-leader.
+[06/27 04:47:43 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/27 04:47:43 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 3,967 Lightning damage to Morale.
+[06/27 04:47:43 PM] The Charged Fulgurite Rune-stone defeated the Crystalline Warg.
+[06/27 04:47:44 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/27 04:48:40 PM] Nlkosi applied a benefit with Track Mines on Nlkosi.
+[06/27 04:48:42 PM] Nlkosi scored a hit with Fiery Ridicule on the Crystalline Pack-leader for 5,302 Fire damage to Morale.
+[06/27 04:48:42 PM] Nlkosi scored a hit with Sustaining Bolt on the Crystalline Pack-leader for 4,511 Lightning damage to Morale.
+[06/27 04:48:43 PM] Sustaining Bolt applied a heal to Nlkosi restoring 840 points to Power.
+[06/27 04:48:43 PM] Sustenance applied a heal to Nlkosi restoring 10,968 points to Morale.
+[06/27 04:48:44 PM] The Crystalline Pack-leader scored a partially evaded hit with a weak melee attack on Nlkosi for 1,800 Common damage to Morale.
+[06/27 04:48:44 PM] Nlkosi scored a hit with Essence of Storm on the Crystalline Pack-leader for 11,765 Lightning damage to Morale.
+[06/27 04:48:45 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Crystalline Pack-leader for 2,300 Fire damage to Morale.
+[06/27 04:48:47 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/27 04:48:47 PM] Nlkosi scored a devastating hit with Ceaseless Argument on the Crystalline Warg for 30,408 Lightning damage to Morale.
+[06/27 04:48:47 PM] The Crystalline Warg scored a hit with a minor melee attack on Nlkosi for 1,965 Common damage to Morale.
+[06/27 04:48:48 PM] Your mighty blow defeated the Crystalline Warg.
+[06/27 04:48:48 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Crystalline Pack-leader for 5,439 Fire damage to Morale.
+[06/27 04:48:48 PM] Nlkosi scored a critical hit with Vivid Imagery on the Crystalline Pack-leader for 26,001 Lightning damage to Morale.
+[06/27 04:48:48 PM] Nlkosi scored a critical hit with Vivid Imagery on the Crystalline Warg for 26,239 Lightning damage to Morale.
+[06/27 04:48:50 PM] Your mighty blow defeated the Crystalline Pack-leader.
+[06/27 04:48:50 PM] Nlkosi scored a critical hit with Epic Conclusion on the Crystalline Pack-leader for 126,219 Lightning damage to Morale.
+[06/27 04:49:10 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/27 04:49:10 PM] Nlkosi scored a devastating hit with Sustaining Bolt on the Crystalline Warg for 12,151 Lightning damage to Morale.
+[06/27 04:49:11 PM] Sustaining Bolt applied a heal to Nlkosi restoring 841 points to Power.
+[06/27 04:49:11 PM] Sustenance applied a heal to Nlkosi restoring 9,076 points to Morale.
+[06/27 04:49:11 PM] Nlkosi scored a hit with Fiery Ridicule on the Crystalline Warg for 4,563 Fire damage to Morale.
+[06/27 04:49:13 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:49:13 PM] Nlkosi scored a hit with Fiery Ridicule on the Crystalline Warg for 4,621 Fire damage to Morale.
+[06/27 04:49:13 PM] The Crystalline Warg scored a partially evaded hit with Melee Med Bleed on Nlkosi.
+[06/27 04:49:14 PM] Nlkosi scored a hit with Fiery Ridicule on the Crystalline Warg for 4,983 Fire damage to Morale.
+[06/27 04:49:15 PM] The Crystalline Warg scored a hit with a moderate melee attack on Nlkosi for 2,161 Common damage to Morale.
+[06/27 04:49:15 PM] Your mighty blow defeated the Crystalline Warg.
+[06/27 04:49:15 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Crystalline Warg for 10,736 Fire damage to Morale.
+[06/27 04:49:16 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:49:19 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:49:22 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:49:25 PM] The Crystalline Warg tried to use Serious Wound on Nlkosi but he resisted the attempt.
+[06/27 04:49:27 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Crystalline Frost-warg for 11,192 Fire damage to Morale.
+[06/27 04:49:27 PM] Nlkosi scored a hit with Sustaining Bolt on the Crystalline Frost-warg for 4,273 Lightning damage to Morale.
+[06/27 04:49:27 PM] The Crystalline Frost-warg scored a hit with a weak melee attack on Nlkosi for 1,768 Frost damage to Morale.
+[06/27 04:49:27 PM] The Crystalline Frost-warg scored a hit with Frost Bite on Nlkosi for 3,535 Frost damage to Morale.
+[06/27 04:49:28 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:49:28 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 951 points to Power.
+[06/27 04:49:28 PM] Sustenance applied a heal to Nlkosi restoring 10,761 points to Morale.
+[06/27 04:49:29 PM] Nlkosi scored a hit with Writ of Lightning on the Crystalline Frost-warg for 9,039 Lightning damage to Morale.
+[06/27 04:49:29 PM] The Crystalline Frost-warg scored a hit with a melee double attack on Nlkosi for 1,768 Frost damage to Morale.
+[06/27 04:49:29 PM] The Crystalline Frost-warg scored a hit with a moderate melee attack on Nlkosi for 2,430 Frost damage to Morale.
+[06/27 04:49:30 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Crystalline Frost-warg for 3,000 Fire damage to Morale.
+[06/27 04:49:30 PM] The Crystalline Frost-warg scored a hit with a melee double attack on Nlkosi for 1,768 Frost damage to Morale.
+[06/27 04:49:30 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/27 04:49:30 PM] Your mighty blow defeated the Crystalline Frost-warg.
+[06/27 04:49:30 PM] Nlkosi scored a critical hit with Shocking Touch on the Crystalline Frost-warg for 8,161 Lightning damage to Morale.
+[06/27 04:49:31 PM] The Crystalline Frost-warg scored a hit with a melee double attack on Nlkosi for 1,715 Frost damage to Morale.
+[06/27 04:49:32 PM] The Crystalline Frost-warg scored a hit with a melee double attack on Nlkosi for 1,715 Frost damage to Morale.
+[06/27 04:49:32 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Crystalline Frost-warg for 9,352 Fire damage to Morale.
+[06/27 04:49:33 PM] Nlkosi scored a hit with Fiery Ridicule on the Crystalline Frost-warg for 5,827 Fire damage to Morale.
+[06/27 04:49:34 PM] The Crystalline Frost-warg scored a partially parried hit with a weak melee attack on Nlkosi for 1,675 Frost damage to Morale.
+[06/27 04:49:35 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Crystalline Frost-warg for 11,056 Fire damage to Morale.
+[06/27 04:49:35 PM] The Crystalline Frost-warg scored a hit with a minor melee attack on Nlkosi for 2,143 Frost damage to Morale.
+[06/27 04:49:36 PM] Your mighty blow defeated the Crystalline Frost-warg.
+[06/27 04:49:36 PM] Nlkosi scored a hit with Writ of Lightning on the Crystalline Frost-warg for 11,509 Lightning damage to Morale.
+[06/27 04:49:40 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Crystalline Warg for 15,143 Fire damage to Morale.
+[06/27 04:49:42 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Crystalline Warg for 12,315 Fire damage to Morale.
+[06/27 04:49:43 PM] Your mighty blow defeated the Crystalline Warg.
+[06/27 04:49:43 PM] Nlkosi scored a hit with Essence of Flame on the Crystalline Warg for 17,213 Fire damage to Morale.
+[06/27 04:50:08 PM] Nlkosi scored a hit with Fiery Ridicule on the Crystalline Frost-warg for 4,329 Fire damage to Morale.
+[06/27 04:50:09 PM] Nlkosi scored a hit with Sustaining Bolt on the Crystalline Frost-warg for 3,654 Lightning damage to Morale.
+[06/27 04:50:10 PM] Sustaining Bolt applied a heal to Nlkosi restoring 867 points to Power.
+[06/27 04:50:10 PM] Sustenance applied a heal to Nlkosi restoring 9,428 points to Morale.
+[06/27 04:50:10 PM] Nlkosi scored a hit with Fiery Ridicule on the Crystalline Frost-warg for 5,256 Fire damage to Morale.
+[06/27 04:50:12 PM] Nlkosi scored a hit with Fiery Ridicule on the Crystalline Frost-warg for 4,714 Fire damage to Morale.
+[06/27 04:50:12 PM] The Crystalline Frost-warg scored a hit with a weak melee attack on Nlkosi for 1,715 Frost damage to Morale.
+[06/27 04:50:13 PM] Nlkosi scored a hit with Essence of Storm on the Crystalline Frost-warg for 10,657 Lightning damage to Morale.
+[06/27 04:50:14 PM] Your mighty blow defeated the Crystalline Frost-warg.
+[06/27 04:50:14 PM] Nlkosi scored a hit with Ceaseless Argument on the Crystalline Frost-warg for 10,226 Lightning damage to Morale.
+[06/27 04:50:39 PM] Nlkosi applied a benefit with Track Wood on Nlkosi.
+[06/27 04:50:58 PM] Nlkosi scored a hit with Essence of Storm on the Crystalline Frost-warg for 10,500 Lightning damage to Morale.
+[06/27 04:51:00 PM] Your mighty blow defeated the Crystalline Frost-warg.
+[06/27 04:51:00 PM] Nlkosi scored a hit with Shocking Words on the Crystalline Frost-warg for 24,600 Lightning damage to Morale.
+[06/27 04:51:08 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/27 04:51:08 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Crystalline Frost-warg for 26,093 Lightning damage to Morale.
+[06/27 04:51:09 PM] Your mighty blow defeated the Crystalline Frost-warg.
+[06/27 04:51:09 PM] Nlkosi scored a critical hit with Static Surge on the Crystalline Frost-warg for 48,727 Lightning damage to Morale.
+[06/27 04:51:20 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/27 04:51:20 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Crystalline Frost-warg for 9,895 Fire damage to Morale.
+[06/27 04:51:20 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Crystalline Frost-warg for 12,047 Lightning damage to Morale.
+[06/27 04:51:21 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 996 points to Power.
+[06/27 04:51:21 PM] Sustenance applied a heal to Nlkosi restoring 8,845 points to Morale.
+[06/27 04:51:21 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Crystalline Warg for 12,094 Fire damage to Morale.
+[06/27 04:51:22 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Crystalline Frost-warg for 2,677 Fire damage to Morale.
+[06/27 04:51:22 PM] The Crystalline Frost-warg tried to use Frost Bite on Nlkosi but he evaded the attempt.
+[06/27 04:51:23 PM] Nlkosi scored a hit with Essence of Flame on the Crystalline Warg for 14,991 Fire damage to Morale.
+[06/27 04:51:23 PM] Nlkosi scored a hit with Essence of Flame on the Crystalline Pack-leader for 14,522 Fire damage to Morale.
+[06/27 04:51:23 PM] Nlkosi scored a hit with Fiery Ridicule on the Crystalline Pack-leader for 6,540 Fire damage to Morale.
+[06/27 04:51:25 PM] The Crystalline Frost-warg scored a hit with a weak melee attack on Nlkosi for 1,768 Frost damage to Morale.
+[06/27 04:51:25 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Crystalline Frost-warg for 2,798 Fire damage to Morale.
+[06/27 04:51:26 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Crystalline Warg for 2,692 Fire damage to Morale.
+[06/27 04:51:26 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Crystalline Pack-leader for 6,020 Fire damage to Morale.
+[06/27 04:51:28 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Crystalline Frost-warg for 2,639 Fire damage to Morale.
+[06/27 04:51:29 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Crystalline Warg for 2,603 Fire damage to Morale.
+[06/27 04:51:29 PM] Your mighty blow defeated the Crystalline Warg.
+[06/27 04:51:29 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Crystalline Pack-leader for 3,525 Fire damage to Morale.
+[06/27 04:51:31 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Crystalline Frost-warg for 5,835 Fire damage to Morale.
+[06/27 04:51:31 PM] Your mighty blow defeated the Crystalline Frost-warg.
+[06/27 04:51:32 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Crystalline Pack-leader for 2,668 Fire damage to Morale.
+[06/27 04:51:35 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Crystalline Pack-leader for 5,782 Fire damage to Morale.
+[06/27 04:51:35 PM] The Crystalline Pack-leader scored a partially evaded hit with a weak melee attack on Nlkosi for 1,800 Common damage to Morale.
+[06/27 04:51:36 PM] Nlkosi scored a hit with Essence of Flame on the Crystalline Pack-leader for 18,460 Fire damage to Morale.
+[06/27 04:51:36 PM] Your mighty blow defeated the Crystalline Pack-leader.
+[06/27 04:51:36 PM] Nlkosi scored a hit with Epic Conclusion on the Crystalline Pack-leader for 45,163 Lightning damage to Morale.
+[06/27 04:53:26 PM] The Crystalline Warg scored a hit with a weak melee attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:27 PM] The Crystalline Warg scored a hit with a minor melee attack on Nlkosi for 1,965 Common damage to Morale.
+[06/27 04:53:28 PM] The Crystalline Pack-leader scored a hit with a weak melee attack on Nlkosi for 2,096 Common damage to Morale.
+[06/27 04:53:29 PM] The Crystalline Pack-leader scored a hit with a moderate melee attack on Nlkosi for 2,881 Common damage to Morale.
+[06/27 04:53:29 PM] The Crystalline Warg scored a hit with a melee double attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:30 PM] The Crystalline Warg scored a hit with a melee double attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:31 PM] The Crystalline Frost-warg scored a hit with a weak melee attack on Nlkosi for 1,768 Frost damage to Morale.
+[06/27 04:53:32 PM] The Crystalline Frost-warg scored a hit with a weak melee attack on Nlkosi for 1,768 Frost damage to Morale.
+[06/27 04:53:33 PM] The Crystalline Pack-leader scored a hit with a mighty melee attack on Nlkosi for 4,715 Common damage to Morale.
+[06/27 04:53:33 PM] The Crystalline Warg scored a hit with a weak melee attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:35 PM] The Crystalline Pack-leader scored a hit with Dread on Nlkosi.
+[06/27 04:53:37 PM] The Crystalline Frost-warg scored a hit with Frost Bite on Nlkosi for 3,573 Frost damage to Morale.
+[06/27 04:53:38 PM] The Crystalline Warg scored a critical hit with a weak melee attack on Nlkosi for 2,248 Common damage to Morale.
+[06/27 04:53:38 PM] The Crystalline Warg scored a hit with a weak melee attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:42 PM] The Crystalline Warg scored a hit with a minor melee attack on Nlkosi for 1,965 Common damage to Morale.
+[06/27 04:53:45 PM] The Crystalline Warg scored a hit with a weak melee attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:48 PM] The Crystalline Warg scored a hit with a moderate melee attack on Nlkosi for 2,161 Common damage to Morale.
+[06/27 04:53:50 PM] The Crystalline Warg scored a hit with a weak melee attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:50 PM] The Crystalline Warg scored a hit with Deep Wound on Nlkosi for 1,965 Common damage to Morale.
+[06/27 04:53:50 PM] The Crystalline Warg scored a hit with Ravage on Nlkosi for 3,929 Common damage to Morale.
+[06/27 04:53:50 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:51 PM] The Crystalline Warg scored a hit with Melee Med Bleed on Nlkosi.
+[06/27 04:53:51 PM] The Crystalline Warg scored a hit with a moderate melee attack on Nlkosi for 2,161 Common damage to Morale.
+[06/27 04:53:51 PM] The Crystalline Frost-warg scored a hit with a melee double attack on Nlkosi for 1,787 Frost damage to Morale.
+[06/27 04:53:51 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:52 PM] The Crystalline Warg scored a hit with Melee Med Bleed on Nlkosi.
+[06/27 04:53:52 PM] The Crystalline Warg scored a hit with Deep Wound on Nlkosi for 1,965 Common damage to Morale.
+[06/27 04:53:52 PM] The Crystalline Frost-warg scored a hit with a melee double attack on Nlkosi for 1,787 Frost damage to Morale.
+[06/27 04:53:52 PM] The Crystalline Warg tried to use Melee Med Bleed on Nlkosi but he evaded the attempt.
+[06/27 04:53:52 PM] The Crystalline Frost-warg tried to use a melee double attack on Nlkosi but he evaded the attempt.
+[06/27 04:53:52 PM] The Crystalline Warg scored a hit with a weak melee attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:52 PM] The Crystalline Pack-leader tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[06/27 04:53:53 PM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[06/27 04:53:53 PM] The Crystalline Warg scored a hit with a weak melee attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:53 PM] The Crystalline Warg scored a hit with a minor melee attack on Nlkosi for 1,965 Common damage to Morale.
+[06/27 04:53:53 PM] The Crystalline Frost-warg scored a hit with a melee double attack on Nlkosi for 1,787 Frost damage to Morale.
+[06/27 04:53:53 PM] The Crystalline Frost-warg scored a hit with Frost Bite on Nlkosi for 3,573 Frost damage to Morale.
+[06/27 04:53:53 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:53 PM] The Crystalline Warg scored a hit with a melee double attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:54 PM] The Crystalline Warg tried to use a moderate melee attack on Nlkosi but he evaded the attempt.
+[06/27 04:53:54 PM] The Crystalline Warg scored a hit with Deep Wound on Nlkosi for 1,965 Common damage to Morale.
+[06/27 04:53:54 PM] The Crystalline Warg scored a hit with a moderate melee attack on Nlkosi for 2,161 Common damage to Morale.
+[06/27 04:53:54 PM] The Crystalline Warg tried to use a moderate melee attack on Nlkosi but he evaded the attempt.
+[06/27 04:53:54 PM] The Crystalline Pack-leader scored a hit with a moderate melee attack on Nlkosi for 2,881 Common damage to Morale.
+[06/27 04:53:54 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:54 PM] The Crystalline Warg scored a hit with a melee double attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:54 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:54 PM] The Crystalline Frost-warg scored a hit with a melee double attack on Nlkosi for 1,787 Frost damage to Morale.
+[06/27 04:53:55 PM] The Crystalline Warg scored a hit with Melee Med Bleed on Nlkosi.
+[06/27 04:53:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Frost-warg for 13,310 Fire damage to Morale.
+[06/27 04:53:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Frost-warg for 13,310 Fire damage to Morale.
+[06/27 04:53:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Warg for 13,310 Fire damage to Morale.
+[06/27 04:53:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Warg for 13,310 Fire damage to Morale.
+[06/27 04:53:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:53:55 PM] The Crystalline Frost-warg scored a hit with a weak melee attack on Nlkosi for 1,787 Frost damage to Morale.
+[06/27 04:53:55 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/27 04:53:55 PM] The Crystalline Frost-warg scored a hit with a melee double attack on Nlkosi for 1,787 Frost damage to Morale.
+[06/27 04:53:55 PM] The Crystalline Frost-warg scored a devastating hit with a weak melee attack on Nlkosi for 3,448 Frost damage to Morale.
+[06/27 04:53:56 PM] The Crystalline Warg scored a hit with a moderate melee attack on Nlkosi for 2,161 Common damage to Morale.
+[06/27 04:53:56 PM] The Crystalline Warg scored a hit with a weak melee attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:56 PM] The Crystalline Warg scored a hit with Deep Wound on Nlkosi for 1,965 Common damage to Morale.
+[06/27 04:53:56 PM] The Crystalline Warg scored a hit with Unsettled on the Volcanic Rune-stone.
+[06/27 04:53:56 PM] The Crystalline Warg scored a hit with a melee double attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 3,710 Lightning damage to Morale.
+[06/27 04:53:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Frost-warg for 3,717 Lightning damage to Morale.
+[06/27 04:53:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Frost-warg for 3,711 Lightning damage to Morale.
+[06/27 04:53:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Frost-warg for 3,711 Lightning damage to Morale.
+[06/27 04:53:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 3,542 Lightning damage to Morale.
+[06/27 04:53:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 3,612 Lightning damage to Morale.
+[06/27 04:53:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 3,547 Lightning damage to Morale.
+[06/27 04:53:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Pack-leader for 3,666 Lightning damage to Morale.
+[06/27 04:53:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 3,841 Lightning damage to Morale.
+[06/27 04:53:56 PM] The Crystalline Frost-warg scored a hit with Freezing on Nlkosi for 1,787 Frost damage to Morale.
+[06/27 04:53:56 PM] The Crystalline Warg scored a hit with a weak melee attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:56 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/27 04:53:57 PM] The Crystalline Frost-warg scored a hit with Melee Frost Med Bleed on Nlkosi.
+[06/27 04:53:57 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Frost-warg for 13,310 Fire damage to Morale.
+[06/27 04:53:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Frost-warg for 13,310 Fire damage to Morale.
+[06/27 04:53:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Warg for 13,310 Fire damage to Morale.
+[06/27 04:53:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Warg for 13,310 Fire damage to Morale.
+[06/27 04:53:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:53:57 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:57 PM] Master of Tragedy applied a heal to Nlkosi restoring 133 points to Power.
+[06/27 04:53:57 PM] Your mighty blow defeated the Crystalline Warg.
+[06/27 04:53:57 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:53:58 PM] Nlkosi scored a critical hit with Shocking Words on the Crystalline Warg for 66,692 Lightning damage to Morale.
+[06/27 04:53:58 PM] The Crystalline Warg tried to use Deep Wound on Nlkosi but he resisted the attempt.
+[06/27 04:53:59 PM] The Crystalline Frost-warg scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 444 Frost damage to Morale.
+[06/27 04:53:59 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Frost-warg for 13,310 Fire damage to Morale.
+[06/27 04:53:59 PM] The Volcanic Rune-stone defeated the Crystalline Frost-warg.
+[06/27 04:53:59 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Frost-warg for 13,310 Fire damage to Morale.
+[06/27 04:53:59 PM] The Volcanic Rune-stone defeated the Crystalline Frost-warg.
+[06/27 04:53:59 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Warg for 13,310 Fire damage to Morale.
+[06/27 04:53:59 PM] The Volcanic Rune-stone defeated the Crystalline Warg.
+[06/27 04:53:59 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Warg for 13,310 Fire damage to Morale.
+[06/27 04:53:59 PM] The Volcanic Rune-stone defeated the Crystalline Warg.
+[06/27 04:53:59 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:53:59 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Frost-warg for 3,611 Lightning damage to Morale.
+[06/27 04:53:59 PM] The Charged Fulgurite Rune-stone defeated the Crystalline Frost-warg.
+[06/27 04:53:59 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 3,821 Lightning damage to Morale.
+[06/27 04:53:59 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Pack-leader for 3,824 Lightning damage to Morale.
+[06/27 04:53:59 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 3,535 Lightning damage to Morale.
+[06/27 04:53:59 PM] Nlkosi scored a hit with Vivid Imagery on the Crystalline Warg for 10,135 Lightning damage to Morale.
+[06/27 04:53:59 PM] Nlkosi scored a critical hit with Vivid Imagery on the Crystalline Warg for 23,822 Lightning damage to Morale.
+[06/27 04:53:59 PM] Nlkosi scored a critical hit with Vivid Imagery on the Crystalline Frost-warg for 23,822 Lightning damage to Morale.
+[06/27 04:53:59 PM] Nlkosi scored a hit with Vivid Imagery on the Crystalline Warg for 12,028 Lightning damage to Morale.
+[06/27 04:53:59 PM] Nlkosi scored a critical hit with Vivid Imagery on the Crystalline Frost-warg for 23,822 Lightning damage to Morale.
+[06/27 04:53:59 PM] Nlkosi scored a critical hit with Vivid Imagery on the Crystalline Frost-warg for 23,822 Lightning damage to Morale.
+[06/27 04:53:59 PM] Nlkosi scored a hit with Vivid Imagery on the Crystalline Warg for 9,119 Lightning damage to Morale.
+[06/27 04:53:59 PM] Nlkosi scored a hit with Vivid Imagery on the Crystalline Pack-leader for 8,831 Lightning damage to Morale.
+[06/27 04:53:59 PM] The Crystalline Frost-warg tried to use Freezing on Nlkosi but he resisted the attempt.
+[06/27 04:54:00 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:54:00 PM] The Crystalline Warg scored a hit with Deep Wound on Nlkosi for 1,965 Common damage to Morale.
+[06/27 04:54:00 PM] The Crystalline Warg tried to use Serious Wound on Nlkosi but he resisted the attempt.
+[06/27 04:54:01 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:54:01 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,899 Fire damage to Morale.
+[06/27 04:54:01 PM] The Volcanic Rune-stone defeated the Crystalline Pack-leader.
+[06/27 04:54:01 PM] The Crystalline Warg scored a hit with a weak melee attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:54:01 PM] The Crystalline Warg scored a hit with a weak melee attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:54:02 PM] The Crystalline Warg scored a hit with Deep Wound on Nlkosi for 1,965 Common damage to Morale.
+[06/27 04:54:02 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 4,075 Lightning damage to Morale.
+[06/27 04:54:02 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Crystalline Warg but he was immune to the attempt.
+[06/27 04:54:02 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 3,716 Lightning damage to Morale.
+[06/27 04:54:02 PM] The Crystalline Frost-warg scored a hit with Freezing on Nlkosi for 1,813 Frost damage to Morale.
+[06/27 04:54:03 PM] The Crystalline Warg scored a hit with Crippling Bite on Nlkosi.
+[06/27 04:54:03 PM] Your mighty blow defeated the Crystalline Warg.
+[06/27 04:54:03 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,525 Common damage to Morale.
+[06/27 04:54:03 PM] Nlkosi scored a hit with Scribe's Spark on the Crystalline Warg for 9,700 Lightning damage to Morale.
+[06/27 04:54:03 PM] The Crystalline Warg tried to use Melee Med Bleed on Nlkosi but he evaded the attempt.
+[06/27 04:54:03 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,525 Common damage to Morale.
+[06/27 04:54:04 PM] The Crystalline Warg tried to use Serious Wound on Nlkosi but he resisted the attempt.
+[06/27 04:54:04 PM] The Crystalline Warg scored a hit with Deep Wound on Nlkosi for 1,906 Common damage to Morale.
+[06/27 04:54:05 PM] The Crystalline Warg tried to use Deep Wound on Nlkosi but he resisted the attempt.
+[06/27 04:54:05 PM] Increased Morale applied a heal to Nlkosi restoring 19,951 points to Morale.
+[06/27 04:54:05 PM] The Crystalline Warg scored a hit with Ravage on Nlkosi for 3,811 Common damage to Morale.
+[06/27 04:54:05 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Crystalline Warg but he was immune to the attempt.
+[06/27 04:54:05 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 4,061 Lightning damage to Morale.
+[06/27 04:54:06 PM] The Crystalline Frost-warg scored a hit with Freezing on Nlkosi for 1,758 Frost damage to Morale.
+[06/27 04:54:06 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,525 Common damage to Morale.
+[06/27 04:54:06 PM] The Crystalline Warg scored a hit with Deep Wound on Nlkosi for 1,906 Common damage to Morale.
+[06/27 04:54:06 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,525 Common damage to Morale.
+[06/27 04:54:07 PM] The Crystalline Warg tried to use Serious Wound on Nlkosi but he resisted the attempt.
+[06/27 04:54:07 PM] Your mighty blow defeated the Crystalline Warg.
+[06/27 04:54:07 PM] Nlkosi scored a hit with Essence of Storm on the Crystalline Warg for 11,610 Lightning damage to Morale.
+[06/27 04:54:08 PM] The Crystalline Warg scored a hit with Deep Wound on Nlkosi for 1,906 Common damage to Morale.
+[06/27 04:54:09 PM] The Crystalline Frost-warg scored a hit with Freezing on Nlkosi for 1,758 Frost damage to Morale.
+[06/27 04:54:09 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,525 Common damage to Morale.
+[06/27 04:54:10 PM] The Crystalline Warg scored a hit with Deep Wound on Nlkosi for 1,906 Common damage to Morale.
+[06/27 04:54:12 PM] The Crystalline Frost-warg scored a hit with Freezing on Nlkosi for 1,758 Frost damage to Morale.
+[06/27 04:54:14 PM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[06/27 04:54:19 PM] Morale Restoration applied a heal to Nlkosi restoring 5,176 points to Morale.
+[06/27 04:54:21 PM] Morale Restoration applied a heal to Nlkosi restoring 5,176 points to Morale.
+[06/27 04:54:23 PM] Morale Restoration applied a heal to Nlkosi restoring 5,176 points to Morale.
+[06/27 04:54:25 PM] Morale Restoration applied a heal to Nlkosi restoring 5,176 points to Morale.
+[06/27 04:54:27 PM] Morale Restoration applied a heal to Nlkosi restoring 5,176 points to Morale.
+[06/27 04:55:18 PM] The Crystalline Warg scored a hit with a weak melee attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:55:30 PM] The Crystalline Frost-warg scored a hit with a moderate melee attack on Nlkosi for 2,430 Frost damage to Morale.
+[06/27 04:55:31 PM] The Crystalline Warg scored a critical hit with a weak melee attack on Nlkosi for 2,248 Common damage to Morale.
+[06/27 04:55:32 PM] The Crystalline Pack-leader scored a hit with a weak melee attack on Nlkosi for 2,096 Common damage to Morale.
+[06/27 04:55:33 PM] The Crystalline Warg scored a hit with a weak melee attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:55:36 PM] The Crystalline Pack-leader scored a hit with Chilled on Nlkosi for 2,357 Shadow damage to Morale.
+[06/27 04:55:36 PM] The Crystalline Pack-leader scored a hit with Chilled on Nlkosi.
+[06/27 04:55:36 PM] The Crystalline Pack-leader scored a critical hit with a weak melee attack on Nlkosi for 2,997 Common damage to Morale.
+[06/27 04:55:37 PM] The Crystalline Frost-warg scored a hit with a weak melee attack on Nlkosi for 1,768 Frost damage to Morale.
+[06/27 04:55:40 PM] The Crystalline Pack-leader scored a hit with Chilled on Nlkosi for 2,357 Shadow damage to Morale.
+[06/27 04:55:40 PM] The Crystalline Pack-leader scored a hit with Serious Wound on Nlkosi for 2,096 Common damage to Morale.
+[06/27 04:55:41 PM] The Crystalline Pack-leader scored a hit with Melee Med Bleed on Nlkosi.
+[06/27 04:55:41 PM] Muzhudh scored a partially evaded hit with a weak melee attack on Nlkosi for 2,122 Common damage to Morale.
+[06/27 04:55:44 PM] The Crystalline Pack-leader tried to use Serious Wound on Nlkosi but he resisted the attempt.
+[06/27 04:55:44 PM] The Crystalline Pack-leader scored a hit with Chilled on Nlkosi for 2,357 Shadow damage to Morale.
+[06/27 04:55:46 PM] The Crystalline Pack-leader scored a hit with a mighty melee attack on Nlkosi for 4,715 Common damage to Morale.
+[06/27 04:55:47 PM] The Crystalline Pack-leader scored a hit with Serious Wound on Nlkosi for 2,096 Common damage to Morale.
+[06/27 04:55:48 PM] The Crystalline Pack-leader scored a hit with Chilled on Nlkosi for 2,357 Shadow damage to Morale.
+[06/27 04:55:48 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:55:48 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Frost-warg for 13,310 Fire damage to Morale.
+[06/27 04:55:48 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:55:48 PM] Nlkosi scored a hit with Volcanic Rune-stone on Muzhudh for 13,310 Fire damage to Morale.
+[06/27 04:55:48 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:55:48 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:55:48 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Warg for 13,310 Fire damage to Morale.
+[06/27 04:55:49 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/27 04:55:49 PM] The Crystalline Pack-leader scored a hit with a weak melee attack on Nlkosi for 2,096 Common damage to Morale.
+[06/27 04:55:50 PM] The Crystalline Frost-warg scored a hit with a weak melee attack on the Volcanic Rune-stone for 355 Frost damage to Morale.
+[06/27 04:55:50 PM] The Crystalline Pack-leader tried to use Serious Wound on Nlkosi but he resisted the attempt.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Frost-warg for 3,766 Lightning damage to Morale.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Pack-leader for 3,685 Lightning damage to Morale.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Frost-warg for 3,904 Lightning damage to Morale.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Pack-leader for 3,830 Lightning damage to Morale.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Fulgurite Strike on Muzhudh for 3,686 Lightning damage to Morale.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 3,592 Lightning damage to Morale.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Pack-leader for 3,638 Lightning damage to Morale.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Pack-leader for 3,897 Lightning damage to Morale.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 3,798 Lightning damage to Morale.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 3,784 Lightning damage to Morale.
+[06/27 04:55:50 PM] The Crystalline Warg tried to use a moderate melee attack on the Volcanic Rune-stone but it evaded the attempt.
+[06/27 04:55:50 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Volcanic Rune-stone on Muzhudh for 13,310 Fire damage to Morale.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Frost-warg for 13,310 Fire damage to Morale.
+[06/27 04:55:50 PM] The Volcanic Rune-stone defeated the Crystalline Frost-warg.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:55:50 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Warg for 13,310 Fire damage to Morale.
+[06/27 04:55:52 PM] The Crystalline Pack-leader tried to use Chilled on Nlkosi but he resisted the attempt.
+[06/27 04:55:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:55:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:55:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on Muzhudh for 13,310 Fire damage to Morale.
+[06/27 04:55:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:55:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:55:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Warg for 13,310 Fire damage to Morale.
+[06/27 04:55:52 PM] The Volcanic Rune-stone defeated the Crystalline Warg.
+[06/27 04:55:53 PM] The Crystalline Pack-leader scored a hit with Serious Wound on Nlkosi for 2,096 Common damage to Morale.
+[06/27 04:55:53 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Frost-warg for 3,740 Lightning damage to Morale.
+[06/27 04:55:53 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Pack-leader for 3,598 Lightning damage to Morale.
+[06/27 04:55:53 PM] Nlkosi scored a hit with Fulgurite Strike on Muzhudh for 3,698 Lightning damage to Morale.
+[06/27 04:55:53 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Pack-leader for 3,593 Lightning damage to Morale.
+[06/27 04:55:53 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 3,869 Lightning damage to Morale.
+[06/27 04:55:53 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Pack-leader for 3,893 Lightning damage to Morale.
+[06/27 04:55:53 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Pack-leader for 3,545 Lightning damage to Morale.
+[06/27 04:55:53 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 3,792 Lightning damage to Morale.
+[06/27 04:55:53 PM] Nlkosi scored a hit with Vivid Imagery on the Crystalline Pack-leader for 11,501 Lightning damage to Morale.
+[06/27 04:55:53 PM] Nlkosi scored a hit with Vivid Imagery on the Crystalline Warg for 9,947 Lightning damage to Morale.
+[06/27 04:55:53 PM] The Crystalline Frost-warg scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 355 Frost damage to Morale.
+[06/27 04:55:54 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:55:54 PM] The Volcanic Rune-stone defeated the Crystalline Pack-leader.
+[06/27 04:55:54 PM] Nlkosi scored a hit with Volcanic Rune-stone on Muzhudh for 13,310 Fire damage to Morale.
+[06/27 04:55:54 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:55:54 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:55:54 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crystalline Pack-leader for 13,310 Fire damage to Morale.
+[06/27 04:55:54 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/27 04:55:54 PM] Your mighty blow defeated the Crystalline Warg.
+[06/27 04:55:55 PM] Nlkosi scored a critical hit with Essence of Storm on the Crystalline Warg for 45,059 Lightning damage to Morale.
+[06/27 04:55:55 PM] The Crystalline Frost-warg tried to use Melee Frost Med Bleed on the Charged Fulgurite Rune-stone but it parried the attempt.
+[06/27 04:55:55 PM] The Crystalline Pack-leader tried to use a moderate melee attack on the Volcanic Rune-stone but it evaded the attempt.
+[06/27 04:55:55 PM] Your mighty blow defeated Muzhudh.
+[06/27 04:55:55 PM] Your mighty blow defeated the Crystalline Pack-leader.
+[06/27 04:55:55 PM] Your mighty blow defeated the Crystalline Pack-leader.
+[06/27 04:55:56 PM] Nlkosi scored a hit with Static Surge on the Crystalline Pack-leader for 19,839 Lightning damage to Morale.
+[06/27 04:55:56 PM] Nlkosi scored a devastating hit with Static Surge on the Crystalline Pack-leader for 62,191 Lightning damage to Morale.
+[06/27 04:55:56 PM] Nlkosi scored a devastating hit with Static Surge on Muzhudh for 61,655 Lightning damage to Morale.
+[06/27 04:55:56 PM] The Crystalline Pack-leader scored a hit with Serious Wound on Nlkosi for 2,033 Common damage to Morale.
+[06/27 04:55:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Frost-warg for 3,552 Lightning damage to Morale.
+[06/27 04:55:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Pack-leader for 3,858 Lightning damage to Morale.
+[06/27 04:55:56 PM] The Charged Fulgurite Rune-stone defeated the Crystalline Pack-leader.
+[06/27 04:55:56 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Crystalline Warg but he was immune to the attempt.
+[06/27 04:55:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 3,596 Lightning damage to Morale.
+[06/27 04:55:56 PM] The Crystalline Pack-leader scored a hit with Chilled on Nlkosi for 2,286 Shadow damage to Morale.
+[06/27 04:55:59 PM] Nlkosi scored a hit with Ceaseless Argument on the Crystalline Frost-warg for 10,649 Lightning damage to Morale.
+[06/27 04:55:59 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Frost-warg for 3,567 Lightning damage to Morale.
+[06/27 04:55:59 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Crystalline Warg but he was immune to the attempt.
+[06/27 04:55:59 PM] Nlkosi scored a hit with Fulgurite Strike on the Crystalline Warg for 3,572 Lightning damage to Morale.
+[06/27 04:55:59 PM] The Crystalline Warg scored a hit with Melee Med Bleed on the Charged Fulgurite Rune-stone.
+[06/27 04:55:59 PM] Your mighty blow defeated the Crystalline Frost-warg.
+[06/27 04:55:59 PM] Nlkosi scored a hit with Epic Conclusion on the Crystalline Frost-warg for 45,220 Lightning damage to Morale.
+[06/27 04:56:02 PM] The Crystalline Warg scored a hit with a moderate melee attack on Nlkosi for 2,096 Common damage to Morale.
+[06/27 04:56:04 PM] Nlkosi scored a hit with Ceaseless Argument on the Crystalline Warg for 9,485 Lightning damage to Morale.
+[06/27 04:56:05 PM] Your mighty blow defeated the Crystalline Warg.
+[06/27 04:56:05 PM] Nlkosi scored a hit with Essence of Storm on the Crystalline Warg for 12,672 Lightning damage to Morale.
+[06/27 04:56:05 PM] The Crystalline Frost-warg scored a hit with a moderate melee attack on Nlkosi for 2,285 Frost damage to Morale.
+[06/27 04:56:06 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/27 04:56:06 PM] Your mighty blow defeated the Crystalline Frost-warg.
+[06/27 04:56:06 PM] Your mighty blow defeated the Crystalline Frost-warg.
+[06/27 04:56:06 PM] Nlkosi scored a critical hit with Static Surge on the Crystalline Frost-warg for 51,495 Lightning damage to Morale.
+[06/27 04:56:06 PM] Nlkosi scored a devastating hit with Static Surge on the Crystalline Frost-warg for 64,484 Lightning damage to Morale.
+[06/27 04:56:14 PM] Your mighty blow defeated the Crystalline Warg.
+[06/27 04:56:14 PM] Nlkosi scored a critical hit with Scribe's Spark on the Crystalline Warg for 31,779 Lightning damage to Morale.
+[06/27 04:56:15 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Crystalline Warg for 10,872 Fire damage to Morale.
+[06/27 04:56:16 PM] Your mighty blow defeated the Crystalline Warg.
+[06/27 04:56:16 PM] Nlkosi scored a critical hit with Essence of Flame on the Crystalline Warg for 29,300 Fire damage to Morale.
+[06/27 04:57:38 PM] The Crystalline Pack-leader scored a hit with a weak melee attack on Nlkosi for 2,096 Common damage to Morale.
+[06/27 04:57:56 PM] The Crystalline Warg scored a hit with a weak melee attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:57:59 PM] The Crystalline Pack-leader scored a hit with a moderate melee attack on Nlkosi for 2,881 Common damage to Morale.
+[06/27 04:58:03 PM] The Crystalline Pack-leader scored a hit with a weak melee attack on Nlkosi for 2,096 Common damage to Morale.
+[06/27 04:58:04 PM] The Crystalline Warg tried to use Serious Wound on Nlkosi but he resisted the attempt.
+[06/27 04:58:05 PM] The Crystalline Warg scored a partially evaded hit with Melee Med Bleed on Nlkosi.
+[06/27 04:58:05 PM] Nlkosi scored a critical hit with Distracting Flame on the Crystalline Pack-leader.
+[06/27 04:58:05 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/27 04:58:05 PM] The Crystalline Pack-leader scored a hit with a moderate melee attack on Nlkosi for 2,881 Common damage to Morale.
+[06/27 04:58:05 PM] Nlkosi scored a critical hit with Essence of Storm on the Crystalline Pack-leader for 41,878 Lightning damage to Morale.
+[06/27 04:58:06 PM] The Crystalline Warg scored a hit with a weak melee attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 04:58:07 PM] Your mighty blow defeated the Crystalline Warg.
+[06/27 04:58:07 PM] Nlkosi scored a hit with Vivid Imagery on the Crystalline Pack-leader for 11,689 Lightning damage to Morale.
+[06/27 04:58:07 PM] Nlkosi scored a devastating hit with Vivid Imagery on the Crystalline Warg for 33,803 Lightning damage to Morale.
+[06/27 04:58:08 PM] Nlkosi scored a critical hit with Distracting Flame on the Crystalline Pack-leader for 5,714 Fire damage to Morale.
+[06/27 04:58:08 PM] Your mighty blow defeated the Crystalline Pack-leader.
+[06/27 04:58:09 PM] Nlkosi scored a hit with Scribe's Spark on the Crystalline Pack-leader for 11,744 Lightning damage to Morale.
+[06/27 05:01:47 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 05:01:47 PM] The Crystalline Warg scored a hit with Melee Med Bleed on Nlkosi.
+[06/27 05:01:49 PM] The Crystalline Warg scored a hit with a melee double attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 05:01:50 PM] The Crystalline Warg scored a hit with a melee double attack on Nlkosi for 1,572 Common damage to Morale.
+[06/27 05:01:50 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 05:01:50 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/27 05:01:50 PM] Your mighty blow defeated the Crystalline Warg.
+[06/27 05:01:50 PM] Nlkosi scored a critical hit with Essence of Storm on the Crystalline Warg for 39,342 Lightning damage to Morale.
+[06/27 05:01:53 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 05:01:56 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 05:01:59 PM] The Crystalline Warg tried to use Serious Wound on Nlkosi but he resisted the attempt.
+[06/27 05:02:02 PM] The Crystalline Warg scored a hit with Serious Wound on Nlkosi for 1,572 Common damage to Morale.
+[06/27 05:12:40 PM] Nlkosi applied a benefit with Journey to the Hall of Vérnozal on Nlkosi.
+[06/27 05:13:40 PM] The Longbeard Soldier defeated the Mountain Great-bat.

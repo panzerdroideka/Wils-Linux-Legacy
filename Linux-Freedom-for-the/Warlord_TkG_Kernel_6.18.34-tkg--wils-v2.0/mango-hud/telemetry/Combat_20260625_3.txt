@@ -1,0 +1,91 @@
+### Chat Log: Combat 06/25 06:39 PM ###
+[06/25 06:40:31 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Rotting Moulder-wood for 3,854 Fire damage to Morale.
+[06/25 06:40:32 PM] Nlkosi scored a hit with Essence of Flame on the Adagím Rotting Moulder-wood for 12,497 Fire damage to Morale.
+[06/25 06:40:32 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Rotting Moulder-wood for 5,388 Fire damage to Morale.
+[06/25 06:40:32 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/25 06:40:33 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Adagím Rotting Moulder-wood for 11,110 Lightning damage to Morale.
+[06/25 06:40:33 PM] Sustaining Bolt applied a heal to Nlkosi restoring 900 points to Power.
+[06/25 06:40:33 PM] Sustenance applied a heal to Nlkosi restoring 10,157 points to Morale.
+[06/25 06:40:34 PM] The Adagím Rotting Moulder-wood scored a hit with a melee double attack on Nlkosi for 1,990 Common damage to Morale.
+[06/25 06:40:34 PM] Your mighty blow defeated the Adagím Rotting Moulder-wood.
+[06/25 06:40:34 PM] Nlkosi scored a critical hit with Essence of Storm on the Adagím Rotting Moulder-wood for 40,156 Lightning damage to Morale.
+[06/25 06:41:07 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Blightwood for 3,294 Fire damage to Morale.
+[06/25 06:41:08 PM] Nlkosi scored a hit with Sustaining Bolt on the Adagím Blightwood for 3,721 Lightning damage to Morale.
+[06/25 06:41:08 PM] Sustaining Bolt applied a heal to Nlkosi restoring 801 points to Power.
+[06/25 06:41:08 PM] Sustenance applied a critical heal to Nlkosi restoring 14,704 points to Morale.
+[06/25 06:41:09 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Adagím Blightwood for 9,970 Fire damage to Morale.
+[06/25 06:41:10 PM] Your mighty blow defeated the Adagím Blightwood.
+[06/25 06:41:10 PM] Nlkosi scored a devastating hit with Essence of Flame on the Adagím Blightwood for 37,003 Fire damage to Morale.
+[06/25 06:41:46 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/25 06:41:48 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Blightwood for 2,802 Lightning damage to Morale.
+[06/25 06:41:48 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/25 06:41:48 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Blightwood for 11,074 Fire damage to Morale.
+[06/25 06:41:49 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/25 06:41:49 PM] Your mighty blow defeated the Adagím Blightwood.
+[06/25 06:41:50 PM] Nlkosi scored a critical hit with Essence of Storm on the Adagím Blightwood for 34,457 Lightning damage to Morale.
+[06/25 06:41:54 PM] Nlkosi scored a hit with Shocking Words on the Adagím Rotting Moulder-wood for 23,788 Lightning damage to Morale.
+[06/25 06:41:56 PM] Nothing to dispel.
+[06/25 06:41:56 PM] Nlkosi scored a critical hit with Improved Final Word on the Adagím Rotting Moulder-wood.
+[06/25 06:41:58 PM] Nlkosi scored a hit with Ceaseless Argument on the Adagím Rotting Moulder-wood for 8,249 Lightning damage to Morale.
+[06/25 06:41:59 PM] Your mighty blow defeated the Adagím Rotting Moulder-wood.
+[06/25 06:41:59 PM] Nlkosi scored a hit with Essence of Flame on the Adagím Rotting Moulder-wood for 13,441 Fire damage to Morale.
+[06/25 06:43:12 PM] Nlkosi scored a hit with Sustaining Bolt on the Adagím Blightwood for 2,753 Lightning damage to Morale.
+[06/25 06:43:12 PM] Sustaining Bolt applied a heal to Nlkosi restoring 843 points to Power.
+[06/25 06:43:12 PM] Sustenance applied a heal to Nlkosi restoring 8,559 points to Morale.
+[06/25 06:43:13 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Adagím Blightwood for 8,221 Fire damage to Morale.
+[06/25 06:43:14 PM] Nlkosi scored a hit with Essence of Flame on the Adagím Blightwood for 10,385 Fire damage to Morale.
+[06/25 06:43:14 PM] Your mighty blow defeated the Adagím Blightwood.
+[06/25 06:43:15 PM] Nlkosi scored a hit with Epic Conclusion on the Adagím Blightwood for 28,024 Lightning damage to Morale.
+[06/25 06:43:23 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Rotting Moulder-wood for 3,440 Fire damage to Morale.
+[06/25 06:43:25 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Rotting Moulder-wood for 4,390 Fire damage to Morale.
+[06/25 06:43:26 PM] The Adagím Rotting Moulder-wood scored a hit with a weak swipe attack on Nlkosi for 2,052 Common damage to Morale.
+[06/25 06:43:26 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/25 06:43:26 PM] Nlkosi scored a critical hit with Essence of Storm on the Adagím Rotting Moulder-wood for 33,733 Lightning damage to Morale.
+[06/25 06:43:28 PM] Your mighty blow defeated the Adagím Rotting Moulder-wood.
+[06/25 06:43:28 PM] Nlkosi scored a critical hit with Shocking Words on the Adagím Rotting Moulder-wood for 65,607 Lightning damage to Morale.
+[06/25 06:43:36 PM] Nlkosi scored a hit with Essence of Storm on the Adagím Blightwood for 10,572 Lightning damage to Morale.
+[06/25 06:43:37 PM] Nlkosi scored a hit with Ceaseless Argument on the Adagím Blightwood for 8,399 Lightning damage to Morale.
+[06/25 06:43:38 PM] Your mighty blow defeated the Adagím Blightwood.
+[06/25 06:43:38 PM] Nlkosi scored a hit with Static Surge on the Adagím Blightwood for 12,442 Lightning damage to Morale.
+[06/25 06:44:59 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Rotting Moulder-wood for 4,224 Fire damage to Morale.
+[06/25 06:44:59 PM] Nlkosi scored a hit with Sustaining Bolt on the Adagím Rotting Moulder-wood for 3,133 Lightning damage to Morale.
+[06/25 06:45:00 PM] Sustaining Bolt applied a heal to Nlkosi restoring 816 points to Power.
+[06/25 06:45:00 PM] Sustenance applied a critical heal to Nlkosi restoring 13,515 points to Morale.
+[06/25 06:45:00 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Adagím Rotting Moulder-wood for 8,669 Fire damage to Morale.
+[06/25 06:45:01 PM] The Adagím Rotting Moulder-wood scored a partially evaded hit with a minor swipe attack on Nlkosi for 2,360 Common damage to Morale.
+[06/25 06:45:02 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Rotting Moulder-wood for 4,122 Fire damage to Morale.
+[06/25 06:45:03 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/25 06:45:03 PM] Your mighty blow defeated the Adagím Rotting Moulder-wood.
+[06/25 06:45:03 PM] Nlkosi scored a critical hit with Essence of Storm on the Adagím Rotting Moulder-wood for 33,228 Lightning damage to Morale.
+[06/25 06:47:04 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/25 06:47:05 PM] Nlkosi scored a hit with Fulgurite Strike on the Vicious Adagím Huorn for 2,678 Lightning damage to Morale.
+[06/25 06:47:05 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/25 06:47:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Vicious Adagím Huorn for 11,074 Fire damage to Morale.
+[06/25 06:47:06 PM] Nlkosi scored a hit with Ceaseless Argument on the Vicious Adagím Huorn for 8,305 Lightning damage to Morale.
+[06/25 06:47:07 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/25 06:47:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Vicious Adagím Huorn for 11,074 Fire damage to Morale.
+[06/25 06:47:07 PM] Nlkosi scored a critical hit with Essence of Storm on the Vicious Adagím Huorn for 35,608 Lightning damage to Morale.
+[06/25 06:47:08 PM] Nlkosi scored a hit with Fulgurite Strike on the Vicious Adagím Huorn for 2,755 Lightning damage to Morale.
+[06/25 06:47:09 PM] Nlkosi scored a hit with Writ of Lightning on the Vicious Adagím Huorn for 7,336 Lightning damage to Morale.
+[06/25 06:47:09 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Vicious Adagím Huorn for 11,222 Fire damage to Morale.
+[06/25 06:47:09 PM] Nlkosi scored a hit with Static Surge on the Vicious Adagím Huorn for 17,559 Lightning damage to Morale.
+[06/25 06:47:11 PM] The Vicious Adagím Huorn scored a hit with a mighty swipe attack on Nlkosi for 4,801 Common damage to Morale.
+[06/25 06:47:11 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Vicious Adagím Huorn but he was immune to the attempt.
+[06/25 06:47:11 PM] Nlkosi scored a hit with Fulgurite Strike on the Vicious Adagím Huorn for 2,846 Lightning damage to Morale.
+[06/25 06:47:11 PM] Nlkosi scored a hit with Epic Conclusion on the Vicious Adagím Huorn for 39,506 Lightning damage to Morale.
+[06/25 06:47:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Vicious Adagím Huorn for 11,222 Fire damage to Morale.
+[06/25 06:47:13 PM] The Vicious Adagím Huorn tried to use Knockaway on the Volcanic Rune-stone but it was immune to the attempt.
+[06/25 06:47:13 PM] The Vicious Adagím Huorn scored a critical hit with Melee Arc Knockback on Nlkosi for 3,051 Common damage to Morale.
+[06/25 06:47:13 PM] The Vicious Adagím Huorn scored a hit with Melee Arc Knockback on the Volcanic Rune-stone for 557 Common damage to Morale.
+[06/25 06:47:13 PM] Nlkosi scored a hit with Scribe's Spark on the Vicious Adagím Huorn for 6,996 Lightning damage to Morale.
+[06/25 06:47:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Vicious Adagím Huorn for 11,222 Fire damage to Morale.
+[06/25 06:47:14 PM] Nlkosi scored a hit with Fulgurite Strike on the Vicious Adagím Huorn for 2,696 Lightning damage to Morale.
+[06/25 06:47:17 PM] The Vicious Adagím Huorn scored a hit with Angry Bees on Nlkosi.
+[06/25 06:47:18 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/25 06:47:18 PM] Your mighty blow defeated the Vicious Adagím Huorn.
+[06/25 06:47:18 PM] Nlkosi scored a critical hit with Shocking Words on the Vicious Adagím Huorn for 54,950 Lightning damage to Morale.
+[06/25 06:47:19 PM] The Vicious Adagím Huorn scored a hit with Swarm of Bees on Nlkosi for 1,600 Common damage to Morale.
+[06/25 06:47:21 PM] The Vicious Adagím Huorn scored a hit with Swarm of Bees on Nlkosi for 1,759 Common damage to Morale.
+[06/25 06:47:23 PM] The Vicious Adagím Huorn scored a hit with Swarm of Bees on Nlkosi for 1,759 Common damage to Morale.
+[06/25 06:47:25 PM] The Vicious Adagím Huorn scored a hit with Swarm of Bees on Nlkosi for 1,759 Common damage to Morale.
+[06/25 06:47:27 PM] The Vicious Adagím Huorn scored a hit with Swarm of Bees on Nlkosi for 1,759 Common damage to Morale.

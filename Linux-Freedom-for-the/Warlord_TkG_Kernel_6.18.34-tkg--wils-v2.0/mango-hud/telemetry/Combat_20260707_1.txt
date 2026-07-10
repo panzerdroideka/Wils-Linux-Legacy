@@ -1,0 +1,138 @@
+### Chat Log: Combat 07/07 06:18 AM ###
+[07/07 06:18:52 AM] Nlkosi scored a devastating hit with Fiery Ridicule on the Vatug-ronk Scout for 11,238 Fire damage to Morale.
+[07/07 06:18:53 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:18:53 AM] Nlkosi scored a hit with Essence of Flame on the Vatug-ronk Scout for 14,776 Fire damage to Morale.
+[07/07 06:18:53 AM] The Vatug-ronk Raider scored a hit with a mighty thrown attack on Nlkosi for 6,614 Common damage to Morale.
+[07/07 06:18:53 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Vatug-ronk Scout for 12,732 Lightning damage to Morale.
+[07/07 06:18:54 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,304 points to Power.
+[07/07 06:18:54 AM] Sustenance applied a heal to Nlkosi restoring 12,565 points to Morale.
+[07/07 06:18:54 AM] The Vatug-ronk Scout scored a hit with a weak melee attack on Nlkosi for 2,939 Common damage to Morale.
+[07/07 06:18:55 AM] Your mighty blow defeated the Vatug-ronk Scout.
+[07/07 06:18:55 AM] Nlkosi scored a critical hit with Shocking Words on the Vatug-ronk Scout for 70,604 Lightning damage to Morale.
+[07/07 06:18:55 AM] The Vatug-ronk Raider scored a hit with a minor thrown attack on Nlkosi for 3,674 Common damage to Morale.
+[07/07 06:18:57 AM] Nlkosi scored a hit with Fiery Ridicule on the Vatug-ronk Raider for 3,834 Fire damage to Morale.
+[07/07 06:18:57 AM] The Vatug-ronk Raider scored a hit with a moderate thrown attack on Nlkosi for 3,920 Common damage to Morale.
+[07/07 06:18:58 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Vatug-ronk Raider for 10,581 Fire damage to Morale.
+[07/07 06:18:59 AM] The Vatug-ronk Raider scored a hit with a moderate thrown attack on Nlkosi for 3,920 Common damage to Morale.
+[07/07 06:18:59 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Vatug-ronk Raider for 11,151 Fire damage to Morale.
+[07/07 06:19:00 AM] Nlkosi scored a hit with Scribe's Spark on the Vatug-ronk Raider for 11,517 Lightning damage to Morale.
+[07/07 06:19:00 AM] The Vatug-ronk Raider scored a hit with a weak melee attack on Nlkosi for 2,466 Common damage to Morale.
+[07/07 06:19:01 AM] Your mighty blow defeated the Vatug-ronk Raider.
+[07/07 06:19:01 AM] Nlkosi scored a critical hit with Epic Conclusion on the Vatug-ronk Raider for 108,660 Lightning damage to Morale.
+[07/07 06:19:04 AM] The Vatug-ronk Scout scored a hit with Serious Wound on Nlkosi for 2,851 Common damage to Morale.
+[07/07 06:19:04 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:19:04 AM] The Vatug-ronk Scout scored a hit with Melee Med Bleed on Nlkosi.
+[07/07 06:19:04 AM] Nlkosi scored a critical hit with Scribe's Spark on the Vatug-ronk Scout for 27,939 Lightning damage to Morale.
+[07/07 06:19:06 AM] Nlkosi scored a hit with Vivid Imagery on the Vatug-ronk Scout for 10,259 Lightning damage to Morale.
+[07/07 06:19:07 AM] The Vatug-ronk Scout scored a hit with Serious Wound on Nlkosi for 2,939 Common damage to Morale.
+[07/07 06:19:08 AM] Your mighty blow defeated the Vatug-ronk Scout.
+[07/07 06:19:08 AM] Nlkosi scored a critical hit with Essence of Storm on the Vatug-ronk Scout for 48,364 Lightning damage to Morale.
+[07/07 06:19:09 AM] Nlkosi scored a hit with Fiery Ridicule on the Vatug-ronk Sapper for 5,887 Fire damage to Morale.
+[07/07 06:19:10 AM] The Vatug-ronk Scout scored a hit with Serious Wound on Nlkosi for 2,939 Common damage to Morale.
+[07/07 06:19:10 AM] Nlkosi scored a hit with Essence of Flame on the Vatug-ronk Sapper for 22,911 Fire damage to Morale.
+[07/07 06:19:10 AM] Your mighty blow defeated the Vatug-ronk Sapper.
+[07/07 06:19:11 AM] Nlkosi scored a hit with Sustaining Bolt on the Vatug-ronk Sapper for 8,551 Lightning damage to Morale.
+[07/07 06:19:11 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,244 points to Power.
+[07/07 06:19:11 AM] Sustenance applied a heal to Nlkosi restoring 17,963 points to Morale.
+[07/07 06:19:13 AM] The Vatug-ronk Scout tried to use Serious Wound on Nlkosi but he resisted the attempt.
+[07/07 06:19:16 AM] The Vatug-ronk Scout tried to use Serious Wound on Nlkosi but he resisted the attempt.
+[07/07 06:19:17 AM] The Vatug-ronk Sapper scored a hit with Burning Oil on Nlkosi for 9,515 Fire damage to Morale.
+[07/07 06:19:18 AM] The Vatug-ronk Sapper scored a hit with Burning Oil on Nlkosi for 19,031 Fire damage to Morale.
+[07/07 06:19:19 AM] The Vatug-ronk Scout scored a hit with Serious Wound on Nlkosi for 2,939 Common damage to Morale.
+[07/07 06:19:20 AM] The Vatug-ronk Raider missed trying to use a mighty thrown attack on Nlkosi.
+[07/07 06:19:20 AM] Nlkosi scored a hit with Essence of Storm on the Vatug-ronk Raider for 13,135 Lightning damage to Morale.
+[07/07 06:19:20 AM] The Vatug-ronk Raider scored a hit with a mighty thrown attack on Nlkosi for 6,614 Common damage to Morale.
+[07/07 06:19:21 AM] The Vatug-ronk Raider scored a hit with a weak melee attack on Nlkosi for 2,542 Common damage to Morale.
+[07/07 06:19:22 AM] Nlkosi scored a hit with Ceaseless Argument on the Vatug-ronk Raider for 10,310 Lightning damage to Morale.
+[07/07 06:19:23 AM] The Vatug-ronk Raider tried to use a minor melee attack on Nlkosi but he evaded the attempt.
+[07/07 06:19:23 AM] Your mighty blow defeated the Vatug-ronk Raider.
+[07/07 06:19:24 AM] Nlkosi scored a hit with Shocking Words on the Vatug-ronk Raider for 28,016 Lightning damage to Morale.
+[07/07 06:19:25 AM] The Vatug-ronk Raider tried to use a weak thrown attack on Nlkosi but he evaded the attempt.
+[07/07 06:19:27 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:19:28 AM] Nlkosi scored a devastating hit with Scribe's Spark on the Vatug-ronk Raider for 32,293 Lightning damage to Morale.
+[07/07 06:19:28 AM] The Vatug-ronk Raider scored a hit with a moderate melee attack on Nlkosi for 3,495 Common damage to Morale.
+[07/07 06:19:28 AM] Nothing to dispel.
+[07/07 06:19:28 AM] Nlkosi scored a critical hit with Improved Final Word on the Vatug-ronk Raider.
+[07/07 06:19:30 AM] Your mighty blow defeated the Vatug-ronk Raider.
+[07/07 06:19:30 AM] Nlkosi scored a hit with Essence of Storm on the Vatug-ronk Raider for 15,771 Lightning damage to Morale.
+[07/07 06:19:32 AM] Nlkosi scored a critical hit with Scribe's Spark on the Vatug-ronk Sapper for 30,322 Lightning damage to Morale.
+[07/07 06:19:34 AM] Your mighty blow defeated the Vatug-ronk Sapper.
+[07/07 06:19:34 AM] Nlkosi scored a hit with Sustaining Bolt on the Vatug-ronk Sapper for 7,127 Lightning damage to Morale.
+[07/07 06:19:35 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,064 points to Power.
+[07/07 06:19:35 AM] Sustenance applied a heal to Nlkosi restoring 16,866 points to Morale.
+[07/07 06:19:35 AM] The Vatug-ronk Scout scored a hit with a weak melee attack on Nlkosi for 2,939 Common damage to Morale.
+[07/07 06:19:37 AM] The Vatug-ronk Scout scored a hit with Serious Wound on Nlkosi for 2,939 Common damage to Morale.
+[07/07 06:19:37 AM] The Vatug-ronk Scout scored a hit with Melee Med Bleed on Nlkosi.
+[07/07 06:19:38 AM] Nlkosi scored a hit with Ceaseless Argument on the Vatug-ronk Scout for 8,736 Lightning damage to Morale.
+[07/07 06:19:38 AM] Your mighty blow defeated the Vatug-ronk Scout.
+[07/07 06:19:39 AM] Nlkosi scored a hit with Epic Conclusion on the Vatug-ronk Scout for 38,010 Lightning damage to Morale.
+[07/07 06:19:40 AM] The Vatug-ronk Scout scored a hit with Serious Wound on Nlkosi for 2,851 Common damage to Morale.
+[07/07 06:19:43 AM] The Vatug-ronk Scout scored a hit with Serious Wound on Nlkosi for 2,851 Common damage to Morale.
+[07/07 06:19:45 AM] Nlkosi scored a hit with Fiery Ridicule on the Vatug-ronk Raider for 5,563 Fire damage to Morale.
+[07/07 06:19:46 AM] The Vatug-ronk Scout tried to use Serious Wound on Nlkosi but he resisted the attempt.
+[07/07 06:19:46 AM] Nlkosi scored a critical hit with Essence of Flame on the Vatug-ronk Raider for 27,711 Fire damage to Morale.
+[07/07 06:19:47 AM] The Vatug-ronk Raider scored a partially evaded hit with a mighty thrown attack on Nlkosi for 5,888 Common damage to Morale.
+[07/07 06:19:47 AM] Nlkosi scored a hit with Fiery Ridicule on the Vatug-ronk Raider for 6,023 Fire damage to Morale.
+[07/07 06:19:47 AM] Your mighty blow defeated the Vatug-ronk Raider.
+[07/07 06:19:48 AM] Nlkosi scored a hit with Chilling Rhetoric on the Vatug-ronk Raider for 7,065 Frost damage to Morale.
+[07/07 06:19:49 AM] Nlkosi scored a hit with Writ of Lightning on the Vatug-ronk Sapper for 10,532 Lightning damage to Morale.
+[07/07 06:19:49 AM] The Vatug-ronk Scout scored a hit with Serious Wound on Nlkosi for 2,939 Common damage to Morale.
+[07/07 06:19:50 AM] Nlkosi scored a hit with Fiery Ridicule on the Vatug-ronk Sapper for 6,343 Fire damage to Morale.
+[07/07 06:19:50 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:19:50 AM] Your mighty blow defeated the Vatug-ronk Sapper.
+[07/07 06:19:50 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Vatug-ronk Sapper for 19,210 Lightning damage to Morale.
+[07/07 06:19:51 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,202 points to Power.
+[07/07 06:19:51 AM] Sustenance applied a heal to Nlkosi restoring 14,514 points to Morale.
+[07/07 06:19:52 AM] The Vatug-ronk Scout scored a hit with Serious Wound on Nlkosi for 2,939 Common damage to Morale.
+[07/07 06:19:52 AM] Your mighty blow defeated the Vatug-ronk Scout.
+[07/07 06:19:52 AM] Nlkosi scored a critical hit with Shocking Words on the Vatug-ronk Scout for 91,768 Lightning damage to Morale.
+[07/07 06:19:55 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Vatug-ronk Scout for 11,695 Fire damage to Morale.
+[07/07 06:19:57 AM] Nlkosi scored a hit with Writ of Lightning on the Vatug-ronk Scout for 12,108 Lightning damage to Morale.
+[07/07 06:19:58 AM] Nlkosi scored a hit with Fiery Ridicule on the Vatug-ronk Scout for 7,040 Fire damage to Morale.
+[07/07 06:19:58 AM] Your mighty blow defeated the Vatug-ronk Scout.
+[07/07 06:19:58 AM] Nlkosi scored a hit with Static Surge on the Vatug-ronk Scout for 20,792 Lightning damage to Morale.
+[07/07 06:20:04 AM] Nlkosi scored a hit with Fiery Ridicule on the Vatug-ronk Raider for 6,017 Fire damage to Morale.
+[07/07 06:20:05 AM] The Vatug-ronk Raider scored a hit with a mighty thrown attack on Nlkosi for 6,415 Common damage to Morale.
+[07/07 06:20:06 AM] Nlkosi scored a hit with Essence of Flame on the Vatug-ronk Raider for 21,097 Fire damage to Morale.
+[07/07 06:20:06 AM] Your mighty blow defeated the Vatug-ronk Raider.
+[07/07 06:20:06 AM] Nlkosi scored a hit with Essence of Storm on the Vatug-ronk Raider for 13,545 Lightning damage to Morale.
+[07/07 06:20:09 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Vatug-ronk Sapper for 11,839 Fire damage to Morale.
+[07/07 06:20:10 AM] Nlkosi scored a hit with Sustaining Bolt on the Vatug-ronk Sapper for 6,241 Lightning damage to Morale.
+[07/07 06:20:10 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,224 points to Power.
+[07/07 06:20:10 AM] Sustenance applied a heal to Nlkosi restoring 14,698 points to Morale.
+[07/07 06:20:11 AM] Nlkosi scored a hit with Chilling Rhetoric on the Vatug-ronk Sapper for 6,330 Frost damage to Morale.
+[07/07 06:20:12 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:20:12 AM] Your mighty blow defeated the Vatug-ronk Sapper.
+[07/07 06:20:12 AM] Nlkosi scored a critical hit with Epic Conclusion on the Vatug-ronk Sapper for 103,485 Lightning damage to Morale.
+[07/07 06:20:23 AM] Nlkosi scored a hit with Volcanic Rune-stone on Stûg-and-Zar for 9,940 Fire damage to Morale.
+[07/07 06:20:23 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/07 06:20:25 AM] Stûg-and-Zar scored a hit with Wild Attack on the Volcanic Rune-stone for 2,777 Common damage to Morale.
+[07/07 06:20:25 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/07 06:20:25 AM] Nlkosi scored a hit with Volcanic Rune-stone on Stûg-and-Zar for 9,940 Fire damage to Morale.
+[07/07 06:20:27 AM] Nlkosi scored a hit with Volcanic Rune-stone on Stûg-and-Zar for 9,940 Fire damage to Morale.
+[07/07 06:20:27 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:20:27 AM] Nothing to dispel.
+[07/07 06:20:27 AM] Stûg-and-Zar tried to use Wild Attack on the Volcanic Rune-stone but it evaded the attempt.
+[07/07 06:20:28 AM] Nlkosi scored a critical hit with Shocking Words on Stûg-and-Zar for 65,696 Lightning damage to Morale.
+[07/07 06:20:28 AM] Nlkosi scored a hit with Improved Final Word on Stûg-and-Zar.
+[07/07 06:20:29 AM] Nlkosi scored a hit with Volcanic Rune-stone on Stûg-and-Zar for 9,940 Fire damage to Morale.
+[07/07 06:20:30 AM] Nlkosi scored a hit with Distracting Flame on Stûg-and-Zar.
+[07/07 06:20:30 AM] Nlkosi scored a critical hit with Epic Conclusion on Stûg-and-Zar for 99,087 Lightning damage to Morale.
+[07/07 06:20:31 AM] Nlkosi scored a hit with Volcanic Rune-stone on Stûg-and-Zar for 10,159 Fire damage to Morale.
+[07/07 06:20:32 AM] Nlkosi scored a hit with Sustaining Bolt on Stûg-and-Zar for 4,145 Lightning damage to Morale.
+[07/07 06:20:33 AM] Nlkosi scored a critical hit with Distracting Flame on Stûg-and-Zar for 3,822 Fire damage to Morale.
+[07/07 06:20:33 AM] Nlkosi scored a hit with Volcanic Rune-stone on Stûg-and-Zar for 10,159 Fire damage to Morale.
+[07/07 06:20:33 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,017 points to Power.
+[07/07 06:20:33 AM] Sustenance applied a heal to Nlkosi restoring 12,792 points to Morale.
+[07/07 06:20:34 AM] Nlkosi scored a hit with Fiery Ridicule on Stûg-and-Zar for 4,364 Fire damage to Morale.
+[07/07 06:20:34 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on Stûg-and-Zar but he was immune to the attempt.
+[07/07 06:20:34 AM] Nlkosi scored a hit with Fulgurite Strike on Stûg-and-Zar for 2,776 Lightning damage to Morale.
+[07/07 06:20:34 AM] Nlkosi scored a hit with Writ of Lightning on Stûg-and-Zar for 8,239 Lightning damage to Morale.
+[07/07 06:20:35 AM] Nlkosi scored a hit with Volcanic Rune-stone on Stûg-and-Zar for 10,312 Fire damage to Morale.
+[07/07 06:20:36 AM] Nlkosi scored a hit with Chilling Rhetoric on Stûg-and-Zar for 6,003 Frost damage to Morale.
+[07/07 06:20:36 AM] Nlkosi scored a hit with Distracting Flame on Stûg-and-Zar for 2,321 Fire damage to Morale.
+[07/07 06:20:36 AM] Nlkosi scored a critical hit with Fiery Ridicule on Stûg-and-Zar for 9,949 Fire damage to Morale.
+[07/07 06:20:37 AM] Nlkosi scored a hit with Essence of Flame on Stûg-and-Zar for 13,773 Fire damage to Morale.
+[07/07 06:20:38 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:20:38 AM] Your mighty blow defeated Stûg-and-Zar.
+[07/07 06:20:38 AM] Nlkosi scored a devastating hit with Essence of Storm on Stûg-and-Zar for 55,470 Lightning damage to Morale.

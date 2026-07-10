@@ -1,0 +1,434 @@
+### Chat Log: Combat 07/07 06:49 AM ###
+[07/07 06:49:38 AM] Nlkosi scored a hit with Essence of Storm on the Grodbog Worker for 7,909 Lightning damage to Morale.
+[07/07 06:49:39 AM] Nlkosi scored a hit with Sustaining Bolt on the Grodbog Worker for 3,943 Lightning damage to Morale.
+[07/07 06:49:40 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,076 points to Power.
+[07/07 06:49:40 AM] Sustenance applied a critical heal to Nlkosi restoring 18,418 points to Morale.
+[07/07 06:49:40 AM] Nlkosi scored a hit with Fiery Ridicule on the Grodbog Worker for 3,615 Fire damage to Morale.
+[07/07 06:49:42 AM] Nlkosi scored a hit with Essence of Flame on the Grodbog Worker for 14,772 Fire damage to Morale.
+[07/07 06:49:42 AM] The Grodbog Worker scored a hit with a moderate melee attack on Nlkosi for 4,122 Common damage to Morale.
+[07/07 06:49:42 AM] Nothing to dispel.
+[07/07 06:49:42 AM] Nlkosi scored a hit with Vivid Imagery on the Grodbog Worker for 8,146 Lightning damage to Morale.
+[07/07 06:49:42 AM] Nlkosi scored a critical hit with Improved Final Word on the Grodbog Worker.
+[07/07 06:49:44 AM] Your mighty blow defeated the Grodbog Worker.
+[07/07 06:49:44 AM] Nlkosi scored a hit with Epic Conclusion on the Grodbog Worker for 36,219 Lightning damage to Morale.
+[07/07 06:49:51 AM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/07 06:49:51 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Grodbog Worker for 22,448 Lightning damage to Morale.
+[07/07 06:49:52 AM] Nlkosi scored a hit with Shocking Words on the Grodbog Worker for 20,052 Lightning damage to Morale.
+[07/07 06:49:52 AM] Your mighty blow defeated the Grodbog Worker.
+[07/07 06:49:53 AM] Nlkosi scored a hit with Static Surge on the Grodbog Worker for 18,003 Lightning damage to Morale.
+[07/07 06:50:04 AM] Nlkosi scored a hit with Essence of Storm on the Grodbog Hive-defender for 8,750 Lightning damage to Morale.
+[07/07 06:50:04 AM] The Grodbog Hive-defender scored a hit with a minor ranged attack on Nlkosi for 3,747 Common damage to Morale.
+[07/07 06:50:05 AM] Nlkosi scored a hit with Fiery Ridicule on the Grodbog Hive-defender for 4,553 Fire damage to Morale.
+[07/07 06:50:06 AM] Nlkosi scored a critical hit with Essence of Flame on the Grodbog Hive-defender for 24,351 Fire damage to Morale.
+[07/07 06:50:06 AM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/07 06:50:07 AM] Nlkosi scored a critical hit with Writ of Lightning on the Grodbog Hive-defender for 23,306 Lightning damage to Morale.
+[07/07 06:50:07 AM] The Grodbog Hive-defender scored a hit with Piercing Spines on Nlkosi for 2,997 Common damage to Morale.
+[07/07 06:50:07 AM] The Grodbog Hive-defender scored a hit with Piercing Spines on Nlkosi for 2,997 Common damage to Morale.
+[07/07 06:50:08 AM] The Grodbog Hive-defender tried to use Piercing Spines on Nlkosi but he evaded the attempt.
+[07/07 06:50:08 AM] Your mighty blow defeated the Grodbog Hive-defender.
+[07/07 06:50:08 AM] Nlkosi scored a hit with Chilling Rhetoric on the Grodbog Hive-defender for 12,416 Frost damage to Morale.
+[07/07 06:50:14 AM] Nlkosi scored a hit with Ceaseless Argument on the Grodbog Worker for 8,513 Lightning damage to Morale.
+[07/07 06:50:15 AM] The Grodbog Worker scored a hit with a weak melee attack on Nlkosi for 2,908 Common damage to Morale.
+[07/07 06:50:15 AM] Nlkosi scored a hit with Vivid Imagery on the Grodbog Worker for 10,693 Lightning damage to Morale.
+[07/07 06:50:16 AM] Your mighty blow defeated the Grodbog Worker.
+[07/07 06:50:17 AM] Nlkosi scored a hit with Epic Conclusion on the Grodbog Worker for 46,745 Lightning damage to Morale.
+[07/07 06:50:21 AM] Nlkosi scored a hit with Sustaining Bolt on the Grodbog Hive-defender for 4,153 Lightning damage to Morale.
+[07/07 06:50:21 AM] The Grodbog Hive-defender scored a hit with a weak ranged attack on Nlkosi for 2,997 Common damage to Morale.
+[07/07 06:50:21 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,094 points to Power.
+[07/07 06:50:21 AM] Sustenance applied a heal to Nlkosi restoring 11,026 points to Morale.
+[07/07 06:50:23 AM] Nlkosi scored a hit with Fiery Ridicule on the Grodbog Hive-defender for 4,553 Fire damage to Morale.
+[07/07 06:50:24 AM] Nlkosi scored a hit with Fiery Ridicule on the Grodbog Hive-defender for 3,733 Fire damage to Morale.
+[07/07 06:50:24 AM] The Grodbog Hive-defender scored a hit with Viscid Ichor on Nlkosi.
+[07/07 06:50:25 AM] Nlkosi scored a hit with Essence of Flame on the Grodbog Hive-defender for 14,313 Fire damage to Morale.
+[07/07 06:50:27 AM] The Grodbog Hive-defender scored a hit with Piercing Spines on Nlkosi for 2,997 Common damage to Morale.
+[07/07 06:50:27 AM] The Grodbog Hive-defender scored a hit with Piercing Spines on Nlkosi for 2,997 Common damage to Morale.
+[07/07 06:50:27 AM] The Grodbog Hive-defender scored a hit with Piercing Spines on Nlkosi for 2,997 Common damage to Morale.
+[07/07 06:50:28 AM] Nlkosi scored a hit with Shocking Words on the Grodbog Hive-defender for 29,243 Lightning damage to Morale.
+[07/07 06:50:28 AM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on the Grodbog Hive-defender for 5,951 Fire damage to Morale.
+[07/07 06:50:29 AM] Your mighty blow defeated the Grodbog Hive-defender.
+[07/07 06:50:29 AM] Nlkosi scored a hit with Essence of Storm on the Grodbog Hive-defender for 10,423 Lightning damage to Morale.
+[07/07 06:50:46 AM] Nlkosi scored a hit with Essence of Storm on the Grodbog Worker for 7,844 Lightning damage to Morale.
+[07/07 06:50:47 AM] The Grodbog Worker tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[07/07 06:50:47 AM] Nothing to dispel.
+[07/07 06:50:47 AM] Nlkosi scored a hit with Vivid Imagery on the Grodbog Worker for 7,474 Lightning damage to Morale.
+[07/07 06:50:47 AM] Nlkosi scored a critical hit with Improved Final Word on the Grodbog Worker.
+[07/07 06:50:49 AM] Nlkosi scored a hit with Epic Conclusion on the Grodbog Worker for 34,801 Lightning damage to Morale.
+[07/07 06:50:49 AM] The Grodbog Worker scored a hit with a moderate melee attack on Nlkosi for 3,998 Common damage to Morale.
+[07/07 06:50:51 AM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/07 06:50:51 AM] Your mighty blow defeated the Grodbog Worker.
+[07/07 06:50:51 AM] Nlkosi scored a critical hit with Scribe's Spark on the Grodbog Worker for 28,892 Lightning damage to Morale.
+[07/07 06:50:57 AM] Nlkosi scored a hit with Writ of Lightning on the Grodbog Hive-defender for 10,921 Lightning damage to Morale.
+[07/07 06:50:58 AM] The Grodbog Hive-defender scored a hit with a weak ranged attack on Nlkosi for 2,818 Common damage to Morale.
+[07/07 06:50:58 AM] Nlkosi scored a hit with Sustaining Bolt on the Grodbog Hive-defender for 5,004 Lightning damage to Morale.
+[07/07 06:50:59 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,014 points to Power.
+[07/07 06:50:59 AM] Sustenance applied a heal to Nlkosi restoring 15,134 points to Morale.
+[07/07 06:51:00 AM] Nlkosi scored a critical hit with Essence of Storm on the Grodbog Hive-defender for 45,188 Lightning damage to Morale.
+[07/07 06:51:00 AM] The Grodbog Hive-defender scored a hit with Viscid Ichor on Nlkosi.
+[07/07 06:51:02 AM] Your mighty blow defeated the Grodbog Hive-defender.
+[07/07 06:51:03 AM] Nlkosi scored a hit with Shocking Words on the Grodbog Hive-defender for 26,849 Lightning damage to Morale.
+[07/07 06:51:22 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-queen for 10,603 Fire damage to Morale.
+[07/07 06:51:22 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Worker for 10,603 Fire damage to Morale.
+[07/07 06:51:22 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Worker for 10,603 Fire damage to Morale.
+[07/07 06:51:22 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/07 06:51:23 AM] The Grodbog Hive-queen scored a hit with a weak swipe attack on the Volcanic Rune-stone for 902 Common damage to Morale.
+[07/07 06:51:23 AM] The Grodbog Worker scored a devastating hit with a minor melee attack on the Volcanic Rune-stone for 1,546 Common damage to Morale.
+[07/07 06:51:23 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 2,998 Lightning damage to Morale.
+[07/07 06:51:23 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Worker for 2,826 Lightning damage to Morale.
+[07/07 06:51:23 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Worker for 2,846 Lightning damage to Morale.
+[07/07 06:51:24 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/07 06:51:24 AM] The Grodbog Worker scored a hit with a weak melee attack on the Volcanic Rune-stone for 686 Common damage to Morale.
+[07/07 06:51:24 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-queen for 10,603 Fire damage to Morale.
+[07/07 06:51:24 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Worker for 10,603 Fire damage to Morale.
+[07/07 06:51:24 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Worker for 10,603 Fire damage to Morale.
+[07/07 06:51:24 AM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/07 06:51:24 AM] Your mighty blow defeated the Grodbog Worker.
+[07/07 06:51:25 AM] The Grodbog Hive-queen tried to use a moderate swipe attack on the Volcanic Rune-stone but it evaded the attempt.
+[07/07 06:51:25 AM] The Grodbog Hive-queen scored a hit with a moderate swipe attack on the Charged Fulgurite Rune-stone for 1,240 Common damage to Morale.
+[07/07 06:51:25 AM] Nlkosi scored a devastating hit with Essence of Storm on the Grodbog Worker for 45,865 Lightning damage to Morale.
+[07/07 06:51:26 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on Nlkosi.
+[07/07 06:51:26 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on the Volcanic Rune-stone.
+[07/07 06:51:26 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on the Charged Fulgurite Rune-stone.
+[07/07 06:51:26 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-queen for 10,603 Fire damage to Morale.
+[07/07 06:51:26 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Worker for 10,603 Fire damage to Morale.
+[07/07 06:51:26 AM] Nlkosi scored a hit with Vivid Imagery on the Grodbog Worker for 11,969 Lightning damage to Morale.
+[07/07 06:51:26 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 2,799 Lightning damage to Morale.
+[07/07 06:51:26 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Worker for 2,963 Lightning damage to Morale.
+[07/07 06:51:28 AM] Your mighty blow defeated the Grodbog Worker.
+[07/07 06:51:28 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-queen for 10,603 Fire damage to Morale.
+[07/07 06:51:28 AM] Nlkosi scored a critical hit with Scribe's Spark on the Grodbog Worker for 31,088 Lightning damage to Morale.
+[07/07 06:51:29 AM] The Grodbog Hive-queen tried to use Knockback on the Charged Fulgurite Rune-stone but it was immune to the attempt.
+[07/07 06:51:29 AM] The Grodbog Hive-queen tried to use Silenced on the Charged Fulgurite Rune-stone but it resisted the attempt.
+[07/07 06:51:29 AM] The Grodbog Hive-queen tried to use Knockback on the Volcanic Rune-stone but it was immune to the attempt.
+[07/07 06:51:29 AM] The Grodbog Hive-queen tried to use Silenced on Nlkosi but he resisted the attempt.
+[07/07 06:51:29 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 2,869 Lightning damage to Morale.
+[07/07 06:51:30 AM] Nlkosi scored a hit with Shocking Words on the Grodbog Hive-queen for 33,848 Lightning damage to Morale.
+[07/07 06:51:30 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-queen for 10,603 Fire damage to Morale.
+[07/07 06:51:31 AM] Nlkosi scored a hit with Writ of Lightning on the Grodbog Hive-queen for 9,514 Lightning damage to Morale.
+[07/07 06:51:32 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-queen for 10,762 Fire damage to Morale.
+[07/07 06:51:32 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 2,849 Lightning damage to Morale.
+[07/07 06:51:33 AM] Your mighty blow defeated the Grodbog Hive-queen.
+[07/07 06:51:33 AM] Nlkosi scored a hit with Essence of Flame on the Grodbog Hive-queen for 14,035 Fire damage to Morale.
+[07/07 06:51:36 AM] Nlkosi scored a hit with Writ of Lightning on the Grodbog Hive-queen for 7,538 Lightning damage to Morale.
+[07/07 06:51:37 AM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/07 06:51:37 AM] Your mighty blow defeated the Grodbog Hive-queen.
+[07/07 06:51:37 AM] Nlkosi scored a critical hit with Epic Conclusion on the Grodbog Hive-queen for 151,197 Lightning damage to Morale.
+[07/07 06:52:08 AM] Nlkosi scored a devastating hit with Fiery Ridicule on the Grodbog Worker for 10,697 Fire damage to Morale.
+[07/07 06:52:08 AM] Nlkosi scored a hit with Sustaining Bolt on the Grodbog Worker for 4,421 Lightning damage to Morale.
+[07/07 06:52:09 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,034 points to Power.
+[07/07 06:52:09 AM] Sustenance applied a heal to Nlkosi restoring 12,325 points to Morale.
+[07/07 06:52:10 AM] The Grodbog Worker scored a hit with a moderate melee attack on Nlkosi for 4,122 Common damage to Morale.
+[07/07 06:52:10 AM] Nlkosi scored a hit with Chilling Rhetoric on the Grodbog Worker for 6,089 Frost damage to Morale.
+[07/07 06:52:11 AM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Grodbog Worker for 4,696 Fire damage to Morale.
+[07/07 06:52:11 AM] Nlkosi scored a hit with Shocking Touch on the Grodbog Worker for 3,948 Lightning damage to Morale.
+[07/07 06:52:12 AM] Nlkosi scored a hit with Head-butt on the Grodbog Worker for 8,178 Common damage to Morale.
+[07/07 06:52:14 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Grodbog Worker for 2,037 Fire damage to Morale.
+[07/07 06:52:14 AM] Your mighty blow defeated the Grodbog Worker.
+[07/07 06:52:15 AM] Nlkosi scored a hit with Essence of Flame on the Grodbog Worker for 12,725 Fire damage to Morale.
+[07/07 06:52:16 AM] Nothing to dispel.
+[07/07 06:52:16 AM] Nlkosi scored a hit with Improved Final Word on the Grodbog Worker.
+[07/07 06:52:17 AM] Nlkosi scored a hit with Epic Conclusion on the Grodbog Worker for 33,246 Lightning damage to Morale.
+[07/07 06:52:18 AM] The Grodbog Worker scored a hit with a minor melee attack on Nlkosi for 3,634 Common damage to Morale.
+[07/07 06:52:20 AM] Nlkosi scored a hit with Scribe's Spark on the Grodbog Worker for 7,920 Lightning damage to Morale.
+[07/07 06:52:20 AM] The Grodbog Worker scored a hit with a weak melee attack on Nlkosi for 2,908 Common damage to Morale.
+[07/07 06:52:21 AM] Nlkosi scored a hit with Essence of Storm on the Grodbog Worker for 8,315 Lightning damage to Morale.
+[07/07 06:52:22 AM] Your mighty blow defeated the Grodbog Worker.
+[07/07 06:52:22 AM] Nlkosi scored a hit with Shocking Words on the Grodbog Worker for 20,267 Lightning damage to Morale.
+[07/07 06:52:38 AM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/07 06:52:38 AM] Nlkosi scored a hit with Fiery Ridicule on the Grodbog Worker for 4,748 Fire damage to Morale.
+[07/07 06:52:38 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Grodbog Worker for 10,031 Lightning damage to Morale.
+[07/07 06:52:39 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,181 points to Power.
+[07/07 06:52:39 AM] Sustenance applied a heal to Nlkosi restoring 14,855 points to Morale.
+[07/07 06:52:39 AM] The Grodbog Hive-queen scored a hit with a weak swipe attack on Nlkosi for 3,940 Common damage to Morale.
+[07/07 06:52:40 AM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Grodbog Worker for 4,341 Fire damage to Morale.
+[07/07 06:52:40 AM] The Grodbog Worker scored a hit with a weak melee attack on Nlkosi for 2,997 Common damage to Morale.
+[07/07 06:52:41 AM] Nlkosi scored a hit with Essence of Flame on the Grodbog Worker for 13,413 Fire damage to Morale.
+[07/07 06:52:41 AM] Nlkosi scored a hit with Essence of Flame on the Grodbog Hive-queen for 10,436 Fire damage to Morale.
+[07/07 06:52:41 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Worker for 11,449 Fire damage to Morale.
+[07/07 06:52:41 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/07 06:52:42 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 3,104 Lightning damage to Morale.
+[07/07 06:52:42 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Worker for 3,015 Lightning damage to Morale.
+[07/07 06:52:42 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/07 06:52:42 AM] The Grodbog Worker scored a hit with a minor melee attack on Nlkosi for 3,747 Common damage to Morale.
+[07/07 06:52:43 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Worker for 11,449 Fire damage to Morale.
+[07/07 06:52:43 AM] The Volcanic Rune-stone defeated the Grodbog Worker.
+[07/07 06:52:44 AM] Nlkosi scored a hit with Shocking Words on the Grodbog Hive-queen for 37,032 Lightning damage to Morale.
+[07/07 06:52:45 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 2,914 Lightning damage to Morale.
+[07/07 06:52:45 AM] Nlkosi scored a hit with Ceaseless Argument on the Grodbog Hive-queen for 6,815 Lightning damage to Morale.
+[07/07 06:52:45 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on Nlkosi.
+[07/07 06:52:45 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on the Volcanic Rune-stone.
+[07/07 06:52:45 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on the Charged Fulgurite Rune-stone.
+[07/07 06:52:46 AM] Nlkosi scored a hit with Essence of Storm on the Grodbog Hive-queen for 9,086 Lightning damage to Morale.
+[07/07 06:52:48 AM] Nlkosi scored a hit with Vivid Imagery on the Grodbog Hive-queen for 10,595 Lightning damage to Morale.
+[07/07 06:52:48 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Grodbog Hive-queen but she was immune to the attempt.
+[07/07 06:52:48 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 2,899 Lightning damage to Morale.
+[07/07 06:52:49 AM] Nlkosi scored a hit with Fiery Ridicule on the Grodbog Hive-queen for 5,332 Fire damage to Morale.
+[07/07 06:52:50 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on Nlkosi.
+[07/07 06:52:50 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on the Volcanic Rune-stone.
+[07/07 06:52:50 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on the Charged Fulgurite Rune-stone.
+[07/07 06:52:50 AM] Nlkosi scored a hit with Chilling Rhetoric on the Grodbog Hive-queen for 8,661 Frost damage to Morale.
+[07/07 06:52:51 AM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/07 06:52:51 AM] Nlkosi scored a critical hit with Writ of Lightning on the Grodbog Hive-queen for 24,364 Lightning damage to Morale.
+[07/07 06:52:51 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 3,025 Lightning damage to Morale.
+[07/07 06:52:52 AM] Your mighty blow defeated the Grodbog Hive-queen.
+[07/07 06:52:52 AM] Nlkosi scored a hit with Shocking Touch on the Grodbog Hive-queen for 4,966 Lightning damage to Morale.
+[07/07 06:53:06 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 2,872 Lightning damage to Morale.
+[07/07 06:53:06 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/07 06:53:09 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 3,020 Lightning damage to Morale.
+[07/07 06:53:10 AM] Nlkosi scored a hit with Essence of Flame on the Grodbog Hive-queen for 11,788 Fire damage to Morale.
+[07/07 06:53:10 AM] The Grodbog Hive-queen scored a hit with a weak swipe attack on the Charged Fulgurite Rune-stone for 902 Common damage to Morale.
+[07/07 06:53:10 AM] Nlkosi scored a hit with Sustaining Bolt on the Grodbog Hive-queen for 4,457 Lightning damage to Morale.
+[07/07 06:53:11 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,134 points to Power.
+[07/07 06:53:11 AM] Sustenance applied a heal to Nlkosi restoring 13,074 points to Morale.
+[07/07 06:53:11 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on the Charged Fulgurite Rune-stone.
+[07/07 06:53:12 AM] Nlkosi scored a hit with Chilling Rhetoric on the Grodbog Hive-queen for 5,042 Frost damage to Morale.
+[07/07 06:53:12 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Grodbog Hive-queen but she was immune to the attempt.
+[07/07 06:53:12 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 3,043 Lightning damage to Morale.
+[07/07 06:53:12 AM] Nlkosi scored a hit with Epic Conclusion on the Grodbog Hive-queen for 35,338 Lightning damage to Morale.
+[07/07 06:53:13 AM] The Grodbog Hive-queen tried to use Knockback on the Charged Fulgurite Rune-stone but it was immune to the attempt.
+[07/07 06:53:14 AM] Nlkosi scored a hit with Essence of Storm on the Grodbog Hive-queen for 9,019 Lightning damage to Morale.
+[07/07 06:53:15 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Grodbog Hive-queen but she was immune to the attempt.
+[07/07 06:53:15 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 3,009 Lightning damage to Morale.
+[07/07 06:53:15 AM] The Grodbog Hive-queen scored a hit with a weak swipe attack on Nlkosi for 3,940 Common damage to Morale.
+[07/07 06:53:15 AM] Nlkosi scored a hit with Fiery Ridicule on the Grodbog Hive-queen for 4,819 Fire damage to Morale.
+[07/07 06:53:16 AM] Nlkosi scored a hit with Writ of Lightning on the Grodbog Hive-queen for 9,182 Lightning damage to Morale.
+[07/07 06:53:17 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on Nlkosi.
+[07/07 06:53:18 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Grodbog Hive-queen for 10,379 Fire damage to Morale.
+[07/07 06:53:19 AM] Nlkosi scored a hit with Ceaseless Argument on the Grodbog Hive-queen for 8,627 Lightning damage to Morale.
+[07/07 06:53:21 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Grodbog Hive-queen for 3,058 Fire damage to Morale.
+[07/07 06:53:22 AM] The Grodbog Hive-queen scored a hit with a moderate swipe attack on Nlkosi for 5,254 Common damage to Morale.
+[07/07 06:53:23 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on Nlkosi.
+[07/07 06:53:23 AM] Nlkosi scored a hit with Writ of Lightning on the Grodbog Hive-queen for 7,963 Lightning damage to Morale.
+[07/07 06:53:24 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Grodbog Hive-queen for 3,526 Fire damage to Morale.
+[07/07 06:53:24 AM] Your mighty blow defeated the Grodbog Hive-queen.
+[07/07 06:53:25 AM] Nlkosi scored a hit with Ceaseless Argument on the Grodbog Hive-queen for 10,911 Lightning damage to Morale.
+[07/07 06:53:51 AM] Nlkosi scored a hit with Fiery Ridicule on the Grodbog Worker for 4,437 Fire damage to Morale.
+[07/07 06:53:51 AM] Nlkosi scored a hit with Sustaining Bolt on the Grodbog Worker for 4,849 Lightning damage to Morale.
+[07/07 06:53:52 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,070 points to Power.
+[07/07 06:53:52 AM] Sustenance applied a critical heal to Nlkosi restoring 18,465 points to Morale.
+[07/07 06:53:53 AM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/07 06:53:53 AM] Nlkosi scored a critical hit with Scribe's Spark on the Grodbog Worker for 24,725 Lightning damage to Morale.
+[07/07 06:53:53 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Grodbog Worker for 2,668 Fire damage to Morale.
+[07/07 06:53:54 AM] Nothing to dispel.
+[07/07 06:53:54 AM] Nlkosi scored a hit with Improved Final Word on the Grodbog Worker.
+[07/07 06:53:54 AM] The Grodbog Worker scored a critical hit with a weak melee attack on Nlkosi for 4,286 Common damage to Morale.
+[07/07 06:53:56 AM] Nlkosi scored a hit with Vivid Imagery on the Grodbog Worker for 9,198 Lightning damage to Morale.
+[07/07 06:53:56 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Grodbog Worker for 2,386 Fire damage to Morale.
+[07/07 06:53:57 AM] Your mighty blow defeated the Grodbog Worker.
+[07/07 06:53:58 AM] Nlkosi scored a hit with Shocking Words on the Grodbog Worker for 25,084 Lightning damage to Morale.
+[07/07 06:54:10 AM] Nlkosi scored a hit with Fiery Ridicule on the Grodbog Worker for 4,688 Fire damage to Morale.
+[07/07 06:54:12 AM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/07 06:54:12 AM] Nlkosi scored a hit with Essence of Flame on the Grodbog Worker for 14,407 Fire damage to Morale.
+[07/07 06:54:12 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Grodbog Worker for 13,934 Lightning damage to Morale.
+[07/07 06:54:13 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,235 points to Power.
+[07/07 06:54:13 AM] Sustenance applied a heal to Nlkosi restoring 14,874 points to Morale.
+[07/07 06:54:14 AM] Nlkosi scored a hit with Chilling Rhetoric on the Grodbog Worker for 7,342 Frost damage to Morale.
+[07/07 06:54:14 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Grodbog Worker for 3,737 Fire damage to Morale.
+[07/07 06:54:14 AM] Your mighty blow defeated the Grodbog Worker.
+[07/07 06:54:14 AM] Nlkosi scored a hit with Writ of Lightning on the Grodbog Worker for 9,035 Lightning damage to Morale.
+[07/07 06:54:29 AM] Nlkosi scored a hit with Distracting Flame on the Grodbog Hive-defender.
+[07/07 06:54:30 AM] Nlkosi scored a hit with Shocking Words on the Grodbog Hive-defender for 24,301 Lightning damage to Morale.
+[07/07 06:54:32 AM] Nlkosi scored a hit with Essence of Storm on the Grodbog Hive-defender for 12,971 Lightning damage to Morale.
+[07/07 06:54:32 AM] Nlkosi scored a hit with Distracting Flame on the Grodbog Hive-defender for 2,365 Fire damage to Morale.
+[07/07 06:54:33 AM] Your mighty blow defeated the Grodbog Hive-defender.
+[07/07 06:54:33 AM] Nlkosi scored a hit with Epic Conclusion on the Grodbog Hive-defender for 37,122 Lightning damage to Morale.
+[07/07 06:54:37 AM] Nlkosi scored a hit with Essence of Flame on the Grodbog Worker for 11,494 Fire damage to Morale.
+[07/07 06:54:37 AM] Nlkosi scored a hit with Sustaining Bolt on the Grodbog Worker for 5,288 Lightning damage to Morale.
+[07/07 06:54:38 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,048 points to Power.
+[07/07 06:54:38 AM] Sustenance applied a heal to Nlkosi restoring 12,796 points to Morale.
+[07/07 06:54:39 AM] Nlkosi scored a hit with Fiery Ridicule on the Grodbog Worker for 5,923 Fire damage to Morale.
+[07/07 06:54:40 AM] The Grodbog Worker scored a hit with a weak melee attack on Nlkosi for 2,997 Common damage to Morale.
+[07/07 06:54:40 AM] Nlkosi scored a hit with Writ of Lightning on the Grodbog Worker for 9,603 Lightning damage to Morale.
+[07/07 06:54:41 AM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/07 06:54:41 AM] Your mighty blow defeated the Grodbog Worker.
+[07/07 06:54:41 AM] Nlkosi scored a critical hit with Scribe's Spark on the Grodbog Worker for 31,931 Lightning damage to Morale.
+[07/07 06:54:43 AM] Nlkosi scored a hit with Fiery Ridicule on the Grodbog Worker for 5,878 Fire damage to Morale.
+[07/07 06:54:44 AM] Nlkosi scored a hit with Writ of Lightning on the Grodbog Worker for 11,213 Lightning damage to Morale.
+[07/07 06:54:45 AM] The Grodbog Worker scored a hit with a moderate melee attack on Nlkosi for 4,122 Common damage to Morale.
+[07/07 06:54:46 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Grodbog Worker for 3,814 Fire damage to Morale.
+[07/07 06:54:47 AM] The Grodbog Worker scored a hit with a weak melee attack on Nlkosi for 2,997 Common damage to Morale.
+[07/07 06:54:47 AM] Nlkosi scored a hit with Ceaseless Argument on the Grodbog Worker for 11,561 Lightning damage to Morale.
+[07/07 06:54:48 AM] Nlkosi scored a hit with Shocking Touch on the Grodbog Worker for 4,105 Lightning damage to Morale.
+[07/07 06:54:49 AM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Grodbog Worker for 5,159 Fire damage to Morale.
+[07/07 06:54:50 AM] Your mighty blow defeated the Grodbog Worker.
+[07/07 06:54:50 AM] Nlkosi scored a hit with Writ of Lightning on the Grodbog Worker for 9,976 Lightning damage to Morale.
+[07/07 06:55:02 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 3,094 Lightning damage to Morale.
+[07/07 06:55:02 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-defender for 2,801 Lightning damage to Morale.
+[07/07 06:55:02 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/07 06:55:04 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/07 06:55:05 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 2,869 Lightning damage to Morale.
+[07/07 06:55:05 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-defender for 2,934 Lightning damage to Morale.
+[07/07 06:55:06 AM] Nlkosi scored a hit with Sustaining Bolt on the Grodbog Hive-defender for 5,215 Lightning damage to Morale.
+[07/07 06:55:06 AM] The Grodbog Hive-queen scored a hit with a weak swipe attack on the Charged Fulgurite Rune-stone for 902 Common damage to Morale.
+[07/07 06:55:07 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,140 points to Power.
+[07/07 06:55:07 AM] Sustenance applied a heal to Nlkosi restoring 13,313 points to Morale.
+[07/07 06:55:07 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-queen for 10,603 Fire damage to Morale.
+[07/07 06:55:08 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 3,080 Lightning damage to Morale.
+[07/07 06:55:08 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Grodbog Hive-defender but he was immune to the attempt.
+[07/07 06:55:08 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-defender for 3,055 Lightning damage to Morale.
+[07/07 06:55:08 AM] Nlkosi scored a hit with Fiery Ridicule on the Grodbog Hive-defender for 4,497 Fire damage to Morale.
+[07/07 06:55:09 AM] The Grodbog Hive-queen tried to use a minor swipe attack on the Volcanic Rune-stone but it evaded the attempt.
+[07/07 06:55:09 AM] The Grodbog Hive-queen scored a hit with a minor swipe attack on the Charged Fulgurite Rune-stone for 1,128 Common damage to Morale.
+[07/07 06:55:09 AM] The Grodbog Hive-defender scored a hit with Piercing Spines on the Charged Fulgurite Rune-stone for 686 Common damage to Morale.
+[07/07 06:55:09 AM] The Grodbog Hive-defender scored a hit with Piercing Spines on the Charged Fulgurite Rune-stone for 686 Common damage to Morale.
+[07/07 06:55:09 AM] The Grodbog Hive-defender scored a hit with Piercing Spines on the Charged Fulgurite Rune-stone for 686 Common damage to Morale.
+[07/07 06:55:09 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-queen for 10,603 Fire damage to Morale.
+[07/07 06:55:10 AM] The Grodbog Hive-defender scored a hit with a moderate ranged attack on the Charged Fulgurite Rune-stone for 944 Common damage to Morale.
+[07/07 06:55:10 AM] Nlkosi tried to use Induce Stunned on the Grodbog Hive-defender but he was immune to the attempt.
+[07/07 06:55:10 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on Nlkosi.
+[07/07 06:55:10 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on the Charged Fulgurite Rune-stone.
+[07/07 06:55:10 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on the Volcanic Rune-stone.
+[07/07 06:55:10 AM] Nlkosi scored a hit with Shocking Words on the Grodbog Hive-defender for 26,338 Lightning damage to Morale.
+[07/07 06:55:11 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Grodbog Hive-defender for 2,447 Fire damage to Morale.
+[07/07 06:55:11 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 2,906 Lightning damage to Morale.
+[07/07 06:55:11 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Grodbog Hive-defender but he was immune to the attempt.
+[07/07 06:55:11 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-defender for 2,990 Lightning damage to Morale.
+[07/07 06:55:11 AM] Nothing to dispel.
+[07/07 06:55:11 AM] Nlkosi scored a hit with Vivid Imagery on the Grodbog Hive-defender for 8,507 Lightning damage to Morale.
+[07/07 06:55:11 AM] Nlkosi scored a hit with Improved Final Word on the Grodbog Hive-defender.
+[07/07 06:55:12 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-queen for 10,603 Fire damage to Morale.
+[07/07 06:55:12 AM] Your mighty blow defeated the Grodbog Hive-defender.
+[07/07 06:55:12 AM] Nlkosi scored a hit with Epic Conclusion on the Grodbog Hive-defender for 24,698 Lightning damage to Morale.
+[07/07 06:55:13 AM] The Grodbog Hive-queen tried to use Knockback on the Volcanic Rune-stone but it was immune to the attempt.
+[07/07 06:55:14 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-queen for 10,603 Fire damage to Morale.
+[07/07 06:55:14 AM] The Grodbog Hive-queen scored a partially parried hit with a moderate swipe attack on the Volcanic Rune-stone for 800 Common damage to Morale.
+[07/07 06:55:15 AM] Nlkosi scored a hit with Essence of Storm on the Grodbog Hive-queen for 8,679 Lightning damage to Morale.
+[07/07 06:55:16 AM] Nlkosi scored a hit with Scribe's Spark on the Grodbog Hive-queen for 9,262 Lightning damage to Morale.
+[07/07 06:55:18 AM] The Grodbog Hive-queen scored a hit with a mighty swipe attack on Nlkosi for 8,332 Common damage to Morale.
+[07/07 06:55:19 AM] Nlkosi scored a hit with Static Surge on the Grodbog Hive-queen for 18,071 Lightning damage to Morale.
+[07/07 06:55:21 AM] Nlkosi scored a hit with Scribe's Spark on the Grodbog Hive-queen for 10,748 Lightning damage to Morale.
+[07/07 06:55:23 AM] Nlkosi scored a hit with Ceaseless Argument on the Grodbog Hive-queen for 8,963 Lightning damage to Morale.
+[07/07 06:55:24 AM] Nlkosi scored a hit with Fiery Ridicule on the Grodbog Hive-queen for 4,975 Fire damage to Morale.
+[07/07 06:55:24 AM] Nlkosi scored a hit with Sustaining Bolt on the Grodbog Hive-queen for 5,779 Lightning damage to Morale.
+[07/07 06:55:25 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,277 points to Power.
+[07/07 06:55:25 AM] Sustenance applied a heal to Nlkosi restoring 15,197 points to Morale.
+[07/07 06:55:25 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on Nlkosi.
+[07/07 06:55:25 AM] Your mighty blow defeated the Grodbog Hive-queen.
+[07/07 06:55:26 AM] Nlkosi scored a hit with Essence of Storm on the Grodbog Hive-queen for 15,215 Lightning damage to Morale.
+[07/07 06:55:38 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-queen for 10,603 Fire damage to Morale.
+[07/07 06:55:38 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/07 06:55:38 AM] The Grodbog Hive-queen scored a partially blocked hit with a weak swipe attack on the Volcanic Rune-stone for 582 Common damage to Morale.
+[07/07 06:55:39 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 2,900 Lightning damage to Morale.
+[07/07 06:55:39 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Worker for 3,039 Lightning damage to Morale.
+[07/07 06:55:39 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/07 06:55:40 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-queen for 10,603 Fire damage to Morale.
+[07/07 06:55:40 AM] The Grodbog Hive-queen scored a hit with a minor swipe attack on the Volcanic Rune-stone for 1,128 Common damage to Morale.
+[07/07 06:55:41 AM] Nlkosi scored a hit with Essence of Storm on the Grodbog Worker for 13,392 Lightning damage to Morale.
+[07/07 06:55:42 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-queen for 10,603 Fire damage to Morale.
+[07/07 06:55:42 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on the Volcanic Rune-stone.
+[07/07 06:55:42 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on the Charged Fulgurite Rune-stone.
+[07/07 06:55:42 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 2,905 Lightning damage to Morale.
+[07/07 06:55:42 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Worker for 2,789 Lightning damage to Morale.
+[07/07 06:55:42 AM] Nlkosi scored a hit with Ceaseless Argument on the Grodbog Worker for 11,785 Lightning damage to Morale.
+[07/07 06:55:43 AM] The Grodbog Worker scored a hit with a weak melee attack on Nlkosi for 2,997 Common damage to Morale.
+[07/07 06:55:43 AM] Nlkosi scored a hit with Vivid Imagery on the Grodbog Worker for 10,440 Lightning damage to Morale.
+[07/07 06:55:44 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-queen for 10,603 Fire damage to Morale.
+[07/07 06:55:45 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 2,796 Lightning damage to Morale.
+[07/07 06:55:45 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Worker for 2,865 Lightning damage to Morale.
+[07/07 06:55:45 AM] Nlkosi scored a hit with Distracting Flame on the Grodbog Worker.
+[07/07 06:55:46 AM] Nlkosi tried to use Induce Stunned on the Grodbog Worker but he was immune to the attempt.
+[07/07 06:55:46 AM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/07 06:55:46 AM] Your mighty blow defeated the Grodbog Worker.
+[07/07 06:55:46 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-queen for 10,603 Fire damage to Morale.
+[07/07 06:55:46 AM] Nlkosi scored a critical hit with Shocking Words on the Grodbog Worker for 89,224 Lightning damage to Morale.
+[07/07 06:55:48 AM] Nlkosi scored a hit with Ceaseless Argument on the Grodbog Hive-queen for 9,266 Lightning damage to Morale.
+[07/07 06:55:48 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Grodbog Hive-queen but she was immune to the attempt.
+[07/07 06:55:48 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-queen for 2,966 Lightning damage to Morale.
+[07/07 06:55:48 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-queen for 10,603 Fire damage to Morale.
+[07/07 06:55:49 AM] Nlkosi scored a hit with Writ of Lightning on the Grodbog Hive-queen for 7,232 Lightning damage to Morale.
+[07/07 06:55:50 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Grodbog Hive-queen for 13,945 Lightning damage to Morale.
+[07/07 06:55:50 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,077 points to Power.
+[07/07 06:55:51 AM] Sustenance applied a heal to Nlkosi restoring 13,786 points to Morale.
+[07/07 06:55:51 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Grodbog Hive-queen for 10,113 Fire damage to Morale.
+[07/07 06:55:52 AM] Your mighty blow defeated the Grodbog Hive-queen.
+[07/07 06:55:52 AM] Nlkosi scored a hit with Essence of Flame on the Grodbog Hive-queen for 13,123 Fire damage to Morale.
+[07/07 06:56:18 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Grodbog Worker for 8,287 Fire damage to Morale.
+[07/07 06:56:19 AM] Nlkosi scored a hit with Sustaining Bolt on the Grodbog Worker for 4,421 Lightning damage to Morale.
+[07/07 06:56:20 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,016 points to Power.
+[07/07 06:56:20 AM] Sustenance applied a heal to Nlkosi restoring 14,582 points to Morale.
+[07/07 06:56:21 AM] Nlkosi scored a hit with Essence of Flame on the Grodbog Worker for 12,277 Fire damage to Morale.
+[07/07 06:56:22 AM] The Grodbog Worker scored a partially evaded hit with a moderate melee attack on Nlkosi for 3,700 Common damage to Morale.
+[07/07 06:56:22 AM] Nlkosi scored a critical hit with Chilling Rhetoric on the Grodbog Worker for 11,339 Frost damage to Morale.
+[07/07 06:56:22 AM] Nothing to dispel.
+[07/07 06:56:22 AM] Nlkosi scored a hit with Improved Final Word on the Grodbog Worker.
+[07/07 06:56:23 AM] The Grodbog Worker scored a hit with a weak melee attack on Nlkosi for 2,908 Common damage to Morale.
+[07/07 06:56:24 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Grodbog Worker for 3,015 Fire damage to Morale.
+[07/07 06:56:24 AM] Nlkosi scored a hit with Distracting Flame on the Grodbog Worker.
+[07/07 06:56:25 AM] Nlkosi scored a hit with Vivid Imagery on the Grodbog Worker for 9,389 Lightning damage to Morale.
+[07/07 06:56:27 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Grodbog Worker for 2,935 Fire damage to Morale.
+[07/07 06:56:27 AM] Your mighty blow defeated the Grodbog Worker.
+[07/07 06:56:27 AM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/07 06:56:27 AM] Nlkosi scored a critical hit with Essence of Storm on the Grodbog Worker for 42,312 Lightning damage to Morale.
+[07/07 06:56:38 AM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/07 06:56:39 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Grodbog Worker for 20,553 Lightning damage to Morale.
+[07/07 06:56:39 AM] Your mighty blow defeated the Grodbog Worker.
+[07/07 06:56:40 AM] Nlkosi scored a critical hit with Shocking Words on the Grodbog Worker for 62,806 Lightning damage to Morale.
+[07/07 06:56:52 AM] The Grodbog Hive-defender scored a hit with a weak melee attack on Nlkosi for 3,340 Common damage to Morale.
+[07/07 06:56:52 AM] Nlkosi scored a hit with Essence of Storm on the Grodbog Hive-defender for 9,095 Lightning damage to Morale.
+[07/07 06:56:54 AM] Nlkosi scored a hit with Ceaseless Argument on the Grodbog Hive-defender for 8,288 Lightning damage to Morale.
+[07/07 06:56:54 AM] The Grodbog Hive-defender scored a hit with a moderate melee attack on Nlkosi for 4,593 Common damage to Morale.
+[07/07 06:56:55 AM] Nlkosi scored a hit with Epic Conclusion on the Grodbog Hive-defender for 30,204 Lightning damage to Morale.
+[07/07 06:56:57 AM] Nlkosi scored a hit with Ceaseless Argument on the Grodbog Hive-defender for 6,955 Lightning damage to Morale.
+[07/07 06:56:57 AM] Your mighty blow defeated the Grodbog Hive-defender.
+[07/07 06:56:58 AM] Nlkosi scored a hit with Static Surge on the Grodbog Hive-defender for 18,866 Lightning damage to Morale.
+[07/07 06:57:16 AM] Nlkosi scored a hit with Sustaining Bolt on the Grodbog Hive-defender for 3,244 Lightning damage to Morale.
+[07/07 06:57:17 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,004 points to Power.
+[07/07 06:57:17 AM] Sustenance applied a heal to Nlkosi restoring 11,856 points to Morale.
+[07/07 06:57:18 AM] The Grodbog Hive-defender tried to use Viscid Ichor on Nlkosi but he evaded the attempt.
+[07/07 06:57:20 AM] The Grodbog Hive-defender scored a hit with a moderate melee attack on Nlkosi for 4,593 Common damage to Morale.
+[07/07 06:57:21 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Worker for 10,603 Fire damage to Morale.
+[07/07 06:57:21 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-defender for 10,603 Fire damage to Morale.
+[07/07 06:57:21 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/07 06:57:22 AM] The Grodbog Hive-defender scored a hit with a weak melee attack on the Volcanic Rune-stone for 765 Common damage to Morale.
+[07/07 06:57:22 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Worker for 3,067 Lightning damage to Morale.
+[07/07 06:57:22 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Hive-defender for 2,984 Lightning damage to Morale.
+[07/07 06:57:22 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/07 06:57:23 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Worker for 10,603 Fire damage to Morale.
+[07/07 06:57:23 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-defender for 10,603 Fire damage to Morale.
+[07/07 06:57:23 AM] Nothing to dispel.
+[07/07 06:57:23 AM] Nlkosi scored a hit with Shocking Words on the Grodbog Hive-defender for 27,912 Lightning damage to Morale.
+[07/07 06:57:24 AM] Nlkosi scored a devastating hit with Improved Final Word on the Grodbog Hive-defender.
+[07/07 06:57:24 AM] The Grodbog Worker scored a hit with Acidic Blood on the Volcanic Rune-stone.
+[07/07 06:57:24 AM] The Grodbog Worker scored a hit with Foul Acid on the Volcanic Rune-stone for 927 Acid damage to Morale.
+[07/07 06:57:25 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Worker for 10,603 Fire damage to Morale.
+[07/07 06:57:25 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Grodbog Hive-defender for 10,603 Fire damage to Morale.
+[07/07 06:57:25 AM] The Volcanic Rune-stone defeated the Grodbog Hive-defender.
+[07/07 06:57:25 AM] Nlkosi scored a hit with Vivid Imagery on the Grodbog Worker for 9,666 Lightning damage to Morale.
+[07/07 06:57:25 AM] Nlkosi scored a hit with Vivid Imagery on the Grodbog Hive-defender for 8,503 Lightning damage to Morale.
+[07/07 06:57:25 AM] Nlkosi scored a hit with Fulgurite Strike on the Grodbog Worker for 2,962 Lightning damage to Morale.
+[07/07 06:57:27 AM] Your mighty blow defeated the Grodbog Worker.
+[07/07 06:57:27 AM] Nlkosi scored a hit with Ceaseless Argument on the Grodbog Worker for 9,262 Lightning damage to Morale.
+[07/07 06:57:27 AM] The Grodbog Worker scored a hit with Foul Acid on the Volcanic Rune-stone for 927 Acid damage to Morale.
+[07/07 06:57:30 AM] The Grodbog Worker tried to use Foul Acid on the Volcanic Rune-stone but it resisted the attempt.
+[07/07 06:57:31 AM] Nlkosi scored a hit with Static Surge on the Grodbog Hive-queen for 20,772 Lightning damage to Morale.
+[07/07 06:57:31 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on Nlkosi.
+[07/07 06:57:33 AM] Nlkosi scored a hit with Epic Conclusion on the Grodbog Hive-queen for 33,813 Lightning damage to Morale.
+[07/07 06:57:35 AM] Master of Tragedy applied a heal to Nlkosi restoring 175 points to Power.
+[07/07 06:57:36 AM] Nlkosi scored a critical hit with Essence of Storm on the Grodbog Hive-queen for 43,612 Lightning damage to Morale.
+[07/07 06:57:37 AM] Nlkosi scored a hit with Scribe's Spark on the Grodbog Hive-queen for 13,630 Lightning damage to Morale.
+[07/07 06:57:38 AM] Your mighty blow defeated the Grodbog Hive-queen.
+[07/07 06:57:38 AM] Nlkosi scored a hit with Static Surge on the Grodbog Hive-queen for 20,791 Lightning damage to Morale.
+[07/07 06:57:40 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Grodbog Hive-queen for 27,290 Lightning damage to Morale.
+[07/07 06:57:41 AM] Nlkosi scored a hit with Sustaining Bolt on the Grodbog Hive-queen for 6,935 Lightning damage to Morale.
+[07/07 06:57:42 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,312 points to Power.
+[07/07 06:57:42 AM] Sustenance applied a critical heal to Nlkosi restoring 17,660 points to Morale.
+[07/07 06:57:42 AM] The Grodbog Hive-queen scored a hit with a weak swipe attack on Nlkosi for 3,585 Common damage to Morale.
+[07/07 06:57:43 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Grodbog Hive-queen for 10,372 Fire damage to Morale.
+[07/07 06:57:44 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on Nlkosi.
+[07/07 06:57:45 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Grodbog Hive-queen for 11,178 Fire damage to Morale.
+[07/07 06:57:46 AM] The Grodbog Hive-queen scored a hit with a weak swipe attack on Nlkosi for 3,585 Common damage to Morale.
+[07/07 06:57:47 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Grodbog Hive-queen for 3,230 Fire damage to Morale.
+[07/07 06:57:50 AM] Nlkosi scored a hit with Shocking Touch on the Grodbog Hive-queen for 5,568 Lightning damage to Morale.
+[07/07 06:57:51 AM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on the Grodbog Hive-queen for 5,894 Fire damage to Morale.
+[07/07 06:57:51 AM] Nlkosi scored a critical hit with Chilling Rhetoric on the Grodbog Hive-queen for 14,522 Frost damage to Morale.
+[07/07 06:57:51 AM] The Grodbog Hive-queen scored a hit with a minor swipe attack on Nlkosi for 4,924 Common damage to Morale.
+[07/07 06:57:52 AM] Nlkosi scored a hit with Head-butt on the Grodbog Hive-queen for 8,401 Common damage to Morale.
+[07/07 06:57:52 AM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[07/07 06:57:53 AM] The Grodbog Hive-queen scored a hit with Shrieking Maw on Nlkosi.
+[07/07 06:57:53 AM] Nlkosi scored a hit with Fiery Ridicule on the Grodbog Hive-queen for 6,333 Fire damage to Morale.
+[07/07 06:57:54 AM] Nlkosi scored a hit with Shocking Words on the Grodbog Hive-queen for 25,336 Lightning damage to Morale.
+[07/07 06:57:54 AM] Nothing to dispel.
+[07/07 06:57:54 AM] Nlkosi scored a hit with Improved Final Word on the Grodbog Hive-queen.
+[07/07 06:57:55 AM] Your mighty blow defeated the Grodbog Hive-queen.
+[07/07 06:57:55 AM] Nlkosi scored a hit with Static Surge on the Grodbog Hive-queen for 20,168 Lightning damage to Morale.
+[07/07 06:58:12 AM] You have lost 28,047 points of temporary Morale!
+[07/07 07:06:38 AM] Nlkosi applied a benefit with Travel to Kinship House on Nlkosi.

@@ -1,0 +1,280 @@
+### Chat Log: Combat 06/24 11:11 PM ###
+[06/24 11:12:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Sorcerer for 9,594 Fire damage to Morale.
+[06/24 11:12:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 9,594 Fire damage to Morale.
+[06/24 11:12:18 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/24 11:12:19 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on the Volcanic Rune-stone for 418 Common damage to Morale.
+[06/24 11:12:19 PM] The Ordâkhai Sorcerer scored a hit with a weak melee attack on the Volcanic Rune-stone for 348 Shadow damage to Morale.
+[06/24 11:12:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 9,594 Fire damage to Morale.
+[06/24 11:12:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Sorcerer for 9,594 Fire damage to Morale.
+[06/24 11:12:21 PM] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on the Volcanic Rune-stone for 1,045 Shadow damage to Morale.
+[06/24 11:12:21 PM] The Ordâkhai Warrior scored a hit with a moderate melee attack on the Volcanic Rune-stone for 575 Common damage to Morale.
+[06/24 11:12:21 PM] The Ordâkhai Sorcerer scored a hit with Song of Despair on the Volcanic Rune-stone.
+[06/24 11:12:22 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 9,594 Fire damage to Morale.
+[06/24 11:12:22 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Sorcerer for 9,594 Fire damage to Morale.
+[06/24 11:12:23 PM] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on the Volcanic Rune-stone for 593 Shadow damage to Morale.
+[06/24 11:12:23 PM] Your mighty blow defeated the Ordâkhai Sorcerer.
+[06/24 11:12:23 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on the Volcanic Rune-stone for 418 Common damage to Morale.
+[06/24 11:12:23 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Sorcerer for 37,089 Lightning damage to Morale.
+[06/24 11:12:24 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 9,594 Fire damage to Morale.
+[06/24 11:12:24 PM] The Volcanic Rune-stone defeated the Ordâkhai Warrior.
+[06/24 11:12:28 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 9,594 Fire damage to Morale.
+[06/24 11:12:28 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on the Volcanic Rune-stone for 418 Common damage to Morale.
+[06/24 11:12:29 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/24 11:12:30 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Warrior for 18,462 Lightning damage to Morale.
+[06/24 11:12:30 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[06/24 11:12:31 PM] Nlkosi scored a critical hit with Shocking Words on the Ordâkhai Warrior for 63,411 Lightning damage to Morale.
+[06/24 11:12:37 PM] The Ordâkhai Look-out scored a hit with a minor thrown attack on Nlkosi for 2,043 Common damage to Morale.
+[06/24 11:12:39 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 6,558 Lightning damage to Morale.
+[06/24 11:12:39 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on Nlkosi for 1,706 Common damage to Morale.
+[06/24 11:12:40 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Warrior for 7,942 Lightning damage to Morale.
+[06/24 11:12:41 PM] The Ordâkhai Warrior scored a devastating hit with a melee double attack on Nlkosi for 3,292 Common damage to Morale.
+[06/24 11:12:41 PM] The Ordâkhai Look-out scored a hit with Sniper Arrow on Nlkosi.
+[06/24 11:12:41 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 2,043 Common damage to Morale.
+[06/24 11:12:41 PM] The Ordâkhai Warrior scored a critical hit with a melee double attack on Nlkosi for 2,439 Common damage to Morale.
+[06/24 11:12:42 PM] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Warrior for 8,245 Lightning damage to Morale.
+[06/24 11:12:43 PM] The Ordâkhai Warrior scored a hit with a moderate melee attack on Nlkosi for 2,346 Common damage to Morale.
+[06/24 11:12:43 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/24 11:12:43 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[06/24 11:12:43 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 2,043 Common damage to Morale.
+[06/24 11:12:44 PM] The Ordâkhai Look-out scored a hit with a weak thrown attack on Nlkosi for 1,635 Common damage to Morale.
+[06/24 11:12:44 PM] Nlkosi scored a devastating hit with Scribe's Spark on the Ordâkhai Warrior for 32,242 Lightning damage to Morale.
+[06/24 11:12:45 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 2,043 Common damage to Morale.
+[06/24 11:12:46 PM] The Ordâkhai Look-out scored a hit with a weak melee attack on Nlkosi for 1,422 Common damage to Morale.
+[06/24 11:12:47 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Look-out for 11,109 Lightning damage to Morale.
+[06/24 11:12:47 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on Nlkosi for 1,706 Common damage to Morale.
+[06/24 11:12:47 PM] Your mighty blow defeated the Ordâkhai Look-out.
+[06/24 11:12:47 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 2,043 Common damage to Morale.
+[06/24 11:12:48 PM] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Look-out for 27,277 Lightning damage to Morale.
+[06/24 11:12:49 PM] The Ordâkhai Warrior scored a hit with a melee double attack on Nlkosi for 1,706 Common damage to Morale.
+[06/24 11:12:49 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 2,043 Common damage to Morale.
+[06/24 11:12:50 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 11,164 Lightning damage to Morale.
+[06/24 11:12:50 PM] The Ordâkhai Warrior scored a hit with a melee double attack on Nlkosi for 1,706 Common damage to Morale.
+[06/24 11:12:50 PM] The Ordâkhai Sorcerer scored a hit with Max Shadow Damage on Nlkosi for 7,210 Shadow damage to Morale.
+[06/24 11:12:50 PM] The Ordâkhai Sorcerer scored a hit with Painful Memory on Nlkosi.
+[06/24 11:12:51 PM] The Ordâkhai Sorcerer scored a hit with a weak thrown attack on Nlkosi for 2,035 Shadow damage to Morale.
+[06/24 11:12:51 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 2,107 Common damage to Morale.
+[06/24 11:12:52 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on Nlkosi for 1,759 Common damage to Morale.
+[06/24 11:12:52 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[06/24 11:12:52 PM] Nlkosi scored a hit with Shocking Words on the Ordâkhai Warrior for 27,611 Lightning damage to Morale.
+[06/24 11:12:53 PM] The Ordâkhai Sorcerer scored a hit with Thunderous Command on Nlkosi.
+[06/24 11:12:53 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 2,107 Common damage to Morale.
+[06/24 11:12:55 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 2,107 Common damage to Morale.
+[06/24 11:12:56 PM] The Ordâkhai Sorcerer scored a hit with a minor thrown attack on Nlkosi for 2,544 Shadow damage to Morale.
+[06/24 11:12:56 PM] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Sorcerer for 11,475 Fire damage to Morale.
+[06/24 11:12:56 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/24 11:12:56 PM] Nlkosi scored a devastating hit with Sustaining Bolt on the Ordâkhai Sorcerer for 16,354 Lightning damage to Morale.
+[06/24 11:12:57 PM] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on Nlkosi for 5,310 Shadow damage to Morale.
+[06/24 11:12:57 PM] Sustaining Bolt applied a heal to Nlkosi restoring 949 points to Power.
+[06/24 11:12:57 PM] Sustenance applied a heal to Nlkosi restoring 11,583 points to Morale.
+[06/24 11:12:57 PM] The Ordâkhai Sorcerer scored a hit with Song of Despair on Nlkosi.
+[06/24 11:12:57 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 2,107 Common damage to Morale.
+[06/24 11:12:57 PM] Your mighty blow defeated the Ordâkhai Sorcerer.
+[06/24 11:12:57 PM] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on Nlkosi for 685 Shadow damage to Morale.
+[06/24 11:12:58 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Sorcerer for 4,331 Fire damage to Morale.
+[06/24 11:12:59 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 2,107 Common damage to Morale.
+[06/24 11:13:00 PM] The Ordâkhai Look-out scored a hit with a weak thrown attack on Nlkosi for 1,685 Common damage to Morale.
+[06/24 11:13:02 PM] The Ordâkhai Look-out scored a hit with Deep Wound on Nlkosi for 2,107 Common damage to Morale.
+[06/24 11:13:02 PM] The Ordâkhai Look-out scored a hit with a moderate thrown attack on Nlkosi for 2,317 Common damage to Morale.
+[06/24 11:13:09 PM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[06/24 11:13:11 PM] The Ordâkhai Look-out scored a hit with a weak thrown attack on Nlkosi for 843 Common damage to Morale.
+[06/24 11:13:12 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Look-out for 3,763 Fire damage to Morale.
+[06/24 11:13:12 PM] The Ordâkhai Look-out scored a hit with a minor melee attack on Nlkosi for 916 Common damage to Morale.
+[06/24 11:13:13 PM] Your mighty blow defeated the Ordâkhai Look-out.
+[06/24 11:13:14 PM] Nlkosi scored a hit with Shocking Words on the Ordâkhai Look-out for 27,516 Lightning damage to Morale.
+[06/24 11:13:15 PM] The Ordâkhai Look-out tried to use Sniper Arrow on Nlkosi but he evaded the attempt.
+[06/24 11:13:17 PM] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Look-out for 7,093 Lightning damage to Morale.
+[06/24 11:13:17 PM] The Ordâkhai Look-out scored a hit with a moderate melee attack on Nlkosi for 1,008 Common damage to Morale.
+[06/24 11:13:18 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Look-out for 7,079 Lightning damage to Morale.
+[06/24 11:13:19 PM] The Ordâkhai Look-out scored a hit with a minor melee attack on Nlkosi for 916 Common damage to Morale.
+[06/24 11:13:20 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/24 11:13:20 PM] Your mighty blow defeated the Ordâkhai Look-out.
+[06/24 11:13:20 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Look-out for 21,173 Lightning damage to Morale.
+[06/24 11:14:30 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 9,594 Fire damage to Morale.
+[06/24 11:14:30 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 9,594 Fire damage to Morale.
+[06/24 11:14:30 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/24 11:14:31 PM] The Ordâkhai Warrior tried to use a weak melee attack on the Volcanic Rune-stone but it blocked the attempt.
+[06/24 11:14:31 PM] The Ordâkhai Warrior scored a partially evaded hit with a weak melee attack on the Volcanic Rune-stone for 270 Common damage to Morale.
+[06/24 11:14:31 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,654 Lightning damage to Morale.
+[06/24 11:14:31 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,799 Lightning damage to Morale.
+[06/24 11:14:31 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,760 Lightning damage to Morale.
+[06/24 11:14:31 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/24 11:14:32 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 9,594 Fire damage to Morale.
+[06/24 11:14:32 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 9,594 Fire damage to Morale.
+[06/24 11:14:32 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[06/24 11:14:33 PM] Nlkosi scored a hit with Shocking Words on the Ordâkhai Warrior for 22,120 Lightning damage to Morale.
+[06/24 11:14:34 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 9,594 Fire damage to Morale.
+[06/24 11:14:34 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,867 Lightning damage to Morale.
+[06/24 11:14:34 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,716 Lightning damage to Morale.
+[06/24 11:14:35 PM] The Ordâkhai Warrior tried to use a strong melee attack on the Volcanic Rune-stone but it parried the attempt.
+[06/24 11:14:36 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 9,594 Fire damage to Morale.
+[06/24 11:14:36 PM] The Volcanic Rune-stone defeated the Ordâkhai Warrior.
+[06/24 11:14:37 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,777 Lightning damage to Morale.
+[06/24 11:14:37 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 3,195 Fire damage to Morale.
+[06/24 11:14:38 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 9,805 Fire damage to Morale.
+[06/24 11:14:38 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 418 Common damage to Morale.
+[06/24 11:14:39 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[06/24 11:14:39 PM] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Warrior for 11,702 Fire damage to Morale.
+[06/24 11:14:39 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Warrior for 3,962 Lightning damage to Morale.
+[06/24 11:14:40 PM] Sustaining Bolt applied a heal to Nlkosi restoring 996 points to Power.
+[06/24 11:14:40 PM] Sustenance applied a critical heal to Nlkosi restoring 15,591 points to Morale.
+[06/24 11:14:45 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Warrior for 18,968 Lightning damage to Morale.
+[06/24 11:14:47 PM] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Warrior for 9,586 Lightning damage to Morale.
+[06/24 11:14:47 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on Nlkosi for 1,706 Common damage to Morale.
+[06/24 11:14:48 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/24 11:14:48 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[06/24 11:14:48 PM] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Warrior for 26,005 Lightning damage to Morale.
+[06/24 11:14:54 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 3,522 Fire damage to Morale.
+[06/24 11:14:55 PM] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Warrior for 12,833 Fire damage to Morale.
+[06/24 11:14:56 PM] The Ordâkhai Warrior scored a hit with a strong melee attack on Nlkosi for 2,638 Common damage to Morale.
+[06/24 11:14:56 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 4,509 Fire damage to Morale.
+[06/24 11:14:56 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Warrior for 6,401 Lightning damage to Morale.
+[06/24 11:14:57 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,084 points to Power.
+[06/24 11:14:57 PM] Sustenance applied a heal to Nlkosi restoring 10,943 points to Morale.
+[06/24 11:14:57 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 4,626 Fire damage to Morale.
+[06/24 11:14:58 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on Nlkosi for 1,759 Common damage to Morale.
+[06/24 11:14:59 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[06/24 11:14:59 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Ordâkhai Warrior for 13,981 Fire damage to Morale.
+[06/24 11:15:54 PM] The Ordâkhai Sorcerer scored a hit with a weak thrown attack on Nlkosi for 2,035 Shadow damage to Morale.
+[06/24 11:15:56 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Sorcerer for 7,122 Fire damage to Morale.
+[06/24 11:15:57 PM] The Ordâkhai Sorcerer scored a hit with Max Shadow Damage on Nlkosi for 7,433 Shadow damage to Morale.
+[06/24 11:15:57 PM] The Ordâkhai Sorcerer scored a hit with Painful Memory on Nlkosi.
+[06/24 11:15:58 PM] The Ordâkhai Sorcerer scored a critical hit with a minor thrown attack on Nlkosi for 3,638 Shadow damage to Morale.
+[06/24 11:15:58 PM] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Sorcerer for 11,891 Fire damage to Morale.
+[06/24 11:15:58 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Sorcerer for 3,831 Fire damage to Morale.
+[06/24 11:15:59 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Ordâkhai Sorcerer for 11,110 Lightning damage to Morale.
+[06/24 11:15:59 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/24 11:15:59 PM] Your mighty blow defeated the Ordâkhai Sorcerer.
+[06/24 11:15:59 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,091 points to Power.
+[06/24 11:15:59 PM] Sustenance applied a heal to Nlkosi restoring 9,172 points to Morale.
+[06/24 11:16:03 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Warrior for 7,203 Lightning damage to Morale.
+[06/24 11:16:04 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Warrior for 9,836 Fire damage to Morale.
+[06/24 11:16:05 PM] The Ordâkhai Sorcerer scored a hit with Max Shadow Damage on Nlkosi for 7,210 Shadow damage to Morale.
+[06/24 11:16:05 PM] The Ordâkhai Sorcerer scored a hit with Painful Memory on Nlkosi.
+[06/24 11:16:05 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[06/24 11:16:05 PM] Nlkosi scored a hit with Shocking Words on the Ordâkhai Warrior for 26,092 Lightning damage to Morale.
+[06/24 11:16:06 PM] The Ordâkhai Sorcerer scored a hit with a weak thrown attack on Nlkosi for 1,974 Shadow damage to Morale.
+[06/24 11:16:08 PM] The Ordâkhai Sorcerer scored a critical hit with a moderate thrown attack on Nlkosi for 3,882 Shadow damage to Morale.
+[06/24 11:16:14 PM] The Ordâkhai Sorcerer scored a critical hit with a weak thrown attack on Nlkosi for 2,911 Shadow damage to Morale.
+[06/24 11:16:15 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Sorcerer for 3,669 Fire damage to Morale.
+[06/24 11:16:15 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/24 11:16:15 PM] Nlkosi scored a devastating hit with Sustaining Bolt on the Ordâkhai Sorcerer for 15,042 Lightning damage to Morale.
+[06/24 11:16:16 PM] Sustaining Bolt applied a heal to Nlkosi restoring 847 points to Power.
+[06/24 11:16:16 PM] Sustenance applied a heal to Nlkosi restoring 9,213 points to Morale.
+[06/24 11:16:16 PM] The Ordâkhai Sorcerer scored a partially evaded hit with a weak melee attack on Nlkosi for 1,628 Shadow damage to Morale.
+[06/24 11:16:16 PM] Your mighty blow defeated the Ordâkhai Sorcerer.
+[06/24 11:16:17 PM] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Sorcerer for 27,813 Lightning damage to Morale.
+[06/24 11:16:24 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Look-out for 6,663 Lightning damage to Morale.
+[06/24 11:16:24 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Look-out for 4,478 Fire damage to Morale.
+[06/24 11:16:25 PM] The Ordâkhai Look-out scored a hit with a moderate thrown attack on Nlkosi for 2,317 Common damage to Morale.
+[06/24 11:16:26 PM] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Look-out for 9,868 Fire damage to Morale.
+[06/24 11:16:27 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Look-out for 5,067 Fire damage to Morale.
+[06/24 11:16:28 PM] Your mighty blow defeated the Ordâkhai Look-out.
+[06/24 11:16:28 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Look-out for 4,938 Fire damage to Morale.
+[06/24 11:16:39 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Sorcerer for 7,122 Fire damage to Morale.
+[06/24 11:16:40 PM] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Sorcerer for 9,488 Fire damage to Morale.
+[06/24 11:16:41 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Sorcerer for 3,800 Lightning damage to Morale.
+[06/24 11:16:41 PM] The Ordâkhai Sorcerer scored a hit with Thunderous Command on Nlkosi.
+[06/24 11:16:42 PM] Sustaining Bolt applied a heal to Nlkosi restoring 863 points to Power.
+[06/24 11:16:42 PM] Sustenance applied a critical heal to Nlkosi restoring 12,066 points to Morale.
+[06/24 11:16:42 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Sorcerer for 3,436 Fire damage to Morale.
+[06/24 11:16:43 PM] The Ordâkhai Sorcerer scored a hit with a moderate thrown attack on Nlkosi for 2,799 Shadow damage to Morale.
+[06/24 11:16:44 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Sorcerer for 3,395 Fire damage to Morale.
+[06/24 11:16:45 PM] The Ordâkhai Sorcerer scored a hit with a weak thrown attack on Nlkosi for 2,035 Shadow damage to Morale.
+[06/24 11:16:45 PM] Your mighty blow defeated the Ordâkhai Sorcerer.
+[06/24 11:16:45 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Sorcerer for 7,750 Lightning damage to Morale.
+[06/24 11:17:22 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Warrior for 7,122 Fire damage to Morale.
+[06/24 11:17:23 PM] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Warrior for 10,056 Fire damage to Morale.
+[06/24 11:17:23 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Warrior for 3,839 Fire damage to Morale.
+[06/24 11:17:23 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/24 11:17:23 PM] Nlkosi scored a devastating hit with Sustaining Bolt on the Ordâkhai Warrior for 13,589 Lightning damage to Morale.
+[06/24 11:17:24 PM] Sustaining Bolt applied a heal to Nlkosi restoring 906 points to Power.
+[06/24 11:17:24 PM] Sustenance applied a critical heal to Nlkosi restoring 15,135 points to Morale.
+[06/24 11:17:25 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[06/24 11:17:25 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Warrior for 10,165 Fire damage to Morale.
+[06/24 11:17:34 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/24 11:17:35 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Look-out for 2,871 Lightning damage to Morale.
+[06/24 11:17:35 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,710 Lightning damage to Morale.
+[06/24 11:17:35 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,765 Lightning damage to Morale.
+[06/24 11:17:35 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Sorcerer for 2,688 Lightning damage to Morale.
+[06/24 11:17:35 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,841 Lightning damage to Morale.
+[06/24 11:17:35 PM] The Ordâkhai Warrior scored a hit with a minor melee attack on the Volcanic Rune-stone for 522 Common damage to Morale.
+[06/24 11:17:35 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/24 11:17:36 PM] The Ordâkhai Sorcerer scored a partially blocked hit with a moderate melee attack on the Volcanic Rune-stone for 309 Shadow damage to Morale.
+[06/24 11:17:36 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 10,690 Fire damage to Morale.
+[06/24 11:17:36 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 10,690 Fire damage to Morale.
+[06/24 11:17:36 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 10,690 Fire damage to Morale.
+[06/24 11:17:36 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Sorcerer for 10,690 Fire damage to Morale.
+[06/24 11:17:36 PM] Your mighty blow defeated the Ordâkhai Sorcerer.
+[06/24 11:17:36 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Sorcerer for 44,077 Lightning damage to Morale.
+[06/24 11:17:37 PM] The Ordâkhai Warrior scored a hit with a strong melee attack on the Volcanic Rune-stone for 627 Common damage to Morale.
+[06/24 11:17:38 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 10,690 Fire damage to Morale.
+[06/24 11:17:38 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 10,690 Fire damage to Morale.
+[06/24 11:17:38 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 10,690 Fire damage to Morale.
+[06/24 11:17:38 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[06/24 11:17:38 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Look-out for 2,859 Lightning damage to Morale.
+[06/24 11:17:38 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,839 Lightning damage to Morale.
+[06/24 11:17:38 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,882 Lightning damage to Morale.
+[06/24 11:17:38 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 2,794 Lightning damage to Morale.
+[06/24 11:17:38 PM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[06/24 11:17:39 PM] Prelude to Hope applied a heal to Nlkosi restoring 2,228 points to Morale.
+[06/24 11:17:39 PM] The Ordâkhai Warrior scored a hit with a strong melee attack on the Volcanic Rune-stone for 627 Common damage to Morale.
+[06/24 11:17:39 PM] The Ordâkhai Warrior scored a hit with a strong melee attack on the Volcanic Rune-stone for 627 Common damage to Morale.
+[06/24 11:17:39 PM] Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+[06/24 11:17:40 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on the Volcanic Rune-stone for 418 Common damage to Morale.
+[06/24 11:17:40 PM] Prelude to Hope applied a heal to Nlkosi restoring 690 points to Morale.
+[06/24 11:17:40 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Look-out for 10,690 Fire damage to Morale.
+[06/24 11:17:40 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 10,690 Fire damage to Morale.
+[06/24 11:17:40 PM] The Volcanic Rune-stone defeated the Ordâkhai Warrior.
+[06/24 11:17:40 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 10,690 Fire damage to Morale.
+[06/24 11:17:40 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 10,690 Fire damage to Morale.
+[06/24 11:17:40 PM] The Volcanic Rune-stone defeated the Ordâkhai Warrior.
+[06/24 11:17:40 PM] The Volcanic Rune-stone defeated the Ordâkhai Warrior.
+[06/24 11:17:40 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/24 11:17:40 PM] Your mighty blow defeated the Ordâkhai Look-out.
+[06/24 11:17:40 PM] Nlkosi scored a critical hit with Essence of Storm on the Ordâkhai Look-out for 41,870 Lightning damage to Morale.
+[06/24 11:17:41 PM] Prelude to Hope applied a heal to Nlkosi restoring 901 points to Morale.
+[06/24 11:17:42 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Sorcerer for 2,790 Lightning damage to Morale.
+[06/24 11:17:42 PM] Your mighty blow defeated the Ordâkhai Sorcerer.
+[06/24 11:17:42 PM] Prelude to Hope applied a heal to Nlkosi restoring 717 points to Morale.
+[06/24 11:17:42 PM] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Sorcerer for 31,693 Lightning damage to Morale.
+[06/24 11:17:43 PM] Prelude to Hope applied a heal to Nlkosi restoring 943 points to Morale.
+[06/24 11:17:44 PM] Prelude to Hope applied a heal to Nlkosi restoring 767 points to Morale.
+[06/24 11:17:45 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 1,159 points to Morale.
+[06/24 11:17:46 PM] Prelude to Hope applied a heal to Nlkosi restoring 960 points to Morale.
+[06/24 11:17:47 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 998 points to Morale.
+[06/24 11:17:48 PM] Prelude to Hope applied a heal to Nlkosi restoring 730 points to Morale.
+[06/24 11:17:49 PM] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Look-out for 11,125 Fire damage to Morale.
+[06/24 11:17:49 PM] Prelude to Hope applied a heal to Nlkosi restoring 948 points to Morale.
+[06/24 11:17:49 PM] Nlkosi scored a hit with Concession and Rebuttal: Sustaining Bolt on the Ordâkhai Look-out for 14,408 Lightning damage to Morale.
+[06/24 11:17:50 PM] Prelude to Hope applied a heal to Nlkosi restoring 697 points to Morale.
+[06/24 11:17:50 PM] Powerful Sustenance applied a heal to Nlkosi restoring 16,630 points to Morale.
+[06/24 11:17:50 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,073 points to Power.
+[06/24 11:17:50 PM] The Ordâkhai Look-out scored a hit with a weak thrown attack on Nlkosi for 1,685 Common damage to Morale.
+[06/24 11:17:51 PM] Your mighty blow defeated the Ordâkhai Look-out.
+[06/24 11:17:51 PM] You have lost 1,685 points of temporary Morale!
+[06/24 11:17:51 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Ordâkhai Look-out for 9,754 Fire damage to Morale.
+[06/24 11:17:51 PM] Prelude to Hope applied a heal to Nlkosi restoring 893 points to Morale.
+[06/24 11:17:58 PM] You have lost 24,663 points of temporary Morale!
+[06/24 11:19:13 PM] Nlkosi scored a hit with Volcanic Rune-stone on Mádathal the Deathward for 9,890 Fire damage to Morale.
+[06/24 11:19:13 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/24 11:19:14 PM] Nlkosi scored a hit with Fulgurite Strike on Mádathal the Deathward for 2,631 Lightning damage to Morale.
+[06/24 11:19:15 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/24 11:19:15 PM] Nlkosi scored a hit with Volcanic Rune-stone on Mádathal the Deathward for 9,890 Fire damage to Morale.
+[06/24 11:19:17 PM] Nlkosi scored a hit with Volcanic Rune-stone on Mádathal the Deathward for 9,890 Fire damage to Morale.
+[06/24 11:19:17 PM] Nlkosi scored a hit with Fulgurite Strike on Mádathal the Deathward for 2,668 Lightning damage to Morale.
+[06/24 11:19:19 PM] Mádathal the Deathward tried to use a weak melee attack on the Volcanic Rune-stone but it blocked the attempt.
+[06/24 11:19:19 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/24 11:19:19 PM] Nlkosi scored a devastating hit with Scribe's Spark on Mádathal the Deathward for 26,582 Lightning damage to Morale.
+[06/24 11:19:19 PM] Nlkosi scored a hit with Volcanic Rune-stone on Mádathal the Deathward for 9,890 Fire damage to Morale.
+[06/24 11:19:20 PM] Nlkosi scored a hit with Ceaseless Argument on Mádathal the Deathward for 7,321 Lightning damage to Morale.
+[06/24 11:19:21 PM] Nlkosi scored a hit with Fulgurite Strike on Mádathal the Deathward for 2,836 Lightning damage to Morale.
+[06/24 11:19:21 PM] Nlkosi scored a hit with Volcanic Rune-stone on Mádathal the Deathward for 9,890 Fire damage to Morale.
+[06/24 11:19:21 PM] Nlkosi scored a critical hit with Vivid Imagery on Mádathal the Deathward for 24,362 Lightning damage to Morale.
+[06/24 11:19:23 PM] Nothing to dispel.
+[06/24 11:19:23 PM] Nlkosi scored a hit with Improved Final Word on Mádathal the Deathward.
+[06/24 11:19:23 PM] Nlkosi scored a hit with Volcanic Rune-stone on Mádathal the Deathward for 9,890 Fire damage to Morale.
+[06/24 11:19:24 PM] Nlkosi scored a hit with Fulgurite Strike on Mádathal the Deathward for 2,711 Lightning damage to Morale.
+[06/24 11:19:24 PM] Your mighty blow defeated Mádathal the Deathward.
+[06/24 11:19:24 PM] Nlkosi scored a critical hit with Epic Conclusion on Mádathal the Deathward for 149,755 Lightning damage to Morale.
+[06/24 11:24:30 PM] Nlkosi applied a benefit with Herbalist on Nlkosi.
+[06/24 11:24:31 PM] The Herbalist applied a benefit with Herbalist Aura on the Herbalist.

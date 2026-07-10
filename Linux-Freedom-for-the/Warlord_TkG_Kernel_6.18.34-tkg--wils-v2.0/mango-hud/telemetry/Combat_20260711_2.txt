@@ -1,0 +1,281 @@
+### Chat Log: Combat 07/11 00:26 AM ###
+[07/11 00:27:24 AM] Increased Morale applied a heal to Nlkosi restoring 19,615 points to Morale.
+[07/11 00:27:44 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 4,173 Fire damage to Morale.
+[07/11 00:27:44 AM] Nlkosi scored a hit with Sustaining Bolt on the Frost-bound Hobgoblin for 3,955 Lightning damage to Morale.
+[07/11 00:27:45 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,301 points to Power.
+[07/11 00:27:45 AM] Sustenance applied a critical heal to Nlkosi restoring 19,011 points to Morale.
+[07/11 00:27:46 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Frost-bound Hobgoblin for 8,843 Fire damage to Morale.
+[07/11 00:27:47 AM] Nlkosi scored a hit with Essence of Flame on the Frost-bound Hobgoblin for 13,267 Fire damage to Morale.
+[07/11 00:27:47 AM] The Frost-bound Hobgoblin scored a hit with a weak melee attack on Nlkosi for 4,043 Common damage to Morale.
+[07/11 00:27:47 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Frost-bound Hobgoblin for 10,845 Fire damage to Morale.
+[07/11 00:27:48 AM] Nlkosi scored a critical hit with Chilling Rhetoric on the Frost-bound Hobgoblin for 12,936 Frost damage to Morale.
+[07/11 00:27:49 AM] Master of Tragedy applied a heal to Nlkosi restoring 184 points to Power.
+[07/11 00:27:49 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:27:49 AM] Nlkosi scored a devastating hit with Epic Conclusion on the Frost-bound Hobgoblin for 124,966 Lightning damage to Morale.
+[07/11 00:27:51 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 4,633 Fire damage to Morale.
+[07/11 00:27:52 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 7,160 Fire damage to Morale.
+[07/11 00:27:54 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 7,153 Fire damage to Morale.
+[07/11 00:27:54 AM] The Frost-bound Hobgoblin scored a hit with a weak melee attack on Nlkosi for 4,043 Common damage to Morale.
+[07/11 00:27:55 AM] Nlkosi scored a critical hit with Writ of Lightning on the Frost-bound Hobgoblin for 28,955 Lightning damage to Morale.
+[07/11 00:27:56 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 7,159 Fire damage to Morale.
+[07/11 00:27:57 AM] The Frost-bound Hobgoblin scored a hit with a minor melee attack on Nlkosi for 5,054 Common damage to Morale.
+[07/11 00:27:58 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:27:58 AM] Nlkosi scored a hit with Shocking Words on the Frost-bound Hobgoblin for 39,584 Lightning damage to Morale.
+[07/11 00:28:02 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Frost-bound Hobgoblin for 11,294 Fire damage to Morale.
+[07/11 00:28:02 AM] Nlkosi scored a hit with Sustaining Bolt on the Frost-bound Hobgoblin for 5,240 Lightning damage to Morale.
+[07/11 00:28:03 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,069 points to Power.
+[07/11 00:28:03 AM] Sustenance applied a heal to Nlkosi restoring 12,084 points to Morale.
+[07/11 00:28:05 AM] Nlkosi scored a hit with Essence of Flame on the Frost-bound Hobgoblin for 16,841 Fire damage to Morale.
+[07/11 00:28:05 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 7,047 Fire damage to Morale.
+[07/11 00:28:06 AM] The Frost-bound Hobgoblin tried to use a minor melee attack on Nlkosi but he evaded the attempt.
+[07/11 00:28:06 AM] Nlkosi scored a hit with Vivid Imagery on the Frost-bound Hobgoblin for 9,058 Lightning damage to Morale.
+[07/11 00:28:08 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:28:08 AM] Nlkosi scored a hit with Static Surge on the Frost-bound Hobgoblin for 19,217 Lightning damage to Morale.
+[07/11 00:28:10 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 7,216 Fire damage to Morale.
+[07/11 00:28:12 AM] Nlkosi scored a devastating hit with Fiery Ridicule on the Frost-bound Hobgoblin for 17,854 Fire damage to Morale.
+[07/11 00:28:13 AM] The Frost-bound Hobgoblin scored a hit with a moderate melee attack on Nlkosi for 5,559 Common damage to Morale.
+[07/11 00:28:13 AM] Nlkosi scored a hit with Essence of Storm on the Frost-bound Hobgoblin for 11,143 Lightning damage to Morale.
+[07/11 00:28:14 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Frost-bound Hobgoblin for 4,875 Fire damage to Morale.
+[07/11 00:28:15 AM] Nlkosi scored a hit with Scribe's Spark on the Frost-bound Hobgoblin for 13,225 Lightning damage to Morale.
+[07/11 00:28:15 AM] The Frost-bound Hobgoblin scored a hit with a weak melee attack on Nlkosi for 4,043 Common damage to Morale.
+[07/11 00:28:16 AM] Nothing to dispel.
+[07/11 00:28:16 AM] Nlkosi scored a hit with Ceaseless Argument on the Frost-bound Hobgoblin for 10,258 Lightning damage to Morale.
+[07/11 00:28:16 AM] Nlkosi scored a hit with Improved Final Word on the Frost-bound Hobgoblin.
+[07/11 00:28:17 AM] The Frost-bound Hobgoblin scored a hit with a moderate melee attack on Nlkosi for 5,392 Common damage to Morale.
+[07/11 00:28:17 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Frost-bound Hobgoblin for 4,112 Fire damage to Morale.
+[07/11 00:28:17 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:28:42 AM] Nlkosi scored a hit with Writ of Lightning on the Frost-bound Hobgoblin for 7,028 Lightning damage to Morale.
+[07/11 00:28:43 AM] The Frost-bound Hobgoblin scored a hit with a moderate melee attack on Nlkosi for 5,559 Common damage to Morale.
+[07/11 00:28:43 AM] Nlkosi scored a hit with Sustaining Bolt on the Frost-bound Hobgoblin for 3,857 Lightning damage to Morale.
+[07/11 00:28:44 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,128 points to Power.
+[07/11 00:28:44 AM] Sustenance applied a critical heal to Nlkosi restoring 15,356 points to Morale.
+[07/11 00:28:45 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 4,093 Fire damage to Morale.
+[07/11 00:28:45 AM] The Frost-bound Hobgoblin scored a hit with a minor melee attack on Nlkosi for 5,054 Common damage to Morale.
+[07/11 00:28:46 AM] Nlkosi scored a hit with Essence of Flame on the Frost-bound Hobgoblin for 12,527 Fire damage to Morale.
+[07/11 00:28:46 AM] Nlkosi scored a hit with Essence of Flame on the Frost-bound Hobgoblin for 13,966 Fire damage to Morale.
+[07/11 00:28:47 AM] The Frost-bound Hobgoblin scored a hit with a weak melee attack on Nlkosi for 4,043 Common damage to Morale.
+[07/11 00:28:47 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 12,008 Fire damage to Morale.
+[07/11 00:28:47 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 11,835 Fire damage to Morale.
+[07/11 00:28:48 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/11 00:28:49 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 2,989 Lightning damage to Morale.
+[07/11 00:28:49 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 3,037 Lightning damage to Morale.
+[07/11 00:28:49 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/11 00:28:49 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 11,835 Fire damage to Morale.
+[07/11 00:28:49 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 12,008 Fire damage to Morale.
+[07/11 00:28:49 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frost-bound Hobgoblin for 2,947 Fire damage to Morale.
+[07/11 00:28:50 AM] Nlkosi scored a hit with Scribe's Spark on the Frost-bound Hobgoblin for 11,086 Lightning damage to Morale.
+[07/11 00:28:51 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on the Charged Fulgurite Rune-stone for 1,797 Frost damage to Morale.
+[07/11 00:28:51 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on the Volcanic Rune-stone for 1,797 Frost damage to Morale.
+[07/11 00:28:51 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 4,341 Frost damage to Morale.
+[07/11 00:28:51 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:28:51 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 12,008 Fire damage to Morale.
+[07/11 00:28:51 AM] The Volcanic Rune-stone defeated the Frost-bound Hobgoblin.
+[07/11 00:28:51 AM] Nlkosi scored a hit with Shocking Words on the Frost-bound Hobgoblin for 30,820 Lightning damage to Morale.
+[07/11 00:28:53 AM] Nlkosi scored a hit with Ceaseless Argument on the Frost-bound Hobgoblin for 8,147 Lightning damage to Morale.
+[07/11 00:28:54 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on the Charged Fulgurite Rune-stone for 1,797 Frost damage to Morale.
+[07/11 00:28:54 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on the Volcanic Rune-stone for 1,797 Frost damage to Morale.
+[07/11 00:28:54 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 4,341 Frost damage to Morale.
+[07/11 00:28:55 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 2,890 Lightning damage to Morale.
+[07/11 00:28:56 AM] The Frost-bound Hobgoblin scored a hit with a weak melee attack on Nlkosi for 4,043 Common damage to Morale.
+[07/11 00:28:56 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 3,352 Frost damage to Morale.
+[07/11 00:28:56 AM] Nlkosi scored a hit with Essence of Storm on the Frost-bound Hobgoblin for 10,629 Lightning damage to Morale.
+[07/11 00:28:57 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on the Charged Fulgurite Rune-stone for 1,797 Frost damage to Morale.
+[07/11 00:28:57 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on the Volcanic Rune-stone for 1,797 Frost damage to Morale.
+[07/11 00:28:58 AM] Master of Tragedy applied a heal to Nlkosi restoring 184 points to Power.
+[07/11 00:28:58 AM] Nlkosi scored a devastating hit with Scribe's Spark on the Frost-bound Hobgoblin for 32,547 Lightning damage to Morale.
+[07/11 00:28:58 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 3,024 Lightning damage to Morale.
+[07/11 00:28:58 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 4,341 Frost damage to Morale.
+[07/11 00:28:59 AM] The Frost-bound Hobgoblin scored a hit with a moderate melee attack on Nlkosi for 5,559 Common damage to Morale.
+[07/11 00:28:59 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:28:59 AM] Nlkosi scored a hit with Vivid Imagery on the Frost-bound Hobgoblin for 10,431 Lightning damage to Morale.
+[07/11 00:29:00 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 2,561 Frost damage to Morale.
+[07/11 00:29:23 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 4,341 Frost damage to Morale.
+[07/11 00:29:24 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 1,288 Frost damage to Morale.
+[07/11 00:29:46 AM] The attacker scored a hit with Might of Hrímil on Nlkosi for 4,341 Frost damage to Morale.
+[07/11 00:29:49 AM] The attacker scored a hit with Might of Hrímil on Nlkosi for 3,682 Frost damage to Morale.
+[07/11 00:29:52 AM] Nlkosi scored a hit with Essence of Storm on the Frost-bound Hobgoblin for 10,026 Lightning damage to Morale.
+[07/11 00:29:53 AM] Nlkosi scored a hit with Sustaining Bolt on the Frost-bound Hobgoblin for 4,560 Lightning damage to Morale.
+[07/11 00:29:54 AM] The Frost-bound Hobgoblin scored a hit with a weak melee attack on Nlkosi for 4,043 Common damage to Morale.
+[07/11 00:29:54 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,058 points to Power.
+[07/11 00:29:54 AM] Sustenance applied a heal to Nlkosi restoring 11,534 points to Morale.
+[07/11 00:29:55 AM] Nlkosi scored a hit with Vivid Imagery on the Frost-bound Hobgoblin for 10,977 Lightning damage to Morale.
+[07/11 00:29:57 AM] Nlkosi scored a hit with Shocking Words on the Frost-bound Hobgoblin for 26,979 Lightning damage to Morale.
+[07/11 00:29:59 AM] Nlkosi scored a hit with Ceaseless Argument on the Frost-bound Hobgoblin for 9,432 Lightning damage to Morale.
+[07/11 00:30:00 AM] Master of Tragedy applied a heal to Nlkosi restoring 184 points to Power.
+[07/11 00:30:00 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:30:00 AM] Nlkosi scored a devastating hit with Scribe's Spark on the Frost-bound Hobgoblin for 35,702 Lightning damage to Morale.
+[07/11 00:30:13 AM] Nlkosi scored a hit with Sustaining Bolt on the Frost-bound Hobgoblin for 3,984 Lightning damage to Morale.
+[07/11 00:30:14 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,137 points to Power.
+[07/11 00:30:14 AM] Sustenance applied a critical heal to Nlkosi restoring 15,586 points to Morale.
+[07/11 00:30:14 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Frost-bound Hobgoblin for 9,621 Fire damage to Morale.
+[07/11 00:30:15 AM] Master of Tragedy applied a heal to Nlkosi restoring 184 points to Power.
+[07/11 00:30:15 AM] Nlkosi scored a critical hit with Writ of Lightning on the Frost-bound Hobgoblin for 23,060 Lightning damage to Morale.
+[07/11 00:30:16 AM] The Frost-bound Hobgoblin scored a hit with a weak melee attack on Nlkosi for 4,043 Common damage to Morale.
+[07/11 00:30:16 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:30:16 AM] Nlkosi scored a critical hit with Epic Conclusion on the Frost-bound Hobgoblin for 144,902 Lightning damage to Morale.
+[07/11 00:30:17 AM] The Frost-bound Hobgoblin scored a hit with a weak melee attack on Nlkosi for 4,043 Common damage to Morale.
+[07/11 00:30:19 AM] Nlkosi scored a critical hit with Essence of Storm on the Frost-bound Hobgoblin for 50,209 Lightning damage to Morale.
+[07/11 00:30:19 AM] The Frost-bound Hobgoblin scored a hit with a minor melee attack on Nlkosi for 5,054 Common damage to Morale.
+[07/11 00:30:21 AM] Nlkosi scored a hit with Scribe's Spark on the Frost-bound Hobgoblin for 14,831 Lightning damage to Morale.
+[07/11 00:30:22 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:30:22 AM] Nlkosi scored a hit with Ceaseless Argument on the Frost-bound Hobgoblin for 8,909 Lightning damage to Morale.
+[07/11 00:30:57 AM] The Frost-bound Hobgoblin scored a hit with a weak melee attack on Nlkosi for 4,043 Common damage to Morale.
+[07/11 00:30:58 AM] The Frost-bound Hobgoblin scored a critical hit with a minor melee attack on Nlkosi for 7,227 Common damage to Morale.
+[07/11 00:30:59 AM] The Frost-bound Hobgoblin scored a hit with a moderate melee attack on Nlkosi for 5,559 Common damage to Morale.
+[07/11 00:31:00 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/11 00:31:00 AM] The Frost-bound Hobgoblin scored a hit with a moderate melee attack on Nlkosi for 5,559 Common damage to Morale.
+[07/11 00:31:01 AM] The Frost-bound Hobgoblin scored a hit with a weak melee attack on Nlkosi for 4,043 Common damage to Morale.
+[07/11 00:31:01 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 3,091 Lightning damage to Morale.
+[07/11 00:31:01 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 3,025 Lightning damage to Morale.
+[07/11 00:31:01 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 3,085 Lightning damage to Morale.
+[07/11 00:31:01 AM] The Frost-bound Hobgoblin scored a hit with a weak melee attack on Nlkosi for 4,043 Common damage to Morale.
+[07/11 00:31:01 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/11 00:31:03 AM] Master of Tragedy applied a heal to Nlkosi restoring 184 points to Power.
+[07/11 00:31:03 AM] Nothing to dispel.
+[07/11 00:31:03 AM] The Frost-bound Hobgoblin scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 1,253 Common damage to Morale.
+[07/11 00:31:03 AM] Nlkosi scored a critical hit with Vivid Imagery on the Frost-bound Hobgoblin for 22,203 Lightning damage to Morale.
+[07/11 00:31:03 AM] Nlkosi scored a devastating hit with Vivid Imagery on the Frost-bound Hobgoblin for 27,765 Lightning damage to Morale.
+[07/11 00:31:03 AM] Nlkosi scored a hit with Vivid Imagery on the Frost-bound Hobgoblin for 7,966 Lightning damage to Morale.
+[07/11 00:31:03 AM] Nlkosi scored a critical hit with Improved Final Word on the Frost-bound Hobgoblin.
+[07/11 00:31:04 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 2,947 Lightning damage to Morale.
+[07/11 00:31:04 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 3,052 Lightning damage to Morale.
+[07/11 00:31:04 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 3,171 Lightning damage to Morale.
+[07/11 00:31:04 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:31:04 AM] Nlkosi scored a hit with Epic Conclusion on the Frost-bound Hobgoblin for 60,209 Lightning damage to Morale.
+[07/11 00:31:07 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 2,997 Lightning damage to Morale.
+[07/11 00:31:07 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 3,044 Lightning damage to Morale.
+[07/11 00:31:07 AM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[07/11 00:31:07 AM] Prelude to Hope applied a heal to Nlkosi restoring 3,918 points to Morale.
+[07/11 00:31:08 AM] Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+[07/11 00:31:08 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,294 points to Morale.
+[07/11 00:31:09 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on the Charged Fulgurite Rune-stone for 1,797 Frost damage to Morale.
+[07/11 00:31:09 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on the Volcanic Rune-stone for 1,797 Frost damage to Morale.
+[07/11 00:31:09 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 4,112 Frost damage to Morale.
+[07/11 00:31:09 AM] Nlkosi scored a hit with Essence of Storm on the Frost-bound Hobgoblin for 12,423 Lightning damage to Morale.
+[07/11 00:31:09 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,358 points to Morale.
+[07/11 00:31:09 AM] You have lost 4,112 points of temporary Morale!
+[07/11 00:31:10 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 3,042 Lightning damage to Morale.
+[07/11 00:31:10 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Frost-bound Hobgoblin but he was immune to the attempt.
+[07/11 00:31:10 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 3,101 Lightning damage to Morale.
+[07/11 00:31:10 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,294 points to Morale.
+[07/11 00:31:11 AM] Nlkosi scored a hit with Distracting Flame on the Frost-bound Hobgoblin.
+[07/11 00:31:11 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,385 points to Morale.
+[07/11 00:31:11 AM] Nlkosi tried to use Induce Stunned on the Frost-bound Hobgoblin but he was immune to the attempt.
+[07/11 00:31:11 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:31:12 AM] Nlkosi scored a hit with Shocking Words on the Frost-bound Hobgoblin for 29,771 Lightning damage to Morale.
+[07/11 00:31:12 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 4,112 Frost damage to Morale.
+[07/11 00:31:12 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 4,112 Frost damage to Morale.
+[07/11 00:31:12 AM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[07/11 00:31:12 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,362 points to Morale.
+[07/11 00:31:12 AM] You have lost 4,112 points of temporary Morale!
+[07/11 00:31:12 AM] You have lost 4,112 points of temporary Morale!
+[07/11 00:31:13 AM] Prelude to Hope applied a heal to Nlkosi restoring 2,842 points to Morale.
+[07/11 00:31:14 AM] Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+[07/11 00:31:14 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,223 points to Morale.
+[07/11 00:31:15 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Frost-bound Hobgoblin for 11,211 Fire damage to Morale.
+[07/11 00:31:15 AM] The Frost-bound Hobgoblin scored a hit with a moderate melee attack on Nlkosi for 5,392 Common damage to Morale.
+[07/11 00:31:15 AM] You have lost 5,392 points of temporary Morale!
+[07/11 00:31:15 AM] Nlkosi scored a hit with Concession and Rebuttal: Writ of Lightning on the Frost-bound Hobgoblin for 10,142 Lightning damage to Morale.
+[07/11 00:31:15 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,163 points to Morale.
+[07/11 00:31:15 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 4,112 Frost damage to Morale.
+[07/11 00:31:15 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 4,112 Frost damage to Morale.
+[07/11 00:31:16 AM] You have lost 4,112 points of temporary Morale!
+[07/11 00:31:16 AM] You have lost 4,112 points of temporary Morale!
+[07/11 00:31:16 AM] Nlkosi scored a hit with Concession and Rebuttal: Sustaining Bolt on the Frost-bound Hobgoblin for 18,019 Lightning damage to Morale.
+[07/11 00:31:16 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,297 points to Morale.
+[07/11 00:31:17 AM] Powerful Sustenance applied a heal to Nlkosi restoring 31,675 points to Morale.
+[07/11 00:31:17 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,277 points to Power.
+[07/11 00:31:17 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,237 points to Morale.
+[07/11 00:31:17 AM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Frost-bound Hobgoblin for 5,547 Fire damage to Morale.
+[07/11 00:31:17 AM] You have lost 2,945 points of temporary Morale!
+[07/11 00:31:18 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:31:18 AM] Nlkosi scored a hit with Ceaseless Argument on the Frost-bound Hobgoblin for 9,877 Lightning damage to Morale.
+[07/11 00:31:18 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 4,112 Frost damage to Morale.
+[07/11 00:31:18 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 4,112 Frost damage to Morale.
+[07/11 00:31:18 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,257 points to Morale.
+[07/11 00:31:20 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,106 points to Morale.
+[07/11 00:31:20 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,053 points to Morale.
+[07/11 00:31:21 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 4,112 Frost damage to Morale.
+[07/11 00:31:21 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 4,112 Frost damage to Morale.
+[07/11 00:31:21 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,223 points to Morale.
+[07/11 00:31:21 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 318 Frost damage to Morale.
+[07/11 00:31:22 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 1,095 Frost damage to Morale.
+[07/11 00:31:22 AM] Prelude to Hope applied a critical heal to Nlkosi restoring 1,727 points to Morale.
+[07/11 00:31:24 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,264 points to Morale.
+[07/11 00:31:25 AM] Prelude to Hope applied a critical heal to Nlkosi restoring 1,386 points to Morale.
+[07/11 00:31:26 AM] Prelude to Hope applied a heal to Nlkosi restoring 1,341 points to Morale.
+[07/11 00:31:47 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 4,341 Frost damage to Morale.
+[07/11 00:31:48 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 4,341 Frost damage to Morale.
+[07/11 00:31:48 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 350 Frost damage to Morale.
+[07/11 00:31:49 AM] The Frost-bound Hobgoblin scored a hit with Might of Hrímil on Nlkosi for 2,099 Frost damage to Morale.
+[07/11 00:31:56 AM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[07/11 00:32:06 AM] Nlkosi scored a hit with Scribe's Spark on the Frost-bound Hobgoblin for 9,494 Lightning damage to Morale.
+[07/11 00:32:06 AM] The Frost-bound Hobgoblin scored a hit with a moderate melee attack on Nlkosi for 3,335 Common damage to Morale.
+[07/11 00:32:06 AM] You have dispelled Cold Fury from Frost-bound Hobgoblin.
+[07/11 00:32:06 AM] Nlkosi scored a hit with Epic Conclusion on the Frost-bound Hobgoblin for 34,896 Lightning damage to Morale.
+[07/11 00:32:07 AM] Nlkosi scored a hit with Improved Final Word on the Frost-bound Hobgoblin.
+[07/11 00:32:08 AM] The Frost-bound Hobgoblin scored a hit with a minor melee attack on Nlkosi for 5,054 Common damage to Morale.
+[07/11 00:32:08 AM] Nlkosi scored a hit with Vivid Imagery on the Frost-bound Hobgoblin for 8,454 Lightning damage to Morale.
+[07/11 00:32:10 AM] Master of Tragedy applied a heal to Nlkosi restoring 184 points to Power.
+[07/11 00:32:10 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:32:10 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Frost-bound Hobgoblin for 26,653 Lightning damage to Morale.
+[07/11 00:32:13 AM] Nlkosi scored a hit with Essence of Flame on the Frost-bound Hobgoblin for 13,439 Fire damage to Morale.
+[07/11 00:32:14 AM] Nlkosi scored a devastating hit with Fiery Ridicule on the Frost-bound Hobgoblin for 14,768 Fire damage to Morale.
+[07/11 00:32:14 AM] Nlkosi scored a hit with Sustaining Bolt on the Frost-bound Hobgoblin for 5,692 Lightning damage to Morale.
+[07/11 00:32:15 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,149 points to Power.
+[07/11 00:32:15 AM] Sustenance applied a critical heal to Nlkosi restoring 21,501 points to Morale.
+[07/11 00:32:16 AM] Nlkosi scored a hit with Essence of Storm on the Frost-bound Hobgoblin for 12,355 Lightning damage to Morale.
+[07/11 00:32:16 AM] The Frost-bound Hobgoblin scored a hit with a weak melee attack on Nlkosi for 3,922 Common damage to Morale.
+[07/11 00:32:16 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frost-bound Hobgoblin for 3,603 Fire damage to Morale.
+[07/11 00:32:17 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:32:17 AM] Nlkosi scored a critical hit with Shocking Words on the Frost-bound Hobgoblin for 85,592 Lightning damage to Morale.
+[07/11 00:32:19 AM] Nothing to dispel.
+[07/11 00:32:19 AM] Nlkosi scored a hit with Speak No Evil on the Frost-bound Hobgoblin.
+[07/11 00:32:19 AM] Increased Morale applied a heal to Nlkosi restoring 19,327 points to Morale.
+[07/11 00:32:20 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 5,312 Fire damage to Morale.
+[07/11 00:32:22 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 5,466 Fire damage to Morale.
+[07/11 00:32:23 AM] The Frost-bound Hobgoblin scored a hit with a weak melee attack on Nlkosi for 4,043 Common damage to Morale.
+[07/11 00:32:23 AM] Nlkosi scored a hit with Scribe's Spark on the Frost-bound Hobgoblin for 13,045 Lightning damage to Morale.
+[07/11 00:32:24 AM] Master of Tragedy applied a heal to Nlkosi restoring 184 points to Power.
+[07/11 00:32:24 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:32:24 AM] Nlkosi scored a critical hit with Static Surge on the Frost-bound Hobgoblin for 46,769 Lightning damage to Morale.
+[07/11 00:32:26 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 5,189 Fire damage to Morale.
+[07/11 00:32:27 AM] Nlkosi scored a hit with Essence of Flame on the Frost-bound Hobgoblin for 15,953 Fire damage to Morale.
+[07/11 00:32:28 AM] Nlkosi scored a hit with Chilling Rhetoric on the Frost-bound Hobgoblin for 12,061 Frost damage to Morale.
+[07/11 00:32:29 AM] Nlkosi scored a hit with Writ of Lightning on the Frost-bound Hobgoblin for 9,441 Lightning damage to Morale.
+[07/11 00:32:29 AM] The Frost-bound Hobgoblin scored a hit with a minor melee attack on Nlkosi for 4,902 Common damage to Morale.
+[07/11 00:32:30 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 6,551 Fire damage to Morale.
+[07/11 00:32:31 AM] Nlkosi scored a hit with Sustaining Bolt on the Frost-bound Hobgoblin for 5,876 Lightning damage to Morale.
+[07/11 00:32:32 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,268 points to Power.
+[07/11 00:32:32 AM] Sustenance applied a heal to Nlkosi restoring 16,931 points to Morale.
+[07/11 00:32:33 AM] Nlkosi scored a hit with Writ of Lightning on the Frost-bound Hobgoblin for 8,937 Lightning damage to Morale.
+[07/11 00:32:33 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Frost-bound Hobgoblin for 3,563 Fire damage to Morale.
+[07/11 00:32:33 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:32:52 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 3,809 Fire damage to Morale.
+[07/11 00:32:52 AM] Nlkosi scored a hit with Sustaining Bolt on the Frost-bound Hobgoblin for 4,551 Lightning damage to Morale.
+[07/11 00:32:53 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,068 points to Power.
+[07/11 00:32:53 AM] Sustenance applied a critical heal to Nlkosi restoring 17,224 points to Morale.
+[07/11 00:32:53 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 4,843 Fire damage to Morale.
+[07/11 00:32:54 AM] Nlkosi scored a hit with Writ of Lightning on the Frost-bound Hobgoblin for 8,498 Lightning damage to Morale.
+[07/11 00:32:55 AM] Nlkosi scored a hit with Essence of Storm on the Frost-bound Hobgoblin for 11,850 Lightning damage to Morale.
+[07/11 00:32:56 AM] The Frost-bound Hobgoblin missed trying to use a weak melee attack on Nlkosi.
+[07/11 00:32:56 AM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on the Frost-bound Hobgoblin for 5,831 Fire damage to Morale.
+[07/11 00:32:57 AM] Nlkosi scored a hit with Shocking Words on the Frost-bound Hobgoblin for 23,994 Lightning damage to Morale.
+[07/11 00:32:58 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:32:58 AM] Nlkosi scored a hit with Ceaseless Argument on the Frost-bound Hobgoblin for 9,667 Lightning damage to Morale.
+[07/11 00:33:16 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/11 00:33:18 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 3,029 Lightning damage to Morale.
+[07/11 00:33:18 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/11 00:33:18 AM] The Frost-bound Hobgoblin tried to use a moderate melee attack on the Charged Fulgurite Rune-stone but it evaded the attempt.
+[07/11 00:33:20 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-bound Hobgoblin for 4,683 Fire damage to Morale.
+[07/11 00:33:20 AM] Nlkosi scored a hit with Sustaining Bolt on the Frost-bound Hobgoblin for 4,034 Lightning damage to Morale.
+[07/11 00:33:21 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 3,038 Lightning damage to Morale.
+[07/11 00:33:21 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,168 points to Power.
+[07/11 00:33:21 AM] Sustenance applied a heal to Nlkosi restoring 12,793 points to Morale.
+[07/11 00:33:22 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 11,195 Fire damage to Morale.
+[07/11 00:33:23 AM] Nlkosi scored a hit with Essence of Flame on the Frost-bound Hobgoblin for 13,405 Fire damage to Morale.
+[07/11 00:33:24 AM] Nlkosi scored a hit with Writ of Lightning on the Frost-bound Hobgoblin for 8,091 Lightning damage to Morale.
+[07/11 00:33:24 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-bound Hobgoblin for 3,012 Lightning damage to Morale.
+[07/11 00:33:24 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Frost-bound Hobgoblin for 11,359 Fire damage to Morale.
+[07/11 00:33:25 AM] Your mighty blow defeated the Frost-bound Hobgoblin.
+[07/11 00:33:25 AM] Nlkosi scored a hit with Shocking Words on the Frost-bound Hobgoblin for 24,794 Lightning damage to Morale.

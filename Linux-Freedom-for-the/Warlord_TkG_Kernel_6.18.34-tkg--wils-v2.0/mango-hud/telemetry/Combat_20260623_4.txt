@@ -1,0 +1,413 @@
+### Chat Log: Combat 06/23 11:04 PM ###
+[06/23 11:05:28 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 4,050 Fire damage to Morale.
+[06/23 11:05:29 PM] Nlkosi scored a hit with Sustaining Bolt on the Moria Orc-warrior for 3,203 Lightning damage to Morale.
+[06/23 11:05:29 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 948 points to Power.
+[06/23 11:05:29 PM] Sustenance applied a heal to Nlkosi restoring 10,488 points to Morale.
+[06/23 11:05:30 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 3,315 Fire damage to Morale.
+[06/23 11:05:32 PM] The Moria Orc-warrior scored a hit with a weak melee attack on Nlkosi for 2,754 Common damage to Morale.
+[06/23 11:05:33 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Moria Orc-warrior for 2,950 Fire damage to Morale.
+[06/23 11:05:34 PM] The Moria Orc-warrior scored a partially evaded hit with a minor melee attack on Nlkosi for 3,156 Common damage to Morale.
+[06/23 11:05:34 PM] Nlkosi scored a hit with Vivid Imagery on the Moria Orc-warrior for 8,544 Lightning damage to Morale.
+[06/23 11:05:34 PM] Nothing to dispel.
+[06/23 11:05:35 PM] Nlkosi scored a critical hit with Improved Final Word on the Moria Orc-warrior.
+[06/23 11:05:36 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on the Moria Orc-warrior for 5,551 Fire damage to Morale.
+[06/23 11:05:36 PM] Nlkosi scored a hit with Shocking Words on the Moria Orc-warrior for 22,922 Lightning damage to Morale.
+[06/23 11:05:38 PM] Nlkosi scored a hit with Distracting Flame on the Moria Orc-warrior.
+[06/23 11:05:38 PM] Your mighty blow defeated the Moria Orc-warrior.
+[06/23 11:05:38 PM] Nlkosi scored a hit with Essence of Storm on the Moria Orc-warrior for 9,729 Lightning damage to Morale.
+[06/23 11:05:43 PM] Nlkosi scored a hit with Writ of Lightning on the Moria Orc-archer for 7,474 Lightning damage to Morale.
+[06/23 11:05:44 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-archer for 3,969 Fire damage to Morale.
+[06/23 11:05:44 PM] The Moria Orc-archer scored a hit with a weak ranged attack on Nlkosi for 2,488 Common damage to Morale.
+[06/23 11:05:45 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 11:05:45 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Moria Orc-archer for 12,934 Lightning damage to Morale.
+[06/23 11:05:46 PM] Sustaining Bolt applied a heal to Nlkosi restoring 930 points to Power.
+[06/23 11:05:46 PM] Sustenance applied a heal to Nlkosi restoring 11,606 points to Morale.
+[06/23 11:05:46 PM] The Moria Orc-archer scored a hit with a minor ranged attack on Nlkosi for 2,952 Common damage to Morale.
+[06/23 11:05:46 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-archer for 5,002 Fire damage to Morale.
+[06/23 11:05:47 PM] Nlkosi scored a hit with Scribe's Spark on the Moria Orc-archer for 9,709 Lightning damage to Morale.
+[06/23 11:05:48 PM] The Moria Orc-archer scored a hit with a moderate melee attack on Nlkosi for 3,299 Common damage to Morale.
+[06/23 11:05:49 PM] Nlkosi scored a hit with Chilling Rhetoric on the Moria Orc-archer for 5,983 Frost damage to Morale.
+[06/23 11:05:49 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Moria Orc-archer for 2,721 Fire damage to Morale.
+[06/23 11:05:49 PM] Your mighty blow defeated the Moria Orc-archer.
+[06/23 11:05:49 PM] Nlkosi scored a hit with Head-butt on the Moria Orc-archer for 7,462 Common damage to Morale.
+[06/23 11:05:54 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-berserker for 3,237 Fire damage to Morale.
+[06/23 11:05:55 PM] Nlkosi scored a hit with Essence of Flame on the Moria Orc-berserker for 12,547 Fire damage to Morale.
+[06/23 11:05:56 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-berserker for 4,491 Fire damage to Morale.
+[06/23 11:05:57 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-berserker for 3,852 Fire damage to Morale.
+[06/23 11:05:57 PM] The Moria Orc-berserker scored a hit with a weak melee attack on Nlkosi for 3,359 Common damage to Morale.
+[06/23 11:05:58 PM] Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-berserker for 8,242 Lightning damage to Morale.
+[06/23 11:05:59 PM] Nlkosi scored a hit with Shocking Words on the Moria Orc-berserker for 24,549 Lightning damage to Morale.
+[06/23 11:06:00 PM] Nlkosi scored a hit with Static Surge on the Moria Orc-berserker for 13,632 Lightning damage to Morale.
+[06/23 11:06:00 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Moria Orc-berserker for 3,141 Fire damage to Morale.
+[06/23 11:06:02 PM] Nlkosi scored a hit with Writ of Lightning on the Moria Orc-berserker for 5,904 Lightning damage to Morale.
+[06/23 11:06:03 PM] Nlkosi scored a hit with Sustaining Bolt on the Moria Orc-berserker for 4,094 Lightning damage to Morale.
+[06/23 11:06:03 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Moria Orc-berserker for 3,851 Fire damage to Morale.
+[06/23 11:06:04 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 948 points to Power.
+[06/23 11:06:04 PM] Sustenance applied a critical heal to Nlkosi restoring 15,530 points to Morale.
+[06/23 11:06:05 PM] Nlkosi scored a hit with Shocking Touch on the Moria Orc-berserker for 3,011 Lightning damage to Morale.
+[06/23 11:06:06 PM] Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-berserker for 8,474 Lightning damage to Morale.
+[06/23 11:06:06 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 3 on the Moria Orc-berserker for 6,351 Fire damage to Morale.
+[06/23 11:06:07 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 11:06:07 PM] Your mighty blow defeated the Moria Orc-berserker.
+[06/23 11:06:08 PM] Nlkosi scored a critical hit with Epic Conclusion on the Moria Orc-berserker for 86,414 Lightning damage to Morale.
+[06/23 11:06:10 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-berserker for 7,319 Fire damage to Morale.
+[06/23 11:06:12 PM] Nlkosi scored a critical hit with Essence of Flame on the Moria Orc-berserker for 20,173 Fire damage to Morale.
+[06/23 11:06:12 PM] Nlkosi scored a hit with Writ of Lightning on the Moria Orc-berserker for 9,259 Lightning damage to Morale.
+[06/23 11:06:13 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-berserker for 4,331 Fire damage to Morale.
+[06/23 11:06:14 PM] The Moria Orc-berserker scored a hit with a weak melee attack on Nlkosi for 3,157 Common damage to Morale.
+[06/23 11:06:15 PM] Nlkosi scored a critical hit with Static Surge on the Moria Orc-berserker for 41,071 Lightning damage to Morale.
+[06/23 11:06:16 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Moria Orc-berserker for 3,495 Fire damage to Morale.
+[06/23 11:06:17 PM] Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-berserker for 9,728 Lightning damage to Morale.
+[06/23 11:06:17 PM] The Moria Orc-berserker scored a hit with a mighty melee attack on Nlkosi for 7,388 Common damage to Morale.
+[06/23 11:06:18 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 11:06:18 PM] Your mighty blow defeated the Moria Orc-berserker.
+[06/23 11:06:18 PM] Nlkosi scored a critical hit with Vivid Imagery on the Moria Orc-berserker for 23,376 Lightning damage to Morale.
+[06/23 11:06:23 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-archer for 4,051 Fire damage to Morale.
+[06/23 11:06:23 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Moria Orc-archer for 13,462 Lightning damage to Morale.
+[06/23 11:06:24 PM] The Moria Orc-archer scored a hit with a weak ranged attack on Nlkosi for 2,512 Common damage to Morale.
+[06/23 11:06:24 PM] Sustaining Bolt applied a heal to Nlkosi restoring 881 points to Power.
+[06/23 11:06:24 PM] Sustenance applied a heal to Nlkosi restoring 10,201 points to Morale.
+[06/23 11:06:25 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Moria Orc-archer for 10,245 Frost damage to Morale.
+[06/23 11:06:25 PM] Your mighty blow defeated the Moria Orc-archer.
+[06/23 11:06:26 PM] Nlkosi scored a critical hit with Shocking Words on the Moria Orc-archer for 63,121 Lightning damage to Morale.
+[06/23 11:06:33 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 3,473 Fire damage to Morale.
+[06/23 11:06:34 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Moria Orc-warrior for 10,155 Fire damage to Morale.
+[06/23 11:06:35 PM] The Moria Orc-warrior scored a hit with a moderate melee attack on Nlkosi for 3,787 Common damage to Morale.
+[06/23 11:06:36 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 4,270 Fire damage to Morale.
+[06/23 11:06:37 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 11:06:37 PM] Nlkosi scored a critical hit with Essence of Storm on the Moria Orc-warrior for 35,179 Lightning damage to Morale.
+[06/23 11:06:38 PM] Your mighty blow defeated the Moria Orc-warrior.
+[06/23 11:06:38 PM] Nlkosi scored a devastating hit with Ceaseless Argument on the Moria Orc-warrior for 30,387 Lightning damage to Morale.
+[06/23 11:06:48 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-archer for 3,646 Fire damage to Morale.
+[06/23 11:06:48 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 11:06:48 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Moria Orc-archer for 10,348 Lightning damage to Morale.
+[06/23 11:06:49 PM] The Moria Orc-archer scored a hit with a minor ranged attack on Nlkosi for 3,141 Common damage to Morale.
+[06/23 11:06:49 PM] Sustaining Bolt applied a heal to Nlkosi restoring 833 points to Power.
+[06/23 11:06:49 PM] Sustenance applied a heal to Nlkosi restoring 11,083 points to Morale.
+[06/23 11:06:50 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-archer for 8,848 Fire damage to Morale.
+[06/23 11:06:51 PM] The Moria Orc-archer scored a hit with a minor melee attack on Nlkosi for 3,191 Common damage to Morale.
+[06/23 11:06:51 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-archer for 3,950 Fire damage to Morale.
+[06/23 11:06:52 PM] Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-archer for 10,775 Lightning damage to Morale.
+[06/23 11:06:53 PM] The Moria Orc-archer missed trying to use a moderate melee attack on Nlkosi.
+[06/23 11:06:53 PM] Nlkosi scored a hit with Essence of Storm on the Moria Orc-archer for 9,953 Lightning damage to Morale.
+[06/23 11:06:54 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Moria Orc-archer for 3,417 Fire damage to Morale.
+[06/23 11:06:54 PM] Your mighty blow defeated the Moria Orc-archer.
+[06/23 11:06:55 PM] Nlkosi scored a hit with Vivid Imagery on the Moria Orc-archer for 8,497 Lightning damage to Morale.
+[06/23 11:06:57 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Moria Orc-warrior for 14,434 Fire damage to Morale.
+[06/23 11:06:58 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 6,036 Fire damage to Morale.
+[06/23 11:07:00 PM] Nlkosi scored a hit with Essence of Flame on the Moria Orc-warrior for 16,992 Fire damage to Morale.
+[06/23 11:07:00 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 6,587 Fire damage to Morale.
+[06/23 11:07:02 PM] Your mighty blow defeated the Moria Orc-warrior.
+[06/23 11:07:02 PM] Nlkosi scored a hit with Shocking Words on the Moria Orc-warrior for 30,212 Lightning damage to Morale.
+[06/23 11:07:09 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 5,394 Fire damage to Morale.
+[06/23 11:07:09 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Moria Orc-warrior for 10,109 Lightning damage to Morale.
+[06/23 11:07:09 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 11:07:10 PM] Sustaining Bolt applied a heal to Nlkosi restoring 793 points to Power.
+[06/23 11:07:10 PM] Sustenance applied a heal to Nlkosi restoring 8,358 points to Morale.
+[06/23 11:07:11 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 4,609 Fire damage to Morale.
+[06/23 11:07:12 PM] Nlkosi scored a hit with Chilling Rhetoric on the Moria Orc-warrior for 4,821 Frost damage to Morale.
+[06/23 11:07:12 PM] The Moria Orc-warrior scored a hit with a weak melee attack on Nlkosi for 2,754 Common damage to Morale.
+[06/23 11:07:13 PM] Your mighty blow defeated the Moria Orc-warrior.
+[06/23 11:07:13 PM] Nlkosi scored a critical hit with Epic Conclusion on the Moria Orc-warrior for 87,838 Lightning damage to Morale.
+[06/23 11:07:19 PM] Nlkosi scored a hit with Writ of Lightning on the Moria Orc-berserker for 6,725 Lightning damage to Morale.
+[06/23 11:07:20 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-berserker for 4,879 Fire damage to Morale.
+[06/23 11:07:21 PM] The Moria Orc-berserker scored a critical hit with a mighty melee attack on Nlkosi for 10,807 Common damage to Morale.
+[06/23 11:07:21 PM] Nlkosi scored a hit with Essence of Flame on the Moria Orc-berserker for 12,331 Fire damage to Morale.
+[06/23 11:07:22 PM] Nlkosi scored a hit with Essence of Storm on the Moria Orc-berserker for 9,281 Lightning damage to Morale.
+[06/23 11:07:23 PM] The Moria Orc-berserker scored a hit with a weak melee attack on Nlkosi for 3,258 Common damage to Morale.
+[06/23 11:07:23 PM] Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-berserker for 7,754 Lightning damage to Morale.
+[06/23 11:07:24 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Moria Orc-berserker for 2,373 Fire damage to Morale.
+[06/23 11:07:24 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 11:07:24 PM] Your mighty blow defeated the Moria Orc-berserker.
+[06/23 11:07:24 PM] Nlkosi scored a critical hit with Shocking Words on the Moria Orc-berserker for 72,161 Lightning damage to Morale.
+[06/23 11:07:29 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 4,524 Fire damage to Morale.
+[06/23 11:07:29 PM] Nlkosi scored a hit with Sustaining Bolt on the Moria Orc-warrior for 3,876 Lightning damage to Morale.
+[06/23 11:07:30 PM] Sustaining Bolt applied a heal to Nlkosi restoring 793 points to Power.
+[06/23 11:07:30 PM] Sustenance applied a heal to Nlkosi restoring 10,830 points to Morale.
+[06/23 11:07:31 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 4,582 Fire damage to Morale.
+[06/23 11:07:31 PM] The Moria Orc-warrior scored a hit with a moderate melee attack on Nlkosi for 3,674 Common damage to Morale.
+[06/23 11:07:32 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 5,096 Fire damage to Morale.
+[06/23 11:07:33 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 6,159 Fire damage to Morale.
+[06/23 11:07:34 PM] The Moria Orc-warrior scored a hit with a minor melee attack on Nlkosi for 3,443 Common damage to Morale.
+[06/23 11:07:34 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 11:07:34 PM] Your mighty blow defeated the Moria Orc-warrior.
+[06/23 11:07:34 PM] Nlkosi scored a critical hit with Static Surge on the Moria Orc-warrior for 41,917 Lightning damage to Morale.
+[06/23 11:07:38 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-archer for 5,048 Fire damage to Morale.
+[06/23 11:07:39 PM] The Moria Orc-archer scored a hit with a minor ranged attack on Nlkosi for 3,141 Common damage to Morale.
+[06/23 11:07:39 PM] Nlkosi scored a hit with Essence of Flame on the Moria Orc-archer for 13,116 Fire damage to Morale.
+[06/23 11:07:40 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-archer for 10,387 Fire damage to Morale.
+[06/23 11:07:41 PM] The Moria Orc-archer scored a hit with a moderate ranged attack on Nlkosi for 3,455 Common damage to Morale.
+[06/23 11:07:41 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-archer for 10,590 Fire damage to Morale.
+[06/23 11:07:43 PM] The Moria Orc-archer scored a hit with a weak ranged attack on Nlkosi for 2,512 Common damage to Morale.
+[06/23 11:07:43 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-archer for 5,029 Fire damage to Morale.
+[06/23 11:07:44 PM] The Moria Orc-archer scored a hit with a moderate melee attack on Nlkosi for 3,510 Common damage to Morale.
+[06/23 11:07:45 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-archer for 4,807 Fire damage to Morale.
+[06/23 11:07:45 PM] Your mighty blow defeated the Moria Orc-archer.
+[06/23 11:07:46 PM] Nlkosi scored a hit with Essence of Storm on the Moria Orc-archer for 11,236 Lightning damage to Morale.
+[06/23 11:07:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 9,533 Fire damage to Morale.
+[06/23 11:07:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-berserker for 8,103 Fire damage to Morale.
+[06/23 11:07:56 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/23 11:07:56 PM] The Moria Orc-berserker scored a hit with a weak melee attack on the Volcanic Rune-stone for 815 Common damage to Morale.
+[06/23 11:07:56 PM] The Moria Orc-warrior scored a partially parried hit with a minor melee attack on the Volcanic Rune-stone for 539 Common damage to Morale.
+[06/23 11:07:57 PM] Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 2,644 Lightning damage to Morale.
+[06/23 11:07:57 PM] Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-berserker for 2,195 Lightning damage to Morale.
+[06/23 11:07:57 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/23 11:07:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 9,533 Fire damage to Morale.
+[06/23 11:07:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-berserker for 8,103 Fire damage to Morale.
+[06/23 11:07:58 PM] The Moria Orc-berserker scored a hit with a mighty melee attack on the Volcanic Rune-stone for 1,835 Common damage to Morale.
+[06/23 11:07:59 PM] Nlkosi scored a hit with Essence of Storm on the Moria Orc-berserker for 9,159 Lightning damage to Morale.
+[06/23 11:07:59 PM] The Moria Orc-warrior scored a partially parried hit with a weak melee attack on the Volcanic Rune-stone for 431 Common damage to Morale.
+[06/23 11:07:59 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 9,533 Fire damage to Morale.
+[06/23 11:07:59 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-berserker for 8,103 Fire damage to Morale.
+[06/23 11:08:00 PM] Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 2,573 Lightning damage to Morale.
+[06/23 11:08:00 PM] Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-berserker for 2,223 Lightning damage to Morale.
+[06/23 11:08:00 PM] The Moria Orc-berserker scored a hit with a moderate melee attack on the Volcanic Rune-stone for 1,121 Common damage to Morale.
+[06/23 11:08:01 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 9,533 Fire damage to Morale.
+[06/23 11:08:01 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-berserker for 8,103 Fire damage to Morale.
+[06/23 11:08:01 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 11:08:01 PM] Your mighty blow defeated the Moria Orc-berserker.
+[06/23 11:08:02 PM] Nlkosi scored a critical hit with Epic Conclusion on the Moria Orc-berserker for 86,881 Lightning damage to Morale.
+[06/23 11:08:03 PM] Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 2,643 Lightning damage to Morale.
+[06/23 11:08:03 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 9,533 Fire damage to Morale.
+[06/23 11:08:03 PM] The Volcanic Rune-stone defeated the Moria Orc-warrior.
+[06/23 11:08:10 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 3,074 Fire damage to Morale.
+[06/23 11:08:11 PM] Nlkosi scored a hit with Sustaining Bolt on the Moria Orc-warrior for 4,439 Lightning damage to Morale.
+[06/23 11:08:11 PM] Sustaining Bolt applied a heal to Nlkosi restoring 830 points to Power.
+[06/23 11:08:11 PM] Sustenance applied a heal to Nlkosi restoring 8,933 points to Morale.
+[06/23 11:08:12 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 3,997 Fire damage to Morale.
+[06/23 11:08:12 PM] The Moria Orc-warrior scored a hit with a weak melee attack on Nlkosi for 2,754 Common damage to Morale.
+[06/23 11:08:13 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 11:08:13 PM] Nlkosi scored a critical hit with Essence of Storm on the Moria Orc-warrior for 33,263 Lightning damage to Morale.
+[06/23 11:08:14 PM] Your mighty blow defeated the Moria Orc-warrior.
+[06/23 11:08:14 PM] Nlkosi scored a hit with Shocking Words on the Moria Orc-warrior for 27,530 Lightning damage to Morale.
+[06/23 11:08:17 PM] Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-warrior for 5,851 Lightning damage to Morale.
+[06/23 11:08:18 PM] The Moria Orc-warrior scored a hit with a minor melee attack on Nlkosi for 3,443 Common damage to Morale.
+[06/23 11:08:18 PM] Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-warrior for 8,321 Lightning damage to Morale.
+[06/23 11:08:19 PM] The Moria Orc-warrior scored a hit with a moderate melee attack on Nlkosi for 3,787 Common damage to Morale.
+[06/23 11:08:20 PM] Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-warrior for 7,755 Lightning damage to Morale.
+[06/23 11:08:21 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Moria Orc-warrior for 24,138 Lightning damage to Morale.
+[06/23 11:08:21 PM] The Moria Orc-warrior scored a partially evaded hit with a weak melee attack on Nlkosi for 2,525 Common damage to Morale.
+[06/23 11:08:22 PM] Your mighty blow defeated the Moria Orc-warrior.
+[06/23 11:08:22 PM] Nlkosi scored a critical hit with Essence of Storm on the Moria Orc-warrior for 45,021 Lightning damage to Morale.
+[06/23 11:08:24 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-berserker for 4,103 Fire damage to Morale.
+[06/23 11:08:27 PM] The Moria Orc-berserker scored a hit with a moderate melee attack on Nlkosi for 4,480 Common damage to Morale.
+[06/23 11:08:27 PM] Nlkosi scored a critical hit with Essence of Flame on the Moria Orc-berserker for 23,608 Fire damage to Morale.
+[06/23 11:08:27 PM] Nlkosi scored a hit with Static Surge on the Moria Orc-berserker for 20,825 Lightning damage to Morale.
+[06/23 11:08:29 PM] The Moria Orc-berserker scored a hit with a weak melee attack on Nlkosi for 3,157 Common damage to Morale.
+[06/23 11:08:29 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Moria Orc-berserker for 2,944 Fire damage to Morale.
+[06/23 11:08:30 PM] Nlkosi scored a hit with Scribe's Spark on the Moria Orc-berserker for 10,630 Lightning damage to Morale.
+[06/23 11:08:31 PM] The Moria Orc-berserker scored a hit with a mighty melee attack on Nlkosi for 7,104 Common damage to Morale.
+[06/23 11:08:32 PM] Nlkosi scored a hit with Essence of Storm on the Moria Orc-berserker for 11,094 Lightning damage to Morale.
+[06/23 11:08:32 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Moria Orc-berserker for 2,873 Fire damage to Morale.
+[06/23 11:08:33 PM] Nlkosi scored a hit with Vivid Imagery on the Moria Orc-berserker for 10,122 Lightning damage to Morale.
+[06/23 11:08:33 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 11:08:33 PM] Your mighty blow defeated the Moria Orc-berserker.
+[06/23 11:08:34 PM] Nlkosi scored a critical hit with Epic Conclusion on the Moria Orc-berserker for 131,433 Lightning damage to Morale.
+[06/23 11:08:37 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Moria Orc-berserker for 9,728 Lightning damage to Morale.
+[06/23 11:08:38 PM] Sustaining Bolt applied a heal to Nlkosi restoring 812 points to Power.
+[06/23 11:08:38 PM] Sustenance applied a heal to Nlkosi restoring 9,140 points to Morale.
+[06/23 11:08:38 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-berserker for 3,377 Fire damage to Morale.
+[06/23 11:08:39 PM] The Moria Orc-berserker scored a hit with a weak melee attack on Nlkosi for 3,057 Common damage to Morale.
+[06/23 11:08:40 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-berserker for 8,397 Fire damage to Morale.
+[06/23 11:08:41 PM] The Moria Orc-berserker scored a hit with a minor melee attack on Nlkosi for 3,821 Common damage to Morale.
+[06/23 11:08:41 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-berserker for 4,990 Fire damage to Morale.
+[06/23 11:08:43 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-berserker for 5,300 Fire damage to Morale.
+[06/23 11:08:43 PM] The Moria Orc-berserker scored a hit with a moderate melee attack on Nlkosi for 4,203 Common damage to Morale.
+[06/23 11:08:44 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-berserker for 9,842 Fire damage to Morale.
+[06/23 11:08:45 PM] The Moria Orc-berserker scored a hit with a weak melee attack on Nlkosi for 3,359 Common damage to Morale.
+[06/23 11:08:46 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-berserker for 3,895 Fire damage to Morale.
+[06/23 11:08:46 PM] Nlkosi scored a hit with Static Surge on the Moria Orc-berserker for 14,650 Lightning damage to Morale.
+[06/23 11:08:47 PM] The Moria Orc-berserker scored a hit with a minor melee attack on Nlkosi for 4,199 Common damage to Morale.
+[06/23 11:08:48 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Moria Orc-berserker for 3,307 Fire damage to Morale.
+[06/23 11:08:48 PM] Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-berserker for 6,883 Lightning damage to Morale.
+[06/23 11:08:49 PM] The Moria Orc-berserker scored a hit with a moderate melee attack on Nlkosi for 4,619 Common damage to Morale.
+[06/23 11:08:49 PM] Nlkosi scored a hit with Essence of Storm on the Moria Orc-berserker for 9,491 Lightning damage to Morale.
+[06/23 11:08:51 PM] Your mighty blow defeated the Moria Orc-berserker.
+[06/23 11:08:51 PM] Nlkosi scored a hit with Epic Conclusion on the Moria Orc-berserker for 40,419 Lightning damage to Morale.
+[06/23 11:08:54 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Moria Orc-berserker for 7,160 Fire damage to Morale.
+[06/23 11:08:55 PM] Nlkosi scored a hit with Essence of Flame on the Moria Orc-berserker for 11,073 Fire damage to Morale.
+[06/23 11:08:55 PM] Nlkosi scored a hit with Sustaining Bolt on the Moria Orc-berserker for 3,182 Lightning damage to Morale.
+[06/23 11:08:56 PM] Sustaining Bolt applied a heal to Nlkosi restoring 791 points to Power.
+[06/23 11:08:56 PM] Sustenance applied a heal to Nlkosi restoring 8,712 points to Morale.
+[06/23 11:08:57 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-berserker for 3,666 Fire damage to Morale.
+[06/23 11:08:57 PM] The Moria Orc-berserker scored a hit with a weak melee attack on Nlkosi for 3,258 Common damage to Morale.
+[06/23 11:08:58 PM] Nlkosi scored a hit with Shocking Words on the Moria Orc-berserker for 18,317 Lightning damage to Morale.
+[06/23 11:08:59 PM] Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-berserker for 6,046 Lightning damage to Morale.
+[06/23 11:09:00 PM] Nlkosi scored a hit with Static Surge on the Moria Orc-berserker for 13,226 Lightning damage to Morale.
+[06/23 11:09:00 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Moria Orc-berserker for 2,581 Fire damage to Morale.
+[06/23 11:09:00 PM] The Moria Orc-berserker scored a hit with a moderate melee attack on Nlkosi for 4,480 Common damage to Morale.
+[06/23 11:09:01 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 11:09:01 PM] Nothing to dispel.
+[06/23 11:09:02 PM] Nlkosi scored a critical hit with Essence of Storm on the Moria Orc-berserker for 34,407 Lightning damage to Morale.
+[06/23 11:09:02 PM] Nlkosi scored a hit with Improved Final Word on the Moria Orc-berserker.
+[06/23 11:09:03 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Moria Orc-berserker for 2,762 Fire damage to Morale.
+[06/23 11:09:03 PM] The Moria Orc-berserker scored a hit with a mighty melee attack on Nlkosi for 7,624 Common damage to Morale.
+[06/23 11:09:04 PM] Your mighty blow defeated the Moria Orc-berserker.
+[06/23 11:09:04 PM] Nlkosi scored a hit with Ceaseless Argument on the Moria Orc-berserker for 8,258 Lightning damage to Morale.
+[06/23 11:09:13 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Moria Orc-warrior for 10,778 Fire damage to Morale.
+[06/23 11:09:14 PM] Nlkosi scored a hit with Essence of Flame on the Moria Orc-warrior for 12,041 Fire damage to Morale.
+[06/23 11:09:15 PM] Nlkosi scored a hit with Fiery Ridicule on the Moria Orc-warrior for 5,792 Fire damage to Morale.
+[06/23 11:09:15 PM] Nlkosi scored a hit with Chilling Rhetoric on the Moria Orc-warrior for 5,773 Frost damage to Morale.
+[06/23 11:09:16 PM] The Moria Orc-warrior scored a hit with a weak melee attack on Nlkosi for 2,754 Common damage to Morale.
+[06/23 11:09:16 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 11:09:16 PM] Your mighty blow defeated the Moria Orc-warrior.
+[06/23 11:09:16 PM] Nlkosi scored a critical hit with Writ of Lightning on the Moria Orc-warrior for 23,173 Lightning damage to Morale.
+[06/23 11:09:24 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Moria Orc-archer for 10,154 Lightning damage to Morale.
+[06/23 11:09:25 PM] Sustaining Bolt applied a heal to Nlkosi restoring 811 points to Power.
+[06/23 11:09:25 PM] Sustenance applied a critical heal to Nlkosi restoring 13,629 points to Morale.
+[06/23 11:09:26 PM] The Moria Orc-archer scored a devastating hit with a moderate ranged attack on Nlkosi for 7,024 Common damage to Morale.
+[06/23 11:09:27 PM] The Moria Orc-archer scored a hit with a weak ranged attack on Nlkosi for 2,647 Common damage to Morale.
+[06/23 11:09:29 PM] The Moria Orc-archer scored a hit with a minor ranged attack on Nlkosi for 3,309 Common damage to Morale.
+[06/23 11:09:31 PM] The Moria Orc-archer scored a hit with a moderate ranged attack on Nlkosi for 3,639 Common damage to Morale.
+[06/23 11:09:32 PM] Nlkosi scored a hit with Essence of Flame on the Moria Orc-archer for 10,846 Fire damage to Morale.
+[06/23 11:09:33 PM] Nlkosi scored a hit with Writ of Lightning on the Moria Orc-archer for 6,605 Lightning damage to Morale.
+[06/23 11:09:33 PM] The Moria Orc-archer scored a critical hit with a weak ranged attack on Nlkosi for 3,593 Common damage to Morale.
+[06/23 11:09:34 PM] Your mighty blow defeated the Moria Orc-archer.
+[06/23 11:09:34 PM] Nlkosi scored a hit with Epic Conclusion on the Moria Orc-archer for 28,563 Lightning damage to Morale.
+[06/23 11:09:56 PM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[06/23 11:10:02 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 9,533 Fire damage to Morale.
+[06/23 11:10:02 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/23 11:10:03 PM] The Moria Orc-warrior scored a partially evaded hit with a minor melee attack on the Volcanic Rune-stone for 579 Common damage to Morale.
+[06/23 11:10:04 PM] The Pûlpum Stone-keeper scored a hit with a weak swipe attack on the Volcanic Rune-stone for 913 Common damage to Morale.
+[06/23 11:10:04 PM] Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 2,629 Lightning damage to Morale.
+[06/23 11:10:04 PM] Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 2,623 Lightning damage to Morale.
+[06/23 11:10:04 PM] Nlkosi scored a hit with Fulgurite Strike on the Pûlpum Stone-keeper for 2,503 Lightning damage to Morale.
+[06/23 11:10:04 PM] Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-berserker for 2,193 Lightning damage to Morale.
+[06/23 11:10:04 PM] The Moria Orc-berserker scored a partially evaded hit with a weak melee attack on Nlkosi for 1,620 Common damage to Morale.
+[06/23 11:10:04 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/23 11:10:04 PM] The Moria Orc-warrior scored a hit with a moderate melee attack on the Volcanic Rune-stone for 987 Common damage to Morale.
+[06/23 11:10:04 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 9,533 Fire damage to Morale.
+[06/23 11:10:04 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 9,533 Fire damage to Morale.
+[06/23 11:10:04 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Pûlpum Stone-keeper for 9,204 Fire damage to Morale.
+[06/23 11:10:05 PM] Nlkosi scored a hit with Shocking Words on the Moria Orc-berserker for 18,738 Lightning damage to Morale.
+[06/23 11:10:06 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 9,533 Fire damage to Morale.
+[06/23 11:10:06 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 9,533 Fire damage to Morale.
+[06/23 11:10:06 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Pûlpum Stone-keeper for 9,204 Fire damage to Morale.
+[06/23 11:10:06 PM] The Moria Orc-warrior scored a hit with a minor melee attack on the Volcanic Rune-stone for 897 Common damage to Morale.
+[06/23 11:10:07 PM] Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 2,542 Lightning damage to Morale.
+[06/23 11:10:07 PM] Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 2,579 Lightning damage to Morale.
+[06/23 11:10:07 PM] Nlkosi scored a hit with Fulgurite Strike on the Pûlpum Stone-keeper for 2,423 Lightning damage to Morale.
+[06/23 11:10:07 PM] Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-berserker for 2,338 Lightning damage to Morale.
+[06/23 11:10:07 PM] Nlkosi scored a hit with Vivid Imagery on the Moria Orc-berserker for 7,112 Lightning damage to Morale.
+[06/23 11:10:08 PM] Nothing to dispel.
+[06/23 11:10:08 PM] The Pûlpum Stone-keeper scored a partially parried hit with a minor swipe attack on the Volcanic Rune-stone for 737 Common damage to Morale.
+[06/23 11:10:08 PM] The Moria Orc-warrior scored a hit with a weak melee attack on the Volcanic Rune-stone for 718 Common damage to Morale.
+[06/23 11:10:08 PM] Nlkosi scored a hit with Improved Final Word on the Moria Orc-berserker.
+[06/23 11:10:08 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 9,533 Fire damage to Morale.
+[06/23 11:10:08 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 9,533 Fire damage to Morale.
+[06/23 11:10:08 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Pûlpum Stone-keeper for 9,204 Fire damage to Morale.
+[06/23 11:10:09 PM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[06/23 11:10:09 PM] The Moria Orc-warrior scored a hit with a weak melee attack on the Volcanic Rune-stone for 718 Common damage to Morale.
+[06/23 11:10:09 PM] Nlkosi scored a hit with Head-butt on the Moria Orc-berserker for 6,206 Common damage to Morale.
+[06/23 11:10:10 PM] Nlkosi scored a hit with Shocking Touch on the Moria Orc-berserker for 3,081 Lightning damage to Morale.
+[06/23 11:10:10 PM] The Pûlpum Stone-keeper scored a hit with a weak swipe attack on the Volcanic Rune-stone for 913 Common damage to Morale.
+[06/23 11:10:10 PM] Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 2,580 Lightning damage to Morale.
+[06/23 11:10:10 PM] Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-warrior for 2,708 Lightning damage to Morale.
+[06/23 11:10:10 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Pûlpum Stone-keeper but he was immune to the attempt.
+[06/23 11:10:10 PM] Nlkosi scored a hit with Fulgurite Strike on the Pûlpum Stone-keeper for 2,490 Lightning damage to Morale.
+[06/23 11:10:10 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Moria Orc-berserker but he was immune to the attempt.
+[06/23 11:10:10 PM] Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-berserker for 2,344 Lightning damage to Morale.
+[06/23 11:10:10 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 9,533 Fire damage to Morale.
+[06/23 11:10:10 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 9,533 Fire damage to Morale.
+[06/23 11:10:10 PM] The Volcanic Rune-stone defeated the Moria Orc-warrior.
+[06/23 11:10:10 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Pûlpum Stone-keeper for 9,204 Fire damage to Morale.
+[06/23 11:10:10 PM] Prelude to Hope applied a heal to Nlkosi restoring 2,266 points to Morale.
+[06/23 11:10:11 PM] The Moria Orc-warrior scored a hit with a moderate melee attack on the Volcanic Rune-stone for 987 Common damage to Morale.
+[06/23 11:10:11 PM] Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+[06/23 11:10:11 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 1,174 points to Morale.
+[06/23 11:10:11 PM] The Pûlpum Stone-keeper scored a hit with a mighty swipe attack on the Volcanic Rune-stone for 2,055 Common damage to Morale.
+[06/23 11:10:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-warrior for 9,533 Fire damage to Morale.
+[06/23 11:10:12 PM] The Volcanic Rune-stone defeated the Moria Orc-warrior.
+[06/23 11:10:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Pûlpum Stone-keeper for 9,204 Fire damage to Morale.
+[06/23 11:10:12 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 1,074 points to Morale.
+[06/23 11:10:13 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Pûlpum Stone-keeper but he was immune to the attempt.
+[06/23 11:10:13 PM] Nlkosi scored a hit with Fulgurite Strike on the Pûlpum Stone-keeper for 2,643 Lightning damage to Morale.
+[06/23 11:10:13 PM] Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-berserker for 2,135 Lightning damage to Morale.
+[06/23 11:10:13 PM] Prelude to Hope applied a heal to Nlkosi restoring 955 points to Morale.
+[06/23 11:10:14 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 1,203 points to Morale.
+[06/23 11:10:15 PM] The Moria Orc-berserker scored a hit with a weak melee attack on Nlkosi for 3,546 Common damage to Morale.
+[06/23 11:10:15 PM] Prelude to Hope applied a heal to Nlkosi restoring 817 points to Morale.
+[06/23 11:10:16 PM] The Pûlpum Stone-keeper scored a hit with a weak swipe attack on Nlkosi for 3,746 Common damage to Morale.
+[06/23 11:10:16 PM] Prelude to Hope applied a heal to Nlkosi restoring 901 points to Morale.
+[06/23 11:10:16 PM] Nlkosi scored a hit with Concession and Rebuttal: Epic Conclusion on the Pûlpum Stone-keeper for 43,051 Lightning damage to Morale.
+[06/23 11:10:17 PM] The Moria Orc-berserker scored a hit with a moderate melee attack on Nlkosi for 4,875 Common damage to Morale.
+[06/23 11:10:18 PM] Prelude to Hope applied a heal to Nlkosi restoring 880 points to Morale.
+[06/23 11:10:18 PM] The Pûlpum Stone-keeper scored a hit with a moderate swipe attack on Nlkosi for 5,151 Common damage to Morale.
+[06/23 11:10:18 PM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on the Pûlpum Stone-keeper for 7,615 Lightning damage to Morale.
+[06/23 11:10:19 PM] Prelude to Hope applied a heal to Nlkosi restoring 971 points to Morale.
+[06/23 11:10:19 PM] The Moria Orc-berserker scored a hit with a weak melee attack on Nlkosi for 3,546 Common damage to Morale.
+[06/23 11:10:19 PM] Nlkosi scored a hit with Essence of Storm on the Pûlpum Stone-keeper for 8,344 Lightning damage to Morale.
+[06/23 11:10:20 PM] Prelude to Hope applied a heal to Nlkosi restoring 917 points to Morale.
+[06/23 11:10:20 PM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on the Pûlpum Stone-keeper for 7,694 Lightning damage to Morale.
+[06/23 11:10:20 PM] The Pûlpum Stone-keeper scored a hit with a weak swipe attack on Nlkosi for 3,746 Common damage to Morale.
+[06/23 11:10:21 PM] Prelude to Hope applied a heal to Nlkosi restoring 721 points to Morale.
+[06/23 11:10:21 PM] The Moria Orc-berserker scored a hit with a minor melee attack on Nlkosi for 4,432 Common damage to Morale.
+[06/23 11:10:21 PM] Nlkosi scored a hit with Ceaseless Argument on the Pûlpum Stone-keeper for 7,407 Lightning damage to Morale.
+[06/23 11:10:22 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 1,176 points to Morale.
+[06/23 11:10:22 PM] The Pûlpum Stone-keeper scored a hit with a moderate swipe attack on Nlkosi for 4,997 Common damage to Morale.
+[06/23 11:10:22 PM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on the Pûlpum Stone-keeper for 8,206 Lightning damage to Morale.
+[06/23 11:10:23 PM] Prelude to Hope applied a heal to Nlkosi restoring 860 points to Morale.
+[06/23 11:10:23 PM] The Moria Orc-berserker scored a critical hit with a weak melee attack on Nlkosi for 4,918 Common damage to Morale.
+[06/23 11:10:23 PM] Nlkosi scored a hit with Distracting Flame on the Pûlpum Stone-keeper.
+[06/23 11:10:24 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Pûlpum Stone-keeper for 10,281 Fire damage to Morale.
+[06/23 11:10:24 PM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on the Pûlpum Stone-keeper for 8,943 Lightning damage to Morale.
+[06/23 11:10:24 PM] The Pûlpum Stone-keeper scored a hit with a minor swipe attack on Nlkosi for 4,542 Common damage to Morale.
+[06/23 11:10:24 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 11:10:25 PM] Nlkosi scored a critical hit with Concession and Rebuttal: Sustaining Bolt on the Pûlpum Stone-keeper for 34,505 Lightning damage to Morale.
+[06/23 11:10:25 PM] The Moria Orc-berserker scored a critical hit with a moderate melee attack on Nlkosi for 6,762 Common damage to Morale.
+[06/23 11:10:25 PM] Powerful Sustenance applied a heal to Nlkosi restoring 21,063 points to Morale.
+[06/23 11:10:25 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,123 points to Power.
+[06/23 11:10:26 PM] Nlkosi scored a critical hit with Distracting Flame on the Pûlpum Stone-keeper for 4,384 Fire damage to Morale.
+[06/23 11:10:26 PM] The Pûlpum Stone-keeper scored a hit with a weak swipe attack on Nlkosi for 3,634 Common damage to Morale.
+[06/23 11:10:26 PM] Nlkosi scored a hit with Concession and Rebuttal: Shocking Words on the Pûlpum Stone-keeper for 28,460 Lightning damage to Morale.
+[06/23 11:10:26 PM] Nlkosi scored a hit with Concession and Rebuttal: Shocking Words on the Moria Orc-berserker for 24,705 Lightning damage to Morale.
+[06/23 11:10:26 PM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on the Pûlpum Stone-keeper for 8,294 Lightning damage to Morale.
+[06/23 11:10:27 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Pûlpum Stone-keeper for 2,427 Fire damage to Morale.
+[06/23 11:10:28 PM] Prelude to Hope applied a heal to Nlkosi restoring 2,592 points to Morale.
+[06/23 11:10:28 PM] Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+[06/23 11:10:29 PM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on the Pûlpum Stone-keeper for 8,743 Lightning damage to Morale.
+[06/23 11:10:29 PM] Nlkosi scored a critical hit with Distracting Flame on the Pûlpum Stone-keeper for 4,992 Fire damage to Morale.
+[06/23 11:10:29 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 1,210 points to Morale.
+[06/23 11:10:29 PM] Nlkosi applied a benefit with Word of Exaltation on Nlkosi.
+[06/23 11:10:30 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Pûlpum Stone-keeper for 2,542 Fire damage to Morale.
+[06/23 11:10:30 PM] Nothing to dispel.
+[06/23 11:10:30 PM] Nlkosi scored a hit with Essence of Storm on the Pûlpum Stone-keeper for 11,057 Lightning damage to Morale.
+[06/23 11:10:30 PM] Nlkosi scored a hit with Improved Final Word on the Pûlpum Stone-keeper.
+[06/23 11:10:30 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 1,062 points to Morale.
+[06/23 11:10:30 PM] The Pûlpum Stone-keeper scored a critical hit with a mighty swipe attack on Nlkosi for 11,692 Common damage to Morale.
+[06/23 11:10:30 PM] You have lost 11,692 points of temporary Morale!
+[06/23 11:10:31 PM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on the Pûlpum Stone-keeper for 8,949 Lightning damage to Morale.
+[06/23 11:10:31 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 1,293 points to Morale.
+[06/23 11:10:32 PM] Nlkosi scored a hit with Distracting Flame on the Pûlpum Stone-keeper for 2,784 Fire damage to Morale.
+[06/23 11:10:32 PM] Nlkosi scored a critical hit with Shocking Touch on the Pûlpum Stone-keeper for 7,466 Lightning damage to Morale.
+[06/23 11:10:32 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 1,307 points to Morale.
+[06/23 11:10:33 PM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on the Pûlpum Stone-keeper for 8,650 Lightning damage to Morale.
+[06/23 11:10:33 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Pûlpum Stone-keeper for 3,168 Fire damage to Morale.
+[06/23 11:10:33 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Pûlpum Stone-keeper for 26,518 Lightning damage to Morale.
+[06/23 11:10:33 PM] Prelude to Hope applied a heal to Nlkosi restoring 775 points to Morale.
+[06/23 11:10:34 PM] The Pûlpum Stone-keeper scored a hit with a weak swipe attack on Nlkosi for 3,634 Common damage to Morale.
+[06/23 11:10:34 PM] You have lost 3,634 points of temporary Morale!
+[06/23 11:10:34 PM] Nlkosi scored a hit with Static Surge on the Pûlpum Stone-keeper for 20,629 Lightning damage to Morale.
+[06/23 11:10:34 PM] Nlkosi scored a hit with Static Surge on the Moria Orc-berserker for 14,715 Lightning damage to Morale.
+[06/23 11:10:34 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,016 points to Morale.
+[06/23 11:10:35 PM] Nlkosi scored a hit with Distracting Flame on the Pûlpum Stone-keeper for 2,284 Fire damage to Morale.
+[06/23 11:10:35 PM] The Moria Orc-berserker tried to use a mighty melee attack on Nlkosi but he evaded the attempt.
+[06/23 11:10:35 PM] Prelude to Hope applied a heal to Nlkosi restoring 906 points to Morale.
+[06/23 11:10:36 PM] Your mighty blow defeated the Pûlpum Stone-keeper.
+[06/23 11:10:36 PM] Nlkosi scored a hit with Scribe's Spark on the Pûlpum Stone-keeper for 10,832 Lightning damage to Morale.
+[06/23 11:10:36 PM] Prelude to Hope applied a heal to Nlkosi restoring 743 points to Morale.
+[06/23 11:10:37 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-berserker for 8,103 Fire damage to Morale.
+[06/23 11:10:37 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/23 11:10:37 PM] The Moria Orc-berserker scored a hit with a weak melee attack on Nlkosi for 3,504 Common damage to Morale.
+[06/23 11:10:37 PM] You have lost 2,952 points of temporary Morale!
+[06/23 11:10:37 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 1,192 points to Morale.
+[06/23 11:10:38 PM] Nlkosi scored a hit with Fulgurite Strike on the Moria Orc-berserker for 2,189 Lightning damage to Morale.
+[06/23 11:10:38 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/23 11:10:38 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,028 points to Morale.
+[06/23 11:10:38 PM] The Moria Orc-berserker scored a hit with a moderate melee attack on Nlkosi for 4,818 Common damage to Morale.
+[06/23 11:10:39 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Moria Orc-berserker for 8,103 Fire damage to Morale.
+[06/23 11:10:39 PM] Master of Tragedy applied a heal to Nlkosi restoring 148 points to Power.
+[06/23 11:10:39 PM] Your mighty blow defeated the Moria Orc-berserker.
+[06/23 11:10:39 PM] Prelude to Hope applied a heal to Nlkosi restoring 744 points to Morale.
+[06/23 11:10:40 PM] Nlkosi scored a devastating hit with Vivid Imagery on the Moria Orc-berserker for 26,018 Lightning damage to Morale.
+[06/23 11:10:40 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,021 points to Morale.

@@ -1,0 +1,110 @@
+### Chat Log: Combat 06/25 06:12 PM ###
+[06/25 06:15:53 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Tough for 9,594 Fire damage to Morale.
+[06/25 06:15:53 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Marksman for 9,594 Fire damage to Morale.
+[06/25 06:15:53 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/25 06:15:54 PM] The Idagâl Tough scored a partially evaded hit with a weak melee attack on the Volcanic Rune-stone for 225 Common damage to Morale.
+[06/25 06:15:54 PM] The Idagâl Marksman scored a critical hit with a weak melee attack on the Volcanic Rune-stone for 453 Common damage to Morale.
+[06/25 06:15:54 PM] Nlkosi scored a hit with Fulgurite Strike on the Idagâl Cutthroat for 2,675 Lightning damage to Morale.
+[06/25 06:15:54 PM] Nlkosi scored a hit with Fulgurite Strike on the Idagâl Tough for 2,679 Lightning damage to Morale.
+[06/25 06:15:54 PM] Nlkosi scored a hit with Fulgurite Strike on the Idagâl Marksman for 2,701 Lightning damage to Morale.
+[06/25 06:15:55 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/25 06:15:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Tough for 9,594 Fire damage to Morale.
+[06/25 06:15:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Marksman for 9,594 Fire damage to Morale.
+[06/25 06:15:56 PM] The Idagâl Marksman tried to use a moderate melee attack on the Volcanic Rune-stone but it blocked the attempt.
+[06/25 06:15:56 PM] Nlkosi scored a hit with Fiery Ridicule on the Idagâl Marksman for 4,370 Fire damage to Morale.
+[06/25 06:15:57 PM] Your mighty blow defeated the Idagâl Tough.
+[06/25 06:15:57 PM] Your mighty blow defeated the Idagâl Marksman.
+[06/25 06:15:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Cutthroat for 10,295 Fire damage to Morale.
+[06/25 06:15:57 PM] Nlkosi scored a hit with Essence of Flame on the Idagâl Marksman for 13,750 Fire damage to Morale.
+[06/25 06:15:57 PM] Nlkosi scored a hit with Essence of Flame on the Idagâl Cutthroat for 12,189 Fire damage to Morale.
+[06/25 06:15:57 PM] Nlkosi scored a hit with Essence of Flame on the Idagâl Tough for 12,861 Fire damage to Morale.
+[06/25 06:15:57 PM] Nlkosi scored a hit with Fulgurite Strike on the Idagâl Cutthroat for 2,864 Lightning damage to Morale.
+[06/25 06:15:59 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Cutthroat for 10,295 Fire damage to Morale.
+[06/25 06:15:59 PM] The Volcanic Rune-stone defeated the Idagâl Cutthroat.
+[06/25 06:16:09 PM] Nlkosi scored a hit with Fiery Ridicule on the Idagâl Tough for 3,868 Fire damage to Morale.
+[06/25 06:16:09 PM] Nlkosi scored a hit with Sustaining Bolt on the Idagâl Tough for 3,781 Lightning damage to Morale.
+[06/25 06:16:09 PM] The Idagâl Marksman scored a critical hit with a weak ranged attack on Nlkosi for 2,200 Common damage to Morale.
+[06/25 06:16:10 PM] Sustaining Bolt applied a heal to Nlkosi restoring 834 points to Power.
+[06/25 06:16:10 PM] Sustenance applied a heal to Nlkosi restoring 10,475 points to Morale.
+[06/25 06:16:11 PM] Nlkosi scored a hit with Fiery Ridicule on the Idagâl Tough for 3,879 Fire damage to Morale.
+[06/25 06:16:11 PM] The Idagâl Marksman scored a critical hit with a minor ranged attack on Nlkosi for 2,751 Common damage to Morale.
+[06/25 06:16:12 PM] Nlkosi scored a hit with Essence of Flame on the Idagâl Tough for 9,948 Fire damage to Morale.
+[06/25 06:16:12 PM] Nlkosi scored a hit with Essence of Flame on the Idagâl Tough for 10,082 Fire damage to Morale.
+[06/25 06:16:12 PM] Nlkosi scored a hit with Fiery Ridicule on the Idagâl Tough for 5,015 Fire damage to Morale.
+[06/25 06:16:14 PM] Your mighty blow defeated the Idagâl Tough.
+[06/25 06:16:14 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Idagâl Tough for 9,704 Fire damage to Morale.
+[06/25 06:16:15 PM] The Idagâl Marksman scored a hit with Sniper Arrow on Nlkosi.
+[06/25 06:16:16 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 1,923 Common damage to Morale.
+[06/25 06:16:16 PM] Nlkosi scored a hit with Fiery Ridicule on the Idagâl Tough for 4,316 Fire damage to Morale.
+[06/25 06:16:18 PM] The Idagâl Tough scored a hit with a minor melee attack on Nlkosi for 1,832 Common damage to Morale.
+[06/25 06:16:18 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Idagâl Tough for 9,874 Fire damage to Morale.
+[06/25 06:16:18 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 1,923 Common damage to Morale.
+[06/25 06:16:19 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/25 06:16:19 PM] Your mighty blow defeated the Idagâl Tough.
+[06/25 06:16:19 PM] Nlkosi scored a critical hit with Shocking Words on the Idagâl Tough for 63,138 Lightning damage to Morale.
+[06/25 06:16:20 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 1,923 Common damage to Morale.
+[06/25 06:16:22 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 1,923 Common damage to Morale.
+[06/25 06:16:23 PM] The Idagâl Marksman scored a hit with a weak ranged attack on Nlkosi for 1,539 Common damage to Morale.
+[06/25 06:16:24 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 1,923 Common damage to Morale.
+[06/25 06:16:25 PM] Nlkosi scored a hit with Fiery Ridicule on the Idagâl Marksman for 4,433 Fire damage to Morale.
+[06/25 06:16:25 PM] The Idagâl Marksman scored a partially evaded hit with a moderate ranged attack on Nlkosi for 1,947 Common damage to Morale.
+[06/25 06:16:26 PM] Nlkosi scored a hit with Essence of Flame on the Idagâl Marksman for 12,782 Fire damage to Morale.
+[06/25 06:16:26 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 1,866 Common damage to Morale.
+[06/25 06:16:26 PM] Nlkosi scored a hit with Sustaining Bolt on the Idagâl Marksman for 4,887 Lightning damage to Morale.
+[06/25 06:16:27 PM] The Idagâl Marksman scored a hit with a weak ranged attack on Nlkosi for 1,539 Common damage to Morale.
+[06/25 06:16:27 PM] Sustaining Bolt applied a heal to Nlkosi restoring 848 points to Power.
+[06/25 06:16:27 PM] Sustenance applied a heal to Nlkosi restoring 8,823 points to Morale.
+[06/25 06:16:28 PM] Nlkosi scored a hit with Fiery Ridicule on the Idagâl Marksman for 4,624 Fire damage to Morale.
+[06/25 06:16:28 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 1,866 Common damage to Morale.
+[06/25 06:16:29 PM] Your mighty blow defeated the Idagâl Marksman.
+[06/25 06:16:29 PM] Nlkosi scored a hit with Fiery Ridicule on the Idagâl Marksman for 4,222 Fire damage to Morale.
+[06/25 06:16:30 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 1,866 Common damage to Morale.
+[06/25 06:16:32 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 1,866 Common damage to Morale.
+[06/25 06:16:34 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 1,866 Common damage to Morale.
+[06/25 06:16:36 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Tough for 10,964 Fire damage to Morale.
+[06/25 06:16:36 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Marksman for 10,964 Fire damage to Morale.
+[06/25 06:16:36 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Tough for 10,964 Fire damage to Morale.
+[06/25 06:16:37 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 1,923 Common damage to Morale.
+[06/25 06:16:37 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[06/25 06:16:37 PM] The Idagâl Tough scored a hit with a minor melee attack on the Volcanic Rune-stone for 435 Common damage to Morale.
+[06/25 06:16:37 PM] The Idagâl Marksman scored a hit with a moderate melee attack on the Volcanic Rune-stone for 479 Common damage to Morale.
+[06/25 06:16:38 PM] The Idagâl Tough scored a hit with a minor melee attack on the Volcanic Rune-stone for 435 Common damage to Morale.
+[06/25 06:16:38 PM] Nlkosi scored a hit with Fulgurite Strike on the Idagâl Tough for 2,856 Lightning damage to Morale.
+[06/25 06:16:38 PM] Nlkosi scored a hit with Fulgurite Strike on the Idagâl Marksman for 2,615 Lightning damage to Morale.
+[06/25 06:16:38 PM] Nlkosi scored a hit with Fulgurite Strike on the Idagâl Tough for 2,822 Lightning damage to Morale.
+[06/25 06:16:38 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[06/25 06:16:38 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Tough for 10,964 Fire damage to Morale.
+[06/25 06:16:38 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Tough for 10,964 Fire damage to Morale.
+[06/25 06:16:38 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Marksman for 10,964 Fire damage to Morale.
+[06/25 06:16:40 PM] The Idagâl Tough scored a hit with a moderate melee attack on the Volcanic Rune-stone for 479 Common damage to Morale.
+[06/25 06:16:40 PM] The Idagâl Marksman scored a hit with a weak melee attack on the Volcanic Rune-stone for 348 Common damage to Morale.
+[06/25 06:16:40 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Tough for 10,964 Fire damage to Morale.
+[06/25 06:16:40 PM] The Volcanic Rune-stone defeated the Idagâl Tough.
+[06/25 06:16:40 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Marksman for 10,964 Fire damage to Morale.
+[06/25 06:16:40 PM] The Volcanic Rune-stone defeated the Idagâl Marksman.
+[06/25 06:16:40 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Tough for 10,964 Fire damage to Morale.
+[06/25 06:16:40 PM] The Volcanic Rune-stone defeated the Idagâl Tough.
+[06/25 06:16:41 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Idagâl Tough for 8,237 Fire damage to Morale.
+[06/25 06:16:44 PM] Nlkosi scored a hit with Fulgurite Strike on Ruhíshi the Bounteous for 2,708 Lightning damage to Morale.
+[06/25 06:16:44 PM] Nlkosi scored a hit with Volcanic Rune-stone on Ruhíshi the Bounteous for 10,964 Fire damage to Morale.
+[06/25 06:16:45 PM] Nlkosi scored a hit with Fiery Ridicule on Ruhíshi the Bounteous for 3,623 Fire damage to Morale.
+[06/25 06:16:46 PM] Ruhíshi the Bounteous scored a hit with a minor melee attack on the Volcanic Rune-stone for 653 Common damage to Morale.
+[06/25 06:16:46 PM] Nlkosi scored a hit with Essence of Flame on Ruhíshi the Bounteous for 14,021 Fire damage to Morale.
+[06/25 06:16:46 PM] Master of Tragedy applied a heal to Nlkosi restoring 157 points to Power.
+[06/25 06:16:46 PM] Nlkosi scored a critical hit with Sustaining Bolt on Ruhíshi the Bounteous for 13,545 Lightning damage to Morale.
+[06/25 06:16:46 PM] Nlkosi scored a hit with Volcanic Rune-stone on Ruhíshi the Bounteous for 11,766 Fire damage to Morale.
+[06/25 06:16:47 PM] Sustaining Bolt applied a heal to Nlkosi restoring 971 points to Power.
+[06/25 06:16:47 PM] Sustenance applied a heal to Nlkosi restoring 8,945 points to Morale.
+[06/25 06:16:47 PM] Nlkosi scored a hit with Fulgurite Strike on Ruhíshi the Bounteous for 3,100 Lightning damage to Morale.
+[06/25 06:16:48 PM] Nlkosi scored a hit with Fiery Ridicule on Ruhíshi the Bounteous for 5,062 Fire damage to Morale.
+[06/25 06:16:49 PM] Nlkosi scored a critical hit with Fiery Ridicule on Ruhíshi the Bounteous for 10,102 Fire damage to Morale.
+[06/25 06:16:50 PM] Nlkosi scored a hit with Writ of Lightning on Ruhíshi the Bounteous for 8,136 Lightning damage to Morale.
+[06/25 06:16:51 PM] Nlkosi scored a hit with Fiery Ridicule on Ruhíshi the Bounteous for 5,299 Fire damage to Morale.
+[06/25 06:16:52 PM] Nlkosi scored a critical hit with Fiery Ridicule on Ruhíshi the Bounteous for 10,929 Fire damage to Morale.
+[06/25 06:16:54 PM] Nlkosi scored a hit with Fiery Ridicule on Ruhíshi the Bounteous for 5,431 Fire damage to Morale.
+[06/25 06:16:55 PM] Nlkosi scored a hit with Writ of Lightning on Ruhíshi the Bounteous for 6,974 Lightning damage to Morale.
+[06/25 06:16:56 PM] Nlkosi scored a hit with Fiery Ridicule on Ruhíshi the Bounteous for 4,886 Fire damage to Morale.
+[06/25 06:16:58 PM] Nlkosi scored a hit with Fiery Ridicule on Ruhíshi the Bounteous for 5,758 Fire damage to Morale.
+[06/25 06:16:58 PM] Ruhíshi the Bounteous scored a hit with a mighty melee attack on Nlkosi for 4,798 Common damage to Morale.
+[06/25 06:17:00 PM] Your mighty blow defeated Ruhíshi the Bounteous.
+[06/25 06:17:00 PM] Nlkosi scored a hit with Essence of Flame on Ruhíshi the Bounteous for 12,650 Fire damage to Morale.

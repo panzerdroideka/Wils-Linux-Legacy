@@ -1,0 +1,499 @@
+### Chat Log: Combat 07/07 06:21 AM ###
+[07/07 06:27:41 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:27:41 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Fierce Cold-drake for 8,466 Fire damage to Morale.
+[07/07 06:27:42 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Fierce Cold-drake for 10,540 Lightning damage to Morale.
+[07/07 06:27:42 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,049 points to Power.
+[07/07 06:27:42 AM] Sustenance applied a critical heal to Nlkosi restoring 16,026 points to Morale.
+[07/07 06:27:44 AM] The Fierce Cold-drake scored a partially evaded hit with a moderate melee attack on Nlkosi for 5,163 Frost damage to Morale.
+[07/07 06:27:44 AM] Nlkosi scored a hit with Essence of Flame on the Fierce Cold-drake for 14,940 Fire damage to Morale.
+[07/07 06:27:44 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-drake for 5,271 Fire damage to Morale.
+[07/07 06:27:46 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Fierce Cold-drake for 12,629 Fire damage to Morale.
+[07/07 06:27:46 AM] The Fierce Cold-drake scored a hit with Tail Swipe on Nlkosi for 6,832 Common damage to Morale.
+[07/07 06:27:47 AM] Your mighty blow defeated the Fierce Cold-drake.
+[07/07 06:27:47 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-drake for 6,781 Fire damage to Morale.
+[07/07 06:27:52 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Fierce Cold-whelpling for 12,191 Fire damage to Morale.
+[07/07 06:27:52 AM] The Fierce Cold-whelpling scored a hit with a weak melee attack on Nlkosi for 3,425 Frost damage to Morale.
+[07/07 06:27:53 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Fierce Cold-whelpling for 12,720 Fire damage to Morale.
+[07/07 06:27:54 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 5,250 Fire damage to Morale.
+[07/07 06:27:56 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 6,522 Fire damage to Morale.
+[07/07 06:27:57 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 6,451 Fire damage to Morale.
+[07/07 06:27:58 AM] Nlkosi scored a hit with Sustaining Bolt on the Fierce Cold-whelpling for 6,686 Lightning damage to Morale.
+[07/07 06:27:59 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,165 points to Power.
+[07/07 06:27:59 AM] Sustenance applied a heal to Nlkosi restoring 12,879 points to Morale.
+[07/07 06:27:59 AM] Your mighty blow defeated the Fierce Cold-whelpling.
+[07/07 06:27:59 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Fierce Cold-whelpling for 12,980 Fire damage to Morale.
+[07/07 06:28:17 AM] Nlkosi scored a hit with Sustaining Bolt on the Fierce Cold-whelpling for 4,138 Lightning damage to Morale.
+[07/07 06:28:18 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,231 points to Power.
+[07/07 06:28:18 AM] Sustenance applied a critical heal to Nlkosi restoring 19,856 points to Morale.
+[07/07 06:28:18 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 3,570 Fire damage to Morale.
+[07/07 06:28:20 AM] Nlkosi scored a hit with Essence of Flame on the Fierce Cold-whelpling for 13,325 Fire damage to Morale.
+[07/07 06:28:20 AM] Nlkosi scored a hit with Essence of Flame on the Fierce Cold-whelpling for 12,174 Fire damage to Morale.
+[07/07 06:28:20 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 6,033 Fire damage to Morale.
+[07/07 06:28:22 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 4,654 Fire damage to Morale.
+[07/07 06:28:22 AM] The Fierce Cold-whelpling scored a hit with a weak melee attack on Nlkosi for 3,425 Frost damage to Morale.
+[07/07 06:28:23 AM] The Fierce Cold-whelpling scored a hit with a weak melee attack on Nlkosi for 3,425 Frost damage to Morale.
+[07/07 06:28:23 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 5,495 Fire damage to Morale.
+[07/07 06:28:24 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 5,502 Fire damage to Morale.
+[07/07 06:28:25 AM] Your mighty blow defeated the Fierce Cold-whelpling.
+[07/07 06:28:25 AM] Nlkosi scored a hit with Essence of Storm on the Fierce Cold-whelpling for 11,338 Lightning damage to Morale.
+[07/07 06:28:25 AM] Nlkosi scored a hit with Static Surge on the Fierce Cold-whelpling for 20,459 Lightning damage to Morale.
+[07/07 06:28:25 AM] The Fierce Cold-whelpling scored a hit with Artic Tussis on Nlkosi for 6,090 Frost damage to Morale.
+[07/07 06:28:27 AM] Nlkosi scored a hit with Vivid Imagery on the Fierce Cold-whelpling for 10,764 Lightning damage to Morale.
+[07/07 06:28:29 AM] Your mighty blow defeated the Fierce Cold-whelpling.
+[07/07 06:28:29 AM] Nlkosi scored a hit with Scribe's Spark on the Fierce Cold-whelpling for 9,842 Lightning damage to Morale.
+[07/07 06:29:00 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Fierce Cold-drake for 9,940 Fire damage to Morale.
+[07/07 06:29:00 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/07 06:29:01 AM] Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-drake for 2,880 Lightning damage to Morale.
+[07/07 06:29:01 AM] The Fierce Cold-drake scored a hit with a weak melee attack on the Volcanic Rune-stone for 2,072 Frost damage to Morale.
+[07/07 06:29:01 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/07 06:29:02 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Fierce Cold-drake for 9,940 Fire damage to Morale.
+[07/07 06:29:02 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-drake for 5,463 Fire damage to Morale.
+[07/07 06:29:02 AM] Nlkosi scored a hit with Sustaining Bolt on the Fierce Cold-drake for 5,421 Lightning damage to Morale.
+[07/07 06:29:03 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,103 points to Power.
+[07/07 06:29:03 AM] Sustenance applied a heal to Nlkosi restoring 14,656 points to Morale.
+[07/07 06:29:04 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Fierce Cold-drake for 10,159 Fire damage to Morale.
+[07/07 06:29:04 AM] Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-drake for 2,879 Lightning damage to Morale.
+[07/07 06:29:04 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-drake for 4,799 Fire damage to Morale.
+[07/07 06:29:05 AM] Your mighty blow defeated the Fierce Cold-drake.
+[07/07 06:29:05 AM] Nlkosi scored a hit with Essence of Flame on the Fierce Cold-drake for 13,300 Fire damage to Morale.
+[07/07 06:29:13 AM] Nlkosi scored a hit with Shocking Words on the Fierce Cold-drake for 21,958 Lightning damage to Morale.
+[07/07 06:29:14 AM] Nlkosi scored a hit with Vivid Imagery on the Fierce Cold-drake for 7,641 Lightning damage to Morale.
+[07/07 06:29:16 AM] Nlkosi scored a hit with Ceaseless Argument on the Fierce Cold-drake for 7,936 Lightning damage to Morale.
+[07/07 06:29:17 AM] The Fierce Cold-drake scored a hit with Ice Burst on Nlkosi for 9,040 Frost damage to Morale.
+[07/07 06:29:17 AM] Nlkosi scored a hit with Essence of Storm on the Fierce Cold-drake for 9,819 Lightning damage to Morale.
+[07/07 06:29:18 AM] Your mighty blow defeated the Fierce Cold-drake.
+[07/07 06:29:19 AM] Nlkosi scored a hit with Ceaseless Argument on the Fierce Cold-drake for 7,672 Lightning damage to Morale.
+[07/07 06:29:21 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 4,900 Fire damage to Morale.
+[07/07 06:29:23 AM] Nlkosi scored a hit with Essence of Flame on the Fierce Cold-whelpling for 14,275 Fire damage to Morale.
+[07/07 06:29:23 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 5,843 Fire damage to Morale.
+[07/07 06:29:23 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:29:23 AM] Nlkosi scored a devastating hit with Sustaining Bolt on the Fierce Cold-whelpling for 20,822 Lightning damage to Morale.
+[07/07 06:29:24 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,475 points to Power.
+[07/07 06:29:24 AM] Sustenance applied a heal to Nlkosi restoring 15,894 points to Morale.
+[07/07 06:29:24 AM] Your mighty blow defeated the Fierce Cold-whelpling.
+[07/07 06:29:25 AM] Nlkosi scored a devastating hit with Fiery Ridicule on the Fierce Cold-whelpling for 16,963 Fire damage to Morale.
+[07/07 06:29:40 AM] Nothing to cure.
+[07/07 06:29:41 AM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[07/07 06:29:42 AM] Nothing to cure.
+[07/07 06:29:44 AM] Nothing to cure.
+[07/07 06:29:46 AM] Nothing to cure.
+[07/07 06:29:54 AM] Self-motivation applied a heal to Nlkosi restoring 1,618 points to Power.
+[07/07 06:29:54 AM] Nlkosi applied a benefit with Self-motivation on Nlkosi.
+[07/07 06:30:14 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:30:14 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 4,251 Fire damage to Morale.
+[07/07 06:30:14 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Fierce Cold-whelpling for 10,540 Lightning damage to Morale.
+[07/07 06:30:15 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,018 points to Power.
+[07/07 06:30:15 AM] Sustenance applied a critical heal to Nlkosi restoring 15,748 points to Morale.
+[07/07 06:30:16 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 4,675 Fire damage to Morale.
+[07/07 06:30:17 AM] Nlkosi scored a critical hit with Essence of Flame on the Fierce Cold-whelpling for 27,684 Fire damage to Morale.
+[07/07 06:30:17 AM] Your mighty blow defeated the Fierce Cold-whelpling.
+[07/07 06:30:18 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 6,362 Fire damage to Morale.
+[07/07 06:30:25 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Fierce Cold-whelpling for 11,076 Fire damage to Morale.
+[07/07 06:30:25 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/07 06:30:25 AM] The Fierce Cold-whelpling scored a hit with a moderate melee attack on the Volcanic Rune-stone for 2,385 Frost damage to Morale.
+[07/07 06:30:26 AM] Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 2,740 Lightning damage to Morale.
+[07/07 06:30:26 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/07 06:30:27 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Fierce Cold-whelpling for 11,076 Fire damage to Morale.
+[07/07 06:30:27 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 5,913 Fire damage to Morale.
+[07/07 06:30:28 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 7,332 Fire damage to Morale.
+[07/07 06:30:28 AM] The Fierce Cold-whelpling scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,734 Frost damage to Morale.
+[07/07 06:30:29 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Fierce Cold-whelpling for 11,886 Fire damage to Morale.
+[07/07 06:30:29 AM] The Volcanic Rune-stone defeated the Fierce Cold-whelpling.
+[07/07 06:30:30 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 5,526 Fire damage to Morale.
+[07/07 06:30:32 AM] Nlkosi scored a hit with Essence of Flame on the Fierce Cold-whelpling for 16,353 Fire damage to Morale.
+[07/07 06:30:32 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 6,995 Fire damage to Morale.
+[07/07 06:30:32 AM] Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-whelpling for 3,141 Lightning damage to Morale.
+[07/07 06:30:32 AM] Nlkosi scored a hit with Sustaining Bolt on the Fierce Cold-whelpling for 8,844 Lightning damage to Morale.
+[07/07 06:30:33 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,389 points to Power.
+[07/07 06:30:33 AM] Sustenance applied a heal to Nlkosi restoring 13,321 points to Morale.
+[07/07 06:30:33 AM] Your mighty blow defeated the Fierce Cold-whelpling.
+[07/07 06:30:34 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Fierce Cold-whelpling for 13,901 Fire damage to Morale.
+[07/07 06:30:40 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Fierce Cold-whelpling for 10,160 Fire damage to Morale.
+[07/07 06:30:42 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:30:42 AM] Your mighty blow defeated the Fierce Cold-whelpling.
+[07/07 06:30:42 AM] Nlkosi scored a critical hit with Epic Conclusion on the Fierce Cold-whelpling for 84,326 Lightning damage to Morale.
+[07/07 06:31:22 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 4,384 Fire damage to Morale.
+[07/07 06:31:23 AM] Nlkosi scored a hit with Essence of Flame on the Fierce Cold-whelpling for 11,336 Fire damage to Morale.
+[07/07 06:31:23 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:31:24 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Fierce Cold-whelpling for 12,126 Lightning damage to Morale.
+[07/07 06:31:24 AM] The Fierce Cold-whelpling scored a critical hit with a weak melee attack on Nlkosi for 4,898 Frost damage to Morale.
+[07/07 06:31:25 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,023 points to Power.
+[07/07 06:31:25 AM] Sustenance applied a heal to Nlkosi restoring 14,405 points to Morale.
+[07/07 06:31:26 AM] Nlkosi scored a hit with Writ of Lightning on the Fierce Cold-whelpling for 9,886 Lightning damage to Morale.
+[07/07 06:31:26 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Fierce Cold-whelpling for 2,947 Fire damage to Morale.
+[07/07 06:31:27 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 5,239 Fire damage to Morale.
+[07/07 06:31:28 AM] The Fierce Cold-whelpling scored a hit with a minor melee attack on Nlkosi for 4,282 Frost damage to Morale.
+[07/07 06:31:28 AM] Your mighty blow defeated the Fierce Cold-whelpling.
+[07/07 06:31:28 AM] Nlkosi scored a hit with Fiery Ridicule on the Fierce Cold-whelpling for 6,125 Fire damage to Morale.
+[07/07 06:31:32 AM] Nlkosi scored a hit with Shocking Words on the Fierce Cold-drake for 26,423 Lightning damage to Morale.
+[07/07 06:31:33 AM] Nothing to dispel.
+[07/07 06:31:33 AM] Nlkosi scored a critical hit with Vivid Imagery on the Fierce Cold-drake for 22,782 Lightning damage to Morale.
+[07/07 06:31:33 AM] Nlkosi scored a devastating hit with Improved Final Word on the Fierce Cold-drake.
+[07/07 06:31:34 AM] Your mighty blow defeated the Fierce Cold-drake.
+[07/07 06:31:34 AM] Nlkosi scored a hit with Essence of Storm on the Fierce Cold-drake for 13,277 Lightning damage to Morale.
+[07/07 06:31:41 AM] Nlkosi scored a hit with Writ of Lightning on the Fierce Cold-drake for 8,768 Lightning damage to Morale.
+[07/07 06:31:43 AM] Nlkosi scored a hit with Chilling Rhetoric on the Fierce Cold-drake for 7,533 Frost damage to Morale.
+[07/07 06:31:44 AM] Nlkosi scored a hit with Ceaseless Argument on the Fierce Cold-drake for 9,177 Lightning damage to Morale.
+[07/07 06:31:45 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:31:45 AM] Your mighty blow defeated the Fierce Cold-drake.
+[07/07 06:31:45 AM] Nlkosi scored a critical hit with Epic Conclusion on the Fierce Cold-drake for 131,441 Lightning damage to Morale.
+[07/07 06:32:54 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Fierce Cold-drake for 9,940 Fire damage to Morale.
+[07/07 06:32:55 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/07 06:32:55 AM] The Fierce Cold-drake tried to use a weak melee attack on the Volcanic Rune-stone but it blocked the attempt.
+[07/07 06:32:56 AM] Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-drake for 2,912 Lightning damage to Morale.
+[07/07 06:32:56 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/07 06:32:56 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Fierce Cold-drake for 9,940 Fire damage to Morale.
+[07/07 06:32:58 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Fierce Cold-drake for 9,940 Fire damage to Morale.
+[07/07 06:32:59 AM] Nlkosi scored a hit with Fulgurite Strike on the Fierce Cold-drake for 2,933 Lightning damage to Morale.
+[07/07 06:32:59 AM] Your mighty blow defeated the Fierce Cold-drake.
+[07/07 06:32:59 AM] Nlkosi scored a hit with Epic Conclusion on the Fierce Cold-drake for 42,513 Lightning damage to Morale.
+[07/07 06:33:09 AM] Nlkosi scored a hit with Essence of Storm on the Fierce Cold-drake for 9,404 Lightning damage to Morale.
+[07/07 06:33:11 AM] Nlkosi missed trying to use Scribe's Spark on the Fierce Cold-drake.
+[07/07 06:33:13 AM] Nlkosi missed trying to use Chilling Rhetoric on the Fierce Cold-drake.
+[07/07 06:33:13 AM] Nlkosi missed trying to use Fiery Ridicule on the Fierce Cold-drake.
+[07/07 06:33:14 AM] Nlkosi missed trying to use Sustaining Bolt on the Fierce Cold-drake.
+[07/07 06:33:15 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,089 points to Power.
+[07/07 06:33:15 AM] Sustenance applied a heal to Nlkosi restoring 14,411 points to Morale.
+[07/07 06:33:15 AM] Nlkosi missed trying to use Fiery Ridicule on the Fierce Cold-drake.
+[07/07 06:33:17 AM] The Fierce Cold-drake scored a hit with a weak melee attack on Nlkosi for 4,092 Frost damage to Morale.
+[07/07 06:33:18 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:33:18 AM] Your mighty blow defeated the Fierce Cold-drake.
+[07/07 06:33:18 AM] Nlkosi scored a critical hit with Shocking Words on the Fierce Cold-drake for 75,644 Lightning damage to Morale.
+[07/07 06:34:08 AM] Hártung scored a hit with a moderate ranged attack on Nlkosi for 5,888 Frost damage to Morale.
+[07/07 06:34:10 AM] Hártung scored a hit with Chilling Cold on Nlkosi for 2,855 Frost damage to Morale.
+[07/07 06:34:11 AM] Nlkosi scored a hit with Volcanic Rune-stone on Hártung for 9,940 Fire damage to Morale.
+[07/07 06:34:11 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/07 06:34:12 AM] Hártung tried to use a weak melee attack on Nlkosi but he parried the attempt.
+[07/07 06:34:12 AM] Hártung scored a hit with Chilling Cold on Nlkosi for 2,855 Frost damage to Morale.
+[07/07 06:34:13 AM] Nlkosi scored a hit with Fulgurite Strike on Hártung for 2,804 Lightning damage to Morale.
+[07/07 06:34:13 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/07 06:34:13 AM] Nlkosi scored a hit with Volcanic Rune-stone on Hártung for 9,940 Fire damage to Morale.
+[07/07 06:34:14 AM] Hártung scored a hit with Chilling Cold on Nlkosi for 2,855 Frost damage to Morale.
+[07/07 06:34:15 AM] Nlkosi scored a hit with Volcanic Rune-stone on Hártung for 9,940 Fire damage to Morale.
+[07/07 06:34:16 AM] Nlkosi scored a hit with Fulgurite Strike on Hártung for 2,960 Lightning damage to Morale.
+[07/07 06:34:16 AM] Hártung scored a hit with Chilling Cold on Nlkosi for 2,940 Frost damage to Morale.
+[07/07 06:34:17 AM] Hártung scored a hit with a moderate melee attack on the Volcanic Rune-stone for 3,246 Frost damage to Morale.
+[07/07 06:34:17 AM] Nlkosi scored a hit with Scribe's Spark on Hártung for 11,819 Lightning damage to Morale.
+[07/07 06:34:17 AM] Nlkosi scored a hit with Volcanic Rune-stone on Hártung for 9,940 Fire damage to Morale.
+[07/07 06:34:18 AM] Nlkosi scored a hit with Epic Conclusion on Hártung for 38,326 Lightning damage to Morale.
+[07/07 06:34:19 AM] Hártung scored a hit with a weak melee attack on the Volcanic Rune-stone for 2,361 Frost damage to Morale.
+[07/07 06:34:19 AM] Nlkosi scored a hit with Fulgurite Strike on Hártung for 2,769 Lightning damage to Morale.
+[07/07 06:34:19 AM] Nlkosi scored a hit with Volcanic Rune-stone on Hártung for 9,940 Fire damage to Morale.
+[07/07 06:34:20 AM] Nlkosi scored a hit with Essence of Storm on Hártung for 11,525 Lightning damage to Morale.
+[07/07 06:34:21 AM] Your mighty blow defeated Hártung.
+[07/07 06:34:21 AM] Nlkosi scored a hit with Static Surge on Hártung for 17,959 Lightning damage to Morale.
+[07/07 06:34:24 AM] The Fierce Cold-whelpling scored a hit with a moderate melee attack on Nlkosi for 4,710 Frost damage to Morale.
+[07/07 06:34:25 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:34:25 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Fierce Cold-whelpling for 26,090 Lightning damage to Morale.
+[07/07 06:34:26 AM] Nlkosi scored a hit with Writ of Lightning on the Fierce Cold-whelpling for 9,651 Lightning damage to Morale.
+[07/07 06:34:27 AM] The Fierce Cold-whelpling scored a hit with a moderate melee attack on Nlkosi for 4,427 Frost damage to Morale.
+[07/07 06:34:27 AM] Your mighty blow defeated the Fierce Cold-whelpling.
+[07/07 06:34:27 AM] Nlkosi scored a critical hit with Shocking Words on the Fierce Cold-whelpling for 79,219 Lightning damage to Morale.
+[07/07 06:34:30 AM] Nlkosi scored a hit with Ceaseless Argument on the Fierce Cold-whelpling for 10,655 Lightning damage to Morale.
+[07/07 06:34:31 AM] Nlkosi scored a hit with Essence of Storm on the Fierce Cold-whelpling for 9,330 Lightning damage to Morale.
+[07/07 06:34:33 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Fierce Cold-whelpling for 28,160 Lightning damage to Morale.
+[07/07 06:34:34 AM] Your mighty blow defeated the Fierce Cold-whelpling.
+[07/07 06:34:34 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Fierce Cold-whelpling for 31,564 Lightning damage to Morale.
+[07/07 06:36:32 AM] Nlkosi applied a benefit with Pony of Umbar on Nlkosi.
+[07/07 06:37:39 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:37:39 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Warrior for 4,231 Fire damage to Morale.
+[07/07 06:37:39 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Iron Crown Warrior for 10,540 Lightning damage to Morale.
+[07/07 06:37:40 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,038 points to Power.
+[07/07 06:37:40 AM] Sustenance applied a heal to Nlkosi restoring 13,530 points to Morale.
+[07/07 06:37:40 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Warrior for 4,754 Fire damage to Morale.
+[07/07 06:37:42 AM] Nlkosi scored a hit with Essence of Flame on the Iron Crown Warrior for 12,283 Fire damage to Morale.
+[07/07 06:37:42 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Warrior for 4,547 Fire damage to Morale.
+[07/07 06:37:43 AM] The Iron Crown Warrior scored a hit with a weak melee attack on Nlkosi for 3,257 Common damage to Morale.
+[07/07 06:37:43 AM] Your mighty blow defeated the Iron Crown Warrior.
+[07/07 06:37:44 AM] Nlkosi scored a devastating hit with Ceaseless Argument on the Iron Crown Warrior for 35,931 Lightning damage to Morale.
+[07/07 06:37:49 AM] Nlkosi scored a hit with Shocking Words on the Iron Crown Warrior for 30,452 Lightning damage to Morale.
+[07/07 06:37:51 AM] Nlkosi scored a hit with Essence of Storm on the Iron Crown Warrior for 9,957 Lightning damage to Morale.
+[07/07 06:37:52 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:37:52 AM] Your mighty blow defeated the Iron Crown Warrior.
+[07/07 06:37:52 AM] Nlkosi scored a critical hit with Epic Conclusion on the Iron Crown Warrior for 124,796 Lightning damage to Morale.
+[07/07 06:37:55 AM] Nlkosi scored a hit with Ceaseless Argument on the Iron Crown Sentinel for 12,370 Lightning damage to Morale.
+[07/07 06:37:56 AM] The Iron Crown Sentinel scored a partially evaded hit with a weak ranged attack on Nlkosi for 2,810 Common damage to Morale.
+[07/07 06:37:58 AM] Nlkosi scored a hit with Sustaining Bolt on the Iron Crown Sentinel for 5,622 Lightning damage to Morale.
+[07/07 06:37:59 AM] The Iron Crown Sentinel scored a critical hit with a ranged strike attack on Nlkosi for 4,378 Common damage to Morale.
+[07/07 06:37:59 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,290 points to Power.
+[07/07 06:37:59 AM] Sustenance applied a heal to Nlkosi restoring 12,009 points to Morale.
+[07/07 06:38:00 AM] Nlkosi scored a hit with Essence of Flame on the Iron Crown Sentinel for 15,061 Fire damage to Morale.
+[07/07 06:38:01 AM] The Iron Crown Sentinel scored a partially evaded hit with a weak ranged attack on Nlkosi for 2,810 Common damage to Morale.
+[07/07 06:38:01 AM] Nlkosi scored a hit with Writ of Lightning on the Iron Crown Sentinel for 10,162 Lightning damage to Morale.
+[07/07 06:38:02 AM] Your mighty blow defeated the Iron Crown Sentinel.
+[07/07 06:38:02 AM] Nlkosi scored a hit with Chilling Rhetoric on the Iron Crown Sentinel for 7,949 Frost damage to Morale.
+[07/07 06:38:24 AM] Nlkosi scored a critical hit with Essence of Flame on the Iron Crown Sentinel for 21,715 Fire damage to Morale.
+[07/07 06:38:24 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Iron Crown Sentinel for 9,631 Fire damage to Morale.
+[07/07 06:38:24 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:38:25 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Iron Crown Sentinel for 12,126 Lightning damage to Morale.
+[07/07 06:38:25 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,016 points to Power.
+[07/07 06:38:25 AM] Sustenance applied a heal to Nlkosi restoring 16,094 points to Morale.
+[07/07 06:38:26 AM] Your mighty blow defeated the Iron Crown Sentinel.
+[07/07 06:38:26 AM] Nlkosi scored a hit with Shocking Words on the Iron Crown Sentinel for 31,178 Lightning damage to Morale.
+[07/07 06:38:34 AM] Nlkosi scored a hit with Essence of Storm on the Iron Crown Sentinel for 11,835 Lightning damage to Morale.
+[07/07 06:38:35 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:38:35 AM] Your mighty blow defeated the Iron Crown Sentinel.
+[07/07 06:38:35 AM] Nlkosi scored a critical hit with Epic Conclusion on the Iron Crown Sentinel for 104,031 Lightning damage to Morale.
+[07/07 06:38:40 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Iron Crown Warrior for 9,736 Fire damage to Morale.
+[07/07 06:38:42 AM] Nlkosi scored a hit with Essence of Flame on the Iron Crown Warrior for 15,857 Fire damage to Morale.
+[07/07 06:38:42 AM] Nlkosi scored a hit with Sustaining Bolt on the Iron Crown Warrior for 5,354 Lightning damage to Morale.
+[07/07 06:38:43 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,065 points to Power.
+[07/07 06:38:43 AM] Sustenance applied a heal to Nlkosi restoring 14,593 points to Morale.
+[07/07 06:38:43 AM] Your mighty blow defeated the Iron Crown Warrior.
+[07/07 06:38:44 AM] Nlkosi scored a critical hit with Writ of Lightning on the Iron Crown Warrior for 24,555 Lightning damage to Morale.
+[07/07 06:38:59 AM] The Iron Crown Warrior scored a hit with a weak melee attack on Nlkosi for 3,257 Common damage to Morale.
+[07/07 06:39:01 AM] The Iron Crown Warrior scored a critical hit with a melee double attack on Nlkosi for 4,658 Common damage to Morale.
+[07/07 06:39:01 AM] The Iron Crown Warrior scored a hit with a melee double attack on Nlkosi for 3,257 Common damage to Morale.
+[07/07 06:39:03 AM] Nlkosi scored a hit with Ceaseless Argument on the Iron Crown Warrior for 8,761 Lightning damage to Morale.
+[07/07 06:39:04 AM] Nlkosi scored a hit with Shocking Words on the Iron Crown Warrior for 21,181 Lightning damage to Morale.
+[07/07 06:39:05 AM] Nothing to dispel.
+[07/07 06:39:05 AM] Nlkosi scored a critical hit with Improved Final Word on the Iron Crown Warrior.
+[07/07 06:39:06 AM] The Iron Crown Warrior scored a hit with a weak melee attack on Nlkosi for 3,257 Common damage to Morale.
+[07/07 06:39:07 AM] Nlkosi scored a hit with Distracting Flame on the Iron Crown Warrior.
+[07/07 06:39:08 AM] The Iron Crown Warrior scored a hit with a moderate melee attack on Nlkosi for 4,479 Common damage to Morale.
+[07/07 06:39:08 AM] Nlkosi scored a hit with Vivid Imagery on the Iron Crown Warrior for 8,888 Lightning damage to Morale.
+[07/07 06:39:10 AM] Your mighty blow defeated the Iron Crown Warrior.
+[07/07 06:39:10 AM] Nlkosi scored a hit with Epic Conclusion on the Iron Crown Warrior for 40,131 Lightning damage to Morale.
+[07/07 06:39:28 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Sentinel for 3,736 Fire damage to Morale.
+[07/07 06:39:29 AM] The Iron Crown Sentinel scored a hit with a moderate ranged attack on Nlkosi for 4,479 Common damage to Morale.
+[07/07 06:39:30 AM] Nlkosi scored a critical hit with Essence of Flame on the Iron Crown Sentinel for 22,666 Fire damage to Morale.
+[07/07 06:39:30 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Sentinel for 5,893 Fire damage to Morale.
+[07/07 06:39:30 AM] Nlkosi scored a hit with Sustaining Bolt on the Iron Crown Sentinel for 4,444 Lightning damage to Morale.
+[07/07 06:39:31 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,066 points to Power.
+[07/07 06:39:31 AM] Sustenance applied a heal to Nlkosi restoring 11,959 points to Morale.
+[07/07 06:39:31 AM] The Iron Crown Sentinel scored a hit with a weak ranged attack on Nlkosi for 3,159 Common damage to Morale.
+[07/07 06:39:32 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Iron Crown Sentinel for 10,191 Fire damage to Morale.
+[07/07 06:39:33 AM] Your mighty blow defeated the Iron Crown Sentinel.
+[07/07 06:39:33 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Sentinel for 4,788 Fire damage to Morale.
+[07/07 06:39:36 AM] Nlkosi scored a hit with Shocking Words on the Iron Crown Sentinel for 25,938 Lightning damage to Morale.
+[07/07 06:39:37 AM] Nlkosi scored a hit with Ceaseless Argument on the Iron Crown Sentinel for 8,866 Lightning damage to Morale.
+[07/07 06:39:38 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:39:38 AM] Your mighty blow defeated the Iron Crown Sentinel.
+[07/07 06:39:38 AM] Nlkosi scored a critical hit with Essence of Storm on the Iron Crown Sentinel for 38,565 Lightning damage to Morale.
+[07/07 06:40:00 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Warrior for 3,955 Fire damage to Morale.
+[07/07 06:40:01 AM] Nlkosi scored a hit with Essence of Flame on the Iron Crown Warrior for 12,580 Fire damage to Morale.
+[07/07 06:40:02 AM] Nlkosi scored a hit with Sustaining Bolt on the Iron Crown Warrior for 4,342 Lightning damage to Morale.
+[07/07 06:40:02 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,015 points to Power.
+[07/07 06:40:02 AM] Sustenance applied a heal to Nlkosi restoring 12,249 points to Morale.
+[07/07 06:40:02 AM] The Iron Crown Warrior scored a hit with a melee double attack on Nlkosi for 3,159 Common damage to Morale.
+[07/07 06:40:03 AM] The Iron Crown Warrior scored a hit with a melee double attack on Nlkosi for 3,159 Common damage to Morale.
+[07/07 06:40:04 AM] Nlkosi scored a hit with Shocking Words on the Iron Crown Warrior for 21,208 Lightning damage to Morale.
+[07/07 06:40:04 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Iron Crown Warrior for 3,004 Fire damage to Morale.
+[07/07 06:40:05 AM] Your mighty blow defeated the Iron Crown Warrior.
+[07/07 06:40:05 AM] Nlkosi scored a hit with Ceaseless Argument on the Iron Crown Warrior for 9,124 Lightning damage to Morale.
+[07/07 06:40:08 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-horde Drake Emissary for 5,072 Fire damage to Morale.
+[07/07 06:40:08 AM] Nlkosi scored a hit with Writ of Lightning on the Frost-horde Drake Emissary for 7,908 Lightning damage to Morale.
+[07/07 06:40:09 AM] Nlkosi scored a hit with Shocking Touch on the Frost-horde Drake Emissary for 3,993 Lightning damage to Morale.
+[07/07 06:40:10 AM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Frost-horde Drake Emissary for 5,341 Fire damage to Morale.
+[07/07 06:40:11 AM] Nlkosi scored a hit with Head-butt on the Frost-horde Drake Emissary for 7,940 Common damage to Morale.
+[07/07 06:40:12 AM] The Frost-horde Drake Emissary scored a hit with a mighty melee attack on Nlkosi for 10,384 Frost damage to Morale.
+[07/07 06:40:12 AM] Nothing to dispel.
+[07/07 06:40:13 AM] Nlkosi scored a hit with Epic Conclusion on the Frost-horde Drake Emissary for 37,082 Lightning damage to Morale.
+[07/07 06:40:13 AM] Nlkosi scored a hit with Improved Final Word on the Frost-horde Drake Emissary.
+[07/07 06:40:13 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frost-horde Drake Emissary for 2,723 Fire damage to Morale.
+[07/07 06:40:14 AM] Nlkosi scored a hit with Vivid Imagery on the Frost-horde Drake Emissary for 10,509 Lightning damage to Morale.
+[07/07 06:40:16 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frost-horde Drake Emissary for 2,963 Fire damage to Morale.
+[07/07 06:40:17 AM] Nlkosi scored a critical hit with Distracting Flame on the Frost-horde Drake Emissary.
+[07/07 06:40:18 AM] The Frost-horde Drake Emissary scored a hit with a weak melee attack on Nlkosi for 4,758 Frost damage to Morale.
+[07/07 06:40:18 AM] Nlkosi scored a hit with Essence of Storm on the Frost-horde Drake Emissary for 11,209 Lightning damage to Morale.
+[07/07 06:40:19 AM] Your mighty blow defeated the Frost-horde Drake Emissary.
+[07/07 06:40:20 AM] Nlkosi scored a hit with Scribe's Spark on the Frost-horde Drake Emissary for 12,499 Lightning damage to Morale.
+[07/07 06:40:22 AM] The Iron Crown Sentinel scored a partially evaded hit with a ranged double attack on Nlkosi for 4,509 Common damage to Morale.
+[07/07 06:40:24 AM] The Iron Crown Sentinel scored a hit with a ranged double attack on Nlkosi for 4,886 Common damage to Morale.
+[07/07 06:40:25 AM] Nlkosi scored a hit with Ceaseless Argument on the Iron Crown Sentinel for 10,841 Lightning damage to Morale.
+[07/07 06:40:25 AM] The Iron Crown Sentinel tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[07/07 06:40:26 AM] Nlkosi scored a hit with Scribe's Spark on the Iron Crown Sentinel for 13,838 Lightning damage to Morale.
+[07/07 06:40:27 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:40:27 AM] Your mighty blow defeated the Iron Crown Sentinel.
+[07/07 06:40:27 AM] Nlkosi scored a critical hit with Shocking Words on the Iron Crown Sentinel for 92,921 Lightning damage to Morale.
+[07/07 06:41:06 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Warrior for 3,747 Fire damage to Morale.
+[07/07 06:41:07 AM] Nlkosi scored a hit with Essence of Flame on the Iron Crown Warrior for 13,356 Fire damage to Morale.
+[07/07 06:41:07 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:41:07 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Iron Crown Warrior for 12,368 Lightning damage to Morale.
+[07/07 06:41:08 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,111 points to Power.
+[07/07 06:41:08 AM] Sustenance applied a heal to Nlkosi restoring 14,256 points to Morale.
+[07/07 06:41:09 AM] Nlkosi scored a hit with Chilling Rhetoric on the Iron Crown Warrior for 5,747 Frost damage to Morale.
+[07/07 06:41:09 AM] Your mighty blow defeated the Iron Crown Warrior.
+[07/07 06:41:10 AM] Nlkosi scored a hit with Epic Conclusion on the Iron Crown Warrior for 36,642 Lightning damage to Morale.
+[07/07 06:41:35 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Sentinel for 4,252 Fire damage to Morale.
+[07/07 06:41:35 AM] Nlkosi scored a hit with Sustaining Bolt on the Iron Crown Sentinel for 4,317 Lightning damage to Morale.
+[07/07 06:41:36 AM] The Iron Crown Sentinel scored a hit with a minor ranged attack on Nlkosi for 4,071 Common damage to Morale.
+[07/07 06:41:36 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,223 points to Power.
+[07/07 06:41:36 AM] Sustenance applied a heal to Nlkosi restoring 12,481 points to Morale.
+[07/07 06:41:37 AM] Nlkosi scored a critical hit with Chilling Rhetoric on the Iron Crown Sentinel for 11,031 Frost damage to Morale.
+[07/07 06:41:38 AM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Iron Crown Sentinel for 4,572 Fire damage to Morale.
+[07/07 06:41:38 AM] The Iron Crown Sentinel scored a critical hit with a weak ranged attack on Nlkosi for 4,658 Common damage to Morale.
+[07/07 06:41:39 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Iron Crown Sentinel for 8,684 Fire damage to Morale.
+[07/07 06:41:40 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:41:40 AM] Your mighty blow defeated the Iron Crown Sentinel.
+[07/07 06:41:40 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Iron Crown Sentinel for 22,271 Lightning damage to Morale.
+[07/07 06:41:43 AM] Nlkosi scored a hit with Epic Conclusion on the Iron Crown Warrior for 31,147 Lightning damage to Morale.
+[07/07 06:41:44 AM] The Iron Crown Warrior scored a hit with a weak melee attack on Nlkosi for 3,257 Common damage to Morale.
+[07/07 06:41:46 AM] Your mighty blow defeated the Iron Crown Warrior.
+[07/07 06:41:46 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Iron Crown Warrior for 21,944 Lightning damage to Morale.
+[07/07 06:41:50 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Warrior for 4,623 Fire damage to Morale.
+[07/07 06:41:52 AM] Nlkosi scored a hit with Essence of Flame on the Iron Crown Warrior for 15,114 Fire damage to Morale.
+[07/07 06:41:52 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:41:52 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Iron Crown Warrior for 12,368 Lightning damage to Morale.
+[07/07 06:41:53 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,023 points to Power.
+[07/07 06:41:53 AM] Sustenance applied a critical heal to Nlkosi restoring 17,820 points to Morale.
+[07/07 06:41:53 AM] The Iron Crown Warrior scored a hit with a weak melee attack on Nlkosi for 3,257 Common damage to Morale.
+[07/07 06:41:53 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Warrior for 5,468 Fire damage to Morale.
+[07/07 06:41:54 AM] Nlkosi scored a hit with Writ of Lightning on the Iron Crown Warrior for 9,835 Lightning damage to Morale.
+[07/07 06:41:55 AM] The Iron Crown Warrior scored a hit with a minor melee attack on Nlkosi for 4,071 Common damage to Morale.
+[07/07 06:41:55 AM] Your mighty blow defeated the Iron Crown Warrior.
+[07/07 06:41:56 AM] Nlkosi scored a hit with Scribe's Spark on the Iron Crown Warrior for 13,294 Lightning damage to Morale.
+[07/07 06:41:57 AM] The Iron Crown Sentinel scored a hit with a weak ranged attack on Nlkosi for 3,257 Common damage to Morale.
+[07/07 06:41:57 AM] Nlkosi scored a hit with Ceaseless Argument on the Iron Crown Sentinel for 9,567 Lightning damage to Morale.
+[07/07 06:41:58 AM] Nlkosi scored a hit with Shocking Words on the Iron Crown Sentinel for 35,290 Lightning damage to Morale.
+[07/07 06:42:00 AM] Your mighty blow defeated the Iron Crown Sentinel.
+[07/07 06:42:00 AM] Nlkosi scored a hit with Scribe's Spark on the Iron Crown Sentinel for 10,521 Lightning damage to Morale.
+[07/07 06:42:14 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:42:14 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Iron Crown Warrior for 10,942 Lightning damage to Morale.
+[07/07 06:42:15 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,048 points to Power.
+[07/07 06:42:15 AM] Sustenance applied a critical heal to Nlkosi restoring 18,422 points to Morale.
+[07/07 06:42:16 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Iron Crown Warrior for 9,940 Fire damage to Morale.
+[07/07 06:42:16 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/07 06:42:17 AM] Nlkosi scored a hit with Fulgurite Strike on the Iron Crown Warrior for 2,870 Lightning damage to Morale.
+[07/07 06:42:18 AM] The Iron Crown Warrior scored a critical hit with a weak swipe attack on the Volcanic Rune-stone for 988 Common damage to Morale.
+[07/07 06:42:18 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/07 06:42:18 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Iron Crown Warrior for 9,940 Fire damage to Morale.
+[07/07 06:42:19 AM] Your mighty blow defeated the Iron Crown Warrior.
+[07/07 06:42:19 AM] Nlkosi scored a hit with Epic Conclusion on the Iron Crown Warrior for 41,201 Lightning damage to Morale.
+[07/07 06:42:29 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-horde Drake Emissary for 4,822 Fire damage to Morale.
+[07/07 06:42:30 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:42:30 AM] Nlkosi scored a critical hit with Writ of Lightning on the Frost-horde Drake Emissary for 21,317 Lightning damage to Morale.
+[07/07 06:42:31 AM] The Frost-horde Drake Emissary scored a hit with a mighty melee attack on Nlkosi for 10,705 Frost damage to Morale.
+[07/07 06:42:31 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Frost-horde Drake Emissary for 17,372 Lightning damage to Morale.
+[07/07 06:42:32 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,135 points to Power.
+[07/07 06:42:32 AM] Sustenance applied a heal to Nlkosi restoring 12,919 points to Morale.
+[07/07 06:42:32 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frost-horde Drake Emissary for 2,156 Fire damage to Morale.
+[07/07 06:42:32 AM] Nlkosi scored a hit with Essence of Storm on the Frost-horde Drake Emissary for 13,399 Lightning damage to Morale.
+[07/07 06:42:33 AM] The Frost-horde Drake Emissary scored a hit with a weak melee attack on Nlkosi for 4,758 Frost damage to Morale.
+[07/07 06:42:34 AM] Nlkosi scored a hit with Shocking Words on the Frost-horde Drake Emissary for 28,953 Lightning damage to Morale.
+[07/07 06:42:35 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frost-horde Drake Emissary for 2,895 Fire damage to Morale.
+[07/07 06:42:35 AM] Nlkosi scored a hit with Writ of Lightning on the Frost-horde Drake Emissary for 7,342 Lightning damage to Morale.
+[07/07 06:42:36 AM] Your mighty blow defeated the Frost-horde Drake Emissary.
+[07/07 06:42:36 AM] Nlkosi scored a critical hit with Scribe's Spark on the Frost-horde Drake Emissary for 32,016 Lightning damage to Morale.
+[07/07 06:42:59 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Frost-horde Drake Emissary for 9,940 Fire damage to Morale.
+[07/07 06:42:59 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/07 06:43:00 AM] The Frost-horde Drake Emissary scored a hit with a weak melee attack on the Volcanic Rune-stone for 2,409 Frost damage to Morale.
+[07/07 06:43:00 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-horde Drake Emissary for 2,789 Lightning damage to Morale.
+[07/07 06:43:00 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/07 06:43:01 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Frost-horde Drake Emissary for 9,940 Fire damage to Morale.
+[07/07 06:43:02 AM] Nlkosi scored a hit with Epic Conclusion on the Frost-horde Drake Emissary for 38,250 Lightning damage to Morale.
+[07/07 06:43:03 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Frost-horde Drake Emissary for 9,940 Fire damage to Morale.
+[07/07 06:43:03 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-horde Drake Emissary for 2,775 Lightning damage to Morale.
+[07/07 06:43:05 AM] Nlkosi scored a hit with Vivid Imagery on the Frost-horde Drake Emissary for 9,485 Lightning damage to Morale.
+[07/07 06:43:05 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Frost-horde Drake Emissary for 9,940 Fire damage to Morale.
+[07/07 06:43:06 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Frost-horde Drake Emissary but he was immune to the attempt.
+[07/07 06:43:06 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-horde Drake Emissary for 2,748 Lightning damage to Morale.
+[07/07 06:43:06 AM] Your mighty blow defeated the Frost-horde Drake Emissary.
+[07/07 06:43:06 AM] Nlkosi scored a hit with Ceaseless Argument on the Frost-horde Drake Emissary for 8,867 Lightning damage to Morale.
+[07/07 06:43:37 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Warrior for 3,340 Fire damage to Morale.
+[07/07 06:43:38 AM] Nlkosi scored a hit with Sustaining Bolt on the Iron Crown Warrior for 3,969 Lightning damage to Morale.
+[07/07 06:43:38 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,018 points to Power.
+[07/07 06:43:38 AM] Sustenance applied a critical heal to Nlkosi restoring 16,150 points to Morale.
+[07/07 06:43:39 AM] Nlkosi scored a hit with Chilling Rhetoric on the Iron Crown Warrior for 6,706 Frost damage to Morale.
+[07/07 06:43:40 AM] The Iron Crown Warrior scored a hit with a weak melee attack on Nlkosi for 3,257 Common damage to Morale.
+[07/07 06:43:40 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Iron Crown Warrior for 2,216 Fire damage to Morale.
+[07/07 06:43:40 AM] Nlkosi scored a hit with Writ of Lightning on the Iron Crown Warrior for 8,738 Lightning damage to Morale.
+[07/07 06:43:41 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Iron Crown Warrior for 9,956 Fire damage to Morale.
+[07/07 06:43:42 AM] The Iron Crown Warrior scored a hit with a weak swipe attack on Nlkosi for 3,257 Common damage to Morale.
+[07/07 06:43:44 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Warrior for 4,911 Fire damage to Morale.
+[07/07 06:43:44 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:43:44 AM] Your mighty blow defeated the Iron Crown Warrior.
+[07/07 06:43:45 AM] Nlkosi scored a critical hit with Essence of Storm on the Iron Crown Warrior for 44,594 Lightning damage to Morale.
+[07/07 06:43:47 AM] Nlkosi scored a hit with Writ of Lightning on the Frost-horde Drake Emissary for 8,730 Lightning damage to Morale.
+[07/07 06:43:48 AM] Nlkosi scored a hit with Fiery Ridicule on the Frost-horde Drake Emissary for 5,431 Fire damage to Morale.
+[07/07 06:43:50 AM] Nlkosi scored a hit with Essence of Flame on the Frost-horde Drake Emissary for 18,994 Fire damage to Morale.
+[07/07 06:43:50 AM] Your mighty blow defeated the Frost-horde Drake Emissary.
+[07/07 06:43:50 AM] Nlkosi scored a critical hit with Shocking Words on the Frost-horde Drake Emissary for 93,928 Lightning damage to Morale.
+[07/07 06:43:55 AM] Nlkosi scored a hit with Ceaseless Argument on the Iron Crown Sentinel for 11,365 Lightning damage to Morale.
+[07/07 06:43:56 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:43:56 AM] Your mighty blow defeated the Iron Crown Sentinel.
+[07/07 06:43:56 AM] Nlkosi scored a critical hit with Epic Conclusion on the Iron Crown Sentinel for 104,449 Lightning damage to Morale.
+[07/07 06:44:29 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Warrior for 3,724 Fire damage to Morale.
+[07/07 06:44:30 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:44:30 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Iron Crown Warrior for 10,238 Lightning damage to Morale.
+[07/07 06:44:30 AM] Sustaining Bolt applied a heal to Nlkosi restoring 989 points to Power.
+[07/07 06:44:30 AM] Sustenance applied a heal to Nlkosi restoring 11,221 points to Morale.
+[07/07 06:44:31 AM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[07/07 06:44:32 AM] The Iron Crown Warrior scored a hit with a weak melee attack on Nlkosi for 1,531 Common damage to Morale.
+[07/07 06:44:32 AM] Nlkosi scored a critical hit with Vivid Imagery on the Iron Crown Warrior for 24,819 Lightning damage to Morale.
+[07/07 06:44:32 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Iron Crown Warrior for 2,155 Fire damage to Morale.
+[07/07 06:44:34 AM] Your mighty blow defeated the Iron Crown Warrior.
+[07/07 06:44:34 AM] Nlkosi scored a hit with Essence of Storm on the Iron Crown Warrior for 11,708 Lightning damage to Morale.
+[07/07 06:44:36 AM] The Iron Crown Sentinel scored a hit with a minor ranged attack on Nlkosi for 1,914 Common damage to Morale.
+[07/07 06:44:37 AM] Nlkosi scored a hit with Shocking Words on the Iron Crown Sentinel for 26,211 Lightning damage to Morale.
+[07/07 06:44:38 AM] Nothing to dispel.
+[07/07 06:44:38 AM] Nlkosi scored a critical hit with Improved Final Word on the Iron Crown Sentinel.
+[07/07 06:44:40 AM] Nlkosi scored a hit with Ceaseless Argument on the Iron Crown Sentinel for 8,614 Lightning damage to Morale.
+[07/07 06:44:41 AM] Your mighty blow defeated the Iron Crown Sentinel.
+[07/07 06:44:41 AM] Nlkosi scored a hit with Epic Conclusion on the Iron Crown Sentinel for 36,025 Lightning damage to Morale.
+[07/07 06:44:48 AM] Nlkosi scored a hit with Writ of Lightning on the Iron Crown Sentinel for 9,617 Lightning damage to Morale.
+[07/07 06:44:49 AM] The Iron Crown Sentinel scored a hit with a weak ranged attack on Nlkosi for 3,159 Common damage to Morale.
+[07/07 06:44:50 AM] Nlkosi scored a hit with Essence of Flame on the Iron Crown Sentinel for 15,682 Fire damage to Morale.
+[07/07 06:44:50 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:44:50 AM] Nlkosi scored a devastating hit with Sustaining Bolt on the Iron Crown Sentinel for 18,729 Lightning damage to Morale.
+[07/07 06:44:51 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,141 points to Power.
+[07/07 06:44:51 AM] Sustenance applied a heal to Nlkosi restoring 15,667 points to Morale.
+[07/07 06:44:51 AM] The Iron Crown Sentinel scored a hit with a minor ranged attack on Nlkosi for 3,949 Common damage to Morale.
+[07/07 06:44:51 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Sentinel for 4,497 Fire damage to Morale.
+[07/07 06:44:52 AM] Your mighty blow defeated the Iron Crown Sentinel.
+[07/07 06:44:53 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Sentinel for 4,974 Fire damage to Morale.
+[07/07 06:44:57 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Sentinel for 5,394 Fire damage to Morale.
+[07/07 06:44:58 AM] The Iron Crown Sentinel scored a hit with a weak ranged attack on Nlkosi for 3,159 Common damage to Morale.
+[07/07 06:44:59 AM] Nlkosi scored a hit with Writ of Lightning on the Iron Crown Sentinel for 10,767 Lightning damage to Morale.
+[07/07 06:45:00 AM] Your mighty blow defeated the Iron Crown Sentinel.
+[07/07 06:45:00 AM] Nlkosi scored a critical hit with Essence of Storm on the Iron Crown Sentinel for 51,283 Lightning damage to Morale.
+[07/07 06:45:11 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Iron Crown Warrior for 8,211 Fire damage to Morale.
+[07/07 06:45:11 AM] Nlkosi scored a hit with Sustaining Bolt on the Iron Crown Warrior for 4,442 Lightning damage to Morale.
+[07/07 06:45:12 AM] Sustaining Bolt applied a heal to Nlkosi restoring 997 points to Power.
+[07/07 06:45:12 AM] Sustenance applied a heal to Nlkosi restoring 15,304 points to Morale.
+[07/07 06:45:12 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Warrior for 4,051 Fire damage to Morale.
+[07/07 06:45:13 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:45:13 AM] Your mighty blow defeated the Iron Crown Warrior.
+[07/07 06:45:13 AM] Nlkosi scored a critical hit with Essence of Storm on the Iron Crown Warrior for 38,231 Lightning damage to Morale.
+[07/07 06:45:24 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Iron Crown Sentinel for 9,443 Fire damage to Morale.
+[07/07 06:45:25 AM] The Iron Crown Sentinel scored a hit with a weak ranged attack on Nlkosi for 3,257 Common damage to Morale.
+[07/07 06:45:26 AM] Nlkosi scored a hit with Essence of Flame on the Iron Crown Sentinel for 12,281 Fire damage to Morale.
+[07/07 06:45:26 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:45:26 AM] Nlkosi scored a devastating hit with Writ of Lightning on the Iron Crown Sentinel for 24,694 Lightning damage to Morale.
+[07/07 06:45:27 AM] Your mighty blow defeated the Iron Crown Sentinel.
+[07/07 06:45:27 AM] Nlkosi scored a critical hit with Epic Conclusion on the Iron Crown Sentinel for 148,451 Lightning damage to Morale.
+[07/07 06:45:31 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Warrior for 5,581 Fire damage to Morale.
+[07/07 06:45:32 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Iron Crown Warrior for 14,557 Lightning damage to Morale.
+[07/07 06:45:33 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,031 points to Power.
+[07/07 06:45:33 AM] Sustenance applied a heal to Nlkosi restoring 14,481 points to Morale.
+[07/07 06:45:33 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Warrior for 6,222 Fire damage to Morale.
+[07/07 06:45:34 AM] Nlkosi scored a hit with Ceaseless Argument on the Iron Crown Warrior for 10,411 Lightning damage to Morale.
+[07/07 06:45:35 AM] The Iron Crown Warrior scored a hit with a weak melee attack on Nlkosi for 3,257 Common damage to Morale.
+[07/07 06:45:35 AM] Your mighty blow defeated the Iron Crown Warrior.
+[07/07 06:45:35 AM] Nlkosi scored a hit with Shocking Words on the Iron Crown Warrior for 25,270 Lightning damage to Morale.
+[07/07 06:45:41 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Warrior for 5,548 Fire damage to Morale.
+[07/07 06:45:43 AM] Nlkosi scored a hit with Fiery Ridicule on the Iron Crown Warrior for 4,827 Fire damage to Morale.
+[07/07 06:45:43 AM] Master of Tragedy applied a heal to Nlkosi restoring 166 points to Power.
+[07/07 06:45:44 AM] The Iron Crown Warrior scored a partially evaded hit with a weak melee attack on Nlkosi for 3,006 Common damage to Morale.
+[07/07 06:45:44 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Iron Crown Warrior for 25,412 Lightning damage to Morale.
+[07/07 06:45:45 AM] Nlkosi scored a hit with Essence of Storm on the Iron Crown Warrior for 15,388 Lightning damage to Morale.
+[07/07 06:45:45 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Iron Crown Warrior for 3,661 Fire damage to Morale.
+[07/07 06:45:45 AM] Your mighty blow defeated the Iron Crown Warrior.
+[07/07 06:45:46 AM] Nlkosi scored a hit with Vivid Imagery on the Iron Crown Warrior for 10,952 Lightning damage to Morale.
+[07/07 06:46:13 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Frost-horde Drake Emissary for 9,940 Fire damage to Morale.
+[07/07 06:46:13 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[07/07 06:46:14 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-horde Drake Emissary for 2,913 Lightning damage to Morale.
+[07/07 06:46:14 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[07/07 06:46:15 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Frost-horde Drake Emissary for 9,940 Fire damage to Morale.
+[07/07 06:46:16 AM] The Frost-horde Drake Emissary scored a hit with Ice Burst on the Volcanic Rune-stone for 5,420 Frost damage to Morale.
+[07/07 06:46:17 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Frost-horde Drake Emissary for 9,940 Fire damage to Morale.
+[07/07 06:46:17 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-horde Drake Emissary for 2,885 Lightning damage to Morale.
+[07/07 06:46:17 AM] Nlkosi scored a hit with Epic Conclusion on the Frost-horde Drake Emissary for 44,759 Lightning damage to Morale.
+[07/07 06:46:18 AM] Nothing to dispel.
+[07/07 06:46:19 AM] Nlkosi scored a hit with Improved Final Word on the Frost-horde Drake Emissary.
+[07/07 06:46:19 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Frost-horde Drake Emissary for 9,940 Fire damage to Morale.
+[07/07 06:46:20 AM] Nlkosi scored a hit with Vivid Imagery on the Frost-horde Drake Emissary for 7,424 Lightning damage to Morale.
+[07/07 06:46:20 AM] Nlkosi scored a hit with Fulgurite Strike on the Frost-horde Drake Emissary for 2,977 Lightning damage to Morale.
+[07/07 06:46:21 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Frost-horde Drake Emissary for 9,940 Fire damage to Morale.
+[07/07 06:46:21 AM] The Volcanic Rune-stone defeated the Frost-horde Drake Emissary.
+[07/07 06:46:22 AM] Nlkosi scored a hit with Shocking Words on the Frost-horde Drake Emissary for 23,734 Lightning damage to Morale.
