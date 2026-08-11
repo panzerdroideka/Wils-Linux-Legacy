@@ -21,11 +21,12 @@ sudo apt update && sudo apt full-upgrade -y
 sudo flatpak update -y
 
 echo "--- 🛠️ Kjører sikker systemrengjøring ---"
-sudo ~/scripts/fix.sh
+# sudo ~/scripts/fix.sh
+# sudo ~/scripts/clear-cache
 # clean.sh er fjernet da apt autoremove gjør jobben!
-
+sudo apt --fix-broken install
 echo "--- ⚙ Oppdaterer GRUB og rydder pakkecache ---"
-sudo apt autoremove -y && sudo apt autoclean
+sudo apt autoremove -y && sudo apt autoclean && sync
 sudo update-grub
 
 echo "--- 🔒 Klargjør for trygg hvelv-låsing ---"

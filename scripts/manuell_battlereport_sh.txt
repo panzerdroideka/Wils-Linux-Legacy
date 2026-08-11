@@ -27,23 +27,22 @@ LEVEL=$(echo "$LEVEL" | tr -d "[:space:]")
 # Fallback hvis felt står tomme
 [ -z "$KARAKTER" ] && KARAKTER="Nlkosi"
 [ -z "$LEVEL" ] && LEVEL="lvl138"
-
-DIV="==================================="
-# 3. GENERERER DEN HØYGLANSPOLERTE RAPPORTEN DIREKTE FRA RÅLOGGEN
 clear
+DIV="======================================="
+# 3. GENERERER DEN HØYGLANSPOLERTE RAPPORTEN DIREKTE FRA RÅLOGGEN
 echo -e "\n$DIV"
-echo "=== Generating Battle-report... ==="
+clear
+echo "====== Generating Battle-report..======"
 echo "⚔ WARLORD STRIDS-TELEMETRI ⚔"
 echo ""
 echo "👤 OPERATØR-PROFIL:"
 echo "• Karakter: $KARAKTER"
 echo "• Nivå: $LEVEL"
-echo "• Lokasjon: Umbar"
-echo "• Mål: the White Hand Black-arrow"
+echo "• Middle-Earth"
 echo ""
-
 # ⚡ LIGHTNING-ANGREP (Søker nå smart på kun karakternavn)
 echo "⚡ TOPP KRAFT-ANGREP (LIGHTNING):"
+
 grep "$KARAKTER" "$VALGT_FIL" | grep -i "Epic Conclusion\|Shocking Words" | head -n 6 | while read -r l; do
     # Fjerner tidsstempler [00:00:00] hvis de finnes i råteksten, og rensker setningen
     REN_LINJE=$(echo "$l" | sed -E 's/^\[.+\] //')
@@ -94,7 +93,6 @@ else
     echo "• Ingen helbredelsesdata registrert i denne økten."
 fi
 rm -f "$TMP_HEALS"
-
 echo ""
 echo "$DIV"
 echo "🔗 OPEN SOURCE & GITHUB-LENKER"
@@ -110,30 +108,56 @@ echo ""
 echo "🔗 Discord Community:"
 echo ""
 echo "https://discord.gg/7bwAhKU9h"
-echo "$DIV"
 echo ""
-echo "$DIV"
-echo ""
-echo "=============================================================="
 echo "🏷 SØKEORD & EMNEKNAGGER (TAGS)"
-echo "=============================================================="
-echo "#Shorts #TechShorts #LinuxMyth #TechFreedom #LinuxForBeginners"
-echo "#HardwareOptimization #TerminalTips #AICoPilot #BareheadedTech"
-echo "#Wils-Linux-Legacy #AntiEWaste #Kubuntu #OpenSource #GitHub"
-echo "#DataAnalysis #CombatLogs #LinuxFreedom #LotRO #GuerillaGaming"
-echo "#MMORPG #SkillQueue #NoMouseCombat #LinuxGaming #TheEdisonWay"
-echo "#BareMetalLinux #AntiWindows #MicrosoftFreedom #GreenPc"
-echo "#SaveThePlanet #EcoFriendlyGaming #KdePlasma #LinuxKubuntu"
-echo "#FreeOS #FreeGamingOS #KeyboardGaming #MouseFreeGaming"
-echo "#PrecisionGamingWithKeyboard #PureKeyboardGaming"
-echo "#GuerillaGamingOnKeyboard #OnlyKeyboardGaming"
-echo "#MmorpgOnKeyboard #KeyboardOnlyMmorpg #GamingWithoutMouse"
-echo "#RepurposePC #EcoModeGaming #NoEwasteGaming #SaveThePlanetGaming"
-echo "#NatureFriendlyGaming #GreenGaming #EcoFriendlyProfile"
-echo "#LowBudgetGaming #RepurposedGaming #Shinedown #ThreeDaysGrace"
-echo "#allDoneListeningTo #TheKillers #Helloween #OzzyOsbourne"
-echo "#IronMaiden #KISS #Nazareth #JudasPriest #Metallica #DIO"
-echo "#DeepPurple #DireStraits #Sinner #W.A.S.P. #WASP #Whitesnake"
+echo "========================================"
+
+echo "#Arkona #Heilung #KatiRan #BlazeOfPerdition #Kamelot #Savatage #Korpiklaani #BlindGuardian"
+echo "#Havukruun #Ihsahn #Tyr #Ensiferum #Thaurorod #TwilightForce #ThreeDaysGrace #TheKillers"
+echo "#Helloween #OzzyOsbourne #IronMaiden #KISS #Nazareth #Metallica #DIO #DeepPurple #DireStraits"
+echo "#Sinner #WASP #Whitesnake #MelodicDeathMetal #PowerMetal #HeavyMetal #HardRock #KeltiskMetal"
+echo "#UrMusikk #JoikMetal #PaganMetal #MetalGaming #GamingSoundtrack #AtmosphericMetal"
+echo "#MythologicalMetal #GaulishMetal #CelticFolk #SymphonicRock"
+
+echo "#LordOfTheRingsOnlineLinux #GundabadMissions #ClegurMissions #HerneMissions #ZajanaMissions"
+echo "#AnnakKhurfu #LotROGameplay #MiddleEarthGaming #LinuxMMORPG #LotRO2026 #LotROUpdate #Umbar"
+echo "#SouthIthilien #LotROCombat #LotROMissions #LotROGuide #StandingStoneGames"
+
+echo "#KeyboardGaming #MouseFreeGaming #PrecisionGamingWithKeyboard #PureKeyboardGaming"
+echo "#GuerillaGamingOnKeyboard #OnlyKeyboardGaming #MmorpgOnKeyboard #KeyboardOnlyMmorpg"
+echo "#GamingWithoutMouse #GuerillaGaming #SkillQueue #NoMouseCombat"
+
+echo "#AntiEWaste #GreenPc #SaveThePlanet #EcoFriendlyGaming #RepurposePC #EcoModeGaming"
+echo "#NoEwasteGaming #SaveThePlanetGaming #NatureFriendlyGaming #GreenGaming #EcoFriendlyProfile"
+echo "#LowBudgetGaming #RepurposedGaming #AntiWindows #MicrosoftFreedom #TechFreedom"
+
+echo "#LinuxFreedom #WineWayland #Vulkan #MangoHud #SimpleScreenRecorder #PerformanceStripping"
+echo "#DisableBaloo #KernelTuning #LinuxKernel7 #BtrfsSubvolumes #LinuxOptimization #StreamlineLinux"
+echo "#LinuxAdministrator #SystemStripping #NoMoreSnap #DebianGaming #UbuntuGaming #LinuxCustomization"
+echo "#OpenSourceGaming #PCGamingOnLinux #FreeOS #FreeGamingOS #BareMetalLinux #TerminalTips #AICoPilot"
+echo "#BareheadedTech #LinuxForBeginners #LinuxMyth #TechShorts #Shorts"
+
+echo "#AceMagicianAM08 #Ryzen7 #MiniPCGaming #FrankensteinLaptop #Samsung12GBRAM"
+echo "#HardwareOptimization #PCMonitor #ZachryAmplifier #SonySubwoofer"
+echo "#AudioEngineering #GalvanicIsolator #GroundLoopFix #HomeTheaterAudio"
+echo "#PAEquipment #Panzerdroideka #WarlordLogsPublic #TelemetryData"
+echo "#CombatLogAnalysis #EdisonWayMethodology #DataDrivenGaming"
+echo "#IfItIsntDocumentedItDidntHappen #OpenSource #GitHub #DataAnalysis"
+echo "#CombatLogs"
+
+echo "#TolkienGaming #Eriador #KhazadDum #LotROCommunity #RuneKeeperDPS #LotROTactics"
+echo "#DragonFlyCobalt #VModaAudio #AudioQuest #HiResAudio #CambridgeSoundWorks #DesktopAudio"
+echo "#AudioMonitor #PipeWire #KDEFrameworks6 #KDEPlasma6 #Kubuntu25 #WaylandCompositor"
+echo "#LinuxTerminal #ShellScripting #BashScripting #SlavicMetal #VikingMetal #DarkFolk"
+echo "#NordicMythology #EpicBattles #GamingMusic #MMORPGCommunity #ActionRPG #TechEnthusiast"
+echo "#LinuxSetup #OpenSourceSoftware #CustomPC #PCBuilds #LinuxTips #PCGamingSetup"
+
+echo "#Moonsorrow #AngusMcSIX #Skalmold #Wardruna #Vardruna #JumaltenAika #NordicFolkMetal"
+echo "#IcelandicMetal #VikingFolk #PaganFolk #EpicPowerMetal #HeavyMetalGamer #FolkMetalGamer"
+echo "#NordicRoots #TidalDiscovery #MusicForGaming #LotROSoundtrack #FantasyMetal #BattleMusic"
+echo "#EpicGamingMusic #MetalAndGaming #AtmosphericFolk #DarkPaganMetal #WarlordSoundtrack"
+echo "#MetalHeadGamer #VikingGaming"
+
 echo ""
 echo "This is the way"
 echo ""
