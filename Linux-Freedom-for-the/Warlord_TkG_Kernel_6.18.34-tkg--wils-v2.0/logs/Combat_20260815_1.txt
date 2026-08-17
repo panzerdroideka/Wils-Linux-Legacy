@@ -1,0 +1,87 @@
+### Chat Log: Combat 08/15 08:25 PM ###
+[08/15 08:27:47 PM] The Baltmau Stalker scored a hit with a weak ranged attack on Nlkosi for 3,312 Common damage to Morale.
+[08/15 08:27:49 PM] Nlkosi scored a hit with Ceaseless Argument on the Baltmau Skirmisher for 9,092 Lightning damage to Morale.
+[08/15 08:27:49 PM] The Baltmau Stalker scored a hit with a moderate ranged attack on Nlkosi for 4,554 Common damage to Morale.
+[08/15 08:27:50 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/15 08:27:50 PM] Your mighty blow defeated the Baltmau Skirmisher.
+[08/15 08:27:50 PM] Nlkosi scored a critical hit with Epic Conclusion on the Baltmau Skirmisher for 95,347 Lightning damage to Morale.
+[08/15 08:27:50 PM] The Baltmau Skirmisher scored a hit with a weak melee attack on Nlkosi for 3,974 Common damage to Morale.
+[08/15 08:27:51 PM] The Baltmau Stalker scored a partially evaded hit with a minor ranged attack on Nlkosi for 3,802 Common damage to Morale.
+[08/15 08:27:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Skirmisher for 15,610 Fire damage to Morale.
+[08/15 08:27:52 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/15 08:27:52 PM] The Baltmau Skirmisher scored a hit with a minor melee attack on Nlkosi for 4,968 Common damage to Morale.
+[08/15 08:27:53 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Skirmisher for 4,159 Lightning damage to Morale.
+[08/15 08:27:54 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/15 08:27:54 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Skirmisher for 15,610 Fire damage to Morale.
+[08/15 08:27:54 PM] The Baltmau Stalker scored a hit with Poison Arrow Attack on Nlkosi.
+[08/15 08:27:55 PM] Your mighty blow defeated the Baltmau Skirmisher.
+[08/15 08:27:55 PM] Nlkosi scored a critical hit with Static Surge on the Baltmau Skirmisher for 63,583 Lightning damage to Morale.
+[08/15 08:27:57 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Baltmau Stalker for 36,298 Lightning damage to Morale.
+[08/15 08:27:57 PM] The Baltmau Stalker scored a hit with a minor ranged attack on Nlkosi for 4,140 Common damage to Morale.
+[08/15 08:27:57 PM] The Baltmau Stalker scored a hit with Poison Arrow on Nlkosi for 2,484 Common damage to Morale.
+[08/15 08:27:58 PM] Your mighty blow defeated the Baltmau Stalker.
+[08/15 08:27:58 PM] Nlkosi scored a devastating hit with Essence of Flame on the Baltmau Stalker for 41,903 Fire damage to Morale.
+[08/15 08:28:00 PM] The Baltmau Stalker tried to use Poison Arrow on Nlkosi but he resisted the attempt.
+[08/15 08:28:03 PM] The Baltmau Stalker scored a hit with Poison Arrow on Nlkosi for 2,484 Common damage to Morale.
+[08/15 08:28:06 PM] The Baltmau Stalker scored a hit with Poison Arrow on Nlkosi for 2,484 Common damage to Morale.
+[08/15 08:28:08 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/15 08:28:09 PM] Nlkosi scored a critical hit with Scribe's Spark on the Baltmau Skirmisher for 37,282 Lightning damage to Morale.
+[08/15 08:28:09 PM] The Baltmau Skirmisher scored a hit with a weak melee attack on Nlkosi for 3,974 Common damage to Morale.
+[08/15 08:28:09 PM] The Baltmau Stalker scored a hit with Poison Arrow on Nlkosi for 2,409 Common damage to Morale.
+[08/15 08:28:11 PM] The Baltmau Skirmisher scored a hit with a moderate swipe attack on Nlkosi for 5,300 Common damage to Morale.
+[08/15 08:28:12 PM] Nlkosi scored a hit with Essence of Storm on the Baltmau Skirmisher for 13,249 Lightning damage to Morale.
+[08/15 08:28:12 PM] The Baltmau Stalker scored a hit with Poison Arrow on Nlkosi for 2,409 Common damage to Morale.
+[08/15 08:28:13 PM] Your mighty blow defeated the Baltmau Skirmisher.
+[08/15 08:28:13 PM] Nlkosi scored a devastating hit with Ceaseless Argument on the Baltmau Skirmisher for 39,145 Lightning damage to Morale.
+[08/15 08:28:13 PM] Nlkosi scored a hit with Fiery Ridicule on the Baltmau Skirmisher for 6,044 Fire damage to Morale.
+[08/15 08:28:14 PM] Your mighty blow defeated the Baltmau Skirmisher.
+[08/15 08:28:14 PM] Nlkosi scored a critical hit with Shocking Words on the Baltmau Skirmisher for 120,683 Lightning damage to Morale.
+[08/15 08:28:15 PM] The Baltmau Stalker scored a hit with Poison Arrow on Nlkosi for 2,335 Common damage to Morale.
+[08/15 08:28:17 PM] Nlkosi scored a hit with Scribe's Spark on the Baltmau Stalker for 12,171 Lightning damage to Morale.
+[08/15 08:28:18 PM] Your mighty blow defeated the Baltmau Stalker.
+[08/15 08:28:18 PM] The Baltmau Stalker scored a hit with Poison Arrow on Nlkosi for 2,335 Common damage to Morale.
+[08/15 08:28:18 PM] Nlkosi scored a devastating hit with Chilling Rhetoric on the Baltmau Stalker for 20,254 Frost damage to Morale.
+[08/15 08:28:21 PM] The Baltmau Stalker scored a hit with Poison Arrow on Nlkosi for 2,335 Common damage to Morale.
+[08/15 08:28:24 PM] The Baltmau Stalker scored a hit with Poison Arrow on Nlkosi for 2,484 Common damage to Morale.
+[08/15 08:28:28 PM] The Baltmau Stalker scored a hit with Poison Arrow on Nlkosi for 2,484 Common damage to Morale.
+[08/15 08:28:29 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Skirmisher for 15,610 Fire damage to Morale.
+[08/15 08:28:30 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/15 08:28:30 PM] The Baltmau Skirmisher scored a hit with a moderate swipe attack on the Volcanic Rune-stone for 1,226 Common damage to Morale.
+[08/15 08:28:30 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Skirmisher for 4,420 Lightning damage to Morale.
+[08/15 08:28:31 PM] The Baltmau Stalker scored a hit with Poison Arrow on Nlkosi for 2,484 Common damage to Morale.
+[08/15 08:28:31 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/15 08:28:31 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Skirmisher for 15,610 Fire damage to Morale.
+[08/15 08:28:32 PM] The Baltmau Skirmisher scored a hit with a weak melee attack on Nlkosi for 3,974 Common damage to Morale.
+[08/15 08:28:33 PM] Nlkosi scored a hit with Essence of Flame on the Baltmau Skirmisher for 16,950 Fire damage to Morale.
+[08/15 08:28:33 PM] Nlkosi scored a critical hit with Essence of Flame on the Baltmau Skirmisher for 35,392 Fire damage to Morale.
+[08/15 08:28:33 PM] The Baltmau Skirmisher scored a hit with a weak melee attack on the Volcanic Rune-stone for 892 Common damage to Morale.
+[08/15 08:28:33 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/15 08:28:33 PM] Your mighty blow defeated the Baltmau Skirmisher.
+[08/15 08:28:33 PM] Nlkosi scored a critical hit with Epic Conclusion on the Baltmau Skirmisher for 214,647 Lightning damage to Morale.
+[08/15 08:28:33 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Skirmisher for 15,948 Fire damage to Morale.
+[08/15 08:28:33 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Skirmisher for 4,609 Lightning damage to Morale.
+[08/15 08:28:34 PM] The Baltmau Skirmisher scored a hit with Light Wound on Nlkosi for 2,981 Common damage to Morale.
+[08/15 08:28:35 PM] The Baltmau Skirmisher scored a hit with Melee Min Bleed on Nlkosi.
+[08/15 08:28:35 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Skirmisher for 15,948 Fire damage to Morale.
+[08/15 08:28:35 PM] The Volcanic Rune-stone defeated the Baltmau Skirmisher.
+[08/15 08:28:36 PM] Nlkosi scored a critical hit with Scribe's Spark on the Baltmau Skirmisher for 43,369 Lightning damage to Morale.
+[08/15 08:28:37 PM] Your mighty blow defeated the Baltmau Skirmisher.
+[08/15 08:28:37 PM] Nlkosi scored a devastating hit with Chilling Rhetoric on the Baltmau Skirmisher for 21,135 Frost damage to Morale.
+[08/15 08:28:37 PM] The Baltmau Skirmisher scored a hit with Light Wound on Nlkosi for 2,981 Common damage to Morale.
+[08/15 08:28:40 PM] The Baltmau Skirmisher scored a hit with Light Wound on Nlkosi for 2,981 Common damage to Morale.
+[08/15 08:28:43 PM] The Baltmau Skirmisher tried to use Light Wound on Nlkosi but he resisted the attempt.
+[08/15 08:28:46 PM] The Baltmau Skirmisher scored a hit with Light Wound on Nlkosi for 2,981 Common damage to Morale.
+[08/15 08:28:47 PM] Nlkosi scored a hit with Scribe's Spark on the Baltmau Skirmisher for 9,161 Lightning damage to Morale.
+[08/15 08:28:49 PM] Nlkosi scored a devastating hit with Essence of Flame on the Baltmau Skirmisher for 37,005 Fire damage to Morale.
+[08/15 08:28:49 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/15 08:28:49 PM] Your mighty blow defeated the Baltmau Skirmisher.
+[08/15 08:28:50 PM] The Baltmau Skirmisher scored a hit with Light Wound on Nlkosi for 2,981 Common damage to Morale.
+[08/15 08:28:50 PM] Nlkosi scored a critical hit with Writ of Lightning on the Baltmau Skirmisher for 29,212 Lightning damage to Morale.
+[08/15 08:29:05 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/15 08:29:05 PM] Nlkosi scored a devastating hit with Sustaining Bolt on the Adagím Spitter for 18,646 Lightning damage to Morale.
+[08/15 08:29:06 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,706 points to Power.
+[08/15 08:29:06 PM] Sustenance applied a heal to Nlkosi restoring 20,117 points to Morale.
+[08/15 08:29:07 PM] Nlkosi scored a devastating hit with Chilling Rhetoric on the Adagím Spitter for 20,571 Frost damage to Morale.
+[08/15 08:29:07 PM] The Adagím Spitter tried to use a weak ranged attack on Nlkosi but he evaded the attempt.
+[08/15 08:29:08 PM] Your mighty blow defeated the Adagím Spitter.
+[08/15 08:29:08 PM] Nlkosi scored a critical hit with Essence of Flame on the Adagím Spitter for 32,319 Fire damage to Morale.

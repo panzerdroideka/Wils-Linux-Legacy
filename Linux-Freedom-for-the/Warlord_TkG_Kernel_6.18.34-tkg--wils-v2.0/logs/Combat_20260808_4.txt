@@ -1,0 +1,213 @@
+### Chat Log: Combat 08/08 08:09 PM ###
+[08/08 08:10:48 PM] Nlkosi scored a hit with Sustaining Bolt on the Mottled Craban for 5,092 Lightning damage to Morale.
+[08/08 08:10:48 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,791 points to Power.
+[08/08 08:10:48 PM] Sustenance applied a heal to Nlkosi restoring 19,924 points to Morale.
+[08/08 08:10:49 PM] Nlkosi scored a hit with Fiery Ridicule on the Mottled Craban for 5,038 Fire damage to Morale.
+[08/08 08:10:50 PM] Nlkosi scored a hit with Chilling Rhetoric on the Mottled Craban for 5,376 Frost damage to Morale.
+[08/08 08:10:50 PM] The Mottled Craban scored a hit with a minor melee attack on Nlkosi for 5,019 Common damage to Morale.
+[08/08 08:10:51 PM] Nlkosi scored a hit with Writ of Lightning on the Mottled Craban for 8,361 Lightning damage to Morale.
+[08/08 08:10:52 PM] The Mottled Craban tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[08/08 08:10:52 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Mottled Craban for 3,232 Fire damage to Morale.
+[08/08 08:10:53 PM] Nlkosi scored a hit with Essence of Storm on the Mottled Craban for 14,955 Lightning damage to Morale.
+[08/08 08:10:54 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:10:54 PM] Your mighty blow defeated the Mottled Craban.
+[08/08 08:10:54 PM] Nlkosi scored a critical hit with Vivid Imagery on the Mottled Craban for 29,557 Lightning damage to Morale.
+[08/08 08:11:02 PM] Nlkosi scored a hit with Fiery Ridicule on the Mottled Craban for 5,127 Fire damage to Morale.
+[08/08 08:11:03 PM] Nlkosi scored a hit with Essence of Flame on the Mottled Craban for 17,025 Fire damage to Morale.
+[08/08 08:11:03 PM] Nlkosi scored a hit with Fiery Ridicule on the Mottled Craban for 6,105 Fire damage to Morale.
+[08/08 08:11:04 PM] Your mighty blow defeated the Mottled Craban.
+[08/08 08:11:04 PM] Nlkosi scored a hit with Shocking Words on the Mottled Craban for 35,658 Lightning damage to Morale.
+[08/08 08:11:09 PM] Nlkosi scored a hit with Essence of Storm on the Mottled Craban for 14,679 Lightning damage to Morale.
+[08/08 08:11:10 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:11:10 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Mottled Craban for 32,263 Lightning damage to Morale.
+[08/08 08:11:11 PM] Your mighty blow defeated the Mottled Craban.
+[08/08 08:11:11 PM] Nlkosi scored a critical hit with Epic Conclusion on the Mottled Craban for 168,830 Lightning damage to Morale.
+[08/08 08:11:12 PM] The Mottled Craban scored a hit with a minor melee attack on Nlkosi for 5,019 Common damage to Morale.
+[08/08 08:11:13 PM] Nlkosi scored a hit with Static Surge on the Mottled Craban for 32,209 Lightning damage to Morale.
+[08/08 08:11:14 PM] The Mottled Craban scored a hit with a moderate melee attack on Nlkosi for 5,521 Common damage to Morale.
+[08/08 08:11:15 PM] Your mighty blow defeated the Mottled Craban.
+[08/08 08:11:15 PM] Nlkosi scored a critical hit with Scribe's Spark on the Mottled Craban for 35,212 Lightning damage to Morale.
+[08/08 08:11:24 PM] Nlkosi scored a hit with Fiery Ridicule on the Mottled Craban for 5,376 Fire damage to Morale.
+[08/08 08:11:24 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:11:24 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Mottled Craban for 15,397 Lightning damage to Morale.
+[08/08 08:11:25 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,825 points to Power.
+[08/08 08:11:25 PM] Sustenance applied a heal to Nlkosi restoring 21,031 points to Morale.
+[08/08 08:11:26 PM] Nlkosi scored a hit with Chilling Rhetoric on the Mottled Craban for 7,436 Frost damage to Morale.
+[08/08 08:11:26 PM] Nlkosi scored a hit with Fiery Ridicule on the Mottled Craban for 6,163 Fire damage to Morale.
+[08/08 08:11:27 PM] Nlkosi scored a hit with Writ of Lightning on the Mottled Craban for 12,003 Lightning damage to Morale.
+[08/08 08:11:27 PM] The Mottled Craban scored a hit with a moderate melee attack on Nlkosi for 5,691 Common damage to Morale.
+[08/08 08:11:28 PM] Your mighty blow defeated the Mottled Craban.
+[08/08 08:11:28 PM] Nlkosi scored a critical hit with Epic Conclusion on the Mottled Craban for 162,436 Lightning damage to Morale.
+[08/08 08:11:49 PM] Nlkosi scored a hit with Sustaining Bolt on the Frenzied Craban for 4,146 Lightning damage to Morale.
+[08/08 08:11:49 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,774 points to Power.
+[08/08 08:11:49 PM] Sustenance applied a heal to Nlkosi restoring 20,445 points to Morale.
+[08/08 08:11:51 PM] Nlkosi scored a critical hit with Essence of Flame on the Frenzied Craban for 27,306 Fire damage to Morale.
+[08/08 08:11:52 PM] Nlkosi scored a hit with Writ of Lightning on the Frenzied Craban for 11,372 Lightning damage to Morale.
+[08/08 08:11:52 PM] The Frenzied Craban missed trying to use a weak melee attack on Nlkosi.
+[08/08 08:11:53 PM] Nlkosi scored a hit with Ceaseless Argument on the Frenzied Craban for 13,572 Lightning damage to Morale.
+[08/08 08:11:54 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:11:54 PM] Your mighty blow defeated the Frenzied Craban.
+[08/08 08:11:54 PM] Nlkosi scored a critical hit with Vivid Imagery on the Frenzied Craban for 35,030 Lightning damage to Morale.
+[08/08 08:12:01 PM] Nlkosi scored a hit with Fiery Ridicule on the Mottled Craban for 7,077 Fire damage to Morale.
+[08/08 08:12:02 PM] Nlkosi scored a hit with Chilling Rhetoric on the Mottled Craban for 9,427 Frost damage to Morale.
+[08/08 08:12:02 PM] Nlkosi scored a hit with Writ of Lightning on the Mottled Craban for 11,694 Lightning damage to Morale.
+[08/08 08:12:04 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Mottled Craban for 3,266 Fire damage to Morale.
+[08/08 08:12:04 PM] Nlkosi scored a hit with Fiery Ridicule on the Mottled Craban for 6,583 Fire damage to Morale.
+[08/08 08:12:05 PM] The Mottled Craban scored a hit with a weak melee attack on Nlkosi for 4,139 Common damage to Morale.
+[08/08 08:12:05 PM] Nlkosi scored a hit with Sustaining Bolt on the Mottled Craban for 6,681 Lightning damage to Morale.
+[08/08 08:12:06 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,740 points to Power.
+[08/08 08:12:06 PM] Sustenance applied a heal to Nlkosi restoring 24,518 points to Morale.
+[08/08 08:12:07 PM] Nlkosi scored a hit with Fiery Ridicule on the Mottled Craban for 6,298 Fire damage to Morale.
+[08/08 08:12:07 PM] Your mighty blow defeated the Mottled Craban.
+[08/08 08:12:08 PM] Nlkosi scored a hit with Writ of Lightning on the Mottled Craban for 9,872 Lightning damage to Morale.
+[08/08 08:12:13 PM] Nlkosi scored a hit with Essence of Storm on the Frenzied Craban for 15,086 Lightning damage to Morale.
+[08/08 08:12:14 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:12:14 PM] Your mighty blow defeated the Frenzied Craban.
+[08/08 08:12:14 PM] Nlkosi scored a critical hit with Epic Conclusion on the Frenzied Craban for 154,644 Lightning damage to Morale.
+[08/08 08:12:28 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:12:28 PM] Nlkosi scored a critical hit with Essence of Storm on the Mottled Craban for 50,970 Lightning damage to Morale.
+[08/08 08:12:29 PM] Your mighty blow defeated the Mottled Craban.
+[08/08 08:12:29 PM] Nlkosi scored a hit with Shocking Words on the Mottled Craban for 42,606 Lightning damage to Morale.
+[08/08 08:12:35 PM] Nlkosi scored a hit with Fiery Ridicule on the Frenzied Craban for 5,146 Fire damage to Morale.
+[08/08 08:12:36 PM] Nlkosi scored a hit with Essence of Flame on the Frenzied Craban for 17,111 Fire damage to Morale.
+[08/08 08:12:36 PM] Nlkosi scored a hit with Sustaining Bolt on the Frenzied Craban for 6,590 Lightning damage to Morale.
+[08/08 08:12:37 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,549 points to Power.
+[08/08 08:12:37 PM] Sustenance applied a heal to Nlkosi restoring 20,275 points to Morale.
+[08/08 08:12:38 PM] Nlkosi scored a hit with Ceaseless Argument on the Frenzied Craban for 14,078 Lightning damage to Morale.
+[08/08 08:12:39 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frenzied Craban for 3,238 Fire damage to Morale.
+[08/08 08:12:39 PM] The Frenzied Craban scored a hit with a weak melee attack on Nlkosi for 4,657 Common damage to Morale.
+[08/08 08:12:41 PM] The Frenzied Craban scored a hit with a moderate melee attack on Nlkosi for 6,403 Common damage to Morale.
+[08/08 08:12:41 PM] Nlkosi scored a hit with Ceaseless Argument on the Frenzied Craban for 12,295 Lightning damage to Morale.
+[08/08 08:12:42 PM] Your mighty blow defeated the Frenzied Craban.
+[08/08 08:12:42 PM] Nlkosi scored a hit with Essence of Storm on the Frenzied Craban for 17,496 Lightning damage to Morale.
+[08/08 08:13:14 PM] Nlkosi scored a hit with Essence of Flame on the Frenzied Craban for 16,132 Fire damage to Morale.
+[08/08 08:13:15 PM] Nlkosi scored a hit with Chilling Rhetoric on the Frenzied Craban for 6,678 Frost damage to Morale.
+[08/08 08:13:16 PM] Nlkosi scored a hit with Fiery Ridicule on the Frenzied Craban for 5,218 Fire damage to Morale.
+[08/08 08:13:16 PM] Nlkosi scored a hit with Sustaining Bolt on the Frenzied Craban for 5,527 Lightning damage to Morale.
+[08/08 08:13:17 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,565 points to Power.
+[08/08 08:13:17 PM] Sustenance applied a critical heal to Nlkosi restoring 25,059 points to Morale.
+[08/08 08:13:18 PM] Nlkosi scored a hit with Essence of Storm on the Frenzied Craban for 15,503 Lightning damage to Morale.
+[08/08 08:13:18 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Frenzied Craban for 6,001 Fire damage to Morale.
+[08/08 08:13:19 PM] Your mighty blow defeated the Frenzied Craban.
+[08/08 08:13:19 PM] Nlkosi scored a hit with Epic Conclusion on the Frenzied Craban for 42,075 Lightning damage to Morale.
+[08/08 08:13:42 PM] The Frenzied Craban scored a hit with a weak melee attack on Nlkosi for 4,657 Common damage to Morale.
+[08/08 08:13:42 PM] Nlkosi scored a hit with Essence of Storm on the Frenzied Craban for 12,730 Lightning damage to Morale.
+[08/08 08:13:43 PM] The Frenzied Craban scored a hit with a moderate melee attack on Nlkosi for 6,211 Common damage to Morale.
+[08/08 08:13:44 PM] Nlkosi scored a hit with Shocking Words on the Frenzied Craban for 33,526 Lightning damage to Morale.
+[08/08 08:13:45 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:13:45 PM] Your mighty blow defeated the Frenzied Craban.
+[08/08 08:13:45 PM] Nlkosi scored a devastating hit with Scribe's Spark on the Frenzied Craban for 40,391 Lightning damage to Morale.
+[08/08 08:13:47 PM] Nlkosi scored a hit with Ceaseless Argument on the Mottled Craban for 14,306 Lightning damage to Morale.
+[08/08 08:13:50 PM] The Mottled Craban scored a hit with a minor melee attack on Nlkosi for 5,019 Common damage to Morale.
+[08/08 08:13:50 PM] Nlkosi scored a critical hit with Vivid Imagery on the Mottled Craban for 31,152 Lightning damage to Morale.
+[08/08 08:13:52 PM] Your mighty blow defeated the Mottled Craban.
+[08/08 08:13:52 PM] Nlkosi scored a devastating hit with Epic Conclusion on the Mottled Craban for 228,866 Lightning damage to Morale.
+[08/08 08:14:06 PM] Nlkosi scored a hit with Essence of Storm on the Mottled Craban for 11,749 Lightning damage to Morale.
+[08/08 08:14:07 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:14:07 PM] The Mottled Craban tried to use a moderate melee attack on Nlkosi but he evaded the attempt.
+[08/08 08:14:07 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Mottled Craban for 30,900 Lightning damage to Morale.
+[08/08 08:14:08 PM] Your mighty blow defeated the Mottled Craban.
+[08/08 08:14:08 PM] Nlkosi scored a hit with Shocking Words on the Mottled Craban for 38,927 Lightning damage to Morale.
+[08/08 08:14:11 PM] Nlkosi scored a hit with Ceaseless Argument on the Frenzied Craban for 12,081 Lightning damage to Morale.
+[08/08 08:14:12 PM] Nlkosi scored a hit with Fiery Ridicule on the Frenzied Craban for 6,553 Fire damage to Morale.
+[08/08 08:14:12 PM] Nlkosi scored a hit with Sustaining Bolt on the Frenzied Craban for 5,718 Lightning damage to Morale.
+[08/08 08:14:13 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,525 points to Power.
+[08/08 08:14:13 PM] Sustenance applied a heal to Nlkosi restoring 21,876 points to Morale.
+[08/08 08:14:14 PM] Nlkosi scored a critical hit with Writ of Lightning on the Frenzied Craban for 31,084 Lightning damage to Morale.
+[08/08 08:14:14 PM] The Frenzied Craban scored a hit with a moderate melee attack on Nlkosi for 6,211 Common damage to Morale.
+[08/08 08:14:15 PM] Nlkosi scored a hit with Fiery Ridicule on the Frenzied Craban for 7,227 Fire damage to Morale.
+[08/08 08:14:15 PM] Your mighty blow defeated the Frenzied Craban.
+[08/08 08:14:15 PM] Nlkosi scored a hit with Ceaseless Argument on the Frenzied Craban for 15,857 Lightning damage to Morale.
+[08/08 08:14:43 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Mottled Craban for 12,919 Fire damage to Morale.
+[08/08 08:14:43 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Mottled Craban for 12,919 Fire damage to Morale.
+[08/08 08:14:44 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/08 08:14:45 PM] Nlkosi scored a hit with Fulgurite Strike on the Mottled Craban for 3,388 Lightning damage to Morale.
+[08/08 08:14:45 PM] Nlkosi scored a hit with Fulgurite Strike on the Mottled Craban for 3,461 Lightning damage to Morale.
+[08/08 08:14:45 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/08 08:14:45 PM] The Mottled Craban scored a hit with a weak melee attack on the Volcanic Rune-stone for 910 Common damage to Morale.
+[08/08 08:14:45 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Mottled Craban for 12,521 Fire damage to Morale.
+[08/08 08:14:45 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Mottled Craban for 12,919 Fire damage to Morale.
+[08/08 08:14:47 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:14:47 PM] Your mighty blow defeated the Mottled Craban.
+[08/08 08:14:47 PM] Nlkosi scored a critical hit with Shocking Words on the Mottled Craban for 78,339 Lightning damage to Morale.
+[08/08 08:14:47 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Mottled Craban for 12,521 Fire damage to Morale.
+[08/08 08:14:48 PM] Nlkosi scored a hit with Fulgurite Strike on the Mottled Craban for 3,510 Lightning damage to Morale.
+[08/08 08:14:49 PM] Nlkosi scored a hit with Ceaseless Argument on the Mottled Craban for 12,686 Lightning damage to Morale.
+[08/08 08:14:49 PM] The Mottled Craban tried to use a weak melee attack on the Volcanic Rune-stone but it blocked the attempt.
+[08/08 08:14:50 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Mottled Craban for 12,521 Fire damage to Morale.
+[08/08 08:14:50 PM] The Volcanic Rune-stone defeated the Mottled Craban.
+[08/08 08:14:59 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:14:59 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Mottled Craban for 13,856 Lightning damage to Morale.
+[08/08 08:15:00 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,564 points to Power.
+[08/08 08:15:00 PM] Sustenance applied a heal to Nlkosi restoring 22,015 points to Morale.
+[08/08 08:15:01 PM] Nlkosi scored a hit with Writ of Lightning on the Mottled Craban for 11,685 Lightning damage to Morale.
+[08/08 08:15:03 PM] Your mighty blow defeated the Mottled Craban.
+[08/08 08:15:04 PM] Nlkosi scored a critical hit with Epic Conclusion on the Mottled Craban for 142,770 Lightning damage to Morale.
+[08/08 08:15:48 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/08 08:15:48 PM] The Frenzied Craban scored a partially evaded hit with a weak melee attack on Nlkosi for 4,309 Common damage to Morale.
+[08/08 08:15:48 PM] The Frenzied Craban scored a hit with a weak melee attack on Nlkosi for 4,657 Common damage to Morale.
+[08/08 08:15:49 PM] Nlkosi scored a hit with Fulgurite Strike on the Frenzied Craban for 3,577 Lightning damage to Morale.
+[08/08 08:15:49 PM] Nlkosi scored a hit with Fulgurite Strike on the Frenzied Craban for 3,496 Lightning damage to Morale.
+[08/08 08:15:49 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/08 08:15:49 PM] The Frenzied Craban scored a critical hit with a moderate melee attack on Nlkosi for 9,156 Common damage to Morale.
+[08/08 08:15:50 PM] The Frenzied Craban scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 1,408 Common damage to Morale.
+[08/08 08:15:50 PM] Nlkosi scored a hit with Epic Conclusion on the Frenzied Craban for 51,837 Lightning damage to Morale.
+[08/08 08:15:51 PM] The Frenzied Craban scored a hit with a minor melee attack on Nlkosi for 5,821 Common damage to Morale.
+[08/08 08:15:51 PM] Nlkosi scored a hit with Static Surge on the Frenzied Craban for 23,094 Lightning damage to Morale.
+[08/08 08:15:52 PM] The Frenzied Craban scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 1,280 Common damage to Morale.
+[08/08 08:15:52 PM] Nlkosi scored a hit with Fulgurite Strike on the Frenzied Craban for 3,695 Lightning damage to Morale.
+[08/08 08:15:52 PM] Nlkosi scored a hit with Fulgurite Strike on the Frenzied Craban for 3,471 Lightning damage to Morale.
+[08/08 08:15:53 PM] Your mighty blow defeated the Frenzied Craban.
+[08/08 08:15:53 PM] Nlkosi scored a hit with Essence of Storm on the Frenzied Craban for 11,796 Lightning damage to Morale.
+[08/08 08:15:55 PM] Nlkosi scored a hit with Vivid Imagery on the Frenzied Craban for 11,965 Lightning damage to Morale.
+[08/08 08:15:55 PM] Nlkosi scored a hit with Fulgurite Strike on the Frenzied Craban for 3,658 Lightning damage to Morale.
+[08/08 08:15:56 PM] The Frenzied Craban scored a partially evaded hit with a weak melee attack on Nlkosi for 4,180 Common damage to Morale.
+[08/08 08:15:56 PM] Nlkosi tried to use Induce Stunned on the Frenzied Craban but he was immune to the attempt.
+[08/08 08:15:56 PM] Your mighty blow defeated the Frenzied Craban.
+[08/08 08:15:56 PM] Nlkosi scored a hit with Shocking Words on the Frenzied Craban for 34,747 Lightning damage to Morale.
+[08/08 08:16:07 PM] Nlkosi scored a hit with Essence of Storm on the Mottled Craban for 13,019 Lightning damage to Morale.
+[08/08 08:16:08 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:16:08 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Mottled Craban for 29,918 Lightning damage to Morale.
+[08/08 08:16:09 PM] Nlkosi scored a hit with Chilling Rhetoric on the Mottled Craban for 6,719 Frost damage to Morale.
+[08/08 08:16:11 PM] Your mighty blow defeated the Mottled Craban.
+[08/08 08:16:11 PM] Nlkosi scored a critical hit with Essence of Flame on the Mottled Craban for 28,908 Fire damage to Morale.
+[08/08 08:16:22 PM] Nlkosi scored a hit with Fiery Ridicule on the Mottled Craban for 5,550 Fire damage to Morale.
+[08/08 08:16:22 PM] Nlkosi scored a hit with Sustaining Bolt on the Mottled Craban for 4,264 Lightning damage to Morale.
+[08/08 08:16:23 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,773 points to Power.
+[08/08 08:16:23 PM] Sustenance applied a heal to Nlkosi restoring 22,078 points to Morale.
+[08/08 08:16:24 PM] Nlkosi scored a hit with Fiery Ridicule on the Mottled Craban for 6,751 Fire damage to Morale.
+[08/08 08:16:24 PM] Nlkosi scored a hit with Shocking Words on the Mottled Craban for 24,693 Lightning damage to Morale.
+[08/08 08:16:26 PM] Nlkosi scored a hit with Ceaseless Argument on the Mottled Craban for 11,771 Lightning damage to Morale.
+[08/08 08:16:26 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Mottled Craban for 3,952 Fire damage to Morale.
+[08/08 08:16:26 PM] Your mighty blow defeated the Mottled Craban.
+[08/08 08:16:27 PM] Nlkosi scored a hit with Vivid Imagery on the Mottled Craban for 13,944 Lightning damage to Morale.
+[08/08 08:16:30 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:16:30 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Mottled Craban for 32,945 Lightning damage to Morale.
+[08/08 08:16:31 PM] Your mighty blow defeated the Mottled Craban.
+[08/08 08:16:31 PM] Nlkosi scored a critical hit with Epic Conclusion on the Mottled Craban for 168,830 Lightning damage to Morale.
+[08/08 08:16:35 PM] Nlkosi scored a critical hit with Essence of Storm on the Frenzied Craban for 61,494 Lightning damage to Morale.
+[08/08 08:16:36 PM] Your mighty blow defeated the Frenzied Craban.
+[08/08 08:16:36 PM] Nlkosi scored a hit with Writ of Lightning on the Frenzied Craban for 12,398 Lightning damage to Morale.
+[08/08 08:16:41 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:16:41 PM] Nlkosi scored a hit with Fiery Ridicule on the Frenzied Craban for 6,769 Fire damage to Morale.
+[08/08 08:16:42 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Frenzied Craban for 18,685 Lightning damage to Morale.
+[08/08 08:16:42 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,592 points to Power.
+[08/08 08:16:42 PM] Sustenance applied a heal to Nlkosi restoring 18,169 points to Morale.
+[08/08 08:16:43 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Frenzied Craban for 14,945 Frost damage to Morale.
+[08/08 08:16:44 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Frenzied Craban for 3,136 Fire damage to Morale.
+[08/08 08:16:44 PM] Your mighty blow defeated the Frenzied Craban.
+[08/08 08:16:45 PM] Nlkosi scored a critical hit with Essence of Flame on the Frenzied Craban for 30,918 Fire damage to Morale.
+[08/08 08:16:54 PM] Nlkosi scored a hit with Scribe's Spark on the Frenzied Craban for 13,064 Lightning damage to Morale.
+[08/08 08:16:55 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:16:55 PM] Your mighty blow defeated the Frenzied Craban.
+[08/08 08:16:55 PM] Nlkosi scored a critical hit with Epic Conclusion on the Frenzied Craban for 129,440 Lightning damage to Morale.
+[08/08 08:17:06 PM] Nlkosi scored a hit with Sustaining Bolt on the Mottled Craban for 5,062 Lightning damage to Morale.
+[08/08 08:17:06 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,525 points to Power.
+[08/08 08:17:06 PM] Sustenance applied a heal to Nlkosi restoring 17,958 points to Morale.
+[08/08 08:17:07 PM] Nlkosi scored a hit with Fiery Ridicule on the Mottled Craban for 6,186 Fire damage to Morale.
+[08/08 08:17:08 PM] The Mottled Craban scored a partially evaded hit with a weak melee attack on Nlkosi for 3,715 Common damage to Morale.
+[08/08 08:17:08 PM] Nlkosi scored a hit with Ceaseless Argument on the Mottled Craban for 12,742 Lightning damage to Morale.
+[08/08 08:17:09 PM] Nlkosi scored a hit with Shocking Words on the Mottled Craban for 34,166 Lightning damage to Morale.
+[08/08 08:17:10 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Mottled Craban for 6,738 Fire damage to Morale.
+[08/08 08:17:10 PM] Your mighty blow defeated the Mottled Craban.
+[08/08 08:17:10 PM] Nlkosi scored a hit with Essence of Storm on the Mottled Craban for 11,442 Lightning damage to Morale.

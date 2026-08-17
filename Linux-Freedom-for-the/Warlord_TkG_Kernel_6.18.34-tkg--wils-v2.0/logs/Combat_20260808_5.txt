@@ -1,0 +1,315 @@
+### Chat Log: Combat 08/08 08:22 PM ###
+[08/08 08:23:48 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:23:48 PM] Nlkosi scored a hit with Fiery Ridicule on the Feral Sickly Boar for 5,172 Fire damage to Morale.
+[08/08 08:23:48 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Feral Sickly Boar for 12,916 Lightning damage to Morale.
+[08/08 08:23:49 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,530 points to Power.
+[08/08 08:23:49 PM] Sustenance applied a heal to Nlkosi restoring 18,171 points to Morale.
+[08/08 08:23:49 PM] Nlkosi scored a hit with Fiery Ridicule on the Feral Sickly Boar for 5,133 Fire damage to Morale.
+[08/08 08:23:51 PM] Your mighty blow defeated the Feral Sickly Boar.
+[08/08 08:23:51 PM] Nlkosi scored a critical hit with Epic Conclusion on the Feral Sickly Boar for 106,218 Lightning damage to Morale.
+[08/08 08:24:00 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Healthy Ikorbâni Boar for 9,304 Fire damage to Morale.
+[08/08 08:24:00 PM] Nlkosi scored a hit with Writ of Lightning on the Healthy Ikorbâni Boar for 11,000 Lightning damage to Morale.
+[08/08 08:24:01 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Healthy Ikorbâni Boar for 11,009 Fire damage to Morale.
+[08/08 08:24:03 PM] Nlkosi scored a critical hit with Essence of Flame on the Healthy Ikorbâni Boar for 29,029 Fire damage to Morale.
+[08/08 08:24:03 PM] The Healthy Ikorbâni Boar scored a hit with a weak melee attack on Nlkosi for 4,517 Common damage to Morale.
+[08/08 08:24:03 PM] Your mighty blow defeated the Healthy Ikorbâni Boar.
+[08/08 08:24:04 PM] Nlkosi scored a hit with Shocking Touch on the Healthy Ikorbâni Boar for 5,553 Lightning damage to Morale.
+[08/08 08:24:05 PM] The Aggressive Sickly Boar scored a hit with a weak melee attack on Nlkosi for 4,517 Common damage to Morale.
+[08/08 08:24:05 PM] Nlkosi scored a hit with Vivid Imagery on the Aggressive Sickly Boar for 10,750 Lightning damage to Morale.
+[08/08 08:24:07 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:24:07 PM] Nlkosi scored a critical hit with Scribe's Spark on the Aggressive Sickly Boar for 34,417 Lightning damage to Morale.
+[08/08 08:24:08 PM] The Aggressive Sickly Boar scored a hit with a minor melee attack on Nlkosi for 5,646 Common damage to Morale.
+[08/08 08:24:08 PM] Nlkosi scored a hit with Ceaseless Argument on the Aggressive Sickly Boar for 14,768 Lightning damage to Morale.
+[08/08 08:24:09 PM] Your mighty blow defeated the Aggressive Sickly Boar.
+[08/08 08:24:09 PM] Nlkosi scored a critical hit with Writ of Lightning on the Aggressive Sickly Boar for 32,434 Lightning damage to Morale.
+[08/08 08:24:19 PM] Nlkosi scored a hit with Fiery Ridicule on the Healthy Ikorbâni Boar for 4,638 Fire damage to Morale.
+[08/08 08:24:19 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:24:19 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Healthy Ikorbâni Boar for 18,557 Lightning damage to Morale.
+[08/08 08:24:20 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,569 points to Power.
+[08/08 08:24:20 PM] Sustenance applied a heal to Nlkosi restoring 18,508 points to Morale.
+[08/08 08:24:21 PM] The Healthy Ikorbâni Boar scored a devastating hit with a moderate melee attack on Nlkosi for 11,987 Common damage to Morale.
+[08/08 08:24:21 PM] Nlkosi scored a hit with Writ of Lightning on the Healthy Ikorbâni Boar for 14,204 Lightning damage to Morale.
+[08/08 08:24:22 PM] The Feral Sickly Boar scored a hit with a moderate melee attack on Nlkosi for 8,626 Common damage to Morale.
+[08/08 08:24:22 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Healthy Ikorbâni Boar for 2,921 Fire damage to Morale.
+[08/08 08:24:23 PM] Nlkosi scored a hit with Chilling Rhetoric on the Healthy Ikorbâni Boar for 8,017 Frost damage to Morale.
+[08/08 08:24:23 PM] The Healthy Ikorbâni Boar scored a hit with a minor melee attack on Nlkosi for 5,646 Common damage to Morale.
+[08/08 08:24:23 PM] The Feral Sickly Boar scored a hit with a weak melee attack on Nlkosi for 6,273 Common damage to Morale.
+[08/08 08:24:24 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Feral Sickly Boar for 13,288 Fire damage to Morale.
+[08/08 08:24:24 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Healthy Ikorbâni Boar for 14,493 Fire damage to Morale.
+[08/08 08:24:24 PM] The Volcanic Rune-stone defeated the Healthy Ikorbâni Boar.
+[08/08 08:24:24 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/08 08:24:25 PM] Nlkosi scored a hit with Fulgurite Strike on the Feral Sickly Boar for 3,760 Lightning damage to Morale.
+[08/08 08:24:25 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/08 08:24:26 PM] Nlkosi scored a hit with Static Surge on the Feral Sickly Boar for 29,240 Lightning damage to Morale.
+[08/08 08:24:26 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Feral Sickly Boar for 13,288 Fire damage to Morale.
+[08/08 08:24:28 PM] Nlkosi scored a hit with Essence of Storm on the Feral Sickly Boar for 15,348 Lightning damage to Morale.
+[08/08 08:24:28 PM] Nlkosi scored a hit with Fulgurite Strike on the Feral Sickly Boar for 3,395 Lightning damage to Morale.
+[08/08 08:24:28 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Feral Sickly Boar for 13,288 Fire damage to Morale.
+[08/08 08:24:28 PM] The Feral Sickly Boar tried to use a weak melee attack on the Volcanic Rune-stone but it evaded the attempt.
+[08/08 08:24:29 PM] Nlkosi tried to use Induce Stunned on the Feral Sickly Boar but he was immune to the attempt.
+[08/08 08:24:29 PM] Nlkosi scored a hit with Shocking Words on the Feral Sickly Boar for 33,705 Lightning damage to Morale.
+[08/08 08:24:30 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Feral Sickly Boar for 13,288 Fire damage to Morale.
+[08/08 08:24:30 PM] The Volcanic Rune-stone defeated the Feral Sickly Boar.
+[08/08 08:24:30 PM] Nlkosi scored a hit with Ceaseless Argument on the Feral Sickly Boar for 11,013 Lightning damage to Morale.
+[08/08 08:24:35 PM] Nlkosi scored a hit with Essence of Flame on the Feral Sickly Boar for 11,681 Fire damage to Morale.
+[08/08 08:24:35 PM] Nlkosi scored a hit with Fiery Ridicule on the Feral Sickly Boar for 5,470 Fire damage to Morale.
+[08/08 08:24:35 PM] Nlkosi scored a hit with Sustaining Bolt on the Feral Sickly Boar for 5,728 Lightning damage to Morale.
+[08/08 08:24:36 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,590 points to Power.
+[08/08 08:24:36 PM] Sustenance applied a heal to Nlkosi restoring 18,003 points to Morale.
+[08/08 08:24:37 PM] Nlkosi scored a hit with Writ of Lightning on the Feral Sickly Boar for 12,017 Lightning damage to Morale.
+[08/08 08:24:38 PM] The Feral Sickly Boar scored a hit with a weak melee attack on Nlkosi for 6,273 Common damage to Morale.
+[08/08 08:24:38 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Feral Sickly Boar for 2,960 Fire damage to Morale.
+[08/08 08:24:38 PM] Nlkosi scored a hit with Epic Conclusion on the Feral Sickly Boar for 39,956 Lightning damage to Morale.
+[08/08 08:24:40 PM] The Feral Sickly Boar scored a hit with a minor melee attack on Nlkosi for 7,842 Common damage to Morale.
+[08/08 08:24:41 PM] Nlkosi scored a hit with Essence of Storm on the Feral Sickly Boar for 14,933 Lightning damage to Morale.
+[08/08 08:24:41 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Feral Sickly Boar for 3,441 Fire damage to Morale.
+[08/08 08:24:42 PM] The Feral Sickly Boar scored a hit with a weak melee attack on Nlkosi for 6,467 Common damage to Morale.
+[08/08 08:24:42 PM] Nlkosi scored a hit with Static Surge on the Feral Sickly Boar for 26,120 Lightning damage to Morale.
+[08/08 08:24:43 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:24:43 PM] Your mighty blow defeated the Feral Sickly Boar.
+[08/08 08:24:44 PM] Nlkosi scored a critical hit with Writ of Lightning on the Feral Sickly Boar for 32,014 Lightning damage to Morale.
+[08/08 08:24:50 PM] Nlkosi scored a hit with Essence of Storm on the Aggressive Sickly Boar for 16,978 Lightning damage to Morale.
+[08/08 08:24:51 PM] Nlkosi scored a hit with Shocking Words on the Aggressive Sickly Boar for 34,540 Lightning damage to Morale.
+[08/08 08:24:53 PM] Nlkosi scored a hit with Ceaseless Argument on the Aggressive Sickly Boar for 10,985 Lightning damage to Morale.
+[08/08 08:24:54 PM] Your mighty blow defeated the Aggressive Sickly Boar.
+[08/08 08:24:54 PM] Nlkosi scored a hit with Ceaseless Argument on the Aggressive Sickly Boar for 10,938 Lightning damage to Morale.
+[08/08 08:25:01 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Feral Sickly Boar for 12,919 Fire damage to Morale.
+[08/08 08:25:02 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/08 08:25:02 PM] The Feral Sickly Boar scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,422 Common damage to Morale.
+[08/08 08:25:03 PM] Nlkosi scored a hit with Fulgurite Strike on the Healthy Ikorbâni Boar for 3,597 Lightning damage to Morale.
+[08/08 08:25:03 PM] Nlkosi scored a hit with Fulgurite Strike on the Feral Sickly Boar for 3,582 Lightning damage to Morale.
+[08/08 08:25:03 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/08 08:25:03 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Healthy Ikorbâni Boar for 12,919 Fire damage to Morale.
+[08/08 08:25:03 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Feral Sickly Boar for 12,919 Fire damage to Morale.
+[08/08 08:25:04 PM] The Feral Sickly Boar scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,778 Common damage to Morale.
+[08/08 08:25:04 PM] The Healthy Ikorbâni Boar tried to use a moderate melee attack on the Volcanic Rune-stone but it parried the attempt.
+[08/08 08:25:05 PM] Nlkosi scored a hit with Essence of Storm on the Feral Sickly Boar for 13,937 Lightning damage to Morale.
+[08/08 08:25:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Healthy Ikorbâni Boar for 12,919 Fire damage to Morale.
+[08/08 08:25:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Feral Sickly Boar for 12,919 Fire damage to Morale.
+[08/08 08:25:06 PM] Nlkosi scored a hit with Fulgurite Strike on the Healthy Ikorbâni Boar for 3,593 Lightning damage to Morale.
+[08/08 08:25:06 PM] Nlkosi scored a hit with Fulgurite Strike on the Feral Sickly Boar for 3,616 Lightning damage to Morale.
+[08/08 08:25:06 PM] The Healthy Ikorbâni Boar scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,024 Common damage to Morale.
+[08/08 08:25:06 PM] Nlkosi scored a hit with Distracting Flame on the Feral Sickly Boar.
+[08/08 08:25:07 PM] Nlkosi scored a hit with Ceaseless Argument on the Feral Sickly Boar for 14,194 Lightning damage to Morale.
+[08/08 08:25:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Healthy Ikorbâni Boar for 12,919 Fire damage to Morale.
+[08/08 08:25:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Feral Sickly Boar for 13,880 Fire damage to Morale.
+[08/08 08:25:08 PM] Nlkosi scored a hit with Scribe's Spark on the Feral Sickly Boar for 14,287 Lightning damage to Morale.
+[08/08 08:25:09 PM] The Healthy Ikorbâni Boar scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,280 Common damage to Morale.
+[08/08 08:25:09 PM] Nlkosi scored a hit with Fulgurite Strike on the Healthy Ikorbâni Boar for 3,663 Lightning damage to Morale.
+[08/08 08:25:09 PM] Nlkosi scored a hit with Fulgurite Strike on the Feral Sickly Boar for 3,694 Lightning damage to Morale.
+[08/08 08:25:09 PM] Nlkosi scored a hit with Distracting Flame on the Feral Sickly Boar for 4,119 Fire damage to Morale.
+[08/08 08:25:09 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Healthy Ikorbâni Boar for 12,919 Fire damage to Morale.
+[08/08 08:25:09 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Feral Sickly Boar for 13,880 Fire damage to Morale.
+[08/08 08:25:09 PM] The Feral Sickly Boar scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,422 Common damage to Morale.
+[08/08 08:25:09 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:25:09 PM] Your mighty blow defeated the Feral Sickly Boar.
+[08/08 08:25:10 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Feral Sickly Boar for 38,932 Lightning damage to Morale.
+[08/08 08:25:11 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Healthy Ikorbâni Boar for 12,919 Fire damage to Morale.
+[08/08 08:25:11 PM] The Volcanic Rune-stone defeated the Healthy Ikorbâni Boar.
+[08/08 08:25:14 PM] Nlkosi scored a hit with Writ of Lightning on the Healthy Ikorbâni Boar for 13,573 Lightning damage to Morale.
+[08/08 08:25:15 PM] Nlkosi scored a hit with Sustaining Bolt on the Healthy Ikorbâni Boar for 6,379 Lightning damage to Morale.
+[08/08 08:25:16 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,820 points to Power.
+[08/08 08:25:16 PM] Sustenance applied a heal to Nlkosi restoring 21,639 points to Morale.
+[08/08 08:25:16 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Healthy Ikorbâni Boar for 14,632 Fire damage to Morale.
+[08/08 08:25:17 PM] Your mighty blow defeated the Healthy Ikorbâni Boar.
+[08/08 08:25:18 PM] Nlkosi scored a critical hit with Essence of Flame on the Healthy Ikorbâni Boar for 29,408 Fire damage to Morale.
+[08/08 08:25:20 PM] Nlkosi scored a hit with Essence of Storm on the Aggressive Sickly Boar for 15,272 Lightning damage to Morale.
+[08/08 08:25:22 PM] Nlkosi scored a hit with Shocking Words on the Aggressive Sickly Boar for 31,104 Lightning damage to Morale.
+[08/08 08:25:25 PM] Nlkosi scored a hit with Ceaseless Argument on the Aggressive Sickly Boar for 9,143 Lightning damage to Morale.
+[08/08 08:25:26 PM] Your mighty blow defeated the Aggressive Sickly Boar.
+[08/08 08:25:26 PM] Nlkosi scored a hit with Epic Conclusion on the Aggressive Sickly Boar for 37,115 Lightning damage to Morale.
+[08/08 08:25:29 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:25:29 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Healthy Ikorbâni Boar for 28,002 Lightning damage to Morale.
+[08/08 08:25:30 PM] Nlkosi scored a hit with Writ of Lightning on the Healthy Ikorbâni Boar for 8,654 Lightning damage to Morale.
+[08/08 08:25:31 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Healthy Ikorbâni Boar for 10,434 Fire damage to Morale.
+[08/08 08:25:32 PM] Nlkosi scored a hit with Chilling Rhetoric on the Healthy Ikorbâni Boar for 7,809 Frost damage to Morale.
+[08/08 08:25:33 PM] Your mighty blow defeated the Healthy Ikorbâni Boar.
+[08/08 08:25:33 PM] Nlkosi scored a hit with Essence of Flame on the Healthy Ikorbâni Boar for 14,846 Fire damage to Morale.
+[08/08 08:25:43 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:25:43 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Feral Sickly Boar for 11,435 Lightning damage to Morale.
+[08/08 08:25:44 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,430 points to Power.
+[08/08 08:25:44 PM] Sustenance applied a heal to Nlkosi restoring 17,987 points to Morale.
+[08/08 08:25:45 PM] Nlkosi scored a hit with Fiery Ridicule on the Feral Sickly Boar for 4,146 Fire damage to Morale.
+[08/08 08:25:46 PM] Nlkosi scored a critical hit with Shocking Touch on the Feral Sickly Boar for 10,056 Lightning damage to Morale.
+[08/08 08:25:47 PM] Nlkosi scored a hit with Vivid Imagery on the Feral Sickly Boar for 11,806 Lightning damage to Morale.
+[08/08 08:25:48 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Feral Sickly Boar for 4,533 Fire damage to Morale.
+[08/08 08:25:49 PM] Nothing to dispel.
+[08/08 08:25:49 PM] Nlkosi scored a hit with Improved Final Word on the Feral Sickly Boar.
+[08/08 08:25:51 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Feral Sickly Boar for 5,271 Fire damage to Morale.
+[08/08 08:25:51 PM] Nlkosi scored a hit with Distracting Flame on the Feral Sickly Boar.
+[08/08 08:25:51 PM] The Feral Sickly Boar scored a partially evaded hit with a weak melee attack on Nlkosi for 5,985 Common damage to Morale.
+[08/08 08:25:52 PM] Nlkosi scored a hit with Head-butt on the Feral Sickly Boar for 10,169 Common damage to Morale.
+[08/08 08:25:53 PM] Nlkosi scored a hit with Essence of Storm on the Feral Sickly Boar for 11,710 Lightning damage to Morale.
+[08/08 08:25:53 PM] The Feral Sickly Boar scored a hit with a minor melee attack on Nlkosi for 8,084 Common damage to Morale.
+[08/08 08:25:54 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Feral Sickly Boar for 2,897 Fire damage to Morale.
+[08/08 08:25:54 PM] Nlkosi scored a hit with Distracting Flame on the Feral Sickly Boar for 2,614 Fire damage to Morale.
+[08/08 08:25:55 PM] The Feral Sickly Boar scored a hit with a weak melee attack on Nlkosi for 6,467 Common damage to Morale.
+[08/08 08:25:56 PM] Nlkosi scored a hit with Static Surge on the Feral Sickly Boar for 23,402 Lightning damage to Morale.
+[08/08 08:25:57 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Feral Sickly Boar for 5,147 Fire damage to Morale.
+[08/08 08:25:57 PM] Nlkosi scored a critical hit with Distracting Flame on the Feral Sickly Boar for 5,543 Fire damage to Morale.
+[08/08 08:25:57 PM] The Feral Sickly Boar scored a hit with a moderate melee attack on Nlkosi for 8,893 Common damage to Morale.
+[08/08 08:25:58 PM] Your mighty blow defeated the Feral Sickly Boar.
+[08/08 08:25:58 PM] Nlkosi scored a hit with Shocking Words on the Feral Sickly Boar for 40,777 Lightning damage to Morale.
+[08/08 08:26:03 PM] Nlkosi scored a hit with Fiery Ridicule on the Healthy Ikorbâni Boar for 4,565 Fire damage to Morale.
+[08/08 08:26:04 PM] Nlkosi scored a hit with Essence of Flame on the Healthy Ikorbâni Boar for 16,467 Fire damage to Morale.
+[08/08 08:26:04 PM] Nlkosi scored a hit with Sustaining Bolt on the Healthy Ikorbâni Boar for 5,136 Lightning damage to Morale.
+[08/08 08:26:05 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,621 points to Power.
+[08/08 08:26:05 PM] Sustenance applied a heal to Nlkosi restoring 20,259 points to Morale.
+[08/08 08:26:05 PM] The Healthy Ikorbâni Boar scored a hit with a weak melee attack on Nlkosi for 4,657 Common damage to Morale.
+[08/08 08:26:06 PM] Nlkosi scored a hit with Epic Conclusion on the Healthy Ikorbâni Boar for 35,545 Lightning damage to Morale.
+[08/08 08:26:07 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Healthy Ikorbâni Boar for 2,896 Fire damage to Morale.
+[08/08 08:26:07 PM] Your mighty blow defeated the Healthy Ikorbâni Boar.
+[08/08 08:26:07 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:26:07 PM] Nlkosi scored a critical hit with Essence of Storm on the Healthy Ikorbâni Boar for 48,006 Lightning damage to Morale.
+[08/08 08:26:10 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Aggressive Sickly Boar for 13,567 Fire damage to Morale.
+[08/08 08:26:12 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Aggressive Sickly Boar for 11,822 Fire damage to Morale.
+[08/08 08:26:13 PM] Nlkosi scored a hit with Chilling Rhetoric on the Aggressive Sickly Boar for 8,108 Frost damage to Morale.
+[08/08 08:26:13 PM] The Aggressive Sickly Boar scored a hit with a weak melee attack on Nlkosi for 4,657 Common damage to Morale.
+[08/08 08:26:14 PM] Nlkosi scored a hit with Writ of Lightning on the Aggressive Sickly Boar for 11,335 Lightning damage to Morale.
+[08/08 08:26:14 PM] Your mighty blow defeated the Aggressive Sickly Boar.
+[08/08 08:26:14 PM] Nlkosi scored a hit with Static Surge on the Aggressive Sickly Boar for 27,452 Lightning damage to Morale.
+[08/08 08:26:20 PM] Nlkosi scored a hit with Fiery Ridicule on the Feral Sickly Boar for 6,655 Fire damage to Morale.
+[08/08 08:26:21 PM] Nlkosi scored a hit with Sustaining Bolt on the Feral Sickly Boar for 4,891 Lightning damage to Morale.
+[08/08 08:26:21 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,658 points to Power.
+[08/08 08:26:21 PM] Sustenance applied a critical heal to Nlkosi restoring 29,593 points to Morale.
+[08/08 08:26:22 PM] Nlkosi scored a hit with Fiery Ridicule on the Feral Sickly Boar for 6,041 Fire damage to Morale.
+[08/08 08:26:22 PM] The Feral Sickly Boar scored a hit with a moderate melee attack on Nlkosi for 8,893 Common damage to Morale.
+[08/08 08:26:23 PM] Nlkosi scored a hit with Essence of Storm on the Feral Sickly Boar for 11,726 Lightning damage to Morale.
+[08/08 08:26:24 PM] The Feral Sickly Boar scored a hit with a minor melee attack on Nlkosi for 8,084 Common damage to Morale.
+[08/08 08:26:24 PM] Nlkosi scored a hit with Vivid Imagery on the Feral Sickly Boar for 10,402 Lightning damage to Morale.
+[08/08 08:26:25 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Feral Sickly Boar for 4,636 Fire damage to Morale.
+[08/08 08:26:26 PM] Nlkosi scored a hit with Fiery Ridicule on the Feral Sickly Boar for 6,536 Fire damage to Morale.
+[08/08 08:26:26 PM] The Feral Sickly Boar tried to use a moderate melee attack on Nlkosi but he evaded the attempt.
+[08/08 08:26:27 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:26:27 PM] Nlkosi scored a critical hit with Writ of Lightning on the Feral Sickly Boar for 29,279 Lightning damage to Morale.
+[08/08 08:26:28 PM] Nlkosi scored a hit with Fiery Ridicule on the Feral Sickly Boar for 7,910 Fire damage to Morale.
+[08/08 08:26:29 PM] The Feral Sickly Boar scored a hit with Broken Tusk Charge on Nlkosi.
+[08/08 08:26:31 PM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[08/08 08:26:31 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 3 on the Feral Sickly Boar for 8,973 Fire damage to Morale.
+[08/08 08:26:31 PM] The Feral Sickly Boar scored a hit with Tusker Gore on Nlkosi for 22,636 Common damage to Morale.
+[08/08 08:26:31 PM] Your mighty blow defeated the Feral Sickly Boar.
+[08/08 08:26:31 PM] Nlkosi scored a critical hit with Writ of Lightning on the Feral Sickly Boar for 37,024 Lightning damage to Morale.
+[08/08 08:26:35 PM] Nlkosi scored a hit with Fiery Ridicule on the Healthy Ikorbâni Boar for 7,230 Fire damage to Morale.
+[08/08 08:26:36 PM] Nlkosi scored a hit with Writ of Lightning on the Healthy Ikorbâni Boar for 12,306 Lightning damage to Morale.
+[08/08 08:26:37 PM] The Healthy Ikorbâni Boar scored a hit with a weak melee attack on Nlkosi for 4,517 Common damage to Morale.
+[08/08 08:26:38 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Healthy Ikorbâni Boar for 4,554 Fire damage to Morale.
+[08/08 08:26:39 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/08 08:26:39 PM] Nlkosi scored a hit with Fulgurite Strike on the Healthy Ikorbâni Boar for 3,962 Lightning damage to Morale.
+[08/08 08:26:40 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/08 08:26:41 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:26:41 PM] Your mighty blow defeated the Healthy Ikorbâni Boar.
+[08/08 08:26:41 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Healthy Ikorbâni Boar for 37,409 Lightning damage to Morale.
+[08/08 08:26:44 PM] Nlkosi scored a hit with Fiery Ridicule on the Feral Sickly Boar for 6,997 Fire damage to Morale.
+[08/08 08:26:45 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Feral Sickly Boar for 23,473 Lightning damage to Morale.
+[08/08 08:26:45 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,082 points to Power.
+[08/08 08:26:45 PM] Sustenance applied a heal to Nlkosi restoring 23,866 points to Morale.
+[08/08 08:26:46 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Feral Sickly Boar for 14,832 Fire damage to Morale.
+[08/08 08:26:47 PM] Nlkosi scored a hit with Chilling Rhetoric on the Feral Sickly Boar for 8,988 Frost damage to Morale.
+[08/08 08:26:48 PM] Nlkosi scored a hit with Essence of Flame on the Feral Sickly Boar for 22,804 Fire damage to Morale.
+[08/08 08:26:49 PM] Nlkosi scored a hit with Writ of Lightning on the Feral Sickly Boar for 13,991 Lightning damage to Morale.
+[08/08 08:26:50 PM] Nlkosi scored a hit with Fiery Ridicule on the Feral Sickly Boar for 8,519 Fire damage to Morale.
+[08/08 08:26:50 PM] The Feral Sickly Boar scored a partially evaded hit with a weak melee attack on Nlkosi for 5,985 Common damage to Morale.
+[08/08 08:26:51 PM] Nlkosi scored a hit with Fiery Ridicule on the Feral Sickly Boar for 9,543 Fire damage to Morale.
+[08/08 08:26:52 PM] The Feral Sickly Boar tried to use a minor melee attack on Nlkosi but he evaded the attempt.
+[08/08 08:26:53 PM] Nlkosi scored a hit with Fiery Ridicule on the Feral Sickly Boar for 8,921 Fire damage to Morale.
+[08/08 08:26:53 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:26:53 PM] Your mighty blow defeated the Feral Sickly Boar.
+[08/08 08:26:54 PM] Nlkosi scored a critical hit with Essence of Storm on the Feral Sickly Boar for 65,562 Lightning damage to Morale.
+[08/08 08:27:00 PM] Nlkosi scored a hit with Fiery Ridicule on the Feral Sickly Boar for 6,634 Fire damage to Morale.
+[08/08 08:27:01 PM] Nlkosi scored a hit with Writ of Lightning on the Feral Sickly Boar for 9,497 Lightning damage to Morale.
+[08/08 08:27:02 PM] The Feral Sickly Boar scored a hit with a weak melee attack on Nlkosi for 6,079 Common damage to Morale.
+[08/08 08:27:02 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Feral Sickly Boar for 5,992 Fire damage to Morale.
+[08/08 08:27:04 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:27:04 PM] Nlkosi scored a critical hit with Shocking Words on the Feral Sickly Boar for 93,008 Lightning damage to Morale.
+[08/08 08:27:04 PM] Your mighty blow defeated the Feral Sickly Boar.
+[08/08 08:27:05 PM] Nlkosi scored a hit with Static Surge on the Feral Sickly Boar for 24,357 Lightning damage to Morale.
+[08/08 08:27:09 PM] Nlkosi scored a hit with Ceaseless Argument on the Aggressive Sickly Boar for 10,959 Lightning damage to Morale.
+[08/08 08:27:10 PM] Nlkosi scored a hit with Essence of Storm on the Aggressive Sickly Boar for 11,529 Lightning damage to Morale.
+[08/08 08:27:10 PM] The Aggressive Sickly Boar scored a hit with a minor melee attack on Nlkosi for 5,122 Common damage to Morale.
+[08/08 08:27:11 PM] Your mighty blow defeated the Aggressive Sickly Boar.
+[08/08 08:27:11 PM] Nlkosi scored a critical hit with Epic Conclusion on the Aggressive Sickly Boar for 155,168 Lightning damage to Morale.
+[08/08 08:27:14 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:27:14 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Healthy Ikorbâni Boar for 35,820 Lightning damage to Morale.
+[08/08 08:27:15 PM] Your mighty blow defeated the Healthy Ikorbâni Boar.
+[08/08 08:27:16 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Healthy Ikorbâni Boar for 36,348 Lightning damage to Morale.
+[08/08 08:27:21 PM] Nlkosi scored a hit with Sustaining Bolt on the Healthy Ikorbâni Boar for 6,980 Lightning damage to Morale.
+[08/08 08:27:22 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,429 points to Power.
+[08/08 08:27:22 PM] Sustenance applied a critical heal to Nlkosi restoring 24,878 points to Morale.
+[08/08 08:27:23 PM] Nlkosi scored a hit with Chilling Rhetoric on the Healthy Ikorbâni Boar for 8,296 Frost damage to Morale.
+[08/08 08:27:23 PM] Nlkosi scored a hit with Fiery Ridicule on the Healthy Ikorbâni Boar for 5,520 Fire damage to Morale.
+[08/08 08:27:24 PM] Nlkosi scored a critical hit with Scribe's Spark on the Healthy Ikorbâni Boar for 30,048 Lightning damage to Morale.
+[08/08 08:27:25 PM] Your mighty blow defeated the Healthy Ikorbâni Boar.
+[08/08 08:27:25 PM] Nlkosi scored a hit with Essence of Storm on the Healthy Ikorbâni Boar for 16,213 Lightning damage to Morale.
+[08/08 08:27:31 PM] Nlkosi scored a hit with Writ of Lightning on the Aggressive Sickly Boar for 9,949 Lightning damage to Morale.
+[08/08 08:27:32 PM] Nlkosi scored a hit with Epic Conclusion on the Aggressive Sickly Boar for 38,075 Lightning damage to Morale.
+[08/08 08:27:34 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:27:34 PM] Your mighty blow defeated the Aggressive Sickly Boar.
+[08/08 08:27:35 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Aggressive Sickly Boar for 33,448 Lightning damage to Morale.
+[08/08 08:27:37 PM] Nlkosi scored a hit with Writ of Lightning on the Feral Sickly Boar for 10,655 Lightning damage to Morale.
+[08/08 08:27:38 PM] Nlkosi scored a hit with Fiery Ridicule on the Feral Sickly Boar for 6,014 Fire damage to Morale.
+[08/08 08:27:39 PM] Nlkosi scored a hit with Essence of Flame on the Feral Sickly Boar for 16,444 Fire damage to Morale.
+[08/08 08:27:40 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Feral Sickly Boar for 20,192 Lightning damage to Morale.
+[08/08 08:27:40 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,699 points to Power.
+[08/08 08:27:40 PM] Sustenance applied a heal to Nlkosi restoring 21,392 points to Morale.
+[08/08 08:27:41 PM] The Feral Sickly Boar scored a hit with a minor melee attack on Nlkosi for 7,599 Common damage to Morale.
+[08/08 08:27:41 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Feral Sickly Boar for 38,928 Lightning damage to Morale.
+[08/08 08:27:42 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Feral Sickly Boar for 3,415 Fire damage to Morale.
+[08/08 08:27:43 PM] The Feral Sickly Boar scored a hit with a weak melee attack on Nlkosi for 6,467 Common damage to Morale.
+[08/08 08:27:43 PM] Nlkosi scored a hit with Ceaseless Argument on the Feral Sickly Boar for 17,117 Lightning damage to Morale.
+[08/08 08:27:44 PM] Your mighty blow defeated the Feral Sickly Boar.
+[08/08 08:27:44 PM] Nlkosi scored a critical hit with Vivid Imagery on the Feral Sickly Boar for 34,942 Lightning damage to Morale.
+[08/08 08:27:48 PM] Nlkosi scored a hit with Chilling Rhetoric on the Healthy Ikorbâni Boar for 9,209 Frost damage to Morale.
+[08/08 08:27:49 PM] Nlkosi scored a hit with Fiery Ridicule on the Healthy Ikorbâni Boar for 5,570 Fire damage to Morale.
+[08/08 08:27:49 PM] Your mighty blow defeated the Healthy Ikorbâni Boar.
+[08/08 08:27:49 PM] Nlkosi scored a hit with Epic Conclusion on the Healthy Ikorbâni Boar for 61,087 Lightning damage to Morale.
+[08/08 08:27:52 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:27:52 PM] Nlkosi scored a critical hit with Writ of Lightning on the Aggressive Sickly Boar for 24,098 Lightning damage to Morale.
+[08/08 08:27:53 PM] Nlkosi scored a hit with Fiery Ridicule on the Aggressive Sickly Boar for 5,304 Fire damage to Morale.
+[08/08 08:27:54 PM] Nlkosi scored a hit with Ceaseless Argument on the Aggressive Sickly Boar for 13,261 Lightning damage to Morale.
+[08/08 08:27:55 PM] The Aggressive Sickly Boar scored a hit with a weak melee attack on Nlkosi for 4,517 Common damage to Morale.
+[08/08 08:27:55 PM] Your mighty blow defeated the Aggressive Sickly Boar.
+[08/08 08:27:55 PM] Nlkosi scored a critical hit with Essence of Storm on the Aggressive Sickly Boar for 51,061 Lightning damage to Morale.
+[08/08 08:27:58 PM] Nlkosi scored a hit with Ceaseless Argument on the Feral Sickly Boar for 13,199 Lightning damage to Morale.
+[08/08 08:27:59 PM] Nlkosi scored a hit with Shocking Words on the Feral Sickly Boar for 31,412 Lightning damage to Morale.
+[08/08 08:28:00 PM] Nlkosi scored a hit with Ceaseless Argument on the Feral Sickly Boar for 9,975 Lightning damage to Morale.
+[08/08 08:28:04 PM] Nlkosi scored a hit with Ceaseless Argument on the Feral Sickly Boar for 10,537 Lightning damage to Morale.
+[08/08 08:28:05 PM] Nlkosi scored a hit with Chilling Rhetoric on the Feral Sickly Boar for 6,383 Frost damage to Morale.
+[08/08 08:28:05 PM] The Feral Sickly Boar scored a hit with a weak melee attack on Nlkosi for 5,885 Common damage to Morale.
+[08/08 08:28:06 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Feral Sickly Boar for 11,412 Fire damage to Morale.
+[08/08 08:28:06 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/08 08:28:06 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Feral Sickly Boar for 18,026 Lightning damage to Morale.
+[08/08 08:28:07 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,589 points to Power.
+[08/08 08:28:07 PM] Sustenance applied a heal to Nlkosi restoring 22,589 points to Morale.
+[08/08 08:28:08 PM] The Feral Sickly Boar scored a hit with a minor melee attack on Nlkosi for 7,357 Common damage to Morale.
+[08/08 08:28:08 PM] Nlkosi scored a hit with Ceaseless Argument on the Feral Sickly Boar for 14,143 Lightning damage to Morale.
+[08/08 08:28:08 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Feral Sickly Boar for 2,859 Fire damage to Morale.
+[08/08 08:28:09 PM] Your mighty blow defeated the Feral Sickly Boar.
+[08/08 08:28:09 PM] Nlkosi scored a hit with Essence of Storm on the Feral Sickly Boar for 11,789 Lightning damage to Morale.
+[08/08 08:29:25 PM] Nlkosi scored a hit with Fiery Ridicule on the Aggressive Sickly Boar for 3,950 Fire damage to Morale.
+[08/08 08:29:27 PM] Nlkosi scored a hit with Essence of Flame on the Aggressive Sickly Boar for 15,642 Fire damage to Morale.
+[08/08 08:29:27 PM] Nlkosi scored a hit with Sustaining Bolt on the Aggressive Sickly Boar for 5,688 Lightning damage to Morale.
+[08/08 08:29:28 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,754 points to Power.
+[08/08 08:29:28 PM] Sustenance applied a critical heal to Nlkosi restoring 27,399 points to Morale.
+[08/08 08:29:28 PM] The Aggressive Sickly Boar scored a hit with a moderate melee attack on Nlkosi for 6,403 Common damage to Morale.
+[08/08 08:29:28 PM] Nlkosi scored a hit with Fiery Ridicule on the Aggressive Sickly Boar for 7,333 Fire damage to Morale.
+[08/08 08:29:29 PM] Nlkosi scored a hit with Writ of Lightning on the Aggressive Sickly Boar for 12,352 Lightning damage to Morale.
+[08/08 08:29:30 PM] The Aggressive Sickly Boar scored a hit with a weak melee attack on Nlkosi for 4,657 Common damage to Morale.
+[08/08 08:29:30 PM] Nlkosi scored a hit with Fiery Ridicule on the Aggressive Sickly Boar for 8,253 Fire damage to Morale.
+[08/08 08:29:31 PM] Nlkosi scored a hit with Fiery Ridicule on the Aggressive Sickly Boar for 7,005 Fire damage to Morale.
+[08/08 08:29:33 PM] Your mighty blow defeated the Aggressive Sickly Boar.
+[08/08 08:29:33 PM] Nlkosi scored a hit with Fiery Ridicule on the Aggressive Sickly Boar for 8,519 Fire damage to Morale.
+[08/08 08:29:50 PM] Suginzi, the Rot-boar scored a partially evaded hit with a minor melee attack on Nlkosi for 7,481 Common damage to Morale.
+[08/08 08:29:51 PM] Nlkosi scored a hit with Ceaseless Argument on Suginzi, the Rot-boar for 8,712 Lightning damage to Morale.
+[08/08 08:29:51 PM] Suginzi, the Rot-boar scored a hit with a mighty melee attack on Nlkosi for 14,552 Common damage to Morale.
+[08/08 08:29:52 PM] Nlkosi scored a hit with Epic Conclusion on Suginzi, the Rot-boar for 35,823 Lightning damage to Morale.
+[08/08 08:29:53 PM] Nlkosi scored a hit with Volcanic Rune-stone on Suginzi, the Rot-boar for 12,919 Fire damage to Morale.
+[08/08 08:29:53 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/08 08:29:53 PM] Suginzi, the Rot-boar scored a hit with a moderate melee attack on Nlkosi for 8,626 Common damage to Morale.
+[08/08 08:29:54 PM] Nlkosi scored a hit with Fulgurite Strike on Suginzi, the Rot-boar for 3,724 Lightning damage to Morale.
+[08/08 08:29:54 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/08 08:29:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on Suginzi, the Rot-boar for 12,919 Fire damage to Morale.
+[08/08 08:29:55 PM] Nlkosi scored a hit with Static Surge on Suginzi, the Rot-boar for 28,493 Lightning damage to Morale.
+[08/08 08:29:57 PM] Nlkosi scored a hit with Fulgurite Strike on Suginzi, the Rot-boar for 3,762 Lightning damage to Morale.
+[08/08 08:29:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on Suginzi, the Rot-boar for 12,919 Fire damage to Morale.
+[08/08 08:29:57 PM] Your mighty blow defeated Suginzi, the Rot-boar.
+[08/08 08:29:58 PM] Nlkosi scored a hit with Essence of Storm on Suginzi, the Rot-boar for 16,949 Lightning damage to Morale.

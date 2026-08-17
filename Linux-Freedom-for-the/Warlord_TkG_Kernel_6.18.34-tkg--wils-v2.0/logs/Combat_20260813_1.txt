@@ -1,0 +1,275 @@
+### Chat Log: Combat 08/13 08:40 PM ###
+[08/13 08:42:36 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/13 08:42:36 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Urâshi Blade for 12,604 Lightning damage to Morale.
+[08/13 08:42:37 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,705 points to Power.
+[08/13 08:42:37 PM] Sustenance applied a critical heal to Nlkosi restoring 26,783 points to Morale.
+[08/13 08:42:38 PM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Blade for 6,609 Frost damage to Morale.
+[08/13 08:42:39 PM] Your mighty blow defeated the Urâshi Blade.
+[08/13 08:42:39 PM] Nlkosi scored a devastating hit with Essence of Flame on the Urâshi Blade for 33,839 Fire damage to Morale.
+[08/13 08:42:45 PM] The Urâshi Cutthroat tried to use a melee triple attack on Nlkosi but he evaded the attempt.
+[08/13 08:42:46 PM] The Urâshi Cutthroat scored a hit with a melee triple attack on Nlkosi for 1,577 Common damage to Morale.
+[08/13 08:42:47 PM] The Urâshi Cutthroat scored a hit with a melee triple attack on Nlkosi for 1,577 Common damage to Morale.
+[08/13 08:42:47 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/13 08:42:47 PM] Your mighty blow defeated the Urâshi Blade.
+[08/13 08:42:48 PM] Nlkosi scored a devastating hit with Shocking Words on the Urâshi Blade for 101,519 Lightning damage to Morale.
+[08/13 08:42:49 PM] The Urâshi Cutthroat scored a partially evaded hit with a weak melee attack on Nlkosi for 2,899 Common damage to Morale.
+[08/13 08:42:49 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Cutthroat for 11,856 Lightning damage to Morale.
+[08/13 08:42:50 PM] The Urâshi Cutthroat tried to use a moderate melee attack on Nlkosi but he evaded the attempt.
+[08/13 08:42:51 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Urâshi Cutthroat for 30,411 Lightning damage to Morale.
+[08/13 08:42:52 PM] The Urâshi Blade scored a hit with a weak melee attack on Nlkosi for 3,153 Common damage to Morale.
+[08/13 08:42:52 PM] Your mighty blow defeated the Urâshi Cutthroat.
+[08/13 08:42:52 PM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Cutthroat for 59,666 Lightning damage to Morale.
+[08/13 08:42:53 PM] The Urâshi Blade scored a hit with a melee double attack on Nlkosi for 3,153 Common damage to Morale.
+[08/13 08:42:54 PM] Your mighty blow defeated the Urâshi Blade.
+[08/13 08:42:54 PM] Nlkosi scored a devastating hit with Epic Conclusion on the Urâshi Blade for 195,150 Lightning damage to Morale.
+[08/13 08:42:59 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Blade for 5,831 Fire damage to Morale.
+[08/13 08:43:00 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Urâshi Blade for 17,346 Frost damage to Morale.
+[08/13 08:43:00 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/13 08:43:00 PM] Your mighty blow defeated the Urâshi Blade.
+[08/13 08:43:00 PM] Nlkosi scored a devastating hit with Sustaining Bolt on the Urâshi Blade for 24,228 Lightning damage to Morale.
+[08/13 08:43:01 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,683 points to Power.
+[08/13 08:43:01 PM] Sustenance applied a critical heal to Nlkosi restoring 24,166 points to Morale.
+[08/13 08:43:15 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Cutthroat for 4,119 Fire damage to Morale.
+[08/13 08:43:16 PM] Nlkosi scored a devastating hit with Chilling Rhetoric on the Urâshi Cutthroat for 17,584 Frost damage to Morale.
+[08/13 08:43:16 PM] The Urâshi Cutthroat tried to use a minor melee attack on Nlkosi but he evaded the attempt.
+[08/13 08:43:16 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Cutthroat for 5,034 Fire damage to Morale.
+[08/13 08:43:16 PM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Cutthroat for 4,957 Lightning damage to Morale.
+[08/13 08:43:17 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,679 points to Power.
+[08/13 08:43:17 PM] Sustenance applied a critical heal to Nlkosi restoring 22,710 points to Morale.
+[08/13 08:43:18 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/13 08:43:18 PM] Your mighty blow defeated the Urâshi Cutthroat.
+[08/13 08:43:18 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Urâshi Cutthroat for 28,720 Lightning damage to Morale.
+[08/13 08:43:24 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Urâshi Rat-master for 15,420 Fire damage to Morale.
+[08/13 08:43:24 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Keeper's Rat for 16,707 Fire damage to Morale.
+[08/13 08:43:24 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 08:43:24 PM] The Urâshi Rat-master scored a hit with Command Wolf on the Volcanic Rune-stone.
+[08/13 08:43:25 PM] The Keeper's Rat scored a hit with a weak melee attack on the Volcanic Rune-stone for 578 Common damage to Morale.
+[08/13 08:43:26 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Urâshi Rat-master for 15,420 Fire damage to Morale.
+[08/13 08:43:26 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Keeper's Rat for 16,707 Fire damage to Morale.
+[08/13 08:43:27 PM] The Keeper's Rat scored a hit with a melee double attack on the Volcanic Rune-stone for 578 Common damage to Morale.
+[08/13 08:43:27 PM] The Keeper's Rat scored a hit with a melee double attack on the Volcanic Rune-stone for 578 Common damage to Morale.
+[08/13 08:43:27 PM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Rat-master for 4,215 Lightning damage to Morale.
+[08/13 08:43:27 PM] Nlkosi scored a hit with Fulgurite Strike on the Keeper's Rat for 4,320 Lightning damage to Morale.
+[08/13 08:43:27 PM] The Charged Fulgurite Rune-stone defeated the Keeper's Rat.
+[08/13 08:43:27 PM] The Urâshi Rat-master scored a critical hit with a weak melee attack on the Volcanic Rune-stone for 910 Common damage to Morale.
+[08/13 08:43:27 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 08:43:28 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Urâshi Rat-master for 15,420 Fire damage to Morale.
+[08/13 08:43:28 PM] The Volcanic Rune-stone defeated the Urâshi Rat-master.
+[08/13 08:43:42 PM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Apothecary for 8,837 Lightning damage to Morale.
+[08/13 08:43:43 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/13 08:43:43 PM] Your mighty blow defeated the Urâshi Apothecary.
+[08/13 08:43:44 PM] Nlkosi scored a critical hit with Shocking Words on the Urâshi Apothecary for 72,762 Lightning damage to Morale.
+[08/13 08:44:01 PM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Cutthroat for 7,250 Frost damage to Morale.
+[08/13 08:44:01 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/13 08:44:01 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Urâshi Cutthroat for 14,754 Fire damage to Morale.
+[08/13 08:44:01 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Urâshi Cutthroat for 16,343 Lightning damage to Morale.
+[08/13 08:44:02 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,646 points to Power.
+[08/13 08:44:02 PM] Sustenance applied a heal to Nlkosi restoring 20,385 points to Morale.
+[08/13 08:44:03 PM] Your mighty blow defeated the Urâshi Cutthroat.
+[08/13 08:44:03 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Cutthroat for 18,782 Fire damage to Morale.
+[08/13 08:44:06 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Rat-master for 4,364 Fire damage to Morale.
+[08/13 08:44:08 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Rat-master for 4,631 Fire damage to Morale.
+[08/13 08:44:09 PM] The Urâshi Rat-master scored a hit with a moderate thrown attack on Nlkosi for 4,335 Common damage to Morale.
+[08/13 08:44:09 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Urâshi Rat-master for 16,765 Fire damage to Morale.
+[08/13 08:44:10 PM] The Urâshi Rat-master scored a hit with a weak thrown attack on Nlkosi for 3,153 Common damage to Morale.
+[08/13 08:44:11 PM] Nlkosi scored a hit with Essence of Storm on the Urâshi Rat-master for 18,206 Lightning damage to Morale.
+[08/13 08:44:11 PM] The Keeper's Rat scored a critical hit with a weak melee attack on Nlkosi for 4,163 Common damage to Morale.
+[08/13 08:44:11 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/13 08:44:11 PM] Your mighty blow defeated the Urâshi Rat-master.
+[08/13 08:44:12 PM] Nlkosi scored a critical hit with Epic Conclusion on the Urâshi Rat-master for 153,261 Lightning damage to Morale.
+[08/13 08:44:13 PM] The Keeper's Rat scored a hit with a melee double attack on Nlkosi for 2,911 Common damage to Morale.
+[08/13 08:44:13 PM] The Keeper's Rat scored a hit with a melee double attack on Nlkosi for 2,911 Common damage to Morale.
+[08/13 08:44:13 PM] Nlkosi scored a hit with Vivid Imagery on the Keeper's Rat for 12,530 Lightning damage to Morale.
+[08/13 08:44:15 PM] Your mighty blow defeated the Keeper's Rat.
+[08/13 08:44:15 PM] Nlkosi scored a devastating hit with Shocking Words on the Keeper's Rat for 100,756 Lightning damage to Morale.
+[08/13 08:44:25 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/13 08:44:25 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Blade for 11,158 Fire damage to Morale.
+[08/13 08:44:26 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Urâshi Blade for 14,836 Lightning damage to Morale.
+[08/13 08:44:26 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,975 points to Power.
+[08/13 08:44:26 PM] Sustenance applied a heal to Nlkosi restoring 17,754 points to Morale.
+[08/13 08:44:27 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Blade for 4,274 Fire damage to Morale.
+[08/13 08:44:29 PM] The Urâshi Blade scored a hit with a weak melee attack on Nlkosi for 3,153 Common damage to Morale.
+[08/13 08:44:29 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Blade for 5,948 Fire damage to Morale.
+[08/13 08:44:30 PM] Your mighty blow defeated the Urâshi Blade.
+[08/13 08:44:30 PM] Nlkosi scored a devastating hit with Chilling Rhetoric on the Urâshi Blade for 18,644 Frost damage to Morale.
+[08/13 08:44:33 PM] Nlkosi scored a hit with Distracting Flame on the Urâshi Cutthroat.
+[08/13 08:44:34 PM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Cutthroat for 11,625 Lightning damage to Morale.
+[08/13 08:44:35 PM] Your mighty blow defeated the Urâshi Cutthroat.
+[08/13 08:44:35 PM] Nlkosi scored a critical hit with Scribe's Spark on the Urâshi Cutthroat for 42,569 Lightning damage to Morale.
+[08/13 08:44:41 PM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Apothecary for 4,318 Lightning damage to Morale.
+[08/13 08:44:41 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 08:44:43 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Urâshi Apothecary for 16,254 Fire damage to Morale.
+[08/13 08:44:43 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 08:44:44 PM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Apothecary for 4,177 Lightning damage to Morale.
+[08/13 08:44:44 PM] Nlkosi tried to use Induce Stunned on the Urâshi Apothecary but he was immune to the attempt.
+[08/13 08:44:44 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/13 08:44:44 PM] Your mighty blow defeated the Urâshi Apothecary.
+[08/13 08:44:45 PM] Nlkosi scored a critical hit with Shocking Words on the Urâshi Apothecary for 127,880 Lightning damage to Morale.
+[08/13 08:45:00 PM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Blade for 5,991 Frost damage to Morale.
+[08/13 08:45:00 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Blade for 3,985 Fire damage to Morale.
+[08/13 08:45:01 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Blade for 13,078 Fire damage to Morale.
+[08/13 08:45:02 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Blade for 6,565 Fire damage to Morale.
+[08/13 08:45:03 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/13 08:45:03 PM] Your mighty blow defeated the Urâshi Blade.
+[08/13 08:45:03 PM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Blade for 54,863 Lightning damage to Morale.
+[08/13 08:45:08 PM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Blade for 4,324 Lightning damage to Morale.
+[08/13 08:45:08 PM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Blade for 4,002 Lightning damage to Morale.
+[08/13 08:45:08 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 08:45:10 PM] The Urâshi Blade scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 699 Common damage to Morale.
+[08/13 08:45:11 PM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Blade for 4,372 Lightning damage to Morale.
+[08/13 08:45:11 PM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Blade for 4,029 Lightning damage to Morale.
+[08/13 08:45:11 PM] The Urâshi Blade scored a hit with a melee double attack on the Charged Fulgurite Rune-stone for 699 Common damage to Morale.
+[08/13 08:45:12 PM] Your mighty blow defeated the Urâshi Blade.
+[08/13 08:45:12 PM] The Urâshi Blade scored a partially blocked hit with a melee double attack on the Charged Fulgurite Rune-stone for 451 Common damage to Morale.
+[08/13 08:45:12 PM] Nlkosi scored a hit with Shocking Words on the Urâshi Blade for 41,690 Lightning damage to Morale.
+[08/13 08:45:14 PM] The Urâshi Blade scored a partially parried hit with a weak melee attack on the Charged Fulgurite Rune-stone for 451 Common damage to Morale.
+[08/13 08:45:14 PM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Blade for 3,991 Lightning damage to Morale.
+[08/13 08:45:15 PM] Nlkosi scored a hit with Epic Conclusion on the Urâshi Apothecary for 37,686 Lightning damage to Morale.
+[08/13 08:45:16 PM] The Urâshi Blade scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 874 Common damage to Morale.
+[08/13 08:45:16 PM] The Urâshi Apothecary scored a hit with a minor ranged attack on Nlkosi for 4,138 Common damage to Morale.
+[08/13 08:45:17 PM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Blade for 4,289 Lightning damage to Morale.
+[08/13 08:45:17 PM] Nlkosi scored a hit with Distracting Flame on the Urâshi Blade.
+[08/13 08:45:18 PM] The Urâshi Blade scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 699 Common damage to Morale.
+[08/13 08:45:18 PM] Nlkosi scored a hit with Essence of Storm on the Urâshi Blade for 13,981 Lightning damage to Morale.
+[08/13 08:45:18 PM] The Urâshi Apothecary scored a hit with a moderate ranged attack on Nlkosi for 4,552 Common damage to Morale.
+[08/13 08:45:19 PM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Blade for 6,448 Lightning damage to Morale.
+[08/13 08:45:20 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,888 points to Power.
+[08/13 08:45:20 PM] Sustenance applied a heal to Nlkosi restoring 19,645 points to Morale.
+[08/13 08:45:20 PM] Nlkosi scored a hit with Distracting Flame on the Urâshi Blade for 2,766 Fire damage to Morale.
+[08/13 08:45:21 PM] The Urâshi Apothecary scored a hit with a weak ranged attack on Nlkosi for 3,311 Common damage to Morale.
+[08/13 08:45:21 PM] Your mighty blow defeated the Urâshi Blade.
+[08/13 08:45:21 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Blade for 5,449 Fire damage to Morale.
+[08/13 08:45:21 PM] Nlkosi scored a hit with Static Surge on the Urâshi Blade for 27,529 Lightning damage to Morale.
+[08/13 08:45:23 PM] Your mighty blow defeated the Urâshi Apothecary.
+[08/13 08:45:23 PM] Nlkosi scored a hit with Ceaseless Argument on the Urâshi Apothecary for 13,051 Lightning damage to Morale.
+[08/13 08:45:43 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Apothecary for 9,936 Lightning damage to Morale.
+[08/13 08:45:44 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Urâshi Apothecary for 16,189 Frost damage to Morale.
+[08/13 08:45:44 PM] The Urâshi Apothecary scored a critical hit with a weak ranged attack on Nlkosi for 4,734 Common damage to Morale.
+[08/13 08:45:44 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Apothecary for 6,653 Fire damage to Morale.
+[08/13 08:45:45 PM] Your mighty blow defeated the Urâshi Apothecary.
+[08/13 08:45:45 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Apothecary for 19,275 Fire damage to Morale.
+[08/13 08:46:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Urâshi Rat-master for 14,587 Fire damage to Morale.
+[08/13 08:46:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Keeper's Rat for 15,804 Fire damage to Morale.
+[08/13 08:46:13 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 08:46:13 PM] The Keeper's Rat scored a critical hit with a minor melee attack on the Volcanic Rune-stone for 940 Common damage to Morale.
+[08/13 08:46:13 PM] The Urâshi Rat-master scored a partially evaded hit with a minor melee attack on the Volcanic Rune-stone for 564 Common damage to Morale.
+[08/13 08:46:14 PM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Rat-master for 4,106 Lightning damage to Morale.
+[08/13 08:46:14 PM] Nlkosi scored a hit with Fulgurite Strike on the Keeper's Rat for 4,320 Lightning damage to Morale.
+[08/13 08:46:14 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 08:46:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Urâshi Rat-master for 14,587 Fire damage to Morale.
+[08/13 08:46:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Keeper's Rat for 15,804 Fire damage to Morale.
+[08/13 08:46:15 PM] The Urâshi Rat-master scored a critical hit with a moderate melee attack on the Volcanic Rune-stone for 1,252 Common damage to Morale.
+[08/13 08:46:16 PM] Nlkosi scored a hit with Distracting Flame on the Urâshi Rat-master.
+[08/13 08:46:16 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/13 08:46:16 PM] Your mighty blow defeated the Urâshi Rat-master.
+[08/13 08:46:17 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Keeper's Rat for 15,804 Fire damage to Morale.
+[08/13 08:46:17 PM] The Volcanic Rune-stone defeated the Keeper's Rat.
+[08/13 08:46:17 PM] Nlkosi scored a critical hit with Essence of Storm on the Urâshi Rat-master for 55,865 Lightning damage to Morale.
+[08/13 08:46:22 PM] Nlkosi scored a hit with Shocking Words on the Urâshi Blade for 41,855 Lightning damage to Morale.
+[08/13 08:46:23 PM] Your mighty blow defeated the Urâshi Blade.
+[08/13 08:46:24 PM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Blade for 7,083 Frost damage to Morale.
+[08/13 08:46:33 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Apothecary for 17,956 Fire damage to Morale.
+[08/13 08:46:33 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Urâshi Apothecary for 16,788 Fire damage to Morale.
+[08/13 08:46:33 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/13 08:46:33 PM] Your mighty blow defeated the Urâshi Apothecary.
+[08/13 08:46:33 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Urâshi Apothecary for 17,809 Lightning damage to Morale.
+[08/13 08:46:34 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,685 points to Power.
+[08/13 08:46:34 PM] Sustenance applied a heal to Nlkosi restoring 20,207 points to Morale.
+[08/13 08:47:01 PM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Cutthroat for 7,060 Frost damage to Morale.
+[08/13 08:47:03 PM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Cutthroat for 5,458 Lightning damage to Morale.
+[08/13 08:47:03 PM] The Urâshi Cutthroat scored a hit with a weak melee attack on Nlkosi for 3,153 Common damage to Morale.
+[08/13 08:47:04 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,676 points to Power.
+[08/13 08:47:04 PM] Sustenance applied a heal to Nlkosi restoring 21,093 points to Morale.
+[08/13 08:47:05 PM] Nlkosi scored a hit with Head-butt on the Urâshi Cutthroat for 10,971 Common damage to Morale.
+[08/13 08:47:05 PM] The Urâshi Cutthroat tried to use a minor melee attack on Nlkosi but he evaded the attempt.
+[08/13 08:47:07 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Cutthroat for 9,982 Lightning damage to Morale.
+[08/13 08:47:07 PM] The Urâshi Cutthroat scored a hit with a weak melee attack on Nlkosi for 3,153 Common damage to Morale.
+[08/13 08:47:08 PM] Your mighty blow defeated the Urâshi Cutthroat.
+[08/13 08:47:09 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Cutthroat for 15,974 Fire damage to Morale.
+[08/13 08:47:21 PM] Nlkosi scored a hit with Fulgurite Strike on the Urâshi Blade for 4,247 Lightning damage to Morale.
+[08/13 08:47:22 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 08:47:23 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Urâshi Blade for 14,587 Fire damage to Morale.
+[08/13 08:47:23 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 08:47:24 PM] The Urâshi Blade scored a hit with a melee double attack on the Volcanic Rune-stone for 699 Common damage to Morale.
+[08/13 08:47:24 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/13 08:47:24 PM] Your mighty blow defeated the Urâshi Blade.
+[08/13 08:47:24 PM] Nlkosi scored a critical hit with Shocking Words on the Urâshi Blade for 85,642 Lightning damage to Morale.
+[08/13 08:47:26 PM] Nlkosi scored a hit with Essence of Storm on the Urâshi Rat-master for 14,961 Lightning damage to Morale.
+[08/13 08:47:28 PM] The Urâshi Rat-master scored a hit with a weak thrown attack on Nlkosi for 3,058 Common damage to Morale.
+[08/13 08:47:28 PM] Nlkosi scored a hit with Scribe's Spark on the Urâshi Rat-master for 14,513 Lightning damage to Morale.
+[08/13 08:47:29 PM] The Urâshi Rat-master scored a partially evaded hit with a minor thrown attack on Nlkosi for 3,515 Common damage to Morale.
+[08/13 08:47:31 PM] Nlkosi scored a hit with Fulgurite Strike on the Keeper's Rat for 4,483 Lightning damage to Morale.
+[08/13 08:47:31 PM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Rat-master for 7,956 Frost damage to Morale.
+[08/13 08:47:31 PM] The Urâshi Rat-master scored a hit with a moderate thrown attack on Nlkosi for 4,205 Common damage to Morale.
+[08/13 08:47:32 PM] Your mighty blow defeated the Urâshi Rat-master.
+[08/13 08:47:33 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Rat-master for 16,702 Fire damage to Morale.
+[08/13 08:47:34 PM] Your mighty blow defeated the Keeper's Rat.
+[08/13 08:47:34 PM] Nlkosi scored a critical hit with Writ of Lightning on the Keeper's Rat for 37,627 Lightning damage to Morale.
+[08/13 08:48:01 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/13 08:48:01 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Blade for 4,818 Fire damage to Morale.
+[08/13 08:48:01 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Urâshi Blade for 13,535 Lightning damage to Morale.
+[08/13 08:48:02 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,672 points to Power.
+[08/13 08:48:02 PM] Sustenance applied a critical heal to Nlkosi restoring 28,632 points to Morale.
+[08/13 08:48:02 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Blade for 5,661 Fire damage to Morale.
+[08/13 08:48:03 PM] The Urâshi Blade scored a hit with a weak melee attack on Nlkosi for 3,153 Common damage to Morale.
+[08/13 08:48:04 PM] Your mighty blow defeated the Urâshi Blade.
+[08/13 08:48:04 PM] Nlkosi scored a critical hit with Essence of Flame on the Urâshi Blade for 28,686 Fire damage to Morale.
+[08/13 08:48:20 PM] Nothing to dispel.
+[08/13 08:48:20 PM] Nlkosi scored a critical hit with Improved Final Word on the Urâshi Apothecary.
+[08/13 08:48:21 PM] The Urâshi Apothecary scored a hit with a weak ranged attack on Nlkosi for 3,311 Common damage to Morale.
+[08/13 08:48:22 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Apothecary for 10,023 Lightning damage to Morale.
+[08/13 08:48:23 PM] Nlkosi scored a hit with Shocking Words on the Urâshi Apothecary for 30,000 Lightning damage to Morale.
+[08/13 08:48:24 PM] Your mighty blow defeated the Urâshi Apothecary.
+[08/13 08:48:24 PM] Nlkosi scored a hit with Essence of Storm on the Urâshi Apothecary for 11,294 Lightning damage to Morale.
+[08/13 08:48:56 PM] Nothing to dispel.
+[08/13 08:48:56 PM] Nlkosi scored a hit with Improved Final Word on the Urâshi Blade.
+[08/13 08:48:57 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 6,537 points to Morale.
+[08/13 08:48:57 PM] Nlkosi applied a critical benefit with Prelude to Hope on Nlkosi.
+[08/13 08:48:58 PM] The Urâshi Blade scored a hit with a weak melee attack on Nlkosi for 3,153 Common damage to Morale.
+[08/13 08:48:58 PM] You have lost 3,153 points of temporary Morale!
+[08/13 08:48:58 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,786 points to Morale.
+[08/13 08:48:58 PM] Nlkosi applied a critical benefit with Word of Exaltation on Nlkosi.
+[08/13 08:48:59 PM] Nlkosi scored a hit with Writ of Lightning on the Urâshi Blade for 10,030 Lightning damage to Morale.
+[08/13 08:48:59 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,998 points to Morale.
+[08/13 08:49:00 PM] The Urâshi Blade scored a hit with a moderate melee attack on Nlkosi for 4,335 Common damage to Morale.
+[08/13 08:49:00 PM] You have lost 4,335 points of temporary Morale!
+[08/13 08:49:00 PM] Nlkosi scored a hit with Shocking Touch on the Urâshi Blade for 5,345 Lightning damage to Morale.
+[08/13 08:49:00 PM] Prelude to Hope applied a heal to Nlkosi restoring 2,021 points to Morale.
+[08/13 08:49:01 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,723 points to Morale.
+[08/13 08:49:01 PM] Nlkosi scored a hit with Chilling Rhetoric on the Urâshi Blade for 7,779 Frost damage to Morale.
+[08/13 08:49:02 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,774 points to Morale.
+[08/13 08:49:02 PM] The Urâshi Blade scored a partially evaded hit with a minor melee attack on Nlkosi for 3,624 Common damage to Morale.
+[08/13 08:49:02 PM] You have lost 3,624 points of temporary Morale!
+[08/13 08:49:03 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Blade for 19,385 Fire damage to Morale.
+[08/13 08:49:03 PM] Your mighty blow defeated the Urâshi Blade.
+[08/13 08:49:03 PM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Blade for 6,730 Lightning damage to Morale.
+[08/13 08:49:03 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,438 points to Morale.
+[08/13 08:49:04 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,039 points to Power.
+[08/13 08:49:04 PM] Sustenance applied a critical heal to Nlkosi restoring 31,456 points to Morale.
+[08/13 08:49:04 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,845 points to Morale.
+[08/13 08:49:05 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,472 points to Morale.
+[08/13 08:49:06 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,524 points to Morale.
+[08/13 08:49:07 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,609 points to Morale.
+[08/13 08:49:08 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,829 points to Morale.
+[08/13 08:49:09 PM] You have lost 27,494 points of temporary Morale!
+[08/13 08:49:10 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,552 points to Morale.
+[08/13 08:49:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on Samûku for 14,587 Fire damage to Morale.
+[08/13 08:49:16 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 08:49:17 PM] Samûku scored a hit with a mighty melee attack on the Volcanic Rune-stone for 2,439 Common damage to Morale.
+[08/13 08:49:17 PM] Nlkosi scored a hit with Fulgurite Strike on Samûku for 4,154 Lightning damage to Morale.
+[08/13 08:49:17 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 08:49:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on Samûku for 14,587 Fire damage to Morale.
+[08/13 08:49:18 PM] Nothing to dispel.
+[08/13 08:49:18 PM] Nlkosi scored a hit with Epic Conclusion on Samûku for 49,038 Lightning damage to Morale.
+[08/13 08:49:18 PM] Nlkosi scored a critical hit with Improved Final Word on Samûku.
+[08/13 08:49:20 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/13 08:49:20 PM] Your mighty blow defeated Samûku.
+[08/13 08:49:20 PM] Nlkosi scored a critical hit with Vivid Imagery on Samûku for 31,680 Lightning damage to Morale.
+[08/13 08:49:30 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Urâshi Blade for 15,183 Frost damage to Morale.
+[08/13 08:49:30 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Blade for 5,139 Fire damage to Morale.
+[08/13 08:49:31 PM] Nlkosi scored a hit with Essence of Flame on the Urâshi Blade for 17,150 Fire damage to Morale.
+[08/13 08:49:31 PM] Nlkosi scored a hit with Sustaining Bolt on the Urâshi Blade for 7,522 Lightning damage to Morale.
+[08/13 08:49:32 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,160 points to Power.
+[08/13 08:49:32 PM] Sustenance applied a heal to Nlkosi restoring 16,708 points to Morale.
+[08/13 08:49:33 PM] Your mighty blow defeated the Urâshi Blade.
+[08/13 08:49:33 PM] Nlkosi scored a hit with Fiery Ridicule on the Urâshi Blade for 6,664 Fire damage to Morale.

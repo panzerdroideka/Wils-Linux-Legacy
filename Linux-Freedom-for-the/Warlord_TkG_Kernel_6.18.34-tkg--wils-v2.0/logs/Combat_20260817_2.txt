@@ -1,0 +1,304 @@
+### Chat Log: Combat 08/17 04:38 PM ###
+[08/17 05:20:53 PM] Nlkosi scored a hit with Free Mind on the Enthralled Servant.
+[08/17 05:21:01 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Bow-master for 16,180 Fire damage to Morale.
+[08/17 05:21:01 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:21:02 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/17 05:21:02 PM] The Baltmau Bow-master scored a hit with a weak melee attack on the Volcanic Rune-stone for 786 Common damage to Morale.
+[08/17 05:21:02 PM] The Baltmau Invader scored a hit with a moderate swipe attack on the Volcanic Rune-stone for 1,297 Common damage to Morale.
+[08/17 05:21:03 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Bow-master for 4,537 Lightning damage to Morale.
+[08/17 05:21:03 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Invader for 4,516 Lightning damage to Morale.
+[08/17 05:21:03 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/17 05:21:03 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:21:03 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Bow-master for 16,180 Fire damage to Morale.
+[08/17 05:21:05 PM] The Baltmau Invader scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,179 Common damage to Morale.
+[08/17 05:21:05 PM] Your mighty blow defeated the Baltmau Bow-master.
+[08/17 05:21:05 PM] Nlkosi scored a hit with Epic Conclusion on the Baltmau Bow-master for 50,443 Lightning damage to Morale.
+[08/17 05:21:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:21:06 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Invader for 4,476 Lightning damage to Morale.
+[08/17 05:21:06 PM] Your mighty blow defeated the Baltmau Invader.
+[08/17 05:21:06 PM] Nlkosi scored a hit with Vivid Imagery on the Baltmau Invader for 9,378 Lightning damage to Morale.
+[08/17 05:21:17 PM] Nlkosi scored a hit with Free Mind on the Enthralled Servant.
+[08/17 05:21:21 PM] Nlkosi scored a hit with Chilling Rhetoric on the Baltmau Bow-master for 7,139 Frost damage to Morale.
+[08/17 05:21:22 PM] Nlkosi scored a hit with Fiery Ridicule on the Baltmau Bow-master for 4,213 Fire damage to Morale.
+[08/17 05:21:23 PM] The Baltmau Bow-master scored a hit with a minor ranged attack on Nlkosi for 5,103 Common damage to Morale.
+[08/17 05:21:23 PM] Nlkosi scored a hit with Essence of Flame on the Baltmau Bow-master for 18,005 Fire damage to Morale.
+[08/17 05:21:23 PM] Master of Tragedy applied a heal to Nlkosi restoring 280 points to Power.
+[08/17 05:21:24 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Baltmau Bow-master for 16,235 Lightning damage to Morale.
+[08/17 05:21:24 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,876 points to Power.
+[08/17 05:21:24 PM] Sustenance applied a heal to Nlkosi restoring 17,304 points to Morale.
+[08/17 05:21:25 PM] The Baltmau Bow-master scored a hit with a weak ranged attack on Nlkosi for 4,083 Common damage to Morale.
+[08/17 05:21:26 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Baltmau Bow-master for 6,113 Fire damage to Morale.
+[08/17 05:21:26 PM] Your mighty blow defeated the Baltmau Bow-master.
+[08/17 05:21:32 PM] Nlkosi scored a hit with Fiery Ridicule on the Baltmau Invader for 6,129 Fire damage to Morale.
+[08/17 05:21:33 PM] Nlkosi scored a hit with Fiery Ridicule on the Baltmau Invader for 5,430 Fire damage to Morale.
+[08/17 05:21:34 PM] Nlkosi scored a hit with Fiery Ridicule on the Baltmau Invader for 6,200 Fire damage to Morale.
+[08/17 05:21:35 PM] The Baltmau Invader scored a hit with a moderate swipe attack on Nlkosi for 5,858 Common damage to Morale.
+[08/17 05:21:35 PM] Nlkosi scored a hit with Essence of Storm on the Baltmau Invader for 18,568 Lightning damage to Morale.
+[08/17 05:21:37 PM] Nlkosi scored a hit with Ceaseless Argument on the Baltmau Invader for 11,620 Lightning damage to Morale.
+[08/17 05:21:37 PM] The Baltmau Invader scored a hit with a weak melee attack on Nlkosi for 4,260 Common damage to Morale.
+[08/17 05:21:37 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Baltmau Invader for 4,976 Fire damage to Morale.
+[08/17 05:21:38 PM] Master of Tragedy applied a heal to Nlkosi restoring 280 points to Power.
+[08/17 05:21:38 PM] Your mighty blow defeated the Baltmau Invader.
+[08/17 05:21:38 PM] Nlkosi scored a critical hit with Shocking Words on the Baltmau Invader for 110,556 Lightning damage to Morale.
+[08/17 05:21:57 PM] The Enthralled Servant scored a hit with a melee double attack on Nlkosi for 4,260 Common damage to Morale.
+[08/17 05:21:58 PM] The Enthralled Servant scored a hit with a melee double attack on Nlkosi for 4,260 Common damage to Morale.
+[08/17 05:21:58 PM] Nlkosi scored a hit with Free Mind on the Enthralled Servant.
+[08/17 05:22:20 PM] Nlkosi scored a hit with Distracting Flame on the Baltmau Bow-master.
+[08/17 05:22:21 PM] Nlkosi scored a hit with Ceaseless Argument on the Baltmau Bow-master for 10,992 Lightning damage to Morale.
+[08/17 05:22:22 PM] Your mighty blow defeated the Baltmau Bow-master.
+[08/17 05:22:22 PM] Nlkosi scored a hit with Epic Conclusion on the Baltmau Bow-master for 44,614 Lightning damage to Morale.
+[08/17 05:22:25 PM] Master of Tragedy applied a heal to Nlkosi restoring 280 points to Power.
+[08/17 05:22:25 PM] Nlkosi scored a critical hit with Essence of Storm on the Baltmau Invader for 57,688 Lightning damage to Morale.
+[08/17 05:22:26 PM] Your mighty blow defeated the Baltmau Invader.
+[08/17 05:22:26 PM] Nlkosi scored a hit with Scribe's Spark on the Baltmau Invader for 18,611 Lightning damage to Morale.
+[08/17 05:22:29 PM] The Enthralled Servant tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[08/17 05:22:31 PM] The Enthralled Servant scored a hit with a minor melee attack on Nlkosi for 5,165 Common damage to Morale.
+[08/17 05:22:33 PM] Nlkosi scored a hit with Free Mind on the Enthralled Servant.
+[08/17 05:22:43 PM] The Enthralled Servant scored a hit with a strong melee attack on Nlkosi for 6,390 Common damage to Morale.
+[08/17 05:22:45 PM] The Enthralled Servant scored a hit with a weak melee attack on Nlkosi for 4,260 Common damage to Morale.
+[08/17 05:22:46 PM] Nlkosi scored a hit with Free Mind on the Enthralled Servant.
+[08/17 05:23:17 PM] Nlkosi scored a hit with Free Mind on the Enthralled Servant.
+[08/17 05:23:31 PM] The Enthralled Servant scored a hit with a weak melee attack on Nlkosi for 4,260 Common damage to Morale.
+[08/17 05:23:33 PM] The Enthralled Servant scored a hit with a strong melee attack on Nlkosi for 6,390 Common damage to Morale.
+[08/17 05:23:33 PM] Nlkosi scored a hit with Free Mind on the Enthralled Servant.
+[08/17 05:23:50 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:23:50 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Bow-master for 16,180 Fire damage to Morale.
+[08/17 05:23:50 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/17 05:23:51 PM] The Baltmau Bow-master scored a hit with a minor melee attack on the Volcanic Rune-stone for 983 Common damage to Morale.
+[08/17 05:23:51 PM] The Baltmau Invader scored a hit with a weak melee attack on the Volcanic Rune-stone for 943 Common damage to Morale.
+[08/17 05:23:51 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Invader for 4,445 Lightning damage to Morale.
+[08/17 05:23:51 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Bow-master for 4,442 Lightning damage to Morale.
+[08/17 05:23:52 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/17 05:23:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:23:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Bow-master for 16,180 Fire damage to Morale.
+[08/17 05:23:53 PM] The Baltmau Invader scored a hit with a moderate melee attack on the Volcanic Rune-stone for 1,297 Common damage to Morale.
+[08/17 05:23:54 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:23:54 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Bow-master for 16,180 Fire damage to Morale.
+[08/17 05:23:54 PM] The Volcanic Rune-stone defeated the Baltmau Bow-master.
+[08/17 05:23:54 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Invader for 4,426 Lightning damage to Morale.
+[08/17 05:23:55 PM] The Baltmau Invader scored a hit with a weak melee attack on the Volcanic Rune-stone for 943 Common damage to Morale.
+[08/17 05:23:56 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:23:56 PM] The Volcanic Rune-stone defeated the Baltmau Invader.
+[08/17 05:23:56 PM] Nlkosi scored a hit with Distracting Flame on the Baltmau Invader.
+[08/17 05:24:19 PM] Nlkosi scored a hit with Distracting Flame on the Baltmau Invader.
+[08/17 05:24:20 PM] The Baltmau Invader scored a hit with Light Wound on Nlkosi for 3,195 Common damage to Morale.
+[08/17 05:24:20 PM] The Baltmau Invader scored a hit with Melee Min Bleed on Nlkosi.
+[08/17 05:24:20 PM] Master of Tragedy applied a heal to Nlkosi restoring 280 points to Power.
+[08/17 05:24:20 PM] Nlkosi scored a critical hit with Essence of Storm on the Baltmau Invader for 50,427 Lightning damage to Morale.
+[08/17 05:24:21 PM] Nlkosi scored a hit with Sustaining Bolt on the Baltmau Invader for 6,542 Lightning damage to Morale.
+[08/17 05:24:22 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,845 points to Power.
+[08/17 05:24:22 PM] Sustenance applied a critical heal to Nlkosi restoring 27,413 points to Morale.
+[08/17 05:24:22 PM] The Baltmau Invader scored a critical hit with a weak melee attack on Nlkosi for 6,092 Common damage to Morale.
+[08/17 05:24:22 PM] Nlkosi scored a hit with Distracting Flame on the Baltmau Invader for 3,268 Fire damage to Morale.
+[08/17 05:24:22 PM] Your mighty blow defeated the Baltmau Invader.
+[08/17 05:24:23 PM] The Baltmau Invader scored a hit with Light Wound on Nlkosi for 3,099 Common damage to Morale.
+[08/17 05:24:23 PM] Nlkosi scored a hit with Shocking Touch on the Baltmau Invader for 5,293 Lightning damage to Morale.
+[08/17 05:24:26 PM] The Baltmau Invader tried to use Light Wound on Nlkosi but he resisted the attempt.
+[08/17 05:24:29 PM] The Baltmau Invader scored a hit with Light Wound on Nlkosi for 3,099 Common damage to Morale.
+[08/17 05:24:32 PM] The Baltmau Invader scored a hit with Light Wound on Nlkosi for 3,099 Common damage to Morale.
+[08/17 05:24:35 PM] The Baltmau Invader scored a hit with Light Wound on Nlkosi for 3,195 Common damage to Morale.
+[08/17 05:24:52 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Invader for 4,546 Lightning damage to Morale.
+[08/17 05:24:52 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Bow-master for 4,602 Lightning damage to Morale.
+[08/17 05:24:53 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/17 05:24:53 PM] The Baltmau Bow-master tried to use a weak melee attack on the Charged Fulgurite Rune-stone but it parried the attempt.
+[08/17 05:24:53 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:24:53 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Bow-master for 16,180 Fire damage to Morale.
+[08/17 05:24:54 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/17 05:24:55 PM] The Baltmau Bow-master scored a partially blocked hit with a minor melee attack on the Volcanic Rune-stone for 634 Common damage to Morale.
+[08/17 05:24:55 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Invader for 4,494 Lightning damage to Morale.
+[08/17 05:24:55 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Bow-master for 4,675 Lightning damage to Morale.
+[08/17 05:24:56 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:24:56 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Bow-master for 16,180 Fire damage to Morale.
+[08/17 05:24:57 PM] The Baltmau Invader tried to use a weak melee attack on the Volcanic Rune-stone but it evaded the attempt.
+[08/17 05:24:57 PM] The Baltmau Bow-master scored a hit with a weak melee attack on the Volcanic Rune-stone for 786 Common damage to Morale.
+[08/17 05:24:57 PM] Your mighty blow defeated the Baltmau Bow-master.
+[08/17 05:24:57 PM] Nlkosi scored a hit with Shocking Words on the Baltmau Bow-master for 29,886 Lightning damage to Morale.
+[08/17 05:24:58 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:24:58 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Invader for 4,626 Lightning damage to Morale.
+[08/17 05:24:58 PM] The Charged Fulgurite Rune-stone defeated the Baltmau Invader.
+[08/17 05:25:15 PM] The Baltmau Invader scored a hit with a weak melee attack on Nlkosi for 4,260 Common damage to Morale.
+[08/17 05:25:15 PM] Nlkosi scored a hit with Essence of Storm on the Baltmau Invader for 10,225 Lightning damage to Morale.
+[08/17 05:25:17 PM] Nlkosi scored a hit with Epic Conclusion on the Baltmau Invader for 38,402 Lightning damage to Morale.
+[08/17 05:25:17 PM] The Baltmau Invader scored a hit with a minor melee attack on Nlkosi for 5,325 Common damage to Morale.
+[08/17 05:25:19 PM] The Baltmau Invader scored a hit with a weak melee attack on Nlkosi for 4,260 Common damage to Morale.
+[08/17 05:25:21 PM] The Baltmau Invader scored a hit with a moderate swipe attack on Nlkosi for 5,858 Common damage to Morale.
+[08/17 05:25:22 PM] Master of Tragedy applied a heal to Nlkosi restoring 280 points to Power.
+[08/17 05:25:22 PM] Your mighty blow defeated the Baltmau Invader.
+[08/17 05:25:22 PM] Nlkosi scored a critical hit with Writ of Lightning on the Baltmau Invader for 26,242 Lightning damage to Morale.
+[08/17 05:25:39 PM] Nlkosi scored a hit with Essence of Flame on the Baltmau Bow-master for 12,800 Fire damage to Morale.
+[08/17 05:25:39 PM] Nlkosi scored a hit with Chilling Rhetoric on the Baltmau Bow-master for 6,259 Frost damage to Morale.
+[08/17 05:25:40 PM] Master of Tragedy applied a heal to Nlkosi restoring 280 points to Power.
+[08/17 05:25:40 PM] Nlkosi scored a hit with Fiery Ridicule on the Baltmau Bow-master for 6,112 Fire damage to Morale.
+[08/17 05:25:40 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Baltmau Bow-master for 16,235 Lightning damage to Morale.
+[08/17 05:25:41 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,077 points to Power.
+[08/17 05:25:41 PM] Sustenance applied a critical heal to Nlkosi restoring 27,741 points to Morale.
+[08/17 05:25:41 PM] Nlkosi scored a hit with Fiery Ridicule on the Baltmau Bow-master for 5,663 Fire damage to Morale.
+[08/17 05:25:42 PM] The Baltmau Bow-master scored a hit with Fire Arrow Attack on Nlkosi for 17,521 Fire damage to Morale.
+[08/17 05:25:43 PM] Your mighty blow defeated the Baltmau Bow-master.
+[08/17 05:25:43 PM] Nlkosi scored a hit with Fiery Ridicule on the Baltmau Bow-master for 6,200 Fire damage to Morale.
+[08/17 05:25:48 PM] Nlkosi scored a hit with Fiery Ridicule on the Baltmau Bow-master for 6,395 Fire damage to Morale.
+[08/17 05:25:49 PM] Nlkosi scored a hit with Writ of Lightning on the Baltmau Bow-master for 10,151 Lightning damage to Morale.
+[08/17 05:25:49 PM] The Baltmau Bow-master scored a hit with a weak ranged attack on Nlkosi for 4,083 Common damage to Morale.
+[08/17 05:25:50 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Baltmau Bow-master for 13,685 Fire damage to Morale.
+[08/17 05:25:51 PM] The Enthralled Servant scored a partially evaded hit with a weak melee attack on Nlkosi for 3,922 Common damage to Morale.
+[08/17 05:25:53 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on the Baltmau Bow-master for 7,597 Fire damage to Morale.
+[08/17 05:25:53 PM] The Enthralled Servant scored a hit with a minor melee attack on Nlkosi for 5,325 Common damage to Morale.
+[08/17 05:25:53 PM] The Baltmau Bow-master scored a hit with Poison Arrow Attack on Nlkosi.
+[08/17 05:25:55 PM] The Enthralled Servant scored a hit with a weak melee attack on Nlkosi for 4,260 Common damage to Morale.
+[08/17 05:25:56 PM] Nlkosi scored a hit with Chilling Rhetoric on the Baltmau Bow-master for 8,902 Frost damage to Morale.
+[08/17 05:25:56 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Baltmau Bow-master for 4,838 Fire damage to Morale.
+[08/17 05:25:56 PM] Your mighty blow defeated the Baltmau Bow-master.
+[08/17 05:25:56 PM] The Baltmau Bow-master scored a hit with Poison Arrow on Nlkosi for 3,062 Common damage to Morale.
+[08/17 05:25:57 PM] The Enthralled Servant scored a critical hit with a strong melee attack on Nlkosi for 9,138 Common damage to Morale.
+[08/17 05:25:58 PM] Nlkosi scored a hit with Free Mind on the Enthralled Servant.
+[08/17 05:25:59 PM] The Baltmau Bow-master scored a hit with Poison Arrow on Nlkosi for 3,062 Common damage to Morale.
+[08/17 05:26:01 PM] The Enthralled Servant scored a hit with a weak melee attack on Nlkosi for 4,260 Common damage to Morale.
+[08/17 05:26:02 PM] The Baltmau Bow-master scored a hit with Poison Arrow on Nlkosi for 3,062 Common damage to Morale.
+[08/17 05:26:04 PM] The Enthralled Servant scored a hit with a moderate melee attack on Nlkosi for 5,858 Common damage to Morale.
+[08/17 05:26:04 PM] Nlkosi scored a hit with Free Mind on the Enthralled Servant.
+[08/17 05:26:05 PM] The Baltmau Bow-master scored a hit with Poison Arrow on Nlkosi for 3,062 Common damage to Morale.
+[08/17 05:26:08 PM] The Baltmau Bow-master scored a hit with Poison Arrow on Nlkosi for 3,062 Common damage to Morale.
+[08/17 05:26:11 PM] The Baltmau Bow-master scored a hit with Poison Arrow on Nlkosi for 3,062 Common damage to Morale.
+[08/17 05:26:14 PM] The Baltmau Bow-master scored a hit with Poison Arrow on Nlkosi for 3,062 Common damage to Morale.
+[08/17 05:26:17 PM] The Baltmau Bow-master scored a hit with Poison Arrow on Nlkosi for 3,062 Common damage to Morale.
+[08/17 05:26:18 PM] Nlkosi scored a devastating hit with Distracting Flame on the Baltmau Bow-master.
+[08/17 05:26:18 PM] Master of Tragedy applied a heal to Nlkosi restoring 280 points to Power.
+[08/17 05:26:18 PM] Your mighty blow defeated the Baltmau Bow-master.
+[08/17 05:26:19 PM] Nlkosi scored a critical hit with Shocking Words on the Baltmau Bow-master for 86,051 Lightning damage to Morale.
+[08/17 05:26:20 PM] The Baltmau Bow-master scored a hit with Poison Arrow on Nlkosi for 3,062 Common damage to Morale.
+[08/17 05:26:23 PM] The Baltmau Invader scored a hit with Light Wound on Nlkosi for 3,195 Common damage to Morale.
+[08/17 05:26:23 PM] The Baltmau Invader scored a hit with Melee Min Bleed on Nlkosi.
+[08/17 05:26:23 PM] The Baltmau Bow-master scored a hit with Poison Arrow on Nlkosi for 3,062 Common damage to Morale.
+[08/17 05:26:23 PM] Nlkosi scored a hit with Essence of Storm on the Baltmau Invader for 11,489 Lightning damage to Morale.
+[08/17 05:26:25 PM] Nlkosi scored a hit with Vivid Imagery on the Baltmau Invader for 14,516 Lightning damage to Morale.
+[08/17 05:26:26 PM] The Baltmau Invader scored a hit with Light Wound on Nlkosi for 3,195 Common damage to Morale.
+[08/17 05:26:26 PM] The Baltmau Bow-master scored a hit with Poison Arrow on Nlkosi for 3,062 Common damage to Morale.
+[08/17 05:26:26 PM] Your mighty blow defeated the Baltmau Invader.
+[08/17 05:26:27 PM] Nlkosi scored a hit with Epic Conclusion on the Baltmau Invader for 60,297 Lightning damage to Morale.
+[08/17 05:26:29 PM] The Baltmau Invader scored a hit with Light Wound on Nlkosi for 3,195 Common damage to Morale.
+[08/17 05:26:29 PM] The Baltmau Bow-master scored a hit with Poison Arrow on Nlkosi for 3,062 Common damage to Morale.
+[08/17 05:26:32 PM] The Baltmau Invader scored a hit with Light Wound on Nlkosi for 3,195 Common damage to Morale.
+[08/17 05:26:35 PM] The Baltmau Invader scored a hit with Light Wound on Nlkosi for 3,195 Common damage to Morale.
+[08/17 05:26:38 PM] The Baltmau Invader scored a hit with Light Wound on Nlkosi for 3,195 Common damage to Morale.
+[08/17 05:26:48 PM] Nlkosi scored a hit with Free Mind on the Enthralled Servant.
+[08/17 05:27:21 PM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[08/17 05:27:33 PM] Self-motivation applied a heal to Nlkosi restoring 3,433 points to Power.
+[08/17 05:27:33 PM] Nlkosi applied a benefit with Self-motivation on Nlkosi.
+[08/17 05:27:36 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Devastator for 16,180 Fire damage to Morale.
+[08/17 05:27:36 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Obliterator for 16,180 Fire damage to Morale.
+[08/17 05:27:36 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/17 05:27:37 PM] The Idagâl Obliterator scored a hit with a weak melee attack on the Volcanic Rune-stone for 943 Common damage to Morale.
+[08/17 05:27:37 PM] The Idagâl Devastator scored a critical hit with a weak melee attack on the Volcanic Rune-stone for 1,433 Common damage to Morale.
+[08/17 05:27:38 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Devastator for 16,180 Fire damage to Morale.
+[08/17 05:27:38 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Obliterator for 16,180 Fire damage to Morale.
+[08/17 05:27:39 PM] Nlkosi scored a hit with Fulgurite Strike on the Idagâl Devastator for 4,570 Lightning damage to Morale.
+[08/17 05:27:39 PM] Nlkosi scored a hit with Fulgurite Strike on the Idagâl Obliterator for 4,354 Lightning damage to Morale.
+[08/17 05:27:39 PM] The Idagâl Devastator scored a hit with a mighty melee attack on the Volcanic Rune-stone for 2,477 Common damage to Morale.
+[08/17 05:27:39 PM] The Idagâl Obliterator scored a hit with a moderate melee attack on the Volcanic Rune-stone for 1,297 Common damage to Morale.
+[08/17 05:27:39 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/17 05:27:40 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Devastator for 16,180 Fire damage to Morale.
+[08/17 05:27:40 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Obliterator for 16,180 Fire damage to Morale.
+[08/17 05:27:41 PM] Master of Tragedy applied a heal to Nlkosi restoring 280 points to Power.
+[08/17 05:27:41 PM] Nlkosi scored a critical hit with Essence of Storm on the Idagâl Obliterator for 52,671 Lightning damage to Morale.
+[08/17 05:27:41 PM] The Idagâl Obliterator scored a partially blocked hit with a mighty melee attack on the Volcanic Rune-stone for 1,369 Common damage to Morale.
+[08/17 05:27:42 PM] Nlkosi scored a hit with Fulgurite Strike on the Idagâl Devastator for 4,326 Lightning damage to Morale.
+[08/17 05:27:42 PM] Nlkosi scored a hit with Fulgurite Strike on the Idagâl Obliterator for 4,351 Lightning damage to Morale.
+[08/17 05:27:42 PM] Nlkosi scored a hit with Epic Conclusion on the Idagâl Obliterator for 62,259 Lightning damage to Morale.
+[08/17 05:27:42 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Devastator for 16,180 Fire damage to Morale.
+[08/17 05:27:42 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Obliterator for 16,180 Fire damage to Morale.
+[08/17 05:27:43 PM] The Idagâl Devastator scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,376 Common damage to Morale.
+[08/17 05:27:44 PM] Nlkosi scored a critical hit with Vivid Imagery on the Idagâl Devastator for 28,776 Lightning damage to Morale.
+[08/17 05:27:44 PM] Nlkosi scored a hit with Vivid Imagery on the Idagâl Obliterator for 11,297 Lightning damage to Morale.
+[08/17 05:27:44 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Devastator for 16,180 Fire damage to Morale.
+[08/17 05:27:44 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Obliterator for 16,180 Fire damage to Morale.
+[08/17 05:27:44 PM] The Volcanic Rune-stone defeated the Idagâl Obliterator.
+[08/17 05:27:45 PM] Nlkosi scored a hit with Fulgurite Strike on the Idagâl Devastator for 4,584 Lightning damage to Morale.
+[08/17 05:27:46 PM] Nlkosi scored a hit with Fiery Ridicule on the Idagâl Devastator for 4,952 Fire damage to Morale.
+[08/17 05:27:46 PM] The Idagâl Devastator scored a hit with a moderate swipe attack on the Volcanic Rune-stone for 1,514 Common damage to Morale.
+[08/17 05:27:46 PM] The Idagâl Devastator scored a hit with a moderate swipe attack on the Charged Fulgurite Rune-stone for 1,514 Common damage to Morale.
+[08/17 05:27:46 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Idagâl Devastator for 18,440 Lightning damage to Morale.
+[08/17 05:27:46 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Devastator for 16,530 Fire damage to Morale.
+[08/17 05:27:47 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,850 points to Power.
+[08/17 05:27:47 PM] Sustenance applied a heal to Nlkosi restoring 17,320 points to Morale.
+[08/17 05:27:48 PM] Nlkosi scored a hit with Shocking Touch on the Idagâl Devastator for 5,222 Lightning damage to Morale.
+[08/17 05:27:48 PM] Nlkosi scored a hit with Fulgurite Strike on the Idagâl Devastator for 4,780 Lightning damage to Morale.
+[08/17 05:27:49 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Idagâl Devastator for 3,545 Fire damage to Morale.
+[08/17 05:27:49 PM] Nlkosi scored a hit with Static Surge on the Idagâl Devastator for 23,994 Lightning damage to Morale.
+[08/17 05:27:49 PM] Nothing to dispel.
+[08/17 05:27:50 PM] Nlkosi scored a hit with Improved Final Word on the Idagâl Devastator.
+[08/17 05:27:51 PM] The Idagâl Devastator scored a critical hit with a weak melee attack on Nlkosi for 6,894 Common damage to Morale.
+[08/17 05:27:51 PM] Nlkosi scored a hit with Essence of Storm on the Idagâl Devastator for 10,941 Lightning damage to Morale.
+[08/17 05:27:52 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/17 05:27:52 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Idagâl Devastator for 3,201 Fire damage to Morale.
+[08/17 05:27:53 PM] The Idagâl Devastator tried to use Breach Armour on Nlkosi but he evaded the attempt.
+[08/17 05:27:53 PM] Nlkosi scored a hit with Chilling Rhetoric on the Idagâl Devastator for 5,768 Frost damage to Morale.
+[08/17 05:27:53 PM] Nlkosi scored a hit with Head-butt on the Idagâl Devastator for 12,251 Common damage to Morale.
+[08/17 05:27:55 PM] The Idagâl Devastator missed trying to use a weak melee attack on Nlkosi.
+[08/17 05:27:55 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Idagâl Devastator for 2,646 Fire damage to Morale.
+[08/17 05:27:58 PM] The Idagâl Devastator scored a hit with a melee triple attack on Nlkosi for 2,663 Common damage to Morale.
+[08/17 05:27:58 PM] You have lost 2,663 points of temporary Morale!
+[08/17 05:27:58 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Idagâl Devastator for 3,088 Fire damage to Morale.
+[08/17 05:27:58 PM] You have lost 3,807 points of temporary Morale!
+[08/17 05:28:00 PM] Nlkosi scored a hit with Fiery Ridicule on the Idagâl Devastator for 4,242 Fire damage to Morale.
+[08/17 05:28:01 PM] The Idagâl Devastator scored a hit with a moderate melee attack on Nlkosi for 7,322 Common damage to Morale.
+[08/17 05:28:01 PM] You have lost 7,322 points of temporary Morale!
+[08/17 05:28:03 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Idagâl Devastator for 4,321 Fire damage to Morale.
+[08/17 05:28:03 PM] The Idagâl Devastator scored a hit with a weak melee attack on Nlkosi for 5,325 Common damage to Morale.
+[08/17 05:28:03 PM] You have lost 5,325 points of temporary Morale!
+[08/17 05:28:05 PM] The Idagâl Devastator scored a hit with a mighty melee attack on Nlkosi for 11,981 Common damage to Morale.
+[08/17 05:28:05 PM] You have lost 11,981 points of temporary Morale!
+[08/17 05:28:05 PM] Your mighty blow defeated the Idagâl Devastator.
+[08/17 05:28:05 PM] Nlkosi scored a hit with Shocking Words on the Idagâl Devastator for 25,839 Lightning damage to Morale.
+[08/17 05:28:11 PM] You have lost 26,593 points of temporary Morale!
+[08/17 05:28:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:28:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Daithúch Wound-drinker for 16,180 Fire damage to Morale.
+[08/17 05:28:14 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/17 05:28:15 PM] The Daithúch Wound-drinker scored a hit with a minor tactical attack on the Volcanic Rune-stone for 3,965 Frost damage to Morale.
+[08/17 05:28:15 PM] The Baltmau Invader scored a hit with a weak melee attack on the Volcanic Rune-stone for 943 Common damage to Morale.
+[08/17 05:28:15 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Invader for 4,697 Lightning damage to Morale.
+[08/17 05:28:15 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Invader for 4,708 Lightning damage to Morale.
+[08/17 05:28:15 PM] Nlkosi scored a hit with Fulgurite Strike on the Daithúch Wound-drinker for 4,699 Lightning damage to Morale.
+[08/17 05:28:15 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/17 05:28:16 PM] The Baltmau Invader scored a hit with a weak melee attack on the Volcanic Rune-stone for 943 Common damage to Morale.
+[08/17 05:28:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:28:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:28:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Daithúch Wound-drinker for 16,180 Fire damage to Morale.
+[08/17 05:28:17 PM] The Daithúch Wound-drinker scored a hit with a moderate tactical attack on the Volcanic Rune-stone for 4,361 Frost damage to Morale.
+[08/17 05:28:17 PM] The Daithúch Wound-drinker scored a hit with a moderate tactical attack on the Charged Fulgurite Rune-stone for 4,361 Frost damage to Morale.
+[08/17 05:28:17 PM] The Baltmau Invader scored a hit with a moderate melee attack on the Volcanic Rune-stone for 1,297 Common damage to Morale.
+[08/17 05:28:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:28:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:28:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Daithúch Wound-drinker for 16,180 Fire damage to Morale.
+[08/17 05:28:18 PM] The Baltmau Invader scored a partially parried hit with a minor melee attack on the Volcanic Rune-stone for 761 Common damage to Morale.
+[08/17 05:28:18 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Invader for 4,336 Lightning damage to Morale.
+[08/17 05:28:18 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Invader for 4,496 Lightning damage to Morale.
+[08/17 05:28:18 PM] Nlkosi scored a hit with Fulgurite Strike on the Daithúch Wound-drinker for 4,391 Lightning damage to Morale.
+[08/17 05:28:19 PM] Increased Morale applied a heal to Nlkosi restoring 41,664 points to Morale.
+[08/17 05:28:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:28:20 PM] The Volcanic Rune-stone defeated the Baltmau Invader.
+[08/17 05:28:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Baltmau Invader for 16,180 Fire damage to Morale.
+[08/17 05:28:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Daithúch Wound-drinker for 16,180 Fire damage to Morale.
+[08/17 05:28:21 PM] Nlkosi scored a hit with Fulgurite Strike on the Daithúch Wound-drinker for 4,329 Lightning damage to Morale.
+[08/17 05:28:21 PM] Nlkosi scored a hit with Fulgurite Strike on the Baltmau Invader for 4,525 Lightning damage to Morale.
+[08/17 05:28:21 PM] The Charged Fulgurite Rune-stone defeated the Baltmau Invader.
+[08/17 05:28:22 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Daithúch Wound-drinker for 16,180 Fire damage to Morale.
+[08/17 05:28:22 PM] The Daithúch Wound-drinker scored a hit with Fear of Damudûr on the Volcanic Rune-stone.
+[08/17 05:28:23 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Daithúch Wound-drinker for 19,587 Fire damage to Morale.
+[08/17 05:28:24 PM] The Daithúch Wound-drinker scored a hit with a moderate tactical attack on the Volcanic Rune-stone for 3,271 Frost damage to Morale.
+[08/17 05:28:24 PM] The Daithúch Wound-drinker scored a hit with a moderate tactical attack on the Charged Fulgurite Rune-stone for 4,361 Frost damage to Morale.
+[08/17 05:28:24 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Daithúch Wound-drinker for 16,530 Fire damage to Morale.
+[08/17 05:28:24 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Daithúch Wound-drinker for 30,580 Frost damage to Morale.
+[08/17 05:28:24 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Daithúch Wound-drinker but he was immune to the attempt.
+[08/17 05:28:24 PM] Nlkosi scored a hit with Fulgurite Strike on the Daithúch Wound-drinker for 4,580 Lightning damage to Morale.
+[08/17 05:28:25 PM] Nlkosi scored a hit with Sustaining Bolt on the Daithúch Wound-drinker for 7,153 Lightning damage to Morale.
+[08/17 05:28:25 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,082 points to Power.
+[08/17 05:28:25 PM] Sustenance applied a heal to Nlkosi restoring 25,020 points to Morale.
+[08/17 05:28:26 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Daithúch Wound-drinker for 4,232 Fire damage to Morale.
+[08/17 05:28:27 PM] Nlkosi scored a hit with Fiery Ridicule on the Daithúch Wound-drinker for 5,360 Fire damage to Morale.
+[08/17 05:28:28 PM] The Daithúch Wound-drinker scored a hit with Dismissal on Nlkosi for 16,868 Shadow damage to Morale.
+[08/17 05:28:30 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Daithúch Wound-drinker for 5,031 Fire damage to Morale.
+[08/17 05:28:30 PM] Nlkosi scored a hit with Fiery Ridicule on the Daithúch Wound-drinker for 6,147 Fire damage to Morale.
+[08/17 05:28:30 PM] The Daithúch Wound-drinker scored a hit with a strong tactical attack on Nlkosi for 10,121 Frost damage to Morale.
+[08/17 05:28:32 PM] Your mighty blow defeated the Daithúch Wound-drinker.
+[08/17 05:28:32 PM] Nlkosi scored a hit with Fiery Ridicule on the Daithúch Wound-drinker for 5,849 Fire damage to Morale.
+[08/17 05:28:33 PM] Nlkosi scored a hit with Shocking Words on the Daithúch Wound-drinker for 32,937 Lightning damage to Morale.

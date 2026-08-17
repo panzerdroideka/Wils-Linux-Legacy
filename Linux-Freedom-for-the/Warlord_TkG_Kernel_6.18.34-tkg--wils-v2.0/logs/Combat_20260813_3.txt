@@ -1,0 +1,728 @@
+### Chat Log: Combat 08/13 09:23 PM ###
+[08/13 09:24:21 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Kighân Weaver for 12,985 Frost damage to Morale.
+[08/13 09:24:23 PM] The Kighân Spitter scored a hit with a weak ranged attack on Nlkosi for 3,732 Common damage to Morale.
+[08/13 09:24:23 PM] Nlkosi scored a hit with Essence of Flame on the Kighân Weaver for 11,727 Fire damage to Morale.
+[08/13 09:24:23 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Weaver for 5,171 Fire damage to Morale.
+[08/13 09:24:23 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:24:23 PM] Nlkosi scored a devastating hit with Sustaining Bolt on the Kighân Weaver for 18,492 Lightning damage to Morale.
+[08/13 09:24:24 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,775 points to Power.
+[08/13 09:24:24 PM] Sustenance applied a heal to Nlkosi restoring 17,505 points to Morale.
+[08/13 09:24:24 PM] The Kighân Skulker scored a devastating hit with a weak melee attack on Nlkosi for 7,529 Common damage to Morale.
+[08/13 09:24:25 PM] The Kighân Spitter scored a hit with a moderate ranged attack on Nlkosi for 5,131 Common damage to Morale.
+[08/13 09:24:25 PM] Nlkosi scored a hit with Writ of Lightning on the Kighân Skulker for 11,101 Lightning damage to Morale.
+[08/13 09:24:26 PM] Your mighty blow defeated the Kighân Skulker.
+[08/13 09:24:26 PM] Your mighty blow defeated the Kighân Weaver.
+[08/13 09:24:26 PM] Nlkosi scored a critical hit with Static Surge on the Kighân Skulker for 53,710 Lightning damage to Morale.
+[08/13 09:24:26 PM] Nlkosi scored a critical hit with Static Surge on the Kighân Weaver for 54,069 Lightning damage to Morale.
+[08/13 09:24:27 PM] Your mighty blow defeated the Kighân Spitter.
+[08/13 09:24:28 PM] Nlkosi scored a critical hit with Essence of Storm on the Kighân Spitter for 59,030 Lightning damage to Morale.
+[08/13 09:24:33 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Kighân Hatchling for 11,956 Fire damage to Morale.
+[08/13 09:24:34 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Hatchling for 5,687 Fire damage to Morale.
+[08/13 09:24:35 PM] Nlkosi scored a hit with Writ of Lightning on the Kighân Hatchling for 11,714 Lightning damage to Morale.
+[08/13 09:24:36 PM] The Kighân Hatchling scored a hit with a weak melee attack on Nlkosi for 3,392 Common damage to Morale.
+[08/13 09:24:36 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:24:36 PM] Your mighty blow defeated the Kighân Hatchling.
+[08/13 09:24:36 PM] Nlkosi scored a critical hit with Shocking Words on the Kighân Hatchling for 100,415 Lightning damage to Morale.
+[08/13 09:24:43 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Kighân Spitter for 12,407 Lightning damage to Morale.
+[08/13 09:24:44 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,668 points to Power.
+[08/13 09:24:44 PM] Sustenance applied a heal to Nlkosi restoring 16,711 points to Morale.
+[08/13 09:24:44 PM] The Kighân Spitter scored a partially evaded hit with a minor ranged attack on Nlkosi for 4,041 Common damage to Morale.
+[08/13 09:24:45 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Spitter for 4,928 Fire damage to Morale.
+[08/13 09:24:46 PM] Nlkosi scored a hit with Essence of Flame on the Kighân Spitter for 13,732 Fire damage to Morale.
+[08/13 09:24:46 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:24:46 PM] Your mighty blow defeated the Kighân Spitter.
+[08/13 09:24:46 PM] Nlkosi scored a critical hit with Epic Conclusion on the Kighân Spitter for 142,306 Lightning damage to Morale.
+[08/13 09:24:49 PM] Nlkosi scored a critical hit with Essence of Storm on the Kighân Weaver for 53,926 Lightning damage to Morale.
+[08/13 09:24:49 PM] Your mighty blow defeated the Kighân Weaver.
+[08/13 09:24:50 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Weaver for 6,552 Fire damage to Morale.
+[08/13 09:24:53 PM] Nlkosi scored a hit with Writ of Lightning on the Kighân Hatchling for 13,649 Lightning damage to Morale.
+[08/13 09:24:55 PM] The Kighân Hatchling scored a hit with a moderate melee attack on Nlkosi for 4,665 Common damage to Morale.
+[08/13 09:24:55 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Kighân Hatchling for 15,610 Fire damage to Morale.
+[08/13 09:24:56 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:24:56 PM] Your mighty blow defeated the Kighân Hatchling.
+[08/13 09:24:57 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Kighân Hatchling for 40,074 Lightning damage to Morale.
+[08/13 09:25:01 PM] Nlkosi scored a hit with Shocking Words on the Kighân Weaver for 40,589 Lightning damage to Morale.
+[08/13 09:25:03 PM] Your mighty blow defeated the Kighân Weaver.
+[08/13 09:25:03 PM] Nlkosi scored a hit with Essence of Flame on the Kighân Weaver for 16,712 Fire damage to Morale.
+[08/13 09:25:05 PM] Nlkosi scored a hit with Essence of Storm on the Kighân Spitter for 13,110 Lightning damage to Morale.
+[08/13 09:25:05 PM] The Kighân Spitter tried to use a moderate ranged attack on Nlkosi but he evaded the attempt.
+[08/13 09:25:06 PM] Nlkosi scored a hit with Sustaining Bolt on the Kighân Spitter for 5,896 Lightning damage to Morale.
+[08/13 09:25:07 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,859 points to Power.
+[08/13 09:25:07 PM] Sustenance applied a heal to Nlkosi restoring 20,599 points to Morale.
+[08/13 09:25:08 PM] Nlkosi scored a devastating hit with Chilling Rhetoric on the Kighân Spitter for 20,043 Frost damage to Morale.
+[08/13 09:25:08 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Spitter for 7,775 Fire damage to Morale.
+[08/13 09:25:09 PM] The Kighân Spitter scored a hit with a weak ranged attack on Nlkosi for 3,732 Common damage to Morale.
+[08/13 09:25:09 PM] Your mighty blow defeated the Kighân Spitter.
+[08/13 09:25:09 PM] Nlkosi scored a hit with Scribe's Spark on the Kighân Spitter for 13,362 Lightning damage to Morale.
+[08/13 09:25:26 PM] Nlkosi scored a hit with Essence of Flame on the Kighân Spitter for 15,667 Fire damage to Morale.
+[08/13 09:25:27 PM] The Kighân Spitter scored a hit with a moderate ranged attack on Nlkosi for 5,131 Common damage to Morale.
+[08/13 09:25:27 PM] Nlkosi scored a hit with Shocking Words on the Kighân Spitter for 27,917 Lightning damage to Morale.
+[08/13 09:25:28 PM] Your mighty blow defeated the Kighân Spitter.
+[08/13 09:25:29 PM] Nlkosi scored a hit with Essence of Storm on the Kighân Spitter for 12,243 Lightning damage to Morale.
+[08/13 09:25:57 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 09:25:58 PM] Nlkosi scored a hit with Shocking Words on the Kighân Weaver for 26,302 Lightning damage to Morale.
+[08/13 09:25:59 PM] Nothing to dispel.
+[08/13 09:26:00 PM] Nlkosi scored a hit with Improved Final Word on the Kighân Weaver.
+[08/13 09:26:02 PM] The Kighân Weaver scored a hit with a weak melee attack on Nlkosi for 3,784 Common damage to Morale.
+[08/13 09:26:02 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Weaver for 15,610 Fire damage to Morale.
+[08/13 09:26:03 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:26:03 PM] Your mighty blow defeated the Kighân Weaver.
+[08/13 09:26:03 PM] Nlkosi scored a critical hit with Essence of Storm on the Kighân Weaver for 49,344 Lightning damage to Morale.
+[08/13 09:26:12 PM] Nlkosi scored a hit with Sustaining Bolt on the Kighân Hatchling for 6,095 Lightning damage to Morale.
+[08/13 09:26:13 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,714 points to Power.
+[08/13 09:26:13 PM] Sustenance applied a critical heal to Nlkosi restoring 25,225 points to Morale.
+[08/13 09:26:14 PM] Nlkosi scored a hit with Chilling Rhetoric on the Kighân Hatchling for 7,123 Frost damage to Morale.
+[08/13 09:26:15 PM] Nlkosi scored a critical hit with Essence of Flame on the Kighân Hatchling for 30,154 Fire damage to Morale.
+[08/13 09:26:15 PM] Nlkosi scored a critical hit with Essence of Flame on the Kighân Weaver for 30,154 Fire damage to Morale.
+[08/13 09:26:16 PM] Your mighty blow defeated the Kighân Hatchling.
+[08/13 09:26:16 PM] Nlkosi scored a hit with Writ of Lightning on the Kighân Hatchling for 10,467 Lightning damage to Morale.
+[08/13 09:26:17 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:26:17 PM] Your mighty blow defeated the Kighân Weaver.
+[08/13 09:26:17 PM] Nlkosi scored a critical hit with Epic Conclusion on the Kighân Weaver for 185,008 Lightning damage to Morale.
+[08/13 09:26:34 PM] Nlkosi scored a hit with Sustaining Bolt on the Kighân Spitter for 5,016 Lightning damage to Morale.
+[08/13 09:26:34 PM] The Kighân Spitter scored a hit with a moderate ranged attack on Nlkosi for 5,131 Common damage to Morale.
+[08/13 09:26:35 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,727 points to Power.
+[08/13 09:26:35 PM] Sustenance applied a heal to Nlkosi restoring 17,896 points to Morale.
+[08/13 09:26:35 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Spitter for 4,943 Fire damage to Morale.
+[08/13 09:26:37 PM] Nlkosi scored a hit with Essence of Flame on the Kighân Spitter for 13,281 Fire damage to Morale.
+[08/13 09:26:37 PM] Nlkosi scored a hit with Essence of Storm on the Kighân Spitter for 14,523 Lightning damage to Morale.
+[08/13 09:26:37 PM] The Kighân Spitter scored a hit with a weak ranged attack on Nlkosi for 3,732 Common damage to Morale.
+[08/13 09:26:38 PM] Your mighty blow defeated the Kighân Spitter.
+[08/13 09:26:38 PM] Nlkosi scored a hit with Epic Conclusion on the Kighân Spitter for 50,941 Lightning damage to Morale.
+[08/13 09:27:00 PM] Nlkosi scored a hit with Distracting Flame on the Kighân Hatchling.
+[08/13 09:27:03 PM] Nlkosi scored a critical hit with Distracting Flame on the Kighân Hatchling for 5,267 Fire damage to Morale.
+[08/13 09:27:03 PM] Nlkosi scored a hit with Essence of Storm on the Kighân Hatchling for 16,152 Lightning damage to Morale.
+[08/13 09:27:04 PM] The Kighân Hatchling scored a hit with a weak melee attack on Nlkosi for 3,392 Common damage to Morale.
+[08/13 09:27:04 PM] The Kighân Skulker scored a hit with a weak melee attack on Nlkosi for 3,901 Common damage to Morale.
+[08/13 09:27:04 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:27:04 PM] Your mighty blow defeated the Kighân Hatchling.
+[08/13 09:27:04 PM] Nlkosi scored a critical hit with Shocking Words on the Kighân Hatchling for 101,739 Lightning damage to Morale.
+[08/13 09:27:05 PM] Nlkosi scored a hit with Static Surge on the Kighân Skulker for 20,217 Lightning damage to Morale.
+[08/13 09:27:06 PM] The Kighân Skulker scored a hit with Susceptibility to poison on Nlkosi.
+[08/13 09:27:07 PM] Nlkosi scored a hit with Ceaseless Argument on the Kighân Skulker for 9,031 Lightning damage to Morale.
+[08/13 09:27:08 PM] Your mighty blow defeated the Kighân Skulker.
+[08/13 09:27:08 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Kighân Skulker for 29,660 Lightning damage to Morale.
+[08/13 09:28:25 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:28:25 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Kighân Weaver for 10,185 Fire damage to Morale.
+[08/13 09:28:25 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Kighân Weaver for 13,323 Lightning damage to Morale.
+[08/13 09:28:26 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,787 points to Power.
+[08/13 09:28:26 PM] Sustenance applied a critical heal to Nlkosi restoring 24,762 points to Morale.
+[08/13 09:28:27 PM] Nlkosi scored a hit with Chilling Rhetoric on the Kighân Weaver for 7,753 Frost damage to Morale.
+[08/13 09:28:28 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Kighân Weaver for 5,061 Fire damage to Morale.
+[08/13 09:28:28 PM] Nlkosi scored a hit with Essence of Flame on the Kighân Weaver for 14,389 Fire damage to Morale.
+[08/13 09:28:28 PM] Your mighty blow defeated the Kighân Weaver.
+[08/13 09:28:29 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Weaver for 5,485 Fire damage to Morale.
+[08/13 09:28:39 PM] The Kighân Hatchling scored a hit with a minor melee attack on Nlkosi for 4,241 Common damage to Morale.
+[08/13 09:28:40 PM] The Kighân Weaver scored a hit with a weak melee attack on Nlkosi for 3,901 Common damage to Morale.
+[08/13 09:28:41 PM] The Kighân Hatchling scored a hit with a weak melee attack on Nlkosi for 3,392 Common damage to Morale.
+[08/13 09:28:42 PM] Nlkosi scored a hit with Vivid Imagery on the Kighân Hatchling for 13,207 Lightning damage to Morale.
+[08/13 09:28:42 PM] Nlkosi scored a hit with Vivid Imagery on the Kighân Weaver for 14,292 Lightning damage to Morale.
+[08/13 09:28:42 PM] Nothing to dispel.
+[08/13 09:28:42 PM] Nlkosi scored a hit with Improved Final Word on the Kighân Weaver.
+[08/13 09:28:43 PM] Nlkosi scored a hit with Scribe's Spark on the Kighân Weaver for 13,026 Lightning damage to Morale.
+[08/13 09:28:44 PM] The Kighân Weaver scored a hit with a weak melee attack on Nlkosi for 3,901 Common damage to Morale.
+[08/13 09:28:45 PM] Your mighty blow defeated the Kighân Hatchling.
+[08/13 09:28:45 PM] Nlkosi scored a hit with Shocking Words on the Kighân Hatchling for 31,687 Lightning damage to Morale.
+[08/13 09:28:47 PM] The Kighân Weaver scored a hit with a minor melee attack on Nlkosi for 4,877 Common damage to Morale.
+[08/13 09:28:47 PM] Nlkosi scored a hit with Essence of Storm on the Kighân Weaver for 13,741 Lightning damage to Morale.
+[08/13 09:28:48 PM] The Kighân Weaver scored a hit with Poison on Nlkosi for 3,901 Common damage to Morale.
+[08/13 09:28:49 PM] The Kighân Weaver scored a hit with Venom on Nlkosi.
+[08/13 09:28:49 PM] Nlkosi scored a hit with Ceaseless Argument on the Kighân Weaver for 9,703 Lightning damage to Morale.
+[08/13 09:28:50 PM] Your mighty blow defeated the Kighân Weaver.
+[08/13 09:28:50 PM] Nlkosi scored a hit with Ceaseless Argument on the Kighân Weaver for 11,561 Lightning damage to Morale.
+[08/13 09:28:51 PM] The Kighân Weaver scored a hit with Poison on Nlkosi for 3,901 Common damage to Morale.
+[08/13 09:28:54 PM] The Kighân Weaver scored a hit with Poison on Nlkosi for 3,901 Common damage to Morale.
+[08/13 09:28:57 PM] The Kighân Weaver scored a hit with Poison on Nlkosi for 3,901 Common damage to Morale.
+[08/13 09:29:00 PM] The Kighân Weaver scored a hit with Poison on Nlkosi for 3,901 Common damage to Morale.
+[08/13 09:29:04 PM] The Kighân Weaver scored a hit with Poison on Nlkosi for 3,901 Common damage to Morale.
+[08/13 09:29:07 PM] The Kighân Weaver scored a hit with Poison on Nlkosi for 3,901 Common damage to Morale.
+[08/13 09:29:08 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Hatchling for 15,610 Fire damage to Morale.
+[08/13 09:29:08 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Spitter for 15,610 Fire damage to Morale.
+[08/13 09:29:08 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Weaver for 15,610 Fire damage to Morale.
+[08/13 09:29:08 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 09:29:09 PM] The Kighân Spitter scored a hit with a weak melee attack on the Volcanic Rune-stone for 743 Common damage to Morale.
+[08/13 09:29:09 PM] The Kighân Hatchling scored a hit with Susceptibility to poison on the Volcanic Rune-stone.
+[08/13 09:29:09 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Hatchling for 4,144 Lightning damage to Morale.
+[08/13 09:29:09 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Spitter for 4,205 Lightning damage to Morale.
+[08/13 09:29:09 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Weaver for 4,289 Lightning damage to Morale.
+[08/13 09:29:09 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 09:29:10 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Hatchling for 15,610 Fire damage to Morale.
+[08/13 09:29:10 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Spitter for 15,610 Fire damage to Morale.
+[08/13 09:29:10 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Weaver for 15,610 Fire damage to Morale.
+[08/13 09:29:10 PM] The Kighân Weaver scored a hit with Poison on Nlkosi for 3,901 Common damage to Morale.
+[08/13 09:29:10 PM] The Kighân Spitter tried to use Entangling Web on the Volcanic Rune-stone but it evaded the attempt.
+[08/13 09:29:11 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:29:11 PM] Your mighty blow defeated the Kighân Weaver.
+[08/13 09:29:11 PM] Nlkosi scored a critical hit with Shocking Words on the Kighân Weaver for 84,304 Lightning damage to Morale.
+[08/13 09:29:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Spitter for 15,610 Fire damage to Morale.
+[08/13 09:29:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Hatchling for 15,610 Fire damage to Morale.
+[08/13 09:29:12 PM] The Volcanic Rune-stone defeated the Kighân Spitter.
+[08/13 09:29:12 PM] The Volcanic Rune-stone defeated the Kighân Hatchling.
+[08/13 09:29:17 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Spitter for 4,035 Fire damage to Morale.
+[08/13 09:29:18 PM] The Kighân Spitter tried to use a weak ranged attack on Nlkosi but he evaded the attempt.
+[08/13 09:29:18 PM] Nlkosi scored a hit with Chilling Rhetoric on the Kighân Spitter for 6,213 Frost damage to Morale.
+[08/13 09:29:18 PM] Nlkosi scored a hit with Sustaining Bolt on the Kighân Spitter for 5,785 Lightning damage to Morale.
+[08/13 09:29:19 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,637 points to Power.
+[08/13 09:29:19 PM] Sustenance applied a heal to Nlkosi restoring 18,694 points to Morale.
+[08/13 09:29:20 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Kighân Spitter for 4,593 Fire damage to Morale.
+[08/13 09:29:20 PM] Nlkosi scored a hit with Scribe's Spark on the Kighân Spitter for 11,276 Lightning damage to Morale.
+[08/13 09:29:20 PM] The Kighân Spitter scored a hit with a moderate ranged attack on Nlkosi for 4,977 Common damage to Morale.
+[08/13 09:29:21 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:29:21 PM] Your mighty blow defeated the Kighân Spitter.
+[08/13 09:29:21 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Kighân Spitter for 30,321 Lightning damage to Morale.
+[08/13 09:29:25 PM] Nlkosi scored a hit with Essence of Flame on the Kighân Hatchling for 17,324 Fire damage to Morale.
+[08/13 09:29:26 PM] Nlkosi scored a hit with Writ of Lightning on the Kighân Hatchling for 13,156 Lightning damage to Morale.
+[08/13 09:29:27 PM] Your mighty blow defeated the Kighân Hatchling.
+[08/13 09:29:27 PM] Nlkosi scored a critical hit with Essence of Storm on the Kighân Hatchling for 60,422 Lightning damage to Morale.
+[08/13 09:29:28 PM] Your mighty blow defeated the Kighân Weaver.
+[08/13 09:29:29 PM] Nlkosi scored a critical hit with Static Surge on the Kighân Weaver for 64,851 Lightning damage to Morale.
+[08/13 09:29:32 PM] Nlkosi scored a hit with Ceaseless Argument on the Kighân Hatchling for 12,848 Lightning damage to Morale.
+[08/13 09:29:32 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:29:32 PM] Your mighty blow defeated the Kighân Hatchling.
+[08/13 09:29:33 PM] Nlkosi scored a critical hit with Scribe's Spark on the Kighân Hatchling for 34,696 Lightning damage to Morale.
+[08/13 09:29:35 PM] Nlkosi scored a hit with Writ of Lightning on the Kighân Hatchling for 12,413 Lightning damage to Morale.
+[08/13 09:29:35 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Hatchling for 5,659 Fire damage to Morale.
+[08/13 09:29:36 PM] Nlkosi scored a hit with Sustaining Bolt on the Kighân Hatchling for 5,664 Lightning damage to Morale.
+[08/13 09:29:36 PM] The Kighân Hatchling scored a partially evaded hit with a moderate melee attack on Nlkosi for 4,041 Common damage to Morale.
+[08/13 09:29:37 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,549 points to Power.
+[08/13 09:29:37 PM] Sustenance applied a heal to Nlkosi restoring 19,100 points to Morale.
+[08/13 09:29:37 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Hatchling for 5,260 Fire damage to Morale.
+[08/13 09:29:38 PM] The Kighân Hatchling scored a hit with a minor melee attack on Nlkosi for 3,986 Common damage to Morale.
+[08/13 09:29:39 PM] Nlkosi scored a hit with Writ of Lightning on the Kighân Hatchling for 9,396 Lightning damage to Morale.
+[08/13 09:29:40 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on the Kighân Hatchling for 9,179 Fire damage to Morale.
+[08/13 09:29:40 PM] Your mighty blow defeated the Kighân Hatchling.
+[08/13 09:29:45 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:29:45 PM] Nlkosi scored a critical hit with Writ of Lightning on the Kighân Weaver for 29,477 Lightning damage to Morale.
+[08/13 09:29:46 PM] The Kighân Skulker scored a hit with a weak melee attack on Nlkosi for 3,901 Common damage to Morale.
+[08/13 09:29:48 PM] Nlkosi scored a hit with Ceaseless Argument on the Kighân Skulker for 11,800 Lightning damage to Morale.
+[08/13 09:29:49 PM] The Kighân Skulker scored a critical hit with a minor melee attack on Nlkosi for 6,974 Common damage to Morale.
+[08/13 09:29:49 PM] Nlkosi scored a hit with Shocking Words on the Kighân Skulker for 34,821 Lightning damage to Morale.
+[08/13 09:29:51 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 09:29:51 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Skulker for 4,327 Fire damage to Morale.
+[08/13 09:29:52 PM] Your mighty blow defeated the Kighân Skulker.
+[08/13 09:29:52 PM] Your mighty blow defeated the Kighân Hatchling.
+[08/13 09:29:52 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Kighân Skulker for 14,336 Frost damage to Morale.
+[08/13 09:29:52 PM] Nlkosi scored a hit with Static Surge on the Kighân Weaver for 21,749 Lightning damage to Morale.
+[08/13 09:29:52 PM] Nlkosi scored a critical hit with Static Surge on the Kighân Hatchling for 54,170 Lightning damage to Morale.
+[08/13 09:29:53 PM] The Kighân Weaver scored a hit with a weak melee attack on Nlkosi for 3,901 Common damage to Morale.
+[08/13 09:29:54 PM] Your mighty blow defeated the Kighân Weaver.
+[08/13 09:29:54 PM] Nlkosi scored a critical hit with Essence of Storm on the Kighân Weaver for 59,821 Lightning damage to Morale.
+[08/13 09:30:04 PM] Nlkosi scored a hit with Sustaining Bolt on the Kighân Hatchling for 6,828 Lightning damage to Morale.
+[08/13 09:30:05 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,997 points to Power.
+[08/13 09:30:05 PM] Sustenance applied a heal to Nlkosi restoring 18,532 points to Morale.
+[08/13 09:30:05 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Hatchling for 5,759 Fire damage to Morale.
+[08/13 09:30:07 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:30:07 PM] Your mighty blow defeated the Kighân Hatchling.
+[08/13 09:30:07 PM] Nlkosi scored a hit with Essence of Flame on the Kighân Hatchling for 15,396 Fire damage to Morale.
+[08/13 09:30:07 PM] Nlkosi scored a critical hit with Static Surge on the Kighân Hatchling for 65,288 Lightning damage to Morale.
+[08/13 09:30:17 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Hatchling for 5,971 Fire damage to Morale.
+[08/13 09:30:18 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Kighân Hatchling for 13,539 Frost damage to Morale.
+[08/13 09:30:20 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Kighân Hatchling for 3,495 Fire damage to Morale.
+[08/13 09:30:20 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:30:20 PM] Your mighty blow defeated the Kighân Hatchling.
+[08/13 09:30:20 PM] Nlkosi scored a critical hit with Writ of Lightning on the Kighân Hatchling for 30,398 Lightning damage to Morale.
+[08/13 09:30:20 PM] The Kighân Weaver missed trying to use a weak melee attack on Nlkosi.
+[08/13 09:30:21 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Weaver for 16,056 Fire damage to Morale.
+[08/13 09:30:22 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 09:30:22 PM] The Kighân Weaver tried to use Susceptibility to poison on the Volcanic Rune-stone but it evaded the attempt.
+[08/13 09:30:22 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Weaver for 4,449 Lightning damage to Morale.
+[08/13 09:30:23 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 09:30:23 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Weaver for 16,056 Fire damage to Morale.
+[08/13 09:30:24 PM] Your mighty blow defeated the Kighân Weaver.
+[08/13 09:30:24 PM] Nlkosi scored a hit with Shocking Words on the Kighân Weaver for 42,037 Lightning damage to Morale.
+[08/13 09:31:12 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 09:31:14 PM] Nlkosi scored a hit with Fulgurite Strike on Jûkhtar the Ravenous for 4,136 Lightning damage to Morale.
+[08/13 09:31:14 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 09:31:14 PM] Jûkhtar the Ravenous scored a hit with a weak melee attack on the Volcanic Rune-stone for 854 Common damage to Morale.
+[08/13 09:31:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on Jûkhtar the Ravenous for 15,610 Fire damage to Morale.
+[08/13 09:31:16 PM] Jûkhtar the Ravenous scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,068 Common damage to Morale.
+[08/13 09:31:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on Jûkhtar the Ravenous for 15,610 Fire damage to Morale.
+[08/13 09:31:17 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on Jûkhtar the Ravenous but she was immune to the attempt.
+[08/13 09:31:17 PM] Nlkosi scored a hit with Fulgurite Strike on Jûkhtar the Ravenous for 4,233 Lightning damage to Morale.
+[08/13 09:31:17 PM] Nlkosi scored a hit with Essence of Storm on Jûkhtar the Ravenous for 12,366 Lightning damage to Morale.
+[08/13 09:31:18 PM] Jûkhtar the Ravenous scored a hit with a weak melee attack on the Volcanic Rune-stone for 854 Common damage to Morale.
+[08/13 09:31:18 PM] Nlkosi scored a hit with Epic Conclusion on Jûkhtar the Ravenous for 49,198 Lightning damage to Morale.
+[08/13 09:31:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on Jûkhtar the Ravenous for 15,610 Fire damage to Morale.
+[08/13 09:31:20 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on Jûkhtar the Ravenous but she was immune to the attempt.
+[08/13 09:31:20 PM] Nlkosi scored a hit with Fulgurite Strike on Jûkhtar the Ravenous for 4,383 Lightning damage to Morale.
+[08/13 09:31:20 PM] Nlkosi scored a hit with Ceaseless Argument on Jûkhtar the Ravenous for 8,901 Lightning damage to Morale.
+[08/13 09:31:20 PM] Nlkosi tried to use Induce Dazed on Jûkhtar the Ravenous but she was immune to the attempt.
+[08/13 09:31:20 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:31:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on Jûkhtar the Ravenous for 15,610 Fire damage to Morale.
+[08/13 09:31:20 PM] Nothing to dispel.
+[08/13 09:31:21 PM] Nlkosi scored a devastating hit with Vivid Imagery on Jûkhtar the Ravenous for 35,276 Lightning damage to Morale.
+[08/13 09:31:21 PM] Nlkosi scored a devastating hit with Improved Final Word on Jûkhtar the Ravenous.
+[08/13 09:31:21 PM] Jûkhtar the Ravenous scored a hit with a mighty melee attack on Nlkosi for 8,778 Common damage to Morale.
+[08/13 09:31:22 PM] Nlkosi scored a hit with Volcanic Rune-stone on Jûkhtar the Ravenous for 15,610 Fire damage to Morale.
+[08/13 09:31:22 PM] The Volcanic Rune-stone defeated Jûkhtar the Ravenous.
+[08/13 09:35:58 PM] Logging chat tab Combat to file Z:\home\wils\Games\WARLORDLOTRO\Spillfiler\Combat_20260813_3.txt
+[08/13 09:36:27 PM] The Tarsâri Butcher scored a hit with a strong melee attack on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:36:29 PM] The Tarsâri Butcher scored a hit with a moderate melee attack on Nlkosi for 4,665 Common damage to Morale.
+[08/13 09:36:29 PM] Nlkosi scored a hit with Essence of Storm on the Tarsâri Butcher for 10,996 Lightning damage to Morale.
+[08/13 09:36:31 PM] The Tarsâri Butcher scored a critical hit with a strong melee attack on Nlkosi for 7,277 Common damage to Morale.
+[08/13 09:36:31 PM] Nlkosi scored a hit with Shocking Words on the Tarsâri Butcher for 35,635 Lightning damage to Morale.
+[08/13 09:36:32 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:36:32 PM] Your mighty blow defeated the Tarsâri Butcher.
+[08/13 09:36:33 PM] Nlkosi scored a critical hit with Vivid Imagery on the Tarsâri Butcher for 32,171 Lightning damage to Morale.
+[08/13 09:36:41 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Tarsâri Operative for 14,932 Frost damage to Morale.
+[08/13 09:36:41 PM] Nlkosi scored a hit with Fiery Ridicule on the Tarsâri Operative for 4,432 Fire damage to Morale.
+[08/13 09:36:42 PM] Nlkosi scored a devastating hit with Essence of Flame on the Tarsâri Operative for 41,255 Fire damage to Morale.
+[08/13 09:36:42 PM] Nlkosi scored a hit with Sustaining Bolt on the Tarsâri Operative for 6,601 Lightning damage to Morale.
+[08/13 09:36:43 PM] The Tarsâri Operative scored a hit with a weak melee attack on Nlkosi for 6,615 Common damage to Morale.
+[08/13 09:36:43 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,797 points to Power.
+[08/13 09:36:43 PM] Sustenance applied a heal to Nlkosi restoring 17,442 points to Morale.
+[08/13 09:36:44 PM] Nlkosi scored a hit with Essence of Storm on the Tarsâri Operative for 14,701 Lightning damage to Morale.
+[08/13 09:36:44 PM] The Tarsâri Operative scored a hit with Light Injury on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:36:45 PM] The Tarsâri Operative scored a hit with Caltrop Scatter on Nlkosi.
+[08/13 09:36:45 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Tarsâri Operative for 2,946 Fire damage to Morale.
+[08/13 09:36:45 PM] Nlkosi scored a hit with Static Surge on the Tarsâri Operative for 23,170 Lightning damage to Morale.
+[08/13 09:36:46 PM] The Tarsâri Operative scored a hit with Light Injury on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:36:46 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:36:47 PM] Nlkosi scored a critical hit with Epic Conclusion on the Tarsâri Operative for 153,215 Lightning damage to Morale.
+[08/13 09:36:47 PM] The Tarsâri Operative scored a hit with a moderate melee attack on Nlkosi for 9,096 Common damage to Morale.
+[08/13 09:36:48 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Tarsâri Operative for 3,623 Fire damage to Morale.
+[08/13 09:36:48 PM] Nlkosi scored a hit with Ceaseless Argument on the Tarsâri Operative for 12,364 Lightning damage to Morale.
+[08/13 09:36:48 PM] The Tarsâri Operative scored a hit with Light Injury on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:36:49 PM] The Tarsâri Operative scored a partially evaded hit with a weak melee attack on Nlkosi for 5,731 Common damage to Morale.
+[08/13 09:36:51 PM] The Caltrops tried to use Light Injury on Nlkosi but he resisted the attempt.
+[08/13 09:36:51 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Tarsâri Operative for 2,996 Fire damage to Morale.
+[08/13 09:36:51 PM] The Tarsâri Operative scored a hit with a mighty melee attack on Nlkosi for 13,991 Common damage to Morale.
+[08/13 09:36:51 PM] Nlkosi scored a hit with Ceaseless Argument on the Tarsâri Operative for 9,542 Lightning damage to Morale.
+[08/13 09:36:53 PM] The Tarsâri Operative scored a hit with Light Injury on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:36:53 PM] Nlkosi scored a hit with Ceaseless Argument on the Tarsâri Operative for 13,087 Lightning damage to Morale.
+[08/13 09:36:54 PM] The Tarsâri Operative scored a hit with a weak melee attack on Nlkosi for 6,218 Common damage to Morale.
+[08/13 09:36:54 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Tarsâri Operative for 5,665 Fire damage to Morale.
+[08/13 09:36:54 PM] Nlkosi scored a hit with Shocking Words on the Tarsâri Operative for 31,474 Lightning damage to Morale.
+[08/13 09:36:55 PM] The Tarsâri Operative scored a hit with Light Injury on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:36:55 PM] Nlkosi scored a hit with Fiery Ridicule on the Tarsâri Operative for 4,519 Fire damage to Morale.
+[08/13 09:36:55 PM] Nothing to dispel.
+[08/13 09:36:55 PM] Nlkosi scored a hit with Improved Final Word on the Tarsâri Operative.
+[08/13 09:36:57 PM] The Tarsâri Operative scored a hit with Light Injury on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:36:57 PM] Nlkosi scored a hit with Shocking Touch on the Tarsâri Operative for 6,186 Lightning damage to Morale.
+[08/13 09:36:58 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Tarsâri Operative for 4,396 Fire damage to Morale.
+[08/13 09:36:58 PM] Nlkosi scored a hit with Chilling Rhetoric on the Tarsâri Operative for 7,332 Frost damage to Morale.
+[08/13 09:36:59 PM] The Tarsâri Operative scored a hit with Light Injury on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:36:59 PM] The Tarsâri Operative scored a hit with a weak melee attack on Nlkosi for 6,218 Common damage to Morale.
+[08/13 09:36:59 PM] Nlkosi scored a hit with Essence of Storm on the Tarsâri Operative for 13,465 Lightning damage to Morale.
+[08/13 09:37:01 PM] Nlkosi scored a hit with Ceaseless Argument on the Tarsâri Operative for 12,356 Lightning damage to Morale.
+[08/13 09:37:01 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Tarsâri Operative for 4,682 Fire damage to Morale.
+[08/13 09:37:01 PM] The Tarsâri Operative scored a hit with Light Injury on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:37:01 PM] The Tarsâri Operative scored a hit with a minor melee attack on Nlkosi for 8,269 Common damage to Morale.
+[08/13 09:37:01 PM] Your mighty blow defeated the Tarsâri Operative.
+[08/13 09:37:01 PM] Nlkosi scored a hit with Fiery Ridicule on the Tarsâri Operative for 7,663 Fire damage to Morale.
+[08/13 09:37:03 PM] The Tarsâri Operative scored a hit with Light Injury on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:37:05 PM] The Tarsâri Operative scored a hit with Light Injury on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:37:11 PM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[08/13 09:37:12 PM] Self-motivation applied a critical heal to Nlkosi restoring 3,898 points to Power.
+[08/13 09:37:13 PM] Nothing to dispel.
+[08/13 09:37:13 PM] Nlkosi applied a critical benefit with Self-motivation on Nlkosi.
+[08/13 09:37:13 PM] Nlkosi scored a hit with Speak No Evil on the Tarsâri Operative.
+[08/13 09:37:14 PM] The Tarsâri Rogue scored a hit with a weak ranged attack on Nlkosi for 1,781 Common damage to Morale.
+[08/13 09:37:15 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Butcher for 4,154 Lightning damage to Morale.
+[08/13 09:37:15 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Rogue for 4,236 Lightning damage to Morale.
+[08/13 09:37:15 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Operative for 4,478 Lightning damage to Morale.
+[08/13 09:37:15 PM] The Tarsâri Operative scored a hit with a weak melee attack on Nlkosi for 3,308 Common damage to Morale.
+[08/13 09:37:15 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 09:37:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Rogue for 15,141 Fire damage to Morale.
+[08/13 09:37:16 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 09:37:18 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Butcher for 4,168 Lightning damage to Morale.
+[08/13 09:37:18 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Rogue for 4,343 Lightning damage to Morale.
+[08/13 09:37:18 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Operative for 4,128 Lightning damage to Morale.
+[08/13 09:37:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Rogue for 15,141 Fire damage to Morale.
+[08/13 09:37:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Operative for 15,141 Fire damage to Morale.
+[08/13 09:37:18 PM] Nlkosi scored a hit with Vivid Imagery on the Tarsâri Butcher for 11,414 Lightning damage to Morale.
+[08/13 09:37:18 PM] Nlkosi scored a hit with Vivid Imagery on the Tarsâri Operative for 11,886 Lightning damage to Morale.
+[08/13 09:37:19 PM] The Tarsâri Rogue scored a hit with a minor melee attack on the Volcanic Rune-stone for 929 Common damage to Morale.
+[08/13 09:37:20 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:37:20 PM] Your mighty blow defeated the Tarsâri Butcher.
+[08/13 09:37:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Operative for 15,141 Fire damage to Morale.
+[08/13 09:37:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Rogue for 15,141 Fire damage to Morale.
+[08/13 09:37:20 PM] The Volcanic Rune-stone defeated the Tarsâri Rogue.
+[08/13 09:37:20 PM] Nlkosi scored a critical hit with Essence of Storm on the Tarsâri Butcher for 62,843 Lightning damage to Morale.
+[08/13 09:37:21 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Operative for 4,164 Lightning damage to Morale.
+[08/13 09:37:22 PM] The Tarsâri Operative scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,811 Common damage to Morale.
+[08/13 09:37:22 PM] Nlkosi scored a critical hit with Epic Conclusion on the Tarsâri Operative for 202,862 Lightning damage to Morale.
+[08/13 09:37:22 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Operative for 15,141 Fire damage to Morale.
+[08/13 09:37:23 PM] Nothing to dispel.
+[08/13 09:37:23 PM] Nlkosi scored a hit with Improved Final Word on the Tarsâri Operative.
+[08/13 09:37:24 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Operative for 4,355 Lightning damage to Morale.
+[08/13 09:37:25 PM] The Tarsâri Operative scored a partially evaded hit with a moderate melee attack on Nlkosi for 8,383 Common damage to Morale.
+[08/13 09:37:25 PM] Nlkosi scored a hit with Distracting Flame on the Tarsâri Operative.
+[08/13 09:37:25 PM] Nlkosi scored a hit with Fiery Ridicule on the Tarsâri Operative for 6,194 Fire damage to Morale.
+[08/13 09:37:26 PM] Nlkosi scored a hit with Writ of Lightning on the Tarsâri Operative for 12,832 Lightning damage to Morale.
+[08/13 09:37:27 PM] The Tarsâri Operative scored a devastating hit with a mighty melee attack on Nlkosi for 28,727 Common damage to Morale.
+[08/13 09:37:27 PM] Nlkosi scored a hit with Ceaseless Argument on the Tarsâri Operative for 14,806 Lightning damage to Morale.
+[08/13 09:37:28 PM] Nlkosi scored a hit with Distracting Flame on the Tarsâri Operative for 3,510 Fire damage to Morale.
+[08/13 09:37:28 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Tarsâri Operative for 3,237 Fire damage to Morale.
+[08/13 09:37:28 PM] Nlkosi tried to use Induce Stunned on the Tarsâri Operative but he was immune to the attempt.
+[08/13 09:37:29 PM] Nlkosi scored a hit with Shocking Words on the Tarsâri Operative for 41,428 Lightning damage to Morale.
+[08/13 09:37:29 PM] The Tarsâri Operative scored a hit with a minor melee attack on Nlkosi for 8,021 Common damage to Morale.
+[08/13 09:37:30 PM] Nlkosi scored a hit with Chilling Rhetoric on the Tarsâri Operative for 6,504 Frost damage to Morale.
+[08/13 09:37:31 PM] Nlkosi scored a hit with Distracting Flame on the Tarsâri Operative for 2,818 Fire damage to Morale.
+[08/13 09:37:31 PM] Nlkosi scored a hit with Ceaseless Argument on the Tarsâri Operative for 9,984 Lightning damage to Morale.
+[08/13 09:37:31 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Tarsâri Operative for 3,880 Fire damage to Morale.
+[08/13 09:37:32 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:37:32 PM] Your mighty blow defeated the Tarsâri Operative.
+[08/13 09:37:32 PM] Nlkosi scored a critical hit with Essence of Storm on the Tarsâri Operative for 60,122 Lightning damage to Morale.
+[08/13 09:37:45 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Butcher for 4,247 Lightning damage to Morale.
+[08/13 09:37:46 PM] The Tarsâri Butcher scored a critical hit with a strong melee attack on Nlkosi for 7,277 Common damage to Morale.
+[08/13 09:37:46 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 09:37:47 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:37:47 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 09:37:48 PM] Nothing to dispel.
+[08/13 09:37:48 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Butcher for 4,554 Lightning damage to Morale.
+[08/13 09:37:49 PM] Nlkosi scored a hit with Improved Final Word on the Tarsâri Butcher.
+[08/13 09:37:49 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:37:50 PM] The Tarsâri Butcher scored a hit with a weak melee attack on the Volcanic Rune-stone for 743 Common damage to Morale.
+[08/13 09:37:50 PM] Nlkosi scored a hit with Distracting Flame on the Tarsâri Butcher.
+[08/13 09:37:51 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,478 Fire damage to Morale.
+[08/13 09:37:51 PM] The Volcanic Rune-stone defeated the Tarsâri Butcher.
+[08/13 09:37:51 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:37:51 PM] Nlkosi scored a critical hit with Vivid Imagery on the Tarsâri Butcher for 35,144 Lightning damage to Morale.
+[08/13 09:37:57 PM] Nlkosi scored a hit with Sustaining Bolt on the Tarsâri Butcher for 7,137 Lightning damage to Morale.
+[08/13 09:37:57 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,877 points to Power.
+[08/13 09:37:57 PM] Sustenance applied a heal to Nlkosi restoring 18,766 points to Morale.
+[08/13 09:37:58 PM] The Tarsâri Rogue scored a partially evaded hit with a weak ranged attack on Nlkosi for 3,283 Common damage to Morale.
+[08/13 09:37:58 PM] Nlkosi scored a hit with Fiery Ridicule on the Tarsâri Butcher for 5,588 Fire damage to Morale.
+[08/13 09:37:59 PM] Nlkosi scored a hit with Writ of Lightning on the Tarsâri Butcher for 10,878 Lightning damage to Morale.
+[08/13 09:38:00 PM] Nlkosi scored a hit with Fiery Ridicule on the Tarsâri Butcher for 7,338 Fire damage to Morale.
+[08/13 09:38:00 PM] The Tarsâri Butcher scored a hit with a weak melee attack on Nlkosi for 3,392 Common damage to Morale.
+[08/13 09:38:00 PM] The Tarsâri Rogue scored a critical hit with a moderate ranged attack on Nlkosi for 7,004 Common damage to Morale.
+[08/13 09:38:00 PM] Your mighty blow defeated the Tarsâri Butcher.
+[08/13 09:38:01 PM] Nlkosi scored a hit with Epic Conclusion on the Tarsâri Butcher for 68,174 Lightning damage to Morale.
+[08/13 09:38:02 PM] The Tarsâri Rogue scored a hit with a weak ranged attack on Nlkosi for 3,562 Common damage to Morale.
+[08/13 09:38:08 PM] Nlkosi scored a hit with Chilling Rhetoric on the Tarsâri Rogue for 7,226 Frost damage to Morale.
+[08/13 09:38:08 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Tarsâri Rogue for 12,842 Fire damage to Morale.
+[08/13 09:38:09 PM] The Tarsâri Rogue scored a hit with a moderate melee attack on Nlkosi for 4,665 Common damage to Morale.
+[08/13 09:38:10 PM] Nlkosi scored a hit with Fiery Ridicule on the Tarsâri Rogue for 6,878 Fire damage to Morale.
+[08/13 09:38:11 PM] The Tarsâri Rogue scored a hit with a minor melee attack on Nlkosi for 4,241 Common damage to Morale.
+[08/13 09:38:11 PM] You have lost 4,241 points of temporary Morale!
+[08/13 09:38:11 PM] Nothing to dispel.
+[08/13 09:38:11 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/13 09:38:11 PM] Nlkosi scored a hit with Improved Final Word on the Tarsâri Rogue.
+[08/13 09:38:12 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on the Tarsâri Rogue for 8,893 Fire damage to Morale.
+[08/13 09:38:13 PM] Your mighty blow defeated the Tarsâri Rogue.
+[08/13 09:38:13 PM] Nlkosi scored a hit with Essence of Storm on the Tarsâri Rogue for 16,007 Lightning damage to Morale.
+[08/13 09:38:16 PM] Nlkosi scored a hit with Sustaining Bolt on the Tarsâri Rogue for 5,031 Lightning damage to Morale.
+[08/13 09:38:17 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,797 points to Power.
+[08/13 09:38:17 PM] Sustenance applied a heal to Nlkosi restoring 20,955 points to Morale.
+[08/13 09:38:17 PM] Nlkosi scored a hit with Fiery Ridicule on the Tarsâri Rogue for 6,785 Fire damage to Morale.
+[08/13 09:38:18 PM] The Tarsâri Rogue scored a hit with a weak ranged attack on Nlkosi for 3,562 Common damage to Morale.
+[08/13 09:38:18 PM] You have lost 3,562 points of temporary Morale!
+[08/13 09:38:19 PM] Nlkosi scored a hit with Fiery Ridicule on the Tarsâri Rogue for 5,836 Fire damage to Morale.
+[08/13 09:38:20 PM] Nlkosi scored a hit with Fiery Ridicule on the Tarsâri Rogue for 5,892 Fire damage to Morale.
+[08/13 09:38:21 PM] Nlkosi scored a hit with Ceaseless Argument on the Tarsâri Rogue for 13,628 Lightning damage to Morale.
+[08/13 09:38:21 PM] The Tarsâri Rogue scored a hit with Sniper Arrow on Nlkosi.
+[08/13 09:38:22 PM] The Tarsâri Rogue scored a hit with Deep Wound on Nlkosi for 4,453 Common damage to Morale.
+[08/13 09:38:22 PM] Your mighty blow defeated the Tarsâri Rogue.
+[08/13 09:38:22 PM] You have lost 4,453 points of temporary Morale!
+[08/13 09:38:22 PM] Nlkosi scored a hit with Shocking Words on the Tarsâri Rogue for 35,608 Lightning damage to Morale.
+[08/13 09:38:24 PM] The Tarsâri Rogue scored a hit with Deep Wound on Nlkosi for 4,453 Common damage to Morale.
+[08/13 09:38:24 PM] You have lost 4,453 points of temporary Morale!
+[08/13 09:38:26 PM] The Tarsâri Rogue scored a hit with Deep Wound on Nlkosi for 4,453 Common damage to Morale.
+[08/13 09:38:26 PM] You have lost 4,453 points of temporary Morale!
+[08/13 09:38:28 PM] The Tarsâri Rogue scored a hit with Deep Wound on Nlkosi for 4,453 Common damage to Morale.
+[08/13 09:38:28 PM] You have lost 4,453 points of temporary Morale!
+[08/13 09:38:30 PM] The Tarsâri Rogue scored a hit with Deep Wound on Nlkosi for 4,453 Common damage to Morale.
+[08/13 09:38:30 PM] You have lost 4,453 points of temporary Morale!
+[08/13 09:38:31 PM] Nlkosi scored a hit with Essence of Flame on the Tarsâri Rogue for 15,947 Fire damage to Morale.
+[08/13 09:38:31 PM] You have lost 25,401 points of temporary Morale!
+[08/13 09:38:31 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Tarsâri Rogue for 12,926 Fire damage to Morale.
+[08/13 09:38:32 PM] Your mighty blow defeated the Tarsâri Rogue.
+[08/13 09:38:32 PM] The Tarsâri Rogue scored a hit with Deep Wound on Nlkosi for 4,453 Common damage to Morale.
+[08/13 09:38:32 PM] Nlkosi scored a hit with Epic Conclusion on the Tarsâri Rogue for 56,633 Lightning damage to Morale.
+[08/13 09:38:34 PM] The Tarsâri Rogue scored a hit with Deep Wound on Nlkosi for 4,453 Common damage to Morale.
+[08/13 09:38:36 PM] The Tarsâri Rogue scored a hit with Deep Wound on Nlkosi for 4,453 Common damage to Morale.
+[08/13 09:38:38 PM] The Tarsâri Rogue scored a hit with Deep Wound on Nlkosi for 4,453 Common damage to Morale.
+[08/13 09:38:40 PM] The Tarsâri Rogue scored a hit with Deep Wound on Nlkosi for 4,453 Common damage to Morale.
+[08/13 09:38:42 PM] The Tarsâri Rogue scored a hit with Deep Wound on Nlkosi for 4,453 Common damage to Morale.
+[08/13 09:38:44 PM] The Tarsâri Rogue scored a hit with a minor ranged attack on Nlkosi for 4,453 Common damage to Morale.
+[08/13 09:38:46 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:38:46 PM] The Tarsâri Rogue scored a hit with a weak melee attack on Nlkosi for 3,392 Common damage to Morale.
+[08/13 09:38:47 PM] Nlkosi scored a devastating hit with Ceaseless Argument on the Tarsâri Rogue for 32,850 Lightning damage to Morale.
+[08/13 09:38:48 PM] Nlkosi scored a hit with Essence of Storm on the Tarsâri Rogue for 12,431 Lightning damage to Morale.
+[08/13 09:38:49 PM] Your mighty blow defeated the Tarsâri Rogue.
+[08/13 09:38:49 PM] Nlkosi scored a hit with Shocking Words on the Tarsâri Rogue for 30,723 Lightning damage to Morale.
+[08/13 09:38:56 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Tarsâri Butcher for 12,985 Frost damage to Morale.
+[08/13 09:38:57 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Tarsâri Butcher for 9,879 Fire damage to Morale.
+[08/13 09:38:58 PM] Nlkosi scored a hit with Essence of Flame on the Tarsâri Butcher for 14,911 Fire damage to Morale.
+[08/13 09:38:58 PM] The Tarsâri Butcher missed trying to use a weak melee attack on Nlkosi.
+[08/13 09:38:58 PM] Nlkosi scored a hit with Sustaining Bolt on the Tarsâri Butcher for 5,266 Lightning damage to Morale.
+[08/13 09:38:59 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,850 points to Power.
+[08/13 09:38:59 PM] Sustenance applied a heal to Nlkosi restoring 21,328 points to Morale.
+[08/13 09:38:59 PM] Nothing to dispel.
+[08/13 09:39:00 PM] Nlkosi scored a hit with Improved Final Word on the Tarsâri Butcher.
+[08/13 09:39:01 PM] The Tarsâri Butcher scored a hit with a moderate melee attack on Nlkosi for 4,665 Common damage to Morale.
+[08/13 09:39:01 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Tarsâri Butcher for 5,822 Fire damage to Morale.
+[08/13 09:39:01 PM] Your mighty blow defeated the Tarsâri Butcher.
+[08/13 09:39:01 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:39:01 PM] Nlkosi scored a critical hit with Essence of Storm on the Tarsâri Butcher for 49,840 Lightning damage to Morale.
+[08/13 09:39:10 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:39:10 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Operative for 15,141 Fire damage to Morale.
+[08/13 09:39:10 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 09:39:11 PM] The Tarsâri Operative tried to use Induce Knockeddown on the Volcanic Rune-stone but it was immune to the attempt.
+[08/13 09:39:11 PM] The Tarsâri Butcher scored a hit with a moderate melee attack on the Volcanic Rune-stone for 1,022 Common damage to Morale.
+[08/13 09:39:11 PM] The Tarsâri Dagger scored a partially evaded hit with a moderate melee attack on the Volcanic Rune-stone for 659 Common damage to Morale.
+[08/13 09:39:11 PM] The Tarsâri Operative scored a partially evaded hit with Wild Slash on the Volcanic Rune-stone for 1,869 Common damage to Morale.
+[08/13 09:39:11 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Dagger for 4,551 Lightning damage to Morale.
+[08/13 09:39:11 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Butcher for 4,236 Lightning damage to Morale.
+[08/13 09:39:11 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Operative for 4,184 Lightning damage to Morale.
+[08/13 09:39:11 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 09:39:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Dagger for 15,141 Fire damage to Morale.
+[08/13 09:39:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:39:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Operative for 15,141 Fire damage to Morale.
+[08/13 09:39:13 PM] The Tarsâri Butcher scored a hit with a minor melee attack on the Volcanic Rune-stone for 929 Common damage to Morale.
+[08/13 09:39:13 PM] The Tarsâri Operative scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,449 Common damage to Morale.
+[08/13 09:39:13 PM] Nlkosi scored a hit with Distracting Flame on the Tarsâri Operative.
+[08/13 09:39:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Dagger for 15,141 Fire damage to Morale.
+[08/13 09:39:14 PM] The Volcanic Rune-stone defeated the Tarsâri Dagger.
+[08/13 09:39:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:39:14 PM] The Volcanic Rune-stone defeated the Tarsâri Butcher.
+[08/13 09:39:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Operative for 15,478 Fire damage to Morale.
+[08/13 09:39:14 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Operative for 4,335 Lightning damage to Morale.
+[08/13 09:39:15 PM] The Tarsâri Operative scored a partially blocked hit with a minor melee attack on the Volcanic Rune-stone for 1,168 Common damage to Morale.
+[08/13 09:39:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Operative for 15,478 Fire damage to Morale.
+[08/13 09:39:16 PM] Nlkosi scored a hit with Distracting Flame on the Tarsâri Operative for 2,543 Fire damage to Morale.
+[08/13 09:39:16 PM] Nlkosi scored a hit with Essence of Storm on the Tarsâri Operative for 13,435 Lightning damage to Morale.
+[08/13 09:39:17 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Operative for 4,506 Lightning damage to Morale.
+[08/13 09:39:18 PM] The Tarsâri Operative missed trying to use a weak melee attack on the Volcanic Rune-stone.
+[08/13 09:39:18 PM] Nlkosi scored a hit with Shocking Words on the Tarsâri Operative for 34,831 Lightning damage to Morale.
+[08/13 09:39:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Operative for 15,478 Fire damage to Morale.
+[08/13 09:39:19 PM] Nlkosi scored a hit with Ceaseless Argument on the Tarsâri Operative for 9,812 Lightning damage to Morale.
+[08/13 09:39:19 PM] Nlkosi scored a critical hit with Distracting Flame on the Tarsâri Operative for 5,516 Fire damage to Morale.
+[08/13 09:39:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Operative for 15,478 Fire damage to Morale.
+[08/13 09:39:20 PM] Nlkosi scored a hit with Chilling Rhetoric on the Tarsâri Operative for 7,267 Frost damage to Morale.
+[08/13 09:39:20 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Operative for 4,425 Lightning damage to Morale.
+[08/13 09:39:21 PM] Nlkosi scored a hit with Head-butt on the Tarsâri Operative for 11,615 Common damage to Morale.
+[08/13 09:39:22 PM] Nlkosi scored a hit with Distracting Flame on the Tarsâri Operative for 3,206 Fire damage to Morale.
+[08/13 09:39:22 PM] Nlkosi scored a hit with Shocking Touch on the Tarsâri Operative for 4,329 Lightning damage to Morale.
+[08/13 09:39:24 PM] The Tarsâri Operative scored a partially evaded hit with a mighty melee attack on Nlkosi for 13,717 Common damage to Morale.
+[08/13 09:39:24 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:39:24 PM] Nlkosi scored a devastating hit with Writ of Lightning on the Tarsâri Operative for 27,927 Lightning damage to Morale.
+[08/13 09:39:25 PM] Nlkosi scored a hit with Distracting Flame on the Tarsâri Operative for 3,243 Fire damage to Morale.
+[08/13 09:39:26 PM] The Tarsâri Operative scored a hit with a weak melee attack on Nlkosi for 6,615 Common damage to Morale.
+[08/13 09:39:27 PM] Your mighty blow defeated the Tarsâri Operative.
+[08/13 09:39:27 PM] Nlkosi scored a critical hit with Epic Conclusion on the Tarsâri Operative for 183,085 Lightning damage to Morale.
+[08/13 09:39:37 PM] Self-motivation applied a heal to Nlkosi restoring 3,244 points to Power.
+[08/13 09:39:37 PM] Nlkosi applied a benefit with Self-motivation on Nlkosi.
+[08/13 09:39:44 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Rogue for 15,141 Fire damage to Morale.
+[08/13 09:39:44 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:39:45 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 09:39:45 PM] The Tarsâri Rogue tried to use a weak melee attack on the Volcanic Rune-stone but it blocked the attempt.
+[08/13 09:39:45 PM] The Tarsâri Butcher scored a hit with a weak melee attack on the Volcanic Rune-stone for 743 Common damage to Morale.
+[08/13 09:39:46 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Rogue for 4,357 Lightning damage to Morale.
+[08/13 09:39:46 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Butcher for 4,247 Lightning damage to Morale.
+[08/13 09:39:46 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 09:39:46 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Rogue for 15,141 Fire damage to Morale.
+[08/13 09:39:46 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:39:47 PM] The Tarsâri Butcher scored a hit with a strong melee attack on the Volcanic Rune-stone for 1,114 Common damage to Morale.
+[08/13 09:39:48 PM] Your mighty blow defeated the Tarsâri Butcher.
+[08/13 09:39:48 PM] Nlkosi scored a hit with Chilling Rhetoric on the Tarsâri Butcher for 8,488 Frost damage to Morale.
+[08/13 09:39:48 PM] Nlkosi scored a hit with Sustaining Bolt on the Tarsâri Butcher for 6,670 Lightning damage to Morale.
+[08/13 09:39:48 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Rogue for 15,141 Fire damage to Morale.
+[08/13 09:39:48 PM] The Volcanic Rune-stone defeated the Tarsâri Rogue.
+[08/13 09:39:49 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,859 points to Power.
+[08/13 09:39:49 PM] Sustenance applied a critical heal to Nlkosi restoring 24,337 points to Morale.
+[08/13 09:40:41 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Rogue for 15,141 Fire damage to Morale.
+[08/13 09:40:41 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:40:41 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:40:42 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 09:40:42 PM] The Tarsâri Butcher scored a hit with a melee double attack on the Volcanic Rune-stone for 743 Common damage to Morale.
+[08/13 09:40:43 PM] The Tarsâri Rogue tried to use a moderate melee attack on the Volcanic Rune-stone but it parried the attempt.
+[08/13 09:40:43 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Rogue for 4,538 Lightning damage to Morale.
+[08/13 09:40:43 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Butcher for 4,126 Lightning damage to Morale.
+[08/13 09:40:43 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Butcher for 4,165 Lightning damage to Morale.
+[08/13 09:40:43 PM] The Tarsâri Butcher scored a hit with a melee double attack on the Volcanic Rune-stone for 743 Common damage to Morale.
+[08/13 09:40:43 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 09:40:43 PM] The Tarsâri Butcher scored a hit with a weak melee attack on the Volcanic Rune-stone for 743 Common damage to Morale.
+[08/13 09:40:43 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Rogue for 15,141 Fire damage to Morale.
+[08/13 09:40:43 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:40:43 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:40:44 PM] The Tarsâri Rogue scored a critical hit with a weak ranged attack on Nlkosi for 5,094 Common damage to Morale.
+[08/13 09:40:44 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:40:44 PM] Your mighty blow defeated the Tarsâri Butcher.
+[08/13 09:40:44 PM] Nlkosi scored a critical hit with Epic Conclusion on the Tarsâri Butcher for 127,456 Lightning damage to Morale.
+[08/13 09:40:45 PM] The Tarsâri Butcher tried to use a minor melee attack on the Volcanic Rune-stone but it parried the attempt.
+[08/13 09:40:45 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:40:45 PM] The Volcanic Rune-stone defeated the Tarsâri Butcher.
+[08/13 09:40:45 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Rogue for 15,141 Fire damage to Morale.
+[08/13 09:40:45 PM] The Volcanic Rune-stone defeated the Tarsâri Rogue.
+[08/13 09:40:53 PM] The Tarsâri Rogue scored a hit with a weak ranged attack on Nlkosi for 3,562 Common damage to Morale.
+[08/13 09:40:54 PM] The Tarsâri Rogue scored a hit with a minor ranged attack on Nlkosi for 4,453 Common damage to Morale.
+[08/13 09:40:58 PM] Nlkosi scored a hit with Sustaining Bolt on the Tarsâri Rogue for 6,924 Lightning damage to Morale.
+[08/13 09:40:59 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,791 points to Power.
+[08/13 09:40:59 PM] Sustenance applied a critical heal to Nlkosi restoring 29,969 points to Morale.
+[08/13 09:41:05 PM] The Tarsâri Rogue scored a hit with a minor melee attack on Nlkosi for 4,113 Common damage to Morale.
+[08/13 09:41:07 PM] The Tarsâri Rogue scored a hit with a weak melee attack on Nlkosi for 3,291 Common damage to Morale.
+[08/13 09:41:08 PM] Nlkosi scored a hit with Shocking Touch on the Tarsâri Rogue for 4,228 Lightning damage to Morale.
+[08/13 09:41:08 PM] Nothing to dispel.
+[08/13 09:41:08 PM] Nlkosi scored a hit with Improved Final Word on the Tarsâri Rogue.
+[08/13 09:41:11 PM] Prelude to Hope applied a heal to Nlkosi restoring 5,454 points to Morale.
+[08/13 09:41:12 PM] Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+[08/13 09:41:12 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,804 points to Morale.
+[08/13 09:41:13 PM] Nlkosi scored a hit with Ceaseless Argument on the Tarsâri Rogue for 11,104 Lightning damage to Morale.
+[08/13 09:41:13 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,759 points to Morale.
+[08/13 09:41:14 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:41:14 PM] Your mighty blow defeated the Tarsâri Rogue.
+[08/13 09:41:14 PM] Nlkosi scored a critical hit with Writ of Lightning on the Tarsâri Rogue for 26,928 Lightning damage to Morale.
+[08/13 09:41:14 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,775 points to Morale.
+[08/13 09:41:16 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,987 points to Morale.
+[08/13 09:41:17 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,456 points to Morale.
+[08/13 09:41:18 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,863 points to Morale.
+[08/13 09:41:19 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,767 points to Morale.
+[08/13 09:41:20 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,179 points to Morale.
+[08/13 09:41:21 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,354 points to Morale.
+[08/13 09:41:22 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,649 points to Morale.
+[08/13 09:41:23 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,640 points to Morale.
+[08/13 09:41:24 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,676 points to Morale.
+[08/13 09:45:10 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:45:10 PM] Nlkosi scored a critical hit with Essence of Storm on the Tarsâri Operative for 46,005 Lightning damage to Morale.
+[08/13 09:45:10 PM] The Tarsâri Operative scored a hit with a mighty melee attack on Nlkosi for 14,884 Common damage to Morale.
+[08/13 09:45:11 PM] Nlkosi scored a hit with Epic Conclusion on the Tarsâri Operative for 40,115 Lightning damage to Morale.
+[08/13 09:45:13 PM] The Tarsâri Operative scored a hit with a weak melee attack on Nlkosi for 6,615 Common damage to Morale.
+[08/13 09:45:13 PM] Nlkosi scored a hit with Scribe's Spark on the Tarsâri Operative for 9,080 Lightning damage to Morale.
+[08/13 09:45:15 PM] The Tarsâri Operative scored a hit with a moderate melee attack on Nlkosi for 9,096 Common damage to Morale.
+[08/13 09:45:15 PM] Nlkosi scored a hit with Shocking Words on the Tarsâri Operative for 25,890 Lightning damage to Morale.
+[08/13 09:45:17 PM] Nlkosi scored a hit with Vivid Imagery on the Tarsâri Operative for 10,078 Lightning damage to Morale.
+[08/13 09:45:18 PM] Nothing to dispel.
+[08/13 09:45:18 PM] The Tarsâri Operative scored a hit with a weak melee attack on Nlkosi for 6,615 Common damage to Morale.
+[08/13 09:45:18 PM] Nlkosi scored a hit with Improved Final Word on the Tarsâri Operative.
+[08/13 09:45:19 PM] Nlkosi scored a hit with Static Surge on the Tarsâri Operative for 25,509 Lightning damage to Morale.
+[08/13 09:45:20 PM] The Tarsâri Operative scored a hit with a minor melee attack on Nlkosi for 8,269 Common damage to Morale.
+[08/13 09:45:21 PM] Nlkosi scored a hit with Chilling Rhetoric on the Tarsâri Operative for 8,268 Frost damage to Morale.
+[08/13 09:45:21 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:45:22 PM] Nlkosi scored a critical hit with Shocking Touch on the Tarsâri Operative for 11,167 Lightning damage to Morale.
+[08/13 09:45:23 PM] Nlkosi scored a hit with Head-butt on the Tarsâri Operative for 11,361 Common damage to Morale.
+[08/13 09:45:24 PM] The Tarsâri Operative scored a critical hit with a weak melee attack on Nlkosi for 9,460 Common damage to Morale.
+[08/13 09:45:24 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Tarsâri Operative for 20,075 Lightning damage to Morale.
+[08/13 09:45:25 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,771 points to Power.
+[08/13 09:45:25 PM] Sustenance applied a critical heal to Nlkosi restoring 21,704 points to Morale.
+[08/13 09:45:26 PM] The Tarsâri Operative scored a hit with a mighty melee attack on Nlkosi for 14,884 Common damage to Morale.
+[08/13 09:45:26 PM] Nlkosi scored a hit with Essence of Storm on the Tarsâri Operative for 18,258 Lightning damage to Morale.
+[08/13 09:45:28 PM] The Tarsâri Operative scored a hit with a moderate melee attack on Nlkosi for 9,096 Common damage to Morale.
+[08/13 09:45:28 PM] Nlkosi scored a critical hit with Essence of Flame on the Tarsâri Operative for 31,272 Fire damage to Morale.
+[08/13 09:45:29 PM] Nlkosi scored a hit with Writ of Lightning on the Tarsâri Operative for 14,318 Lightning damage to Morale.
+[08/13 09:45:31 PM] The Tarsâri Operative scored a devastating hit with a weak melee attack on Nlkosi for 12,767 Common damage to Morale.
+[08/13 09:45:32 PM] Nlkosi scored a hit with Ceaseless Argument on the Tarsâri Operative for 14,451 Lightning damage to Morale.
+[08/13 09:45:33 PM] The Tarsâri Operative scored a hit with a moderate melee attack on Nlkosi for 9,096 Common damage to Morale.
+[08/13 09:45:33 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:45:34 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Tarsâri Operative for 41,712 Lightning damage to Morale.
+[08/13 09:45:35 PM] Your mighty blow defeated the Tarsâri Operative.
+[08/13 09:45:35 PM] Nlkosi scored a critical hit with Static Surge on the Tarsâri Operative for 80,868 Lightning damage to Morale.
+[08/13 09:45:48 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:45:49 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 09:45:49 PM] The Tarsâri Butcher scored a hit with a weak melee attack on the Volcanic Rune-stone for 743 Common damage to Morale.
+[08/13 09:45:50 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Dagger for 4,333 Lightning damage to Morale.
+[08/13 09:45:50 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Butcher for 4,116 Lightning damage to Morale.
+[08/13 09:45:50 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Butcher for 4,260 Lightning damage to Morale.
+[08/13 09:45:50 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 09:45:50 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:45:50 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:45:51 PM] The Tarsâri Butcher scored a hit with a melee double attack on the Volcanic Rune-stone for 743 Common damage to Morale.
+[08/13 09:45:52 PM] Your mighty blow defeated the Tarsâri Dagger.
+[08/13 09:45:52 PM] Nlkosi scored a hit with Epic Conclusion on the Tarsâri Dagger for 47,050 Lightning damage to Morale.
+[08/13 09:45:52 PM] The Tarsâri Butcher scored a hit with a melee double attack on the Volcanic Rune-stone for 743 Common damage to Morale.
+[08/13 09:45:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:45:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:45:52 PM] The Volcanic Rune-stone defeated the Tarsâri Butcher.
+[08/13 09:45:53 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Butcher for 4,208 Lightning damage to Morale.
+[08/13 09:45:53 PM] Your mighty blow defeated the Tarsâri Butcher.
+[08/13 09:45:54 PM] Nlkosi scored a hit with Scribe's Spark on the Tarsâri Butcher for 11,644 Lightning damage to Morale.
+[08/13 09:46:11 PM] Self-motivation applied a heal to Nlkosi restoring 3,244 points to Power.
+[08/13 09:46:11 PM] Nlkosi applied a benefit with Self-motivation on Nlkosi.
+[08/13 09:46:17 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/13 09:46:18 PM] Nothing to cure.
+[08/13 09:46:20 PM] Nothing to cure.
+[08/13 09:46:21 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Operative for 4,472 Lightning damage to Morale.
+[08/13 09:46:21 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Butcher for 4,241 Lightning damage to Morale.
+[08/13 09:46:21 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 09:46:22 PM] Nothing to cure.
+[08/13 09:46:22 PM] The Tarsâri Operative scored a critical hit with a mighty melee attack on the Charged Fulgurite Rune-stone for 4,244 Common damage to Morale.
+[08/13 09:46:22 PM] The Tarsâri Butcher scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 743 Common damage to Morale.
+[08/13 09:46:23 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 15,141 Fire damage to Morale.
+[08/13 09:46:23 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 09:46:24 PM] The Tarsâri Butcher scored a hit with a melee double attack on the Volcanic Rune-stone for 743 Common damage to Morale.
+[08/13 09:46:24 PM] The Tarsâri Operative tried to use a weak melee attack on the Charged Fulgurite Rune-stone but it evaded the attempt.
+[08/13 09:46:24 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Operative for 4,545 Lightning damage to Morale.
+[08/13 09:46:24 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Butcher for 4,415 Lightning damage to Morale.
+[08/13 09:46:24 PM] The Tarsâri Butcher scored a hit with a melee double attack on the Volcanic Rune-stone for 743 Common damage to Morale.
+[08/13 09:46:24 PM] Your mighty blow defeated the Tarsâri Butcher.
+[08/13 09:46:25 PM] Nlkosi scored a hit with Shocking Words on the Tarsâri Butcher for 35,012 Lightning damage to Morale.
+[08/13 09:46:26 PM] Nlkosi scored a hit with Vivid Imagery on the Tarsâri Operative for 9,318 Lightning damage to Morale.
+[08/13 09:46:27 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Operative for 4,104 Lightning damage to Morale.
+[08/13 09:46:28 PM] Nlkosi scored a hit with Epic Conclusion on the Tarsâri Operative for 47,128 Lightning damage to Morale.
+[08/13 09:46:29 PM] Nlkosi scored a hit with Sustaining Bolt on the Tarsâri Operative for 4,728 Lightning damage to Morale.
+[08/13 09:46:29 PM] The Tarsâri Operative scored a hit with a mighty melee attack on Nlkosi for 14,884 Common damage to Morale.
+[08/13 09:46:30 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,641 points to Power.
+[08/13 09:46:30 PM] Sustenance applied a heal to Nlkosi restoring 18,900 points to Morale.
+[08/13 09:46:30 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:46:30 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Operative for 4,235 Lightning damage to Morale.
+[08/13 09:46:30 PM] Nlkosi scored a critical hit with Shocking Touch on the Tarsâri Operative for 11,108 Lightning damage to Morale.
+[08/13 09:46:32 PM] Nlkosi scored a critical hit with Essence of Storm on the Tarsâri Operative for 68,522 Lightning damage to Morale.
+[08/13 09:46:33 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Tarsâri Operative for 12,782 Fire damage to Morale.
+[08/13 09:46:34 PM] Nlkosi scored a hit with Writ of Lightning on the Tarsâri Operative for 15,309 Lightning damage to Morale.
+[08/13 09:46:34 PM] The Tarsâri Operative tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[08/13 09:46:35 PM] Nlkosi scored a critical hit with Static Surge on the Tarsâri Operative for 69,343 Lightning damage to Morale.
+[08/13 09:46:36 PM] The Tarsâri Operative scored a hit with Light Injury on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:46:36 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Tarsâri Operative for 6,709 Fire damage to Morale.
+[08/13 09:46:36 PM] The Tarsâri Operative scored a hit with Caltrop Scatter on Nlkosi.
+[08/13 09:46:38 PM] The Tarsâri Operative scored a hit with Light Injury on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:46:38 PM] The Tarsâri Operative scored a hit with a moderate melee attack on Nlkosi for 8,823 Common damage to Morale.
+[08/13 09:46:39 PM] Nlkosi scored a hit with Distracting Flame on the Tarsâri Operative.
+[08/13 09:46:39 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Tarsâri Operative for 7,911 Fire damage to Morale.
+[08/13 09:46:39 PM] Nlkosi scored a hit with Writ of Lightning on the Tarsâri Operative for 13,302 Lightning damage to Morale.
+[08/13 09:46:40 PM] The Tarsâri Operative scored a hit with Light Injury on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:46:41 PM] The Tarsâri Operative scored a hit with a weak melee attack on Nlkosi for 6,417 Common damage to Morale.
+[08/13 09:46:41 PM] Nlkosi scored a hit with Distracting Flame on the Tarsâri Operative for 3,914 Fire damage to Morale.
+[08/13 09:46:42 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Tarsâri Operative for 4,128 Fire damage to Morale.
+[08/13 09:46:43 PM] The Tarsâri Operative scored a hit with Light Injury on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:46:43 PM] The Tarsâri Operative scored a hit with a mighty melee attack on Nlkosi for 14,884 Common damage to Morale.
+[08/13 09:46:44 PM] Nlkosi scored a hit with Essence of Storm on the Tarsâri Operative for 12,847 Lightning damage to Morale.
+[08/13 09:46:45 PM] Nlkosi scored a hit with Distracting Flame on the Tarsâri Operative for 3,532 Fire damage to Morale.
+[08/13 09:46:45 PM] The Caltrops tried to use Light Injury on Nlkosi but he resisted the attempt.
+[08/13 09:46:45 PM] Nlkosi scored a hit with Epic Conclusion on the Tarsâri Operative for 59,143 Lightning damage to Morale.
+[08/13 09:46:46 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Tarsâri Operative for 7,529 Fire damage to Morale.
+[08/13 09:46:46 PM] The Tarsâri Operative scored a hit with a weak melee attack on Nlkosi for 6,615 Common damage to Morale.
+[08/13 09:46:47 PM] The Tarsâri Operative scored a hit with Light Injury on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:46:48 PM] Nlkosi scored a hit with Distracting Flame on the Tarsâri Operative for 4,502 Fire damage to Morale.
+[08/13 09:46:48 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:46:48 PM] Your mighty blow defeated the Tarsâri Operative.
+[08/13 09:46:48 PM] Nlkosi scored a devastating hit with Ceaseless Argument on the Tarsâri Operative for 36,792 Lightning damage to Morale.
+[08/13 09:46:53 PM] The Tarsâri Operative scored a hit with Light Injury on Nlkosi for 5,089 Common damage to Morale.
+[08/13 09:47:39 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Veiled One for 15,141 Fire damage to Morale.
+[08/13 09:47:39 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/13 09:47:40 PM] The Tarsâri Veiled One scored a hit with a mighty melee attack on the Volcanic Rune-stone for 3,260 Common damage to Morale.
+[08/13 09:47:40 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Veiled One for 4,370 Lightning damage to Morale.
+[08/13 09:47:41 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/13 09:47:41 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Veiled One for 15,141 Fire damage to Morale.
+[08/13 09:47:42 PM] Nlkosi scored a hit with Chilling Rhetoric on the Tarsâri Veiled One for 8,238 Frost damage to Morale.
+[08/13 09:47:42 PM] Nlkosi scored a hit with Sustaining Bolt on the Tarsâri Veiled One for 5,822 Lightning damage to Morale.
+[08/13 09:47:43 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Veiled One for 15,141 Fire damage to Morale.
+[08/13 09:47:43 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,803 points to Power.
+[08/13 09:47:43 PM] Sustenance applied a heal to Nlkosi restoring 19,937 points to Morale.
+[08/13 09:47:43 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Veiled One for 4,165 Lightning damage to Morale.
+[08/13 09:47:44 PM] The Tarsâri Veiled One tried to use a moderate melee attack on the Volcanic Rune-stone but it evaded the attempt.
+[08/13 09:47:45 PM] Nlkosi scored a hit with Essence of Flame on the Tarsâri Veiled One for 12,288 Fire damage to Morale.
+[08/13 09:47:45 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Veiled One for 15,478 Fire damage to Morale.
+[08/13 09:47:45 PM] Nlkosi tried to use Induce Stunned on the Tarsâri Veiled One but he was immune to the attempt.
+[08/13 09:47:46 PM] Nlkosi scored a hit with Shocking Words on the Tarsâri Veiled One for 34,894 Lightning damage to Morale.
+[08/13 09:47:46 PM] The Tarsâri Veiled One scored a hit with Caltrop Scatter on the Charged Fulgurite Rune-stone.
+[08/13 09:47:46 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Veiled One for 4,612 Lightning damage to Morale.
+[08/13 09:47:47 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Veiled One for 15,478 Fire damage to Morale.
+[08/13 09:47:48 PM] Nlkosi scored a devastating hit with Distracting Flame on the Tarsâri Veiled One.
+[08/13 09:47:48 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/13 09:47:48 PM] Nlkosi scored a critical hit with Epic Conclusion on the Tarsâri Veiled One for 112,299 Lightning damage to Morale.
+[08/13 09:47:48 PM] The Tarsâri Veiled One scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,449 Common damage to Morale.
+[08/13 09:47:49 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Veiled One for 15,478 Fire damage to Morale.
+[08/13 09:47:49 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Tarsâri Veiled One but he was immune to the attempt.
+[08/13 09:47:49 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Veiled One for 4,410 Lightning damage to Morale.
+[08/13 09:47:50 PM] Nlkosi scored a critical hit with Distracting Flame on the Tarsâri Veiled One for 5,549 Fire damage to Morale.
+[08/13 09:47:51 PM] Nlkosi scored a hit with Essence of Storm on the Tarsâri Veiled One for 12,372 Lightning damage to Morale.
+[08/13 09:47:52 PM] The Tarsâri Veiled One scored a critical hit with a moderate melee attack on Nlkosi for 12,617 Common damage to Morale.
+[08/13 09:47:52 PM] Nlkosi scored a critical hit with Scribe's Spark on the Tarsâri Veiled One for 38,186 Lightning damage to Morale.
+[08/13 09:47:53 PM] Nlkosi scored a hit with Ceaseless Argument on the Tarsâri Veiled One for 15,956 Lightning damage to Morale.
+[08/13 09:47:53 PM] Nlkosi scored a hit with Distracting Flame on the Tarsâri Veiled One for 2,641 Fire damage to Morale.
+[08/13 09:47:54 PM] Nlkosi scored a hit with Static Surge on the Tarsâri Veiled One for 27,213 Lightning damage to Morale.
+[08/13 09:47:54 PM] The Tarsâri Veiled One scored a hit with a minor melee attack on Nlkosi for 8,021 Common damage to Morale.
+[08/13 09:47:56 PM] Your mighty blow defeated the Tarsâri Veiled One.
+[08/13 09:47:56 PM] Nlkosi scored a critical hit with Scribe's Spark on the Tarsâri Veiled One for 40,416 Lightning damage to Morale.

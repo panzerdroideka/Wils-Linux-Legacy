@@ -1,0 +1,122 @@
+### Chat Log: Combat 08/16 06:38 PM ###
+[08/16 06:39:17 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Jackal for 9,497 Lightning damage to Morale.
+[08/16 06:39:17 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/16 06:39:18 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Adagím Jackal for 15,262 Lightning damage to Morale.
+[08/16 06:39:19 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,076 points to Power.
+[08/16 06:39:19 PM] Sustenance applied a heal to Nlkosi restoring 17,178 points to Morale.
+[08/16 06:39:20 PM] Nlkosi scored a hit with Essence of Flame on the Adagím Jackal for 15,884 Fire damage to Morale.
+[08/16 06:39:20 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Jackal for 5,683 Fire damage to Morale.
+[08/16 06:39:20 PM] The Adagím Jackal scored a critical hit with Crippling Bite on Nlkosi.
+[08/16 06:39:21 PM] Your mighty blow defeated the Adagím Jackal.
+[08/16 06:39:21 PM] Nlkosi scored a hit with Essence of Storm on the Adagím Jackal for 13,352 Lightning damage to Morale.
+[08/16 06:39:24 PM] Nlkosi scored a hit with Epic Conclusion on the Adagím Jackal for 48,539 Lightning damage to Morale.
+[08/16 06:39:26 PM] Nlkosi scored a hit with Chilling Rhetoric on the Adagím Jackal for 5,745 Frost damage to Morale.
+[08/16 06:39:28 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/16 06:39:28 PM] Your mighty blow defeated the Adagím Jackal.
+[08/16 06:39:29 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Adagím Jackal for 28,974 Lightning damage to Morale.
+[08/16 06:39:32 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Jackal for 9,001 Lightning damage to Morale.
+[08/16 06:39:35 PM] Nlkosi scored a hit with Essence of Flame on the Adagím Jackal for 13,238 Fire damage to Morale.
+[08/16 06:39:35 PM] Nlkosi scored a hit with Sustaining Bolt on the Adagím Jackal for 7,150 Lightning damage to Morale.
+[08/16 06:39:35 PM] The Adagím Jackal scored a devastating hit with Crippling Bite on Nlkosi.
+[08/16 06:39:36 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,781 points to Power.
+[08/16 06:39:36 PM] Sustenance applied a heal to Nlkosi restoring 22,714 points to Morale.
+[08/16 06:39:37 PM] Your mighty blow defeated the Adagím Jackal.
+[08/16 06:39:37 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Adagím Jackal for 35,385 Lightning damage to Morale.
+[08/16 06:39:47 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Adagím Jackal for 12,435 Fire damage to Morale.
+[08/16 06:39:49 PM] The Adagím Jackal scored a hit with Crippling Bite on Nlkosi.
+[08/16 06:39:49 PM] Nlkosi scored a hit with Chilling Rhetoric on the Adagím Jackal for 7,112 Frost damage to Morale.
+[08/16 06:39:50 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Adagím Jackal for 3,185 Fire damage to Morale.
+[08/16 06:39:50 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Jackal for 6,936 Fire damage to Morale.
+[08/16 06:39:51 PM] The Adagím Jackal scored a partially evaded hit with a weak melee attack on Nlkosi for 3,346 Common damage to Morale.
+[08/16 06:39:51 PM] Your mighty blow defeated the Adagím Jackal.
+[08/16 06:39:51 PM] Nlkosi scored a hit with Shocking Words on the Adagím Jackal for 28,060 Lightning damage to Morale.
+[08/16 06:39:55 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/16 06:39:55 PM] Nlkosi scored a critical hit with Writ of Lightning on the Adagím Jackal for 29,309 Lightning damage to Morale.
+[08/16 06:39:56 PM] Nlkosi scored a hit with Sustaining Bolt on the Adagím Jackal for 7,109 Lightning damage to Morale.
+[08/16 06:39:57 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,641 points to Power.
+[08/16 06:39:57 PM] Sustenance applied a heal to Nlkosi restoring 19,917 points to Morale.
+[08/16 06:39:59 PM] Nlkosi scored a hit with Essence of Storm on the Adagím Jackal for 13,846 Lightning damage to Morale.
+[08/16 06:39:59 PM] The Adagím Jackal scored a hit with a weak melee attack on Nlkosi for 3,643 Common damage to Morale.
+[08/16 06:39:59 PM] Your mighty blow defeated the Adagím Jackal.
+[08/16 06:40:00 PM] Nlkosi scored a critical hit with Epic Conclusion on the Adagím Jackal for 114,480 Lightning damage to Morale.
+[08/16 06:40:05 PM] The Adagím Jackal scored a hit with a weak melee attack on Nlkosi for 3,534 Common damage to Morale.
+[08/16 06:40:07 PM] The Adagím Jackal scored a hit with a minor melee attack on Nlkosi for 4,417 Common damage to Morale.
+[08/16 06:40:08 PM] Nlkosi scored a hit with Essence of Storm on the Adagím Jackal for 13,497 Lightning damage to Morale.
+[08/16 06:40:08 PM] The Adagím Jackal scored a hit with a moderate melee attack on Nlkosi for 4,859 Common damage to Morale.
+[08/16 06:40:09 PM] Nlkosi scored a hit with Static Surge on the Adagím Jackal for 22,420 Lightning damage to Morale.
+[08/16 06:40:10 PM] The Adagím Jackal scored a hit with a weak melee attack on Nlkosi for 3,534 Common damage to Morale.
+[08/16 06:40:11 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Jackal for 5,545 Fire damage to Morale.
+[08/16 06:40:12 PM] Your mighty blow defeated the Adagím Jackal.
+[08/16 06:40:12 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Adagím Jackal for 16,233 Frost damage to Morale.
+[08/16 06:40:15 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Jackal for 5,187 Fire damage to Morale.
+[08/16 06:40:16 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/16 06:40:16 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Adagím Jackal for 16,468 Lightning damage to Morale.
+[08/16 06:40:17 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,781 points to Power.
+[08/16 06:40:17 PM] Sustenance applied a heal to Nlkosi restoring 15,777 points to Morale.
+[08/16 06:40:18 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Jackal for 13,174 Lightning damage to Morale.
+[08/16 06:40:18 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Adagím Jackal for 3,374 Fire damage to Morale.
+[08/16 06:40:19 PM] Nlkosi scored a hit with Ceaseless Argument on the Adagím Jackal for 12,726 Lightning damage to Morale.
+[08/16 06:40:20 PM] The Adagím Jackal scored a hit with a weak melee attack on Nlkosi for 3,534 Common damage to Morale.
+[08/16 06:40:21 PM] The Adagím Jackal scored a hit with a weak melee attack on Nlkosi for 3,534 Common damage to Morale.
+[08/16 06:40:21 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 16,998 Fire damage to Morale.
+[08/16 06:40:21 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 18,483 Fire damage to Morale.
+[08/16 06:40:21 PM] The Volcanic Rune-stone defeated the Adagím Jackal.
+[08/16 06:40:21 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/16 06:40:22 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 4,239 Lightning damage to Morale.
+[08/16 06:40:23 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/16 06:40:23 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 16,998 Fire damage to Morale.
+[08/16 06:40:24 PM] Nlkosi scored a hit with Ceaseless Argument on the Adagím Jackal for 10,387 Lightning damage to Morale.
+[08/16 06:40:25 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 16,998 Fire damage to Morale.
+[08/16 06:40:25 PM] The Volcanic Rune-stone defeated the Adagím Jackal.
+[08/16 06:40:25 PM] Nlkosi scored a critical hit with Shocking Words on the Adagím Jackal for 103,735 Lightning damage to Morale.
+[08/16 06:40:34 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Jackal for 10,288 Lightning damage to Morale.
+[08/16 06:40:34 PM] The Adagím Jackal scored a hit with a weak melee attack on Nlkosi for 3,643 Common damage to Morale.
+[08/16 06:40:34 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/16 06:40:35 PM] Nlkosi scored a devastating hit with Sustaining Bolt on the Adagím Jackal for 18,758 Lightning damage to Morale.
+[08/16 06:40:36 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,093 points to Power.
+[08/16 06:40:36 PM] Sustenance applied a critical heal to Nlkosi restoring 24,121 points to Morale.
+[08/16 06:40:36 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Jackal for 4,841 Fire damage to Morale.
+[08/16 06:40:36 PM] The Adagím Jackal scored a hit with a minor melee attack on Nlkosi for 4,417 Common damage to Morale.
+[08/16 06:40:37 PM] Nlkosi scored a hit with Scribe's Spark on the Adagím Jackal for 13,830 Lightning damage to Morale.
+[08/16 06:40:38 PM] Your mighty blow defeated the Adagím Jackal.
+[08/16 06:40:38 PM] Nlkosi scored a critical hit with Vivid Imagery on the Adagím Jackal for 32,792 Lightning damage to Morale.
+[08/16 06:40:53 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Jackal for 4,446 Fire damage to Morale.
+[08/16 06:40:54 PM] Nlkosi scored a hit with Sustaining Bolt on the Adagím Jackal for 5,786 Lightning damage to Morale.
+[08/16 06:40:55 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,119 points to Power.
+[08/16 06:40:55 PM] Sustenance applied a critical heal to Nlkosi restoring 30,769 points to Morale.
+[08/16 06:40:56 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Adagím Jackal for 2,650 Fire damage to Morale.
+[08/16 06:40:56 PM] The Adagím Jackal scored a hit with a moderate melee attack on Nlkosi for 5,009 Common damage to Morale.
+[08/16 06:40:57 PM] Nlkosi scored a hit with Essence of Storm on the Adagím Jackal for 14,680 Lightning damage to Morale.
+[08/16 06:40:58 PM] The Adagím Jackal scored a hit with Crippling Bite on Nlkosi.
+[08/16 06:40:59 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Jackal for 9,935 Lightning damage to Morale.
+[08/16 06:40:59 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Adagím Jackal for 3,071 Fire damage to Morale.
+[08/16 06:41:01 PM] Your mighty blow defeated the Adagím Jackal.
+[08/16 06:41:01 PM] Nlkosi scored a hit with Essence of Flame on the Adagím Jackal for 15,827 Fire damage to Morale.
+[08/16 06:41:04 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Jackal for 11,374 Lightning damage to Morale.
+[08/16 06:41:05 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Jackal for 8,440 Fire damage to Morale.
+[08/16 06:41:07 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Jackal for 7,325 Fire damage to Morale.
+[08/16 06:41:07 PM] Nlkosi scored a hit with Chilling Rhetoric on the Adagím Jackal for 16,653 Frost damage to Morale.
+[08/16 06:41:07 PM] The Adagím Jackal scored a partially evaded hit with a weak melee attack on Nlkosi for 3,245 Common damage to Morale.
+[08/16 06:41:09 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Jackal for 10,926 Lightning damage to Morale.
+[08/16 06:41:09 PM] Your mighty blow defeated the Adagím Jackal.
+[08/16 06:41:10 PM] Nlkosi scored a hit with Head-butt on the Adagím Jackal for 12,447 Common damage to Morale.
+[08/16 06:41:13 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/16 06:41:13 PM] Nlkosi scored a critical hit with Essence of Storm on the Vicious Adagím Pack-leader for 64,767 Lightning damage to Morale.
+[08/16 06:41:14 PM] Nlkosi scored a hit with Sustaining Bolt on the Vicious Adagím Pack-leader for 7,196 Lightning damage to Morale.
+[08/16 06:41:15 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,961 points to Power.
+[08/16 06:41:15 PM] Sustenance applied a heal to Nlkosi restoring 18,130 points to Morale.
+[08/16 06:41:15 PM] The Vicious Adagím Pack-leader scored a hit with a weak melee attack on Nlkosi for 4,219 Common damage to Morale.
+[08/16 06:41:17 PM] Nlkosi scored a hit with Shocking Words on the Vicious Adagím Pack-leader for 34,362 Lightning damage to Morale.
+[08/16 06:41:18 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Vicious Adagím Pack-leader for 33,321 Lightning damage to Morale.
+[08/16 06:41:23 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Vicious Adagím Pack-leader for 37,485 Lightning damage to Morale.
+[08/16 06:41:23 PM] The Vicious Adagím Pack-leader scored a hit with a weak melee attack on Nlkosi for 4,641 Common damage to Morale.
+[08/16 06:41:25 PM] The Vicious Adagím Pack-leader scored a hit with a mighty melee attack on Nlkosi for 12,518 Common damage to Morale.
+[08/16 06:41:25 PM] Nlkosi scored a hit with Distracting Flame on the Vicious Adagím Pack-leader.
+[08/16 06:41:26 PM] Master of Tragedy applied a heal to Nlkosi restoring 265 points to Power.
+[08/16 06:41:26 PM] Your mighty blow defeated the Vicious Adagím Pack-leader.
+[08/16 06:41:26 PM] Nlkosi scored a critical hit with Essence of Storm on the Vicious Adagím Pack-leader for 69,596 Lightning damage to Morale.
+[08/16 06:41:30 PM] The Red Blight Growth scored a hit with High Acid Damage on Nlkosi for 18,019 Acid damage to Morale.
+[08/16 06:41:30 PM] Nlkosi scored a hit with Essence of Flame on the Red Blight Growth for 25,246 Fire damage to Morale.
+[08/16 06:41:31 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Red Blight Growth for 22,674 Frost damage to Morale.
+[08/16 06:41:34 PM] Nlkosi scored a hit with Writ of Lightning on the Red Blight Growth for 9,974 Lightning damage to Morale.
+[08/16 06:41:36 PM] Nlkosi scored a hit with Essence of Storm on the Red Blight Growth for 12,469 Lightning damage to Morale.

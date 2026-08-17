@@ -1,0 +1,443 @@
+### Chat Log: Combat 08/08 02:29 PM ###
+[08/08 02:31:14 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Blightwood for 5,034 Fire damage to Morale.
+[08/08 02:31:15 PM] Nlkosi scored a critical hit with Essence of Flame on the Kighân Blightwood for 25,743 Fire damage to Morale.
+[08/08 02:31:15 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:31:16 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Kighân Blightwood for 12,823 Lightning damage to Morale.
+[08/08 02:31:16 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,553 points to Power.
+[08/08 02:31:16 PM] Sustenance applied a heal to Nlkosi restoring 20,797 points to Morale.
+[08/08 02:31:16 PM] The Kighân Blightwood scored a hit with Burrowed Attack on Nlkosi for 15,197 Common damage to Morale.
+[08/08 02:31:17 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Blightwood for 4,647 Fire damage to Morale.
+[08/08 02:31:18 PM] Nlkosi scored a hit with Writ of Lightning on the Kighân Blightwood for 9,013 Lightning damage to Morale.
+[08/08 02:31:20 PM] Nlkosi scored a hit with Chilling Rhetoric on the Kighân Blightwood for 5,510 Frost damage to Morale.
+[08/08 02:31:20 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Kighân Blightwood for 3,811 Fire damage to Morale.
+[08/08 02:31:20 PM] Nlkosi scored a hit with Shocking Words on the Kighân Blightwood for 28,288 Lightning damage to Morale.
+[08/08 02:31:22 PM] Nlkosi scored a hit with Vivid Imagery on the Kighân Blightwood for 13,239 Lightning damage to Morale.
+[08/08 02:31:23 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Kighân Blightwood for 3,772 Fire damage to Morale.
+[08/08 02:31:24 PM] Nlkosi scored a hit with Epic Conclusion on the Kighân Blightwood for 37,355 Lightning damage to Morale.
+[08/08 02:31:25 PM] Nothing to dispel.
+[08/08 02:31:25 PM] Nlkosi scored a hit with Essence of Storm on the Kighân Blightwood for 13,761 Lightning damage to Morale.
+[08/08 02:31:25 PM] Nlkosi scored a critical hit with Improved Final Word on the Kighân Blightwood.
+[08/08 02:31:26 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Kighân Blightwood for 3,902 Fire damage to Morale.
+[08/08 02:31:27 PM] Nlkosi scored a hit with Ceaseless Argument on the Kighân Blightwood for 8,792 Lightning damage to Morale.
+[08/08 02:31:27 PM] The Kighân Blightwood scored a hit with a weak swipe attack on Nlkosi for 8,909 Common damage to Morale.
+[08/08 02:31:29 PM] Nlkosi scored a hit with Ceaseless Argument on the Kighân Blightwood for 8,916 Lightning damage to Morale.
+[08/08 02:31:29 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Kighân Blightwood for 4,257 Fire damage to Morale.
+[08/08 02:31:29 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:31:30 PM] Nlkosi scored a critical hit with Scribe's Spark on the Kighân Blightwood for 34,584 Lightning damage to Morale.
+[08/08 02:31:30 PM] The Kighân Blightwood scored a hit with a melee double attack on Nlkosi for 8,909 Common damage to Morale.
+[08/08 02:31:31 PM] Your mighty blow defeated the Kighân Blightwood.
+[08/08 02:31:31 PM] Nlkosi scored a hit with Ceaseless Argument on the Kighân Blightwood for 11,343 Lightning damage to Morale.
+[08/08 02:31:43 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/08 02:31:45 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Rotting Moulder-wood for 3,514 Lightning damage to Morale.
+[08/08 02:31:45 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Rotting Moulder-wood for 13,902 Fire damage to Morale.
+[08/08 02:31:45 PM] The Kighân Rotting Moulder-wood scored a hit with a weak swipe attack on the Volcanic Rune-stone for 1,472 Common damage to Morale.
+[08/08 02:31:45 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/08 02:31:46 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Rotting Moulder-wood for 6,238 Fire damage to Morale.
+[08/08 02:31:46 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:31:47 PM] Nlkosi scored a devastating hit with Sustaining Bolt on the Kighân Rotting Moulder-wood for 20,410 Lightning damage to Morale.
+[08/08 02:31:47 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Rotting Moulder-wood for 14,190 Fire damage to Morale.
+[08/08 02:31:47 PM] The Kighân Rotting Moulder-wood scored a hit with a moderate swipe attack on the Volcanic Rune-stone for 2,024 Common damage to Morale.
+[08/08 02:31:47 PM] The Kighân Rotting Moulder-wood scored a hit with a moderate swipe attack on the Charged Fulgurite Rune-stone for 2,024 Common damage to Morale.
+[08/08 02:31:48 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,898 points to Power.
+[08/08 02:31:48 PM] Sustenance applied a heal to Nlkosi restoring 18,944 points to Morale.
+[08/08 02:31:48 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Rotting Moulder-wood for 3,461 Lightning damage to Morale.
+[08/08 02:31:49 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Rotting Moulder-wood for 14,190 Fire damage to Morale.
+[08/08 02:31:49 PM] The Volcanic Rune-stone defeated the Kighân Rotting Moulder-wood.
+[08/08 02:31:49 PM] Nlkosi scored a hit with Essence of Flame on the Kighân Rotting Moulder-wood for 18,129 Fire damage to Morale.
+[08/08 02:31:49 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Rotting Moulder-wood for 5,692 Fire damage to Morale.
+[08/08 02:32:15 PM] Nlkosi scored a hit with Sustaining Bolt on the Kighân Rotting Moulder-wood for 3,993 Lightning damage to Morale.
+[08/08 02:32:15 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,403 points to Power.
+[08/08 02:32:15 PM] Sustenance applied a critical heal to Nlkosi restoring 25,397 points to Morale.
+[08/08 02:32:16 PM] The Kighân Rotting Moulder-wood scored a hit with a melee double attack on Nlkosi for 7,336 Common damage to Morale.
+[08/08 02:32:16 PM] Nlkosi scored a hit with Writ of Lightning on the Kighân Rotting Moulder-wood for 7,419 Lightning damage to Morale.
+[08/08 02:32:18 PM] The Kighân Rotting Moulder-wood scored a hit with a melee double attack on Nlkosi for 7,336 Common damage to Morale.
+[08/08 02:32:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Rotting Moulder-wood for 14,094 Fire damage to Morale.
+[08/08 02:32:18 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/08 02:32:19 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Rotting Moulder-wood for 3,530 Lightning damage to Morale.
+[08/08 02:32:19 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/08 02:32:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Rotting Moulder-wood for 14,094 Fire damage to Morale.
+[08/08 02:32:20 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:32:20 PM] Your mighty blow defeated the Kighân Rotting Moulder-wood.
+[08/08 02:32:21 PM] Nlkosi scored a critical hit with Essence of Storm on the Kighân Rotting Moulder-wood for 48,450 Lightning damage to Morale.
+[08/08 02:32:46 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Blightwood for 3,419 Lightning damage to Morale.
+[08/08 02:32:46 PM] The Kighân Blightwood scored a hit with a weak swipe attack on Nlkosi for 8,909 Common damage to Morale.
+[08/08 02:32:46 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/08 02:32:48 PM] Nlkosi scored a hit with Essence of Storm on the Kighân Blightwood for 10,385 Lightning damage to Morale.
+[08/08 02:32:49 PM] Nlkosi scored a hit with Epic Conclusion on the Kighân Blightwood for 47,888 Lightning damage to Morale.
+[08/08 02:32:49 PM] The Kighân Blightwood scored a hit with a melee double attack on Nlkosi for 8,641 Common damage to Morale.
+[08/08 02:32:49 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Blightwood for 3,367 Lightning damage to Morale.
+[08/08 02:32:51 PM] The Kighân Blightwood scored a hit with a melee double attack on Nlkosi for 8,641 Common damage to Morale.
+[08/08 02:32:51 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/08 02:32:51 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:32:52 PM] Nlkosi scored a critical hit with Static Surge on the Kighân Blightwood for 43,189 Lightning damage to Morale.
+[08/08 02:32:53 PM] The Kighân Blightwood scored a hit with Melee Arc Knockback on Nlkosi for 8,641 Common damage to Morale.
+[08/08 02:32:54 PM] Nlkosi scored a hit with Shocking Words on the Kighân Blightwood for 36,011 Lightning damage to Morale.
+[08/08 02:32:54 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Kighân Blightwood for 12,531 Lightning damage to Morale.
+[08/08 02:32:55 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,466 points to Power.
+[08/08 02:32:55 PM] Sustenance applied a heal to Nlkosi restoring 18,188 points to Morale.
+[08/08 02:32:59 PM] Nlkosi scored a hit with Static Surge on the Kighân Blightwood for 21,930 Lightning damage to Morale.
+[08/08 02:33:01 PM] The Kighân Blightwood scored a hit with a mighty swipe attack on Nlkosi for 20,044 Common damage to Morale.
+[08/08 02:33:01 PM] Nlkosi scored a hit with Head-butt on the Kighân Blightwood for 8,793 Common damage to Morale.
+[08/08 02:33:02 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Blightwood for 5,197 Fire damage to Morale.
+[08/08 02:33:03 PM] Nlkosi scored a hit with Shocking Touch on the Kighân Blightwood for 4,367 Lightning damage to Morale.
+[08/08 02:33:05 PM] Nlkosi scored a hit with Writ of Lightning on the Kighân Blightwood for 11,358 Lightning damage to Morale.
+[08/08 02:33:05 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Kighân Blightwood for 6,301 Fire damage to Morale.
+[08/08 02:33:06 PM] The Kighân Blightwood scored a hit with a melee double attack on Nlkosi for 8,909 Common damage to Morale.
+[08/08 02:33:07 PM] The Kighân Blightwood scored a hit with a melee double attack on Nlkosi for 8,909 Common damage to Morale.
+[08/08 02:33:08 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Kighân Blightwood for 4,192 Fire damage to Morale.
+[08/08 02:33:09 PM] Your mighty blow defeated the Kighân Blightwood.
+[08/08 02:33:09 PM] Nlkosi scored a hit with Writ of Lightning on the Kighân Blightwood for 12,591 Lightning damage to Morale.
+[08/08 02:33:31 PM] Nlkosi scored a hit with Sustaining Bolt on the Kighân Blightwood for 3,504 Lightning damage to Morale.
+[08/08 02:33:32 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,472 points to Power.
+[08/08 02:33:32 PM] Sustenance applied a heal to Nlkosi restoring 19,674 points to Morale.
+[08/08 02:33:32 PM] The Kighân Blightwood scored a hit with Melee Arc Knockback on Nlkosi for 8,909 Common damage to Morale.
+[08/08 02:33:36 PM] The Kighân Blightwood scored a hit with a melee double attack on Nlkosi for 8,909 Common damage to Morale.
+[08/08 02:33:37 PM] Nlkosi scored a hit with Writ of Lightning on the Kighân Blightwood for 6,847 Lightning damage to Morale.
+[08/08 02:33:37 PM] The Kighân Blightwood scored a hit with a melee double attack on Nlkosi for 8,909 Common damage to Morale.
+[08/08 02:33:37 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Blightwood for 3,625 Lightning damage to Morale.
+[08/08 02:33:38 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/08 02:33:39 PM] Nlkosi scored a hit with Shocking Words on the Kighân Blightwood for 29,743 Lightning damage to Morale.
+[08/08 02:33:39 PM] Nlkosi scored a hit with Static Surge on the Kighân Blightwood for 20,317 Lightning damage to Morale.
+[08/08 02:33:40 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Blightwood for 3,372 Lightning damage to Morale.
+[08/08 02:33:41 PM] Nlkosi scored a hit with Ceaseless Argument on the Kighân Blightwood for 7,665 Lightning damage to Morale.
+[08/08 02:33:42 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Blightwood for 14,094 Fire damage to Morale.
+[08/08 02:33:42 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/08 02:33:43 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Blightwood for 3,631 Lightning damage to Morale.
+[08/08 02:33:44 PM] Nlkosi scored a hit with Ceaseless Argument on the Kighân Blightwood for 9,888 Lightning damage to Morale.
+[08/08 02:33:44 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Blightwood for 14,094 Fire damage to Morale.
+[08/08 02:33:44 PM] Nlkosi scored a hit with Epic Conclusion on the Kighân Blightwood for 61,779 Lightning damage to Morale.
+[08/08 02:33:45 PM] The Kighân Blightwood scored a hit with a mighty swipe attack on Nlkosi for 18,842 Common damage to Morale.
+[08/08 02:33:46 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/08 02:33:46 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Blightwood for 14,094 Fire damage to Morale.
+[08/08 02:33:46 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Blightwood for 3,410 Lightning damage to Morale.
+[08/08 02:33:46 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:33:46 PM] Your mighty blow defeated the Kighân Blightwood.
+[08/08 02:33:47 PM] Nlkosi scored a critical hit with Essence of Storm on the Kighân Blightwood for 51,948 Lightning damage to Morale.
+[08/08 02:33:51 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Kighân Rotting Moulder-wood for 14,836 Lightning damage to Morale.
+[08/08 02:33:52 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,476 points to Power.
+[08/08 02:33:52 PM] Sustenance applied a critical heal to Nlkosi restoring 20,532 points to Morale.
+[08/08 02:33:53 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Rotting Moulder-wood for 6,227 Fire damage to Morale.
+[08/08 02:33:53 PM] The Kighân Rotting Moulder-wood scored a hit with a weak swipe attack on Nlkosi for 7,336 Common damage to Morale.
+[08/08 02:33:53 PM] You have lost 7,336 points of temporary Morale!
+[08/08 02:33:54 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Kighân Rotting Moulder-wood for 33,540 Lightning damage to Morale.
+[08/08 02:33:55 PM] Nlkosi scored a hit with Shocking Touch on the Kighân Rotting Moulder-wood for 6,027 Lightning damage to Morale.
+[08/08 02:33:56 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Kighân Rotting Moulder-wood for 6,736 Fire damage to Morale.
+[08/08 02:33:58 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:33:58 PM] Your mighty blow defeated the Kighân Rotting Moulder-wood.
+[08/08 02:33:58 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Kighân Rotting Moulder-wood for 28,420 Lightning damage to Morale.
+[08/08 02:34:05 PM] You have lost 27,739 points of temporary Morale!
+[08/08 02:34:06 PM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[08/08 02:34:11 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Rotting Moulder-wood for 4,719 Fire damage to Morale.
+[08/08 02:34:11 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:34:11 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Kighân Rotting Moulder-wood for 12,889 Lightning damage to Morale.
+[08/08 02:34:12 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,458 points to Power.
+[08/08 02:34:12 PM] Sustenance applied a heal to Nlkosi restoring 17,020 points to Morale.
+[08/08 02:34:12 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Rotting Moulder-wood for 5,173 Fire damage to Morale.
+[08/08 02:34:12 PM] The Kighân Rotting Moulder-wood scored a hit with Melee Arc Knockback on Nlkosi for 3,668 Common damage to Morale.
+[08/08 02:34:15 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on the Kighân Rotting Moulder-wood for 8,624 Fire damage to Morale.
+[08/08 02:34:16 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Rotting Moulder-wood for 3,549 Lightning damage to Morale.
+[08/08 02:34:16 PM] The Kighân Rotting Moulder-wood scored a hit with Angry Bees on Nlkosi.
+[08/08 02:34:16 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/08 02:34:17 PM] Nlkosi scored a hit with Writ of Lightning on the Kighân Rotting Moulder-wood for 9,570 Lightning damage to Morale.
+[08/08 02:34:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Rotting Moulder-wood for 15,203 Fire damage to Morale.
+[08/08 02:34:18 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/08 02:34:18 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Kighân Rotting Moulder-wood for 3,741 Fire damage to Morale.
+[08/08 02:34:19 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Rotting Moulder-wood for 3,578 Lightning damage to Morale.
+[08/08 02:34:19 PM] Nlkosi tried to use Induce Stunned on the Kighân Rotting Moulder-wood but he was immune to the attempt.
+[08/08 02:34:19 PM] Your mighty blow defeated the Kighân Rotting Moulder-wood.
+[08/08 02:34:19 PM] Nlkosi scored a critical hit with Shocking Words on the Kighân Rotting Moulder-wood for 97,485 Lightning damage to Morale.
+[08/08 02:34:23 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Blightwood for 6,051 Fire damage to Morale.
+[08/08 02:34:25 PM] Nlkosi scored a hit with Essence of Flame on the Kighân Blightwood for 19,546 Fire damage to Morale.
+[08/08 02:34:25 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Kighân Blightwood for 12,955 Fire damage to Morale.
+[08/08 02:34:26 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Blightwood for 6,816 Fire damage to Morale.
+[08/08 02:34:27 PM] Nlkosi scored a hit with Sustaining Bolt on the Kighân Blightwood for 6,978 Lightning damage to Morale.
+[08/08 02:34:28 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,629 points to Power.
+[08/08 02:34:28 PM] Sustenance applied a heal to Nlkosi restoring 19,173 points to Morale.
+[08/08 02:34:28 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Blightwood for 15,000 Fire damage to Morale.
+[08/08 02:34:29 PM] Nothing to dispel.
+[08/08 02:34:29 PM] Nlkosi scored a hit with Epic Conclusion on the Kighân Blightwood for 47,614 Lightning damage to Morale.
+[08/08 02:34:29 PM] Nlkosi scored a hit with Improved Final Word on the Kighân Blightwood.
+[08/08 02:34:29 PM] The Kighân Blightwood scored a hit with Melee Arc Knockback on Nlkosi for 8,909 Common damage to Morale.
+[08/08 02:34:29 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Kighân Blightwood for 5,858 Fire damage to Morale.
+[08/08 02:34:30 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:34:30 PM] Nlkosi scored a critical hit with Static Surge on the Kighân Blightwood for 51,540 Lightning damage to Morale.
+[08/08 02:34:32 PM] Nlkosi scored a hit with Ceaseless Argument on the Kighân Blightwood for 11,497 Lightning damage to Morale.
+[08/08 02:34:32 PM] The Kighân Blightwood scored a hit with a weak swipe attack on Nlkosi for 8,374 Common damage to Morale.
+[08/08 02:34:32 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 3 on the Kighân Blightwood for 8,348 Fire damage to Morale.
+[08/08 02:34:33 PM] Nlkosi scored a hit with Essence of Storm on the Kighân Blightwood for 14,627 Lightning damage to Morale.
+[08/08 02:34:34 PM] The Kighân Blightwood scored a hit with a mighty swipe attack on Nlkosi for 18,240 Common damage to Morale.
+[08/08 02:34:35 PM] Nlkosi scored a hit with Vivid Imagery on the Kighân Blightwood for 13,219 Lightning damage to Morale.
+[08/08 02:34:35 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Kighân Blightwood for 4,232 Fire damage to Morale.
+[08/08 02:34:36 PM] Your mighty blow defeated the Kighân Blightwood.
+[08/08 02:34:36 PM] Nlkosi scored a hit with Shocking Touch on the Kighân Blightwood for 4,483 Lightning damage to Morale.
+[08/08 02:35:00 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Blightwood for 5,529 Fire damage to Morale.
+[08/08 02:35:02 PM] Nlkosi scored a hit with Sustaining Bolt on the Kighân Blightwood for 4,065 Lightning damage to Morale.
+[08/08 02:35:03 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,376 points to Power.
+[08/08 02:35:03 PM] Sustenance applied a critical heal to Nlkosi restoring 22,265 points to Morale.
+[08/08 02:35:03 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Blightwood for 5,200 Fire damage to Morale.
+[08/08 02:35:03 PM] The Kighân Blightwood scored a hit with Burrowed Attack on Nlkosi for 15,197 Common damage to Morale.
+[08/08 02:35:05 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Blightwood for 5,361 Fire damage to Morale.
+[08/08 02:35:06 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Blightwood for 6,429 Fire damage to Morale.
+[08/08 02:35:06 PM] The Kighân Blightwood scored a hit with a moderate swipe attack on Nlkosi for 12,249 Common damage to Morale.
+[08/08 02:35:08 PM] Nlkosi scored a hit with Essence of Flame on the Kighân Blightwood for 15,958 Fire damage to Morale.
+[08/08 02:35:08 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Blightwood for 3,622 Lightning damage to Morale.
+[08/08 02:35:08 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/08 02:35:09 PM] The Kighân Blightwood scored a hit with a weak swipe attack on Nlkosi for 8,909 Common damage to Morale.
+[08/08 02:35:09 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:35:09 PM] Nlkosi scored a critical hit with Essence of Storm on the Kighân Blightwood for 49,309 Lightning damage to Morale.
+[08/08 02:35:11 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Kighân Blightwood for 4,456 Fire damage to Morale.
+[08/08 02:35:11 PM] Nlkosi scored a critical hit with Shocking Words on the Kighân Blightwood for 97,105 Lightning damage to Morale.
+[08/08 02:35:11 PM] Nlkosi scored a hit with Fulgurite Strike on the Kighân Blightwood for 3,566 Lightning damage to Morale.
+[08/08 02:35:12 PM] Your mighty blow defeated the Kighân Blightwood.
+[08/08 02:35:12 PM] Nlkosi scored a critical hit with Vivid Imagery on the Kighân Blightwood for 27,860 Lightning damage to Morale.
+[08/08 02:35:51 PM] The Kighân Rotting Moulder-wood scored a hit with Melee Arc Knockback on Nlkosi for 7,336 Common damage to Morale.
+[08/08 02:35:51 PM] The Kighân Blightwood scored a hit with a mighty swipe attack on Nlkosi for 20,044 Common damage to Morale.
+[08/08 02:35:54 PM] The Kighân Rotting Moulder-wood scored a hit with a weak swipe attack on Nlkosi for 7,336 Common damage to Morale.
+[08/08 02:35:54 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Blightwood for 13,902 Fire damage to Morale.
+[08/08 02:35:54 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Rotting Moulder-wood for 13,902 Fire damage to Morale.
+[08/08 02:35:55 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/08 02:35:55 PM] Nothing to dispel.
+[08/08 02:35:55 PM] Nlkosi scored a hit with Improved Final Word on the Kighân Blightwood.
+[08/08 02:35:56 PM] The Kighân Rotting Moulder-wood scored a hit with a melee double attack on the Volcanic Rune-stone for 1,472 Common damage to Morale.
+[08/08 02:35:56 PM] The Kighân Blightwood scored a hit with a weak swipe attack on Nlkosi for 8,909 Common damage to Morale.
+[08/08 02:35:56 PM] The Kighân Blightwood scored a partially evaded hit with a weak swipe attack on the Volcanic Rune-stone for 1,152 Common damage to Morale.
+[08/08 02:35:56 PM] Nlkosi scored a hit with Epic Conclusion on the Kighân Blightwood for 30,090 Lightning damage to Morale.
+[08/08 02:35:56 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Rotting Moulder-wood for 13,902 Fire damage to Morale.
+[08/08 02:35:56 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Blightwood for 13,902 Fire damage to Morale.
+[08/08 02:35:57 PM] The Kighân Rotting Moulder-wood scored a hit with a melee double attack on the Volcanic Rune-stone for 1,472 Common damage to Morale.
+[08/08 02:35:58 PM] Nlkosi scored a hit with Writ of Lightning on the Kighân Blightwood for 9,363 Lightning damage to Morale.
+[08/08 02:35:58 PM] The Kighân Blightwood scored a hit with a minor swipe attack on the Volcanic Rune-stone for 2,234 Common damage to Morale.
+[08/08 02:35:58 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Blightwood for 14,094 Fire damage to Morale.
+[08/08 02:35:58 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Rotting Moulder-wood for 13,902 Fire damage to Morale.
+[08/08 02:35:59 PM] Nlkosi scored a hit with Sustaining Bolt on the Kighân Blightwood for 5,911 Lightning damage to Morale.
+[08/08 02:36:00 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,390 points to Power.
+[08/08 02:36:00 PM] Sustenance applied a heal to Nlkosi restoring 18,242 points to Morale.
+[08/08 02:36:00 PM] The Kighân Blightwood scored a hit with a moderate swipe attack on Nlkosi for 12,249 Common damage to Morale.
+[08/08 02:36:00 PM] The Kighân Blightwood scored a hit with a moderate swipe attack on the Volcanic Rune-stone for 2,457 Common damage to Morale.
+[08/08 02:36:00 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Rotting Moulder-wood for 13,902 Fire damage to Morale.
+[08/08 02:36:00 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Blightwood for 14,094 Fire damage to Morale.
+[08/08 02:36:00 PM] Nlkosi scored a hit with Shocking Touch on the Kighân Blightwood for 5,193 Lightning damage to Morale.
+[08/08 02:36:01 PM] The Kighân Rotting Moulder-wood scored a hit with Angry Bees on the Volcanic Rune-stone.
+[08/08 02:36:02 PM] The Kighân Rotting Moulder-wood scored a hit with a moderate swipe attack on the Volcanic Rune-stone for 2,024 Common damage to Morale.
+[08/08 02:36:02 PM] Nlkosi scored a hit with Vivid Imagery on the Kighân Blightwood for 9,811 Lightning damage to Morale.
+[08/08 02:36:02 PM] Nlkosi scored a hit with Vivid Imagery on the Kighân Rotting Moulder-wood for 9,259 Lightning damage to Morale.
+[08/08 02:36:02 PM] The Kighân Rotting Moulder-wood scored a hit with Swarm of Bees on the Volcanic Rune-stone for 1,104 Common damage to Morale.
+[08/08 02:36:03 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Rotting Moulder-wood for 13,902 Fire damage to Morale.
+[08/08 02:36:03 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Blightwood for 14,094 Fire damage to Morale.
+[08/08 02:36:04 PM] Nlkosi scored a hit with Head-butt on the Kighân Blightwood for 8,793 Common damage to Morale.
+[08/08 02:36:04 PM] The Kighân Rotting Moulder-wood scored a hit with Swarm of Bees on the Volcanic Rune-stone for 1,104 Common damage to Morale.
+[08/08 02:36:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Rotting Moulder-wood for 13,902 Fire damage to Morale.
+[08/08 02:36:05 PM] The Volcanic Rune-stone defeated the Kighân Rotting Moulder-wood.
+[08/08 02:36:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Blightwood for 14,094 Fire damage to Morale.
+[08/08 02:36:05 PM] The Kighân Blightwood scored a critical hit with a weak swipe attack on the Volcanic Rune-stone for 2,327 Common damage to Morale.
+[08/08 02:36:05 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:36:06 PM] Nlkosi scored a critical hit with Writ of Lightning on the Kighân Blightwood for 28,678 Lightning damage to Morale.
+[08/08 02:36:07 PM] Your mighty blow defeated the Kighân Blightwood.
+[08/08 02:36:08 PM] Nlkosi scored a critical hit with Essence of Storm on the Kighân Blightwood for 62,076 Lightning damage to Morale.
+[08/08 02:36:14 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Rotting Moulder-wood for 5,467 Fire damage to Morale.
+[08/08 02:36:15 PM] Nlkosi scored a hit with Writ of Lightning on the Kighân Rotting Moulder-wood for 13,375 Lightning damage to Morale.
+[08/08 02:36:16 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Rotting Moulder-wood for 6,146 Fire damage to Morale.
+[08/08 02:36:16 PM] The Kighân Rotting Moulder-wood scored a hit with a melee double attack on Nlkosi for 7,336 Common damage to Morale.
+[08/08 02:36:16 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:36:16 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Kighân Rotting Moulder-wood for 18,952 Lightning damage to Morale.
+[08/08 02:36:17 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,973 points to Power.
+[08/08 02:36:17 PM] Sustenance applied a heal to Nlkosi restoring 19,957 points to Morale.
+[08/08 02:36:17 PM] The Kighân Rotting Moulder-wood scored a hit with a melee double attack on Nlkosi for 7,336 Common damage to Morale.
+[08/08 02:36:18 PM] Your mighty blow defeated the Kighân Rotting Moulder-wood.
+[08/08 02:36:18 PM] Nlkosi scored a critical hit with Shocking Words on the Kighân Rotting Moulder-wood for 99,944 Lightning damage to Morale.
+[08/08 02:36:25 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/08 02:36:54 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Rotting Moulder-wood for 5,749 Fire damage to Morale.
+[08/08 02:36:54 PM] Nlkosi scored a hit with Sustaining Bolt on the Kighân Rotting Moulder-wood for 4,196 Lightning damage to Morale.
+[08/08 02:36:55 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,403 points to Power.
+[08/08 02:36:55 PM] Sustenance applied a heal to Nlkosi restoring 21,028 points to Morale.
+[08/08 02:36:56 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Rotting Moulder-wood for 5,862 Fire damage to Morale.
+[08/08 02:36:56 PM] The Kighân Rotting Moulder-wood scored a hit with a minor swipe attack on Nlkosi for 9,171 Common damage to Morale.
+[08/08 02:36:57 PM] Nlkosi scored a hit with Shocking Touch on the Kighân Rotting Moulder-wood for 4,779 Lightning damage to Morale.
+[08/08 02:36:57 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:36:57 PM] Nothing to dispel.
+[08/08 02:36:57 PM] Nlkosi scored a critical hit with Vivid Imagery on the Kighân Rotting Moulder-wood for 23,993 Lightning damage to Morale.
+[08/08 02:36:57 PM] Nlkosi scored a hit with Improved Final Word on the Kighân Rotting Moulder-wood.
+[08/08 02:36:59 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on the Kighân Rotting Moulder-wood for 6,795 Fire damage to Morale.
+[08/08 02:36:59 PM] Nlkosi scored a hit with Shocking Words on the Kighân Rotting Moulder-wood for 27,526 Lightning damage to Morale.
+[08/08 02:37:00 PM] Your mighty blow defeated the Kighân Rotting Moulder-wood.
+[08/08 02:37:00 PM] Nlkosi scored a hit with Ceaseless Argument on the Kighân Rotting Moulder-wood for 8,650 Lightning damage to Morale.
+[08/08 02:37:03 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Kighân Blightwood for 11,564 Fire damage to Morale.
+[08/08 02:37:04 PM] Nlkosi scored a hit with Writ of Lightning on the Kighân Blightwood for 8,269 Lightning damage to Morale.
+[08/08 02:37:05 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Blightwood for 7,869 Fire damage to Morale.
+[08/08 02:37:06 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Blightwood for 8,383 Fire damage to Morale.
+[08/08 02:37:06 PM] The Kighân Blightwood scored a hit with a melee double attack on Nlkosi for 8,374 Common damage to Morale.
+[08/08 02:37:07 PM] Nlkosi scored a hit with Epic Conclusion on the Kighân Blightwood for 47,350 Lightning damage to Morale.
+[08/08 02:37:08 PM] The Kighân Blightwood scored a hit with a melee double attack on Nlkosi for 8,374 Common damage to Morale.
+[08/08 02:37:08 PM] You have lost 8,374 points of temporary Morale!
+[08/08 02:37:08 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/08 02:37:09 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Kighân Blightwood for 4,987 Fire damage to Morale.
+[08/08 02:37:10 PM] You have lost 8,374 points of temporary Morale!
+[08/08 02:37:12 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 3 on the Kighân Blightwood for 8,284 Fire damage to Morale.
+[08/08 02:37:13 PM] Nlkosi scored a hit with Essence of Storm on the Kighân Blightwood for 14,933 Lightning damage to Morale.
+[08/08 02:37:13 PM] The Kighân Blightwood tried to use a moderate swipe attack on Nlkosi but he parried the attempt.
+[08/08 02:37:15 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 3 on the Kighân Blightwood for 7,937 Fire damage to Morale.
+[08/08 02:37:16 PM] The Kighân Blightwood scored a hit with a weak swipe attack on Nlkosi for 8,909 Common damage to Morale.
+[08/08 02:37:16 PM] You have lost 8,909 points of temporary Morale!
+[08/08 02:37:18 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 3 on the Kighân Blightwood for 5,070 Fire damage to Morale.
+[08/08 02:37:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Blightwood for 14,798 Fire damage to Morale.
+[08/08 02:37:19 PM] The Kighân Blightwood scored a hit with a minor swipe attack on Nlkosi for 11,136 Common damage to Morale.
+[08/08 02:37:19 PM] You have lost 9,418 points of temporary Morale!
+[08/08 02:37:19 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/08 02:37:20 PM] Nlkosi scored a hit with Ceaseless Argument on the Kighân Blightwood for 13,437 Lightning damage to Morale.
+[08/08 02:37:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kighân Blightwood for 14,597 Fire damage to Morale.
+[08/08 02:37:20 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:37:20 PM] Your mighty blow defeated the Kighân Blightwood.
+[08/08 02:37:21 PM] Nlkosi scored a critical hit with Shocking Words on the Kighân Blightwood for 98,485 Lightning damage to Morale.
+[08/08 02:37:41 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Kighân Blightwood for 12,282 Fire damage to Morale.
+[08/08 02:37:42 PM] Nlkosi scored a hit with Sustaining Bolt on the Kighân Blightwood for 4,513 Lightning damage to Morale.
+[08/08 02:37:42 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,704 points to Power.
+[08/08 02:37:42 PM] Sustenance applied a heal to Nlkosi restoring 17,562 points to Morale.
+[08/08 02:37:43 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Blightwood for 4,961 Fire damage to Morale.
+[08/08 02:37:44 PM] The Kighân Blightwood scored a hit with a weak swipe attack on Nlkosi for 8,909 Common damage to Morale.
+[08/08 02:37:46 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Kighân Blightwood for 4,025 Fire damage to Morale.
+[08/08 02:37:46 PM] The Kighân Blightwood scored a hit with a melee double attack on Nlkosi for 8,909 Common damage to Morale.
+[08/08 02:37:48 PM] The Kighân Blightwood scored a hit with a melee double attack on Nlkosi for 8,909 Common damage to Morale.
+[08/08 02:37:49 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Kighân Blightwood for 3,658 Fire damage to Morale.
+[08/08 02:37:49 PM] The Kighân Blightwood scored a hit with a minor swipe attack on Nlkosi for 11,136 Common damage to Morale.
+[08/08 02:37:50 PM] Nlkosi scored a hit with Essence of Storm on the Kighân Blightwood for 11,407 Lightning damage to Morale.
+[08/08 02:37:51 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:37:51 PM] Nlkosi scored a critical hit with Shocking Words on the Kighân Blightwood for 83,394 Lightning damage to Morale.
+[08/08 02:37:52 PM] Nothing to dispel.
+[08/08 02:37:52 PM] Nlkosi scored a hit with Improved Final Word on the Kighân Blightwood.
+[08/08 02:37:52 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Kighân Blightwood for 4,060 Fire damage to Morale.
+[08/08 02:37:53 PM] Nlkosi scored a hit with Static Surge on the Kighân Blightwood for 29,522 Lightning damage to Morale.
+[08/08 02:37:55 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on the Kighân Blightwood for 6,562 Fire damage to Morale.
+[08/08 02:37:55 PM] The Kighân Blightwood scored a hit with a moderate swipe attack on Nlkosi for 11,882 Common damage to Morale.
+[08/08 02:37:56 PM] Nlkosi scored a hit with Epic Conclusion on the Kighân Blightwood for 41,870 Lightning damage to Morale.
+[08/08 02:37:58 PM] The Kighân Blightwood scored a hit with a weak swipe attack on Nlkosi for 8,641 Common damage to Morale.
+[08/08 02:37:58 PM] Nlkosi scored a hit with Shocking Touch on the Kighân Blightwood for 5,320 Lightning damage to Morale.
+[08/08 02:37:58 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on the Kighân Blightwood for 3,859 Fire damage to Morale.
+[08/08 02:37:59 PM] Prelude to Hope applied a heal to Nlkosi restoring 5,246 points to Morale.
+[08/08 02:38:00 PM] Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+[08/08 02:38:00 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,099 points to Morale.
+[08/08 02:38:01 PM] Nlkosi applied a benefit with Word of Exaltation on Nlkosi.
+[08/08 02:38:01 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,642 points to Morale.
+[08/08 02:38:01 PM] Your mighty blow defeated the Kighân Blightwood.
+[08/08 02:38:01 PM] Nlkosi scored a hit with Vivid Imagery on the Kighân Blightwood for 13,276 Lightning damage to Morale.
+[08/08 02:38:02 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,932 points to Morale.
+[08/08 02:38:03 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,597 points to Morale.
+[08/08 02:38:04 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,859 points to Morale.
+[08/08 02:38:05 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,542 points to Morale.
+[08/08 02:38:06 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,561 points to Morale.
+[08/08 02:38:07 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,964 points to Morale.
+[08/08 02:38:08 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,589 points to Morale.
+[08/08 02:38:09 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,447 points to Morale.
+[08/08 02:38:10 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,958 points to Morale.
+[08/08 02:38:11 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,637 points to Morale.
+[08/08 02:38:12 PM] You have lost 25,142 points of temporary Morale!
+[08/08 02:38:25 PM] Nlkosi scored a hit with Volcanic Rune-stone on Totâkhri for 13,902 Fire damage to Morale.
+[08/08 02:38:25 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/08 02:38:26 PM] Nlkosi scored a hit with Fulgurite Strike on Totâkhri for 3,600 Lightning damage to Morale.
+[08/08 02:38:26 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/08 02:38:27 PM] Totâkhri scored a partially evaded hit with a mighty swipe attack on the Volcanic Rune-stone for 3,126 Common damage to Morale.
+[08/08 02:38:27 PM] Nlkosi scored a hit with Volcanic Rune-stone on Totâkhri for 13,902 Fire damage to Morale.
+[08/08 02:38:28 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:38:28 PM] Nothing to dispel.
+[08/08 02:38:28 PM] Nlkosi scored a critical hit with Essence of Storm on Totâkhri for 43,991 Lightning damage to Morale.
+[08/08 02:38:28 PM] Nlkosi scored a hit with Improved Final Word on Totâkhri.
+[08/08 02:38:29 PM] Totâkhri tried to use a melee double attack on the Volcanic Rune-stone but it blocked the attempt.
+[08/08 02:38:29 PM] Nlkosi scored a hit with Fulgurite Strike on Totâkhri for 3,375 Lightning damage to Morale.
+[08/08 02:38:29 PM] Nlkosi scored a hit with Volcanic Rune-stone on Totâkhri for 13,902 Fire damage to Morale.
+[08/08 02:38:30 PM] Totâkhri scored a hit with a melee double attack on the Volcanic Rune-stone for 2,155 Common damage to Morale.
+[08/08 02:38:31 PM] Nlkosi scored a critical hit with Shocking Touch on Totâkhri for 9,962 Lightning damage to Morale.
+[08/08 02:38:31 PM] Nlkosi scored a hit with Volcanic Rune-stone on Totâkhri for 13,902 Fire damage to Morale.
+[08/08 02:38:32 PM] Nlkosi applied a critical heal with Prelude to Hope to the Volcanic Rune-stone restoring 6,939 points to Morale.
+[08/08 02:38:32 PM] Nlkosi applied a critical benefit with Prelude to Hope on the Volcanic Rune-stone.
+[08/08 02:38:32 PM] Nlkosi scored a hit with Fulgurite Strike on Totâkhri for 3,282 Lightning damage to Morale.
+[08/08 02:38:33 PM] Nlkosi applied a critical heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,975 points to Morale.
+[08/08 02:38:33 PM] Nlkosi scored a hit with Volcanic Rune-stone on Totâkhri for 13,902 Fire damage to Morale.
+[08/08 02:38:34 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,504 points to Morale.
+[08/08 02:38:34 PM] Nlkosi scored a hit with Sustaining Bolt on Totâkhri for 6,718 Lightning damage to Morale.
+[08/08 02:38:35 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,525 points to Morale.
+[08/08 02:38:35 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,625 points to Power.
+[08/08 02:38:35 PM] Sustenance applied a critical heal to Nlkosi restoring 23,285 points to Morale.
+[08/08 02:38:35 PM] Nlkosi scored a hit with Fulgurite Strike on Totâkhri for 3,453 Lightning damage to Morale.
+[08/08 02:38:35 PM] Nlkosi scored a hit with Volcanic Rune-stone on Totâkhri for 13,902 Fire damage to Morale.
+[08/08 02:38:36 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,494 points to Morale.
+[08/08 02:38:37 PM] Totâkhri scored a hit with a moderate swipe attack on Nlkosi for 14,328 Common damage to Morale.
+[08/08 02:38:37 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,336 points to Morale.
+[08/08 02:38:38 PM] Nlkosi scored a hit with Fiery Ridicule on Totâkhri for 6,122 Fire damage to Morale.
+[08/08 02:38:38 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:38:39 PM] Nlkosi scored a critical hit with Writ of Lightning on Totâkhri for 24,532 Lightning damage to Morale.
+[08/08 02:38:39 PM] Totâkhri tried to use a weak swipe attack on Nlkosi but he evaded the attempt.
+[08/08 02:38:40 PM] Nlkosi scored a hit with Fiery Ridicule on Totâkhri for 7,110 Fire damage to Morale.
+[08/08 02:38:40 PM] Nlkosi scored a critical hit with Epic Conclusion on Totâkhri for 146,578 Lightning damage to Morale.
+[08/08 02:38:41 PM] Totâkhri scored a hit with a moderate swipe attack on Nlkosi for 14,328 Common damage to Morale.
+[08/08 02:38:42 PM] Nlkosi scored a hit with Scribe's Spark on Totâkhri for 12,960 Lightning damage to Morale.
+[08/08 02:38:42 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on Totâkhri for 3,937 Fire damage to Morale.
+[08/08 02:38:44 PM] Totâkhri scored a hit with a weak swipe attack on Nlkosi for 10,098 Common damage to Morale.
+[08/08 02:38:44 PM] Nlkosi scored a hit with Ceaseless Argument on Totâkhri for 12,045 Lightning damage to Morale.
+[08/08 02:38:45 PM] Prelude to Hope applied a heal to Nlkosi restoring 4,059 points to Morale.
+[08/08 02:38:45 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on Totâkhri for 7,481 Fire damage to Morale.
+[08/08 02:38:46 PM] Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+[08/08 02:38:46 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,685 points to Morale.
+[08/08 02:38:46 PM] Totâkhri scored a hit with a mighty swipe attack on Nlkosi for 21,996 Common damage to Morale.
+[08/08 02:38:46 PM] Nlkosi scored a critical hit with Shocking Words on Totâkhri for 78,328 Lightning damage to Morale.
+[08/08 02:38:47 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,377 points to Morale.
+[08/08 02:38:48 PM] Nlkosi scored a hit with Vivid Imagery on Totâkhri for 11,803 Lightning damage to Morale.
+[08/08 02:38:48 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,717 points to Morale.
+[08/08 02:38:48 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on Totâkhri for 4,062 Fire damage to Morale.
+[08/08 02:38:49 PM] Nothing to dispel.
+[08/08 02:38:49 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,377 points to Morale.
+[08/08 02:38:49 PM] Nlkosi scored a hit with Improved Final Word on Totâkhri.
+[08/08 02:38:50 PM] Totâkhri scored a hit with a melee double attack on Nlkosi for 9,776 Common damage to Morale.
+[08/08 02:38:50 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,524 points to Morale.
+[08/08 02:38:50 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:38:50 PM] Nlkosi scored a critical hit with Sustaining Bolt on Totâkhri for 14,017 Lightning damage to Morale.
+[08/08 02:38:51 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,411 points to Morale.
+[08/08 02:38:51 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,392 points to Power.
+[08/08 02:38:51 PM] Sustenance applied a heal to Nlkosi restoring 16,964 points to Morale.
+[08/08 02:38:51 PM] Totâkhri scored a hit with a melee double attack on Nlkosi for 9,776 Common damage to Morale.
+[08/08 02:38:51 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 2 on Totâkhri for 3,941 Fire damage to Morale.
+[08/08 02:38:52 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,385 points to Morale.
+[08/08 02:38:52 PM] Nlkosi scored a hit with Shocking Touch on Totâkhri for 5,176 Lightning damage to Morale.
+[08/08 02:38:53 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,810 points to Morale.
+[08/08 02:38:54 PM] Nlkosi scored a hit with Fiery Ridicule on Totâkhri for 5,800 Fire damage to Morale.
+[08/08 02:38:54 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,270 points to Morale.
+[08/08 02:38:55 PM] Nlkosi scored a hit with Fiery Ridicule on Totâkhri for 7,346 Fire damage to Morale.
+[08/08 02:38:55 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,858 points to Morale.
+[08/08 02:38:56 PM] Nlkosi scored a hit with Ceaseless Argument on Totâkhri for 11,639 Lightning damage to Morale.
+[08/08 02:38:56 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,863 points to Morale.
+[08/08 02:38:56 PM] Totâkhri scored a devastating hit with Angry Bees on Nlkosi.
+[08/08 02:38:57 PM] Nlkosi scored a hit with Essence of Storm on Totâkhri for 14,324 Lightning damage to Morale.
+[08/08 02:38:57 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,543 points to Morale.
+[08/08 02:38:57 PM] Totâkhri scored a critical hit with a weak swipe attack on Nlkosi for 13,519 Common damage to Morale.
+[08/08 02:38:58 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 3 on Totâkhri for 6,906 Fire damage to Morale.
+[08/08 02:38:58 PM] Totâkhri scored a hit with Swarm of Bees on Nlkosi for 6,848 Common damage to Morale.
+[08/08 02:38:58 PM] Nlkosi scored a hit with Static Surge on Totâkhri for 22,080 Lightning damage to Morale.
+[08/08 02:38:59 PM] Totâkhri scored a critical hit with a mighty swipe attack on Nlkosi for 29,380 Common damage to Morale.
+[08/08 02:39:00 PM] Totâkhri scored a hit with Swarm of Bees on Nlkosi for 6,848 Common damage to Morale.
+[08/08 02:39:00 PM] Nlkosi scored a hit with Writ of Lightning on Totâkhri for 10,012 Lightning damage to Morale.
+[08/08 02:39:01 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 3 on Totâkhri for 7,743 Fire damage to Morale.
+[08/08 02:39:01 PM] Nlkosi scored a hit with Fiery Ridicule on Totâkhri for 8,493 Fire damage to Morale.
+[08/08 02:39:02 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:39:02 PM] Totâkhri scored a hit with a melee double attack on Nlkosi for 9,131 Common damage to Morale.
+[08/08 02:39:02 PM] Nlkosi scored a critical hit with Ceaseless Argument on Totâkhri for 36,054 Lightning damage to Morale.
+[08/08 02:39:02 PM] Totâkhri scored a hit with Swarm of Bees on Nlkosi for 6,848 Common damage to Morale.
+[08/08 02:39:03 PM] Totâkhri scored a hit with a melee double attack on Nlkosi for 9,131 Common damage to Morale.
+[08/08 02:39:03 PM] Your mighty blow defeated Totâkhri.
+[08/08 02:39:04 PM] Nlkosi scored a critical hit with Ceaseless Argument on Totâkhri for 32,536 Lightning damage to Morale.
+[08/08 02:39:04 PM] Totâkhri scored a hit with Swarm of Bees on Nlkosi for 6,848 Common damage to Morale.
+[08/08 02:39:06 PM] Totâkhri scored a hit with Swarm of Bees on Nlkosi for 6,848 Common damage to Morale.
+[08/08 02:39:08 PM] Nlkosi scored a critical hit with Writ of Lightning on the Kighân Rotting Moulder-wood for 27,535 Lightning damage to Morale.
+[08/08 02:39:09 PM] Nlkosi scored a hit with Sustaining Bolt on the Kighân Rotting Moulder-wood for 6,429 Lightning damage to Morale.
+[08/08 02:39:09 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,747 points to Power.
+[08/08 02:39:09 PM] Sustenance applied a heal to Nlkosi restoring 21,290 points to Morale.
+[08/08 02:39:10 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Rotting Moulder-wood for 5,920 Fire damage to Morale.
+[08/08 02:39:10 PM] The Kighân Rotting Moulder-wood scored a hit with Angry Bees on Nlkosi.
+[08/08 02:39:11 PM] Nlkosi scored a hit with Fiery Ridicule on the Kighân Rotting Moulder-wood for 7,785 Fire damage to Morale.
+[08/08 02:39:12 PM] Nlkosi scored a hit with Scribe's Spark on the Kighân Rotting Moulder-wood for 13,168 Lightning damage to Morale.
+[08/08 02:39:12 PM] The Kighân Rotting Moulder-wood scored a hit with a weak swipe attack on Nlkosi for 6,236 Common damage to Morale.
+[08/08 02:39:12 PM] The Kighân Rotting Moulder-wood scored a hit with Swarm of Bees on Nlkosi for 4,677 Common damage to Morale.
+[08/08 02:39:13 PM] Master of Tragedy applied a heal to Nlkosi restoring 200 points to Power.
+[08/08 02:39:13 PM] Your mighty blow defeated the Kighân Rotting Moulder-wood.
+[08/08 02:39:13 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Kighân Rotting Moulder-wood for 28,631 Lightning damage to Morale.
+[08/08 02:39:14 PM] The Kighân Rotting Moulder-wood scored a hit with Swarm of Bees on Nlkosi for 4,677 Common damage to Morale.
+[08/08 02:39:16 PM] The Kighân Rotting Moulder-wood scored a hit with Swarm of Bees on Nlkosi for 4,677 Common damage to Morale.
+[08/08 02:39:19 PM] The Kighân Rotting Moulder-wood scored a hit with Swarm of Bees on Nlkosi for 4,677 Common damage to Morale.
+[08/08 02:39:21 PM] The Kighân Rotting Moulder-wood scored a hit with Swarm of Bees on Nlkosi for 4,677 Common damage to Morale.

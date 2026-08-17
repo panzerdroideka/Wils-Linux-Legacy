@@ -1,0 +1,372 @@
+### Chat Log: Combat 08/11 10:03 PM ###
+[08/11 10:43:09 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Straggler for 14,573 Fire damage to Morale.
+[08/11 10:43:09 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Warrior for 14,573 Fire damage to Morale.
+[08/11 10:43:09 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/11 10:43:10 PM] The Imhûlari Straggler scored a partially evaded hit with a minor melee attack on the Volcanic Rune-stone for 1,296 Common damage to Morale.
+[08/11 10:43:10 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Straggler for 3,911 Lightning damage to Morale.
+[08/11 10:43:10 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Warrior for 3,836 Lightning damage to Morale.
+[08/11 10:43:10 PM] The Imhûlari Warrior scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,608 Common damage to Morale.
+[08/11 10:43:10 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 10:43:11 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Straggler for 14,573 Fire damage to Morale.
+[08/11 10:43:11 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Warrior for 14,573 Fire damage to Morale.
+[08/11 10:43:11 PM] Your mighty blow defeated the Imhûlari Warrior.
+[08/11 10:43:12 PM] Nlkosi scored a hit with Epic Conclusion on the Imhûlari Warrior for 51,946 Lightning damage to Morale.
+[08/11 10:43:12 PM] The Imhûlari Straggler scored a hit with Light Wound on the Volcanic Rune-stone for 1,206 Common damage to Morale.
+[08/11 10:43:12 PM] The Imhûlari Straggler scored a hit with Melee Min Bleed on the Volcanic Rune-stone.
+[08/11 10:43:13 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Straggler for 14,573 Fire damage to Morale.
+[08/11 10:43:13 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Straggler for 4,063 Lightning damage to Morale.
+[08/11 10:43:14 PM] The Imhûlari Straggler scored a partially parried hit with a moderate melee attack on the Volcanic Rune-stone for 1,426 Common damage to Morale.
+[08/11 10:43:15 PM] Your mighty blow defeated the Imhûlari Straggler.
+[08/11 10:43:15 PM] Nlkosi scored a hit with Shocking Words on the Imhûlari Straggler for 24,416 Lightning damage to Morale.
+[08/11 10:43:15 PM] The Imhûlari Straggler scored a hit with Light Wound on the Volcanic Rune-stone for 1,206 Common damage to Morale.
+[08/11 10:43:18 PM] The Imhûlari Straggler scored a hit with Light Wound on the Volcanic Rune-stone for 1,206 Common damage to Morale.
+[08/11 10:43:20 PM] Nlkosi scored a hit with Sustaining Bolt on the Imhûlari Scout for 5,401 Lightning damage to Morale.
+[08/11 10:43:21 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,663 points to Power.
+[08/11 10:43:21 PM] Sustenance applied a heal to Nlkosi restoring 21,672 points to Morale.
+[08/11 10:43:22 PM] Nlkosi scored a hit with Fiery Ridicule on the Imhûlari Scout for 6,389 Fire damage to Morale.
+[08/11 10:43:23 PM] Nlkosi scored a devastating hit with Chilling Rhetoric on the Imhûlari Scout for 18,547 Frost damage to Morale.
+[08/11 10:43:24 PM] The Imhûlari Scout scored a hit with Fire Arrow Attack on Nlkosi for 25,677 Fire damage to Morale.
+[08/11 10:43:25 PM] Nlkosi scored a hit with Fiery Ridicule on the Imhûlari Scout for 6,805 Fire damage to Morale.
+[08/11 10:43:26 PM] Nlkosi scored a hit with Essence of Flame on the Imhûlari Scout for 16,048 Fire damage to Morale.
+[08/11 10:43:26 PM] Nlkosi scored a hit with Essence of Flame on the Imhûlari Straggler for 17,729 Fire damage to Morale.
+[08/11 10:43:27 PM] Nlkosi scored a hit with Fiery Ridicule on the Imhûlari Scout for 7,696 Fire damage to Morale.
+[08/11 10:43:27 PM] The Imhûlari Scout scored a hit with Poison Arrow Attack on Nlkosi.
+[08/11 10:43:28 PM] Your mighty blow defeated the Imhûlari Scout.
+[08/11 10:43:28 PM] Nlkosi scored a hit with Fiery Ridicule on the Imhûlari Scout for 8,754 Fire damage to Morale.
+[08/11 10:43:30 PM] The Imhûlari Scout scored a hit with Poison Arrow on Nlkosi for 4,570 Common damage to Morale.
+[08/11 10:43:30 PM] The Imhûlari Straggler scored a hit with a weak melee attack on Nlkosi for 7,375 Common damage to Morale.
+[08/11 10:43:31 PM] Nlkosi scored a hit with Essence of Storm on the Imhûlari Straggler for 16,444 Lightning damage to Morale.
+[08/11 10:43:32 PM] The Imhûlari Straggler scored a partially evaded hit with a moderate melee attack on Nlkosi for 9,044 Common damage to Morale.
+[08/11 10:43:33 PM] Nlkosi scored a hit with Ceaseless Argument on the Imhûlari Straggler for 14,883 Lightning damage to Morale.
+[08/11 10:43:33 PM] The Imhûlari Scout scored a hit with Poison Arrow on Nlkosi for 4,432 Common damage to Morale.
+[08/11 10:43:34 PM] The Imhûlari Straggler scored a partially evaded hit with a weak melee attack on Nlkosi for 6,577 Common damage to Morale.
+[08/11 10:43:35 PM] Nlkosi scored a hit with Ceaseless Argument on the Imhûlari Straggler for 13,612 Lightning damage to Morale.
+[08/11 10:43:35 PM] Nothing to dispel.
+[08/11 10:43:36 PM] Nlkosi scored a hit with Improved Final Word on the Imhûlari Straggler.
+[08/11 10:43:36 PM] The Imhûlari Scout scored a hit with Poison Arrow on Nlkosi for 4,432 Common damage to Morale.
+[08/11 10:43:36 PM] The Imhûlari Straggler scored a hit with a moderate melee attack on Nlkosi for 9,837 Common damage to Morale.
+[08/11 10:43:37 PM] Your mighty blow defeated the Imhûlari Straggler.
+[08/11 10:43:37 PM] Nlkosi scored a hit with Shocking Words on the Imhûlari Straggler for 33,827 Lightning damage to Morale.
+[08/11 10:43:39 PM] The Imhûlari Scout scored a hit with Poison Arrow on Nlkosi for 4,295 Common damage to Morale.
+[08/11 10:43:42 PM] The Imhûlari Scout scored a hit with Poison Arrow on Nlkosi for 4,295 Common damage to Morale.
+[08/11 10:43:45 PM] The Imhûlari Scout scored a hit with Poison Arrow on Nlkosi for 4,295 Common damage to Morale.
+[08/11 10:43:48 PM] The Imhûlari Scout scored a hit with Poison Arrow on Nlkosi for 4,570 Common damage to Morale.
+[08/11 10:43:51 PM] The Imhûlari Scout scored a hit with Poison Arrow on Nlkosi for 4,570 Common damage to Morale.
+[08/11 10:43:54 PM] The Imhûlari Scout scored a hit with Poison Arrow on Nlkosi for 4,570 Common damage to Morale.
+[08/11 10:43:56 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Scout for 14,573 Fire damage to Morale.
+[08/11 10:43:56 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Skirmisher for 14,573 Fire damage to Morale.
+[08/11 10:43:56 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/11 10:43:57 PM] The Imhûlari Skirmisher scored a hit with a moderate melee attack on the Volcanic Rune-stone for 1,731 Common damage to Morale.
+[08/11 10:43:57 PM] The Imhûlari Scout scored a hit with a weak melee attack on the Volcanic Rune-stone for 979 Common damage to Morale.
+[08/11 10:43:57 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Scout for 4,095 Lightning damage to Morale.
+[08/11 10:43:57 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Skirmisher for 4,000 Lightning damage to Morale.
+[08/11 10:43:57 PM] The Imhûlari Scout scored a hit with Poison Arrow on Nlkosi for 4,570 Common damage to Morale.
+[08/11 10:43:57 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 10:43:58 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Scout for 14,573 Fire damage to Morale.
+[08/11 10:43:58 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Skirmisher for 14,573 Fire damage to Morale.
+[08/11 10:43:58 PM] Your mighty blow defeated the Imhûlari Skirmisher.
+[08/11 10:43:59 PM] Nlkosi scored a hit with Epic Conclusion on the Imhûlari Skirmisher for 50,326 Lightning damage to Morale.
+[08/11 10:44:00 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Scout for 14,573 Fire damage to Morale.
+[08/11 10:44:00 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Scout for 4,200 Lightning damage to Morale.
+[08/11 10:44:00 PM] The Imhûlari Scout scored a hit with Poison Arrow on Nlkosi for 4,570 Common damage to Morale.
+[08/11 10:44:01 PM] The Imhûlari Scout tried to use a moderate melee attack on the Volcanic Rune-stone but it blocked the attempt.
+[08/11 10:44:02 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Scout for 14,573 Fire damage to Morale.
+[08/11 10:44:03 PM] The Imhûlari Scout scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,224 Common damage to Morale.
+[08/11 10:44:03 PM] Nlkosi tried to use Induce Stunned on the Imhûlari Scout but he was immune to the attempt.
+[08/11 10:44:03 PM] Your mighty blow defeated the Imhûlari Scout.
+[08/11 10:44:03 PM] Nlkosi scored a hit with Shocking Words on the Imhûlari Scout for 29,743 Lightning damage to Morale.
+[08/11 10:44:03 PM] The Imhûlari Scout scored a hit with Poison Arrow on Nlkosi for 4,570 Common damage to Morale.
+[08/11 10:44:19 PM] Nlkosi scored a hit with Sustaining Bolt on the Imhûlari Warrior for 3,899 Lightning damage to Morale.
+[08/11 10:44:20 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,965 points to Power.
+[08/11 10:44:20 PM] Sustenance applied a heal to Nlkosi restoring 20,180 points to Morale.
+[08/11 10:44:20 PM] Nlkosi scored a hit with Fiery Ridicule on the Imhûlari Warrior for 5,083 Fire damage to Morale.
+[08/11 10:44:22 PM] Nlkosi scored a hit with Essence of Flame on the Imhûlari Warrior for 12,366 Fire damage to Morale.
+[08/11 10:44:22 PM] The Imhûlari Warrior tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[08/11 10:44:22 PM] Nlkosi scored a hit with Ceaseless Argument on the Imhûlari Warrior for 11,815 Lightning damage to Morale.
+[08/11 10:44:24 PM] Nlkosi scored a hit with Ceaseless Argument on the Imhûlari Warrior for 10,237 Lightning damage to Morale.
+[08/11 10:44:24 PM] The Imhûlari Warrior scored a hit with a moderate melee attack on Nlkosi for 9,837 Common damage to Morale.
+[08/11 10:44:24 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Imhûlari Warrior for 2,869 Fire damage to Morale.
+[08/11 10:44:25 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/11 10:44:25 PM] Your mighty blow defeated the Imhûlari Warrior.
+[08/11 10:44:25 PM] Nlkosi scored a critical hit with Shocking Words on the Imhûlari Warrior for 85,811 Lightning damage to Morale.
+[08/11 10:44:27 PM] Nlkosi scored a hit with Ceaseless Argument on the Imhûlari Skirmisher for 14,044 Lightning damage to Morale.
+[08/11 10:44:28 PM] Nlkosi scored a hit with Fiery Ridicule on the Imhûlari Skirmisher for 6,874 Fire damage to Morale.
+[08/11 10:44:29 PM] Nlkosi scored a critical hit with Writ of Lightning on the Imhûlari Skirmisher for 29,512 Lightning damage to Morale.
+[08/11 10:44:29 PM] The Imhûlari Skirmisher scored a hit with a weak melee attack on Nlkosi for 5,426 Common damage to Morale.
+[08/11 10:44:31 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Imhûlari Skirmisher for 2,974 Fire damage to Morale.
+[08/11 10:44:31 PM] Your mighty blow defeated the Imhûlari Skirmisher.
+[08/11 10:44:31 PM] Nlkosi scored a critical hit with Essence of Storm on the Imhûlari Skirmisher for 66,762 Lightning damage to Morale.
+[08/11 10:44:43 PM] Nothing to dispel.
+[08/11 10:44:43 PM] Nlkosi scored a hit with Improved Final Word on the Imhûlari Warrior.
+[08/11 10:44:45 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/11 10:44:45 PM] Nlkosi scored a critical hit with Vivid Imagery on the Imhûlari Warrior for 28,515 Lightning damage to Morale.
+[08/11 10:44:47 PM] Nlkosi scored a hit with Shocking Words on the Imhûlari Warrior for 29,017 Lightning damage to Morale.
+[08/11 10:44:49 PM] Nlkosi scored a critical hit with Distracting Flame on the Imhûlari Warrior.
+[08/11 10:44:49 PM] Your mighty blow defeated the Imhûlari Warrior.
+[08/11 10:44:49 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Imhûlari Warrior for 14,235 Lightning damage to Morale.
+[08/11 10:44:50 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,746 points to Power.
+[08/11 10:44:50 PM] Sustenance applied a critical heal to Nlkosi restoring 21,879 points to Morale.
+[08/11 10:45:02 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Straggler for 14,573 Fire damage to Morale.
+[08/11 10:45:02 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Captain for 14,573 Fire damage to Morale.
+[08/11 10:45:02 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/11 10:45:03 PM] The Imhûlari Captain scored a hit with a weak melee attack on the Volcanic Rune-stone for 2,028 Common damage to Morale.
+[08/11 10:45:04 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Straggler for 4,034 Lightning damage to Morale.
+[08/11 10:45:04 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Captain for 4,048 Lightning damage to Morale.
+[08/11 10:45:04 PM] The Imhûlari Straggler scored a devastating hit with a minor melee attack on the Volcanic Rune-stone for 3,622 Common damage to Morale.
+[08/11 10:45:04 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 10:45:04 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Straggler for 14,573 Fire damage to Morale.
+[08/11 10:45:04 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Captain for 14,573 Fire damage to Morale.
+[08/11 10:45:05 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/11 10:45:05 PM] Nlkosi scored a devastating hit with Essence of Storm on the Imhûlari Captain for 64,048 Lightning damage to Morale.
+[08/11 10:45:06 PM] The Imhûlari Straggler scored a hit with a moderate swipe attack on the Volcanic Rune-stone for 2,211 Common damage to Morale.
+[08/11 10:45:06 PM] The Imhûlari Straggler scored a hit with a moderate swipe attack on the Charged Fulgurite Rune-stone for 2,211 Common damage to Morale.
+[08/11 10:45:06 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Straggler for 14,573 Fire damage to Morale.
+[08/11 10:45:06 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Captain for 14,573 Fire damage to Morale.
+[08/11 10:45:06 PM] Your mighty blow defeated the Imhûlari Captain.
+[08/11 10:45:07 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Straggler for 3,906 Lightning damage to Morale.
+[08/11 10:45:07 PM] Nlkosi scored a hit with Epic Conclusion on the Imhûlari Captain for 82,247 Lightning damage to Morale.
+[08/11 10:45:08 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Straggler for 14,573 Fire damage to Morale.
+[08/11 10:45:09 PM] Nothing to dispel.
+[08/11 10:45:10 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Straggler for 4,002 Lightning damage to Morale.
+[08/11 10:45:10 PM] Nlkosi scored a hit with Improved Final Word on the Imhûlari Straggler.
+[08/11 10:45:10 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Straggler for 14,573 Fire damage to Morale.
+[08/11 10:45:10 PM] The Volcanic Rune-stone defeated the Imhûlari Straggler.
+[08/11 10:45:11 PM] Nlkosi scored a hit with Scribe's Spark on the Imhûlari Straggler for 11,242 Lightning damage to Morale.
+[08/11 10:45:37 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Imhûlari Warrior for 11,898 Frost damage to Morale.
+[08/11 10:45:38 PM] Nlkosi scored a hit with Sustaining Bolt on the Imhûlari Warrior for 4,615 Lightning damage to Morale.
+[08/11 10:45:39 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,703 points to Power.
+[08/11 10:45:39 PM] Sustenance applied a heal to Nlkosi restoring 18,299 points to Morale.
+[08/11 10:45:39 PM] Nlkosi scored a hit with Fiery Ridicule on the Imhûlari Warrior for 4,958 Fire damage to Morale.
+[08/11 10:45:41 PM] Nlkosi scored a hit with Essence of Flame on the Imhûlari Warrior for 13,085 Fire damage to Morale.
+[08/11 10:45:41 PM] Nlkosi scored a hit with Essence of Flame on the Imhûlari Skirmisher for 14,159 Fire damage to Morale.
+[08/11 10:45:41 PM] The Imhûlari Skirmisher tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[08/11 10:45:41 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/11 10:45:41 PM] Your mighty blow defeated the Imhûlari Warrior.
+[08/11 10:45:41 PM] Nlkosi scored a critical hit with Shocking Words on the Imhûlari Warrior for 80,512 Lightning damage to Morale.
+[08/11 10:45:43 PM] The Imhûlari Skirmisher scored a hit with a moderate melee attack on Nlkosi for 7,937 Common damage to Morale.
+[08/11 10:45:44 PM] Nothing to dispel.
+[08/11 10:45:44 PM] Nlkosi scored a hit with Essence of Storm on the Imhûlari Skirmisher for 15,908 Lightning damage to Morale.
+[08/11 10:45:44 PM] Nlkosi scored a hit with Improved Final Word on the Imhûlari Skirmisher.
+[08/11 10:45:45 PM] The Imhûlari Skirmisher scored a hit with a weak melee attack on Nlkosi for 5,772 Common damage to Morale.
+[08/11 10:45:45 PM] Nlkosi scored a hit with Shocking Touch on the Imhûlari Skirmisher for 5,740 Lightning damage to Morale.
+[08/11 10:45:46 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/11 10:45:46 PM] Nlkosi scored a hit with Head-butt on the Imhûlari Skirmisher for 10,870 Common damage to Morale.
+[08/11 10:45:47 PM] You have lost 10,318 points of temporary Morale!
+[08/11 10:45:48 PM] Nlkosi scored a hit with Vivid Imagery on the Imhûlari Skirmisher for 10,796 Lightning damage to Morale.
+[08/11 10:45:50 PM] Nlkosi scored a hit with Writ of Lightning on the Imhûlari Skirmisher for 9,606 Lightning damage to Morale.
+[08/11 10:45:51 PM] The Imhûlari Skirmisher scored a hit with a weak melee attack on Nlkosi for 5,772 Common damage to Morale.
+[08/11 10:45:51 PM] You have lost 5,772 points of temporary Morale!
+[08/11 10:45:51 PM] Your mighty blow defeated the Imhûlari Skirmisher.
+[08/11 10:45:51 PM] Nlkosi scored a hit with Fiery Ridicule on the Imhûlari Skirmisher for 6,895 Fire damage to Morale.
+[08/11 10:46:01 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/11 10:46:01 PM] Nlkosi scored a critical hit with Scribe's Spark on the Imhûlari Captain for 31,600 Lightning damage to Morale.
+[08/11 10:46:03 PM] Nlkosi scored a hit with Shocking Words on the Imhûlari Captain for 33,118 Lightning damage to Morale.
+[08/11 10:46:04 PM] Nlkosi scored a critical hit with Essence of Storm on the Imhûlari Captain for 51,317 Lightning damage to Morale.
+[08/11 10:46:05 PM] Nlkosi scored a hit with Sustaining Bolt on the Imhûlari Captain for 7,065 Lightning damage to Morale.
+[08/11 10:46:05 PM] You have lost 37,370 points of temporary Morale!
+[08/11 10:46:06 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,653 points to Power.
+[08/11 10:46:06 PM] Sustenance applied a heal to Nlkosi restoring 16,904 points to Morale.
+[08/11 10:46:07 PM] Nlkosi scored a hit with Writ of Lightning on the Imhûlari Captain for 11,643 Lightning damage to Morale.
+[08/11 10:46:08 PM] Nothing to dispel.
+[08/11 10:46:08 PM] Nlkosi scored a hit with Shocking Touch on the Imhûlari Captain for 6,145 Lightning damage to Morale.
+[08/11 10:46:08 PM] Nlkosi scored a hit with Improved Final Word on the Imhûlari Captain.
+[08/11 10:46:10 PM] Nlkosi scored a critical hit with Distracting Flame on the Imhûlari Captain.
+[08/11 10:46:10 PM] Your mighty blow defeated the Imhûlari Captain.
+[08/11 10:46:10 PM] Nlkosi scored a critical hit with Epic Conclusion on the Imhûlari Captain for 168,487 Lightning damage to Morale.
+[08/11 10:46:15 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Imhûlari Warrior for 11,600 Fire damage to Morale.
+[08/11 10:46:16 PM] Nlkosi scored a hit with Writ of Lightning on the Imhûlari Warrior for 14,133 Lightning damage to Morale.
+[08/11 10:46:18 PM] Nlkosi scored a hit with Essence of Flame on the Imhûlari Warrior for 20,640 Fire damage to Morale.
+[08/11 10:46:18 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/11 10:46:18 PM] Your mighty blow defeated the Imhûlari Warrior.
+[08/11 10:46:18 PM] Nlkosi scored a critical hit with Essence of Storm on the Imhûlari Warrior for 66,584 Lightning damage to Morale.
+[08/11 10:46:33 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Straggler for 14,573 Fire damage to Morale.
+[08/11 10:46:34 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/11 10:46:35 PM] The Imhûlari Straggler scored a hit with a minor melee attack on the Volcanic Rune-stone for 2,010 Common damage to Morale.
+[08/11 10:46:35 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Scout for 3,861 Lightning damage to Morale.
+[08/11 10:46:35 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Straggler for 4,117 Lightning damage to Morale.
+[08/11 10:46:35 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Scout for 14,573 Fire damage to Morale.
+[08/11 10:46:35 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Straggler for 14,573 Fire damage to Morale.
+[08/11 10:46:35 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 10:46:36 PM] The Imhûlari Scout scored a partially parried hit with a minor melee attack on the Volcanic Rune-stone for 789 Common damage to Morale.
+[08/11 10:46:37 PM] The Imhûlari Straggler scored a hit with a moderate melee attack on the Volcanic Rune-stone for 2,211 Common damage to Morale.
+[08/11 10:46:37 PM] The Imhûlari Scout scored a hit with a weak melee attack on the Volcanic Rune-stone for 979 Common damage to Morale.
+[08/11 10:46:37 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Straggler for 14,573 Fire damage to Morale.
+[08/11 10:46:37 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Scout for 14,573 Fire damage to Morale.
+[08/11 10:46:38 PM] Nlkosi scored a hit with Essence of Storm on the Imhûlari Scout for 12,368 Lightning damage to Morale.
+[08/11 10:46:38 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Straggler for 3,841 Lightning damage to Morale.
+[08/11 10:46:38 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Scout for 4,062 Lightning damage to Morale.
+[08/11 10:46:38 PM] The Imhûlari Scout tried to use a moderate melee attack on the Volcanic Rune-stone but it blocked the attempt.
+[08/11 10:46:38 PM] Your mighty blow defeated the Imhûlari Scout.
+[08/11 10:46:39 PM] Nlkosi scored a hit with Epic Conclusion on the Imhûlari Scout for 55,982 Lightning damage to Morale.
+[08/11 10:46:39 PM] The Imhûlari Straggler tried to use a minor melee attack on the Volcanic Rune-stone but it parried the attempt.
+[08/11 10:46:39 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Straggler for 14,573 Fire damage to Morale.
+[08/11 10:46:40 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/11 10:46:40 PM] Your mighty blow defeated the Imhûlari Straggler.
+[08/11 10:46:40 PM] Nlkosi scored a devastating hit with Scribe's Spark on the Imhûlari Straggler for 35,158 Lightning damage to Morale.
+[08/11 10:47:02 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Skirmisher for 3,896 Lightning damage to Morale.
+[08/11 10:47:02 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Warrior for 4,232 Lightning damage to Morale.
+[08/11 10:47:03 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 10:47:04 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Warrior for 14,573 Fire damage to Morale.
+[08/11 10:47:05 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/11 10:47:05 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Skirmisher for 4,154 Lightning damage to Morale.
+[08/11 10:47:05 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Warrior for 4,120 Lightning damage to Morale.
+[08/11 10:47:05 PM] The Imhûlari Warrior scored a partially parried hit with a weak melee attack on the Charged Fulgurite Rune-stone for 1,037 Common damage to Morale.
+[08/11 10:47:06 PM] Nlkosi scored a hit with Shocking Words on the Imhûlari Warrior for 32,649 Lightning damage to Morale.
+[08/11 10:47:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Warrior for 14,573 Fire damage to Morale.
+[08/11 10:47:07 PM] Nothing to dispel.
+[08/11 10:47:08 PM] Nlkosi scored a hit with Improved Final Word on the Imhûlari Warrior.
+[08/11 10:47:08 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Skirmisher for 4,086 Lightning damage to Morale.
+[08/11 10:47:08 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Warrior for 4,122 Lightning damage to Morale.
+[08/11 10:47:08 PM] The Charged Fulgurite Rune-stone defeated the Imhûlari Warrior.
+[08/11 10:47:09 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Skirmisher for 14,573 Fire damage to Morale.
+[08/11 10:47:09 PM] The Imhûlari Skirmisher scored a critical hit with a weak melee attack on the Charged Fulgurite Rune-stone for 1,639 Common damage to Morale.
+[08/11 10:47:09 PM] Nlkosi scored a hit with Vivid Imagery on the Imhûlari Skirmisher for 9,927 Lightning damage to Morale.
+[08/11 10:47:09 PM] Nlkosi scored a hit with Vivid Imagery on the Imhûlari Warrior for 10,593 Lightning damage to Morale.
+[08/11 10:47:11 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Skirmisher for 14,573 Fire damage to Morale.
+[08/11 10:47:11 PM] The Imhûlari Skirmisher scored a hit with a moderate melee attack on the Volcanic Rune-stone for 1,731 Common damage to Morale.
+[08/11 10:47:11 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Skirmisher for 4,110 Lightning damage to Morale.
+[08/11 10:47:11 PM] The Charged Fulgurite Rune-stone defeated the Imhûlari Skirmisher.
+[08/11 10:47:12 PM] Nlkosi scored a hit with Essence of Flame on the Imhûlari Skirmisher for 16,200 Fire damage to Morale.
+[08/11 10:47:26 PM] Nlkosi scored a hit with Sustaining Bolt on the Imhûlari Scout for 4,315 Lightning damage to Morale.
+[08/11 10:47:26 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,690 points to Power.
+[08/11 10:47:26 PM] Sustenance applied a critical heal to Nlkosi restoring 29,166 points to Morale.
+[08/11 10:47:27 PM] Nlkosi scored a hit with Chilling Rhetoric on the Imhûlari Scout for 6,148 Frost damage to Morale.
+[08/11 10:47:29 PM] The Imhûlari Scout scored a hit with a weak melee attack on Nlkosi for 4,489 Common damage to Morale.
+[08/11 10:47:29 PM] Nlkosi scored a hit with Essence of Flame on the Imhûlari Scout for 13,292 Fire damage to Morale.
+[08/11 10:47:29 PM] Nothing to dispel.
+[08/11 10:47:29 PM] Nlkosi scored a hit with Epic Conclusion on the Imhûlari Scout for 38,703 Lightning damage to Morale.
+[08/11 10:47:29 PM] Nlkosi scored a critical hit with Improved Final Word on the Imhûlari Scout.
+[08/11 10:47:30 PM] The Imhûlari Scout scored a hit with a moderate melee attack on Nlkosi for 6,173 Common damage to Morale.
+[08/11 10:47:32 PM] Nlkosi scored a hit with Distracting Flame on the Imhûlari Scout.
+[08/11 10:47:32 PM] The Imhûlari Scout scored a hit with a minor melee attack on Nlkosi for 5,612 Common damage to Morale.
+[08/11 10:47:32 PM] Nlkosi scored a hit with Shocking Touch on the Imhûlari Scout for 4,208 Lightning damage to Morale.
+[08/11 10:47:34 PM] Your mighty blow defeated the Imhûlari Scout.
+[08/11 10:47:34 PM] Nlkosi scored a hit with Shocking Words on the Imhûlari Scout for 22,816 Lightning damage to Morale.
+[08/11 10:47:36 PM] Nlkosi scored a hit with Writ of Lightning on the Imhûlari Skirmisher for 10,146 Lightning damage to Morale.
+[08/11 10:47:37 PM] Nlkosi scored a hit with Fiery Ridicule on the Imhûlari Skirmisher for 5,734 Fire damage to Morale.
+[08/11 10:47:38 PM] The Imhûlari Skirmisher scored a hit with a weak melee attack on Nlkosi for 5,772 Common damage to Morale.
+[08/11 10:47:39 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/11 10:47:39 PM] Your mighty blow defeated the Imhûlari Skirmisher.
+[08/11 10:47:39 PM] Nlkosi scored a critical hit with Essence of Storm on the Imhûlari Skirmisher for 60,325 Lightning damage to Morale.
+[08/11 10:47:50 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/11 10:47:50 PM] Nlkosi scored a critical hit with Essence of Storm on the Imhûlari Warrior for 50,047 Lightning damage to Morale.
+[08/11 10:47:50 PM] Nothing to dispel.
+[08/11 10:47:51 PM] Nlkosi scored a hit with Improved Final Word on the Imhûlari Warrior.
+[08/11 10:47:53 PM] Nlkosi scored a hit with Ceaseless Argument on the Imhûlari Warrior for 14,759 Lightning damage to Morale.
+[08/11 10:47:53 PM] The Imhûlari Warrior scored a hit with a weak melee attack on Nlkosi for 7,375 Common damage to Morale.
+[08/11 10:47:55 PM] Your mighty blow defeated the Imhûlari Warrior.
+[08/11 10:47:55 PM] Nlkosi scored a hit with Shocking Words on the Imhûlari Warrior for 38,591 Lightning damage to Morale.
+[08/11 10:48:12 PM] The Imhûlari Scout scored a hit with a minor melee attack on Nlkosi for 5,612 Common damage to Morale.
+[08/11 10:48:12 PM] The Utûgi Devastator scored a hit with a moderate melee attack on Nlkosi for 15,873 Common damage to Morale.
+[08/11 10:48:12 PM] Nlkosi scored a hit with Fulgurite Strike on the Utûgi Devastator for 3,993 Lightning damage to Morale.
+[08/11 10:48:12 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Captain for 3,876 Lightning damage to Morale.
+[08/11 10:48:12 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Straggler for 4,038 Lightning damage to Morale.
+[08/11 10:48:12 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Scout for 3,892 Lightning damage to Morale.
+[08/11 10:48:12 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 10:48:13 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Utûgi Devastator for 14,573 Fire damage to Morale.
+[08/11 10:48:13 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Straggler for 14,573 Fire damage to Morale.
+[08/11 10:48:13 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Scout for 14,573 Fire damage to Morale.
+[08/11 10:48:14 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/11 10:48:15 PM] Nothing to dispel.
+[08/11 10:48:15 PM] Nlkosi scored a hit with Ceaseless Argument on the Utûgi Devastator for 10,493 Lightning damage to Morale.
+[08/11 10:48:15 PM] Nlkosi scored a critical hit with Improved Final Word on the Utûgi Devastator.
+[08/11 10:48:15 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Captain for 4,039 Lightning damage to Morale.
+[08/11 10:48:15 PM] Nlkosi scored a hit with Fulgurite Strike on the Utûgi Devastator for 3,864 Lightning damage to Morale.
+[08/11 10:48:15 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Straggler for 4,076 Lightning damage to Morale.
+[08/11 10:48:15 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Scout for 4,193 Lightning damage to Morale.
+[08/11 10:48:15 PM] The Imhûlari Captain scored a hit with a mighty melee attack on the Charged Fulgurite Rune-stone for 4,563 Common damage to Morale.
+[08/11 10:48:15 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Captain for 14,573 Fire damage to Morale.
+[08/11 10:48:15 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Utûgi Devastator for 14,573 Fire damage to Morale.
+[08/11 10:48:15 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Straggler for 14,573 Fire damage to Morale.
+[08/11 10:48:15 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Scout for 14,573 Fire damage to Morale.
+[08/11 10:48:16 PM] The Imhûlari Scout scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,224 Common damage to Morale.
+[08/11 10:48:16 PM] The Utûgi Devastator scored a hit with Breach Armour on the Volcanic Rune-stone for 8,811 Common damage to Morale.
+[08/11 10:48:17 PM] The Imhûlari Straggler scored a partially evaded hit with a weak melee attack on the Volcanic Rune-stone for 1,037 Common damage to Morale.
+[08/11 10:48:17 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 4,344 points to Morale.
+[08/11 10:48:17 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Captain for 14,573 Fire damage to Morale.
+[08/11 10:48:17 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Straggler for 14,573 Fire damage to Morale.
+[08/11 10:48:17 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Utûgi Devastator for 14,573 Fire damage to Morale.
+[08/11 10:48:17 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Scout for 14,573 Fire damage to Morale.
+[08/11 10:48:18 PM] Nlkosi applied a benefit with Prelude to Hope on the Volcanic Rune-stone.
+[08/11 10:48:18 PM] The Imhûlari Scout scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,476 Common damage to Morale.
+[08/11 10:48:18 PM] Nlkosi applied a critical heal with Prelude to Hope to the Volcanic Rune-stone restoring 2,226 points to Morale.
+[08/11 10:48:18 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/11 10:48:18 PM] Nlkosi scored a critical hit with Epic Conclusion on the Utûgi Devastator for 112,119 Lightning damage to Morale.
+[08/11 10:48:18 PM] The Utûgi Devastator scored a hit with a mighty melee attack on the Volcanic Rune-stone for 8,541 Common damage to Morale.
+[08/11 10:48:18 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Captain for 3,957 Lightning damage to Morale.
+[08/11 10:48:18 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Utûgi Devastator but he was immune to the attempt.
+[08/11 10:48:18 PM] Nlkosi scored a hit with Fulgurite Strike on the Utûgi Devastator for 4,184 Lightning damage to Morale.
+[08/11 10:48:18 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Imhûlari Straggler but he was immune to the attempt.
+[08/11 10:48:18 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Straggler for 4,154 Lightning damage to Morale.
+[08/11 10:48:18 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Scout for 4,177 Lightning damage to Morale.
+[08/11 10:48:19 PM] The Imhûlari Straggler scored a hit with a moderate melee attack on the Volcanic Rune-stone for 3,335 Common damage to Morale.
+[08/11 10:48:19 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,388 points to Morale.
+[08/11 10:48:19 PM] The Imhûlari Scout scored a hit with a moderate melee attack on the Volcanic Rune-stone for 2,030 Common damage to Morale.
+[08/11 10:48:19 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Captain for 14,573 Fire damage to Morale.
+[08/11 10:48:19 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Straggler for 14,573 Fire damage to Morale.
+[08/11 10:48:19 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Utûgi Devastator for 14,573 Fire damage to Morale.
+[08/11 10:48:19 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Scout for 14,573 Fire damage to Morale.
+[08/11 10:48:19 PM] The Volcanic Rune-stone defeated the Imhûlari Scout.
+[08/11 10:48:20 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,518 points to Morale.
+[08/11 10:48:20 PM] The Utûgi Devastator scored a hit with a weak melee attack on Nlkosi for 11,198 Common damage to Morale.
+[08/11 10:48:21 PM] The Imhûlari Straggler scored a hit with a weak melee attack on the Volcanic Rune-stone for 2,425 Common damage to Morale.
+[08/11 10:48:21 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,602 points to Morale.
+[08/11 10:48:21 PM] Your mighty blow defeated the Imhûlari Straggler.
+[08/11 10:48:21 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Captain for 14,913 Fire damage to Morale.
+[08/11 10:48:21 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Utûgi Devastator for 14,913 Fire damage to Morale.
+[08/11 10:48:21 PM] Nlkosi scored a hit with Essence of Flame on the Utûgi Devastator for 13,744 Fire damage to Morale.
+[08/11 10:48:21 PM] Nlkosi scored a hit with Essence of Flame on the Imhûlari Captain for 12,142 Fire damage to Morale.
+[08/11 10:48:21 PM] Nlkosi scored a hit with Essence of Flame on the Imhûlari Straggler for 14,669 Fire damage to Morale.
+[08/11 10:48:21 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Captain for 4,181 Lightning damage to Morale.
+[08/11 10:48:21 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Utûgi Devastator but he was immune to the attempt.
+[08/11 10:48:21 PM] Nlkosi scored a hit with Fulgurite Strike on the Utûgi Devastator for 4,256 Lightning damage to Morale.
+[08/11 10:48:22 PM] Nlkosi tried to use Induce Stunned on the Utûgi Devastator but he was immune to the attempt.
+[08/11 10:48:22 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,584 points to Morale.
+[08/11 10:48:22 PM] Nlkosi scored a hit with Shocking Words on the Utûgi Devastator for 29,698 Lightning damage to Morale.
+[08/11 10:48:22 PM] The Utûgi Devastator scored a hit with a mighty melee attack on Nlkosi for 25,195 Common damage to Morale.
+[08/11 10:48:23 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,587 points to Morale.
+[08/11 10:48:23 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Imhûlari Captain for 14,913 Fire damage to Morale.
+[08/11 10:48:23 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Utûgi Devastator for 14,913 Fire damage to Morale.
+[08/11 10:48:24 PM] Nlkosi scored a hit with Vivid Imagery on the Imhûlari Captain for 10,221 Lightning damage to Morale.
+[08/11 10:48:24 PM] Nlkosi scored a critical hit with Vivid Imagery on the Utûgi Devastator for 26,078 Lightning damage to Morale.
+[08/11 10:48:24 PM] Nlkosi applied a critical heal with Prelude to Hope to the Volcanic Rune-stone restoring 2,151 points to Morale.
+[08/11 10:48:25 PM] Nlkosi applied a critical heal with Prelude to Hope to the Volcanic Rune-stone restoring 2,153 points to Morale.
+[08/11 10:48:26 PM] Nlkosi scored a hit with Essence of Storm on the Utûgi Devastator for 14,642 Lightning damage to Morale.
+[08/11 10:48:26 PM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[08/11 10:48:27 PM] Self-motivation applied a heal to Nlkosi restoring 3,056 points to Power.
+[08/11 10:48:27 PM] Nlkosi applied a benefit with Self-motivation on Nlkosi.
+[08/11 10:48:28 PM] Nlkosi scored a hit with Ceaseless Argument on the Utûgi Devastator for 12,842 Lightning damage to Morale.
+[08/11 10:48:28 PM] The Utûgi Devastator scored a hit with a moderate swipe attack on Nlkosi for 7,875 Common damage to Morale.
+[08/11 10:48:29 PM] Nlkosi scored a hit with Sustaining Bolt on the Utûgi Devastator for 5,564 Lightning damage to Morale.
+[08/11 10:48:29 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,724 points to Power.
+[08/11 10:48:29 PM] Sustenance applied a heal to Nlkosi restoring 18,034 points to Morale.
+[08/11 10:48:30 PM] The Utûgi Devastator scored a hit with Forceful Slash on Nlkosi.
+[08/11 10:48:31 PM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[08/11 10:48:33 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/11 10:48:33 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Utûgi Devastator for 31,026 Lightning damage to Morale.
+[08/11 10:48:33 PM] The Utûgi Devastator scored a hit with a minor melee attack on Nlkosi for 6,702 Common damage to Morale.
+[08/11 10:48:34 PM] Nlkosi scored a hit with Essence of Storm on the Utûgi Devastator for 13,354 Lightning damage to Morale.
+[08/11 10:48:35 PM] The Utûgi Devastator scored a hit with a melee double attack on Nlkosi for 5,362 Common damage to Morale.
+[08/11 10:48:35 PM] The Utûgi Devastator scored a hit with a melee double attack on Nlkosi for 5,362 Common damage to Morale.
+[08/11 10:48:36 PM] Nlkosi scored a hit with Shocking Touch on the Utûgi Devastator for 5,626 Lightning damage to Morale.
+[08/11 10:48:37 PM] The Imhûlari Captain scored a hit with a mighty melee attack on Nlkosi for 19,668 Common damage to Morale.
+[08/11 10:48:38 PM] Nlkosi scored a hit with Chilling Rhetoric on the Utûgi Devastator for 7,540 Frost damage to Morale.
+[08/11 10:48:39 PM] Nlkosi scored a hit with Fiery Ridicule on the Utûgi Devastator for 6,442 Fire damage to Morale.
+[08/11 10:48:39 PM] The Utûgi Devastator scored a devastating hit with a weak melee attack on Nlkosi for 23,518 Common damage to Morale.
+[08/11 10:48:39 PM] The Imhûlari Captain scored a hit with a moderate melee attack on Nlkosi for 12,787 Common damage to Morale.
+[08/11 10:48:41 PM] The Utûgi Devastator scored a critical hit with a mighty melee attack on Nlkosi for 39,207 Common damage to Morale.
+[08/11 10:48:41 PM] Nlkosi scored a hit with Essence of Flame on the Utûgi Devastator for 19,632 Fire damage to Morale.
+[08/11 10:48:41 PM] Nlkosi scored a hit with Essence of Flame on the Imhûlari Captain for 16,982 Fire damage to Morale.
+[08/11 10:48:41 PM] Nlkosi scored a hit with Static Surge on the Imhûlari Captain for 27,187 Lightning damage to Morale.
+[08/11 10:48:41 PM] Nlkosi scored a critical hit with Static Surge on the Utûgi Devastator for 63,845 Lightning damage to Morale.
+[08/11 10:48:42 PM] The Imhûlari Captain scored a hit with a melee double attack on Nlkosi for 9,299 Common damage to Morale.
+[08/11 10:48:42 PM] Nlkosi scored a hit with Fulgurite Strike on the Imhûlari Captain for 3,967 Lightning damage to Morale.
+[08/11 10:48:42 PM] Nlkosi scored a hit with Fulgurite Strike on the Utûgi Devastator for 4,299 Lightning damage to Morale.
+[08/11 10:48:43 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 10:48:43 PM] The Utûgi Devastator scored a hit with a minor melee attack on Nlkosi for 15,232 Common damage to Morale.
+[08/11 10:48:43 PM] The Imhûlari Captain scored a devastating hit with a melee double attack on Nlkosi for 17,948 Common damage to Morale.
+[08/11 10:48:43 PM] Master of Tragedy applied a heal to Nlkosi restoring 250 points to Power.
+[08/11 10:48:43 PM] Your mighty blow defeated the Utûgi Devastator.
+[08/11 10:48:44 PM] Nlkosi scored a critical hit with Shocking Words on the Utûgi Devastator for 123,882 Lightning damage to Morale.
+[08/11 10:48:45 PM] Your mighty blow defeated the Imhûlari Captain.
+[08/11 10:48:45 PM] Nlkosi scored a hit with Static Surge on the Imhûlari Captain for 26,424 Lightning damage to Morale.

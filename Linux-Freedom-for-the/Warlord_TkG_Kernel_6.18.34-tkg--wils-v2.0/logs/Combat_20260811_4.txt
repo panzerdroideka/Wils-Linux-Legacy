@@ -1,0 +1,245 @@
+### Chat Log: Combat 08/11 02:57 PM ###
+[08/11 02:59:48 PM] The Crab Hunter scored a hit with Deep Wound on Nlkosi for 5,639 Common damage to Morale.
+[08/11 02:59:48 PM] The Great Crab scored a hit with a weak melee attack on Nlkosi for 6,826 Common damage to Morale.
+[08/11 02:59:48 PM] The Crab Hunter scored a hit with Deep Wound on Nlkosi for 11,278 Common damage to Morale.
+[08/11 02:59:48 PM] Nlkosi scored a hit with Essence of Storm on the Great Crab for 12,042 Lightning damage to Morale.
+[08/11 02:59:50 PM] The Crab Hunter tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[08/11 02:59:50 PM] Nlkosi scored a critical hit with Vivid Imagery on the Great Crab for 31,037 Lightning damage to Morale.
+[08/11 02:59:50 PM] Nlkosi scored a hit with Vivid Imagery on the Crab Hunter for 10,481 Lightning damage to Morale.
+[08/11 02:59:50 PM] Master of Tragedy applied a heal to Nlkosi restoring 235 points to Power.
+[08/11 02:59:50 PM] The Crab Hunter scored a hit with Deep Wound on Nlkosi for 5,639 Common damage to Morale.
+[08/11 02:59:52 PM] Nlkosi scored a hit with Chilling Rhetoric on the Great Crab for 8,743 Frost damage to Morale.
+[08/11 02:59:52 PM] The Crab Hunter scored a hit with Deep Wound on Nlkosi for 5,639 Common damage to Morale.
+[08/11 02:59:52 PM] Nlkosi scored a hit with Shocking Touch on the Great Crab for 7,448 Lightning damage to Morale.
+[08/11 02:59:53 PM] Your mighty blow defeated the Great Crab.
+[08/11 02:59:54 PM] Nlkosi scored a hit with Head-butt on the Great Crab for 9,911 Common damage to Morale.
+[08/11 02:59:54 PM] The Crab Hunter scored a hit with Deep Wound on Nlkosi for 5,639 Common damage to Morale.
+[08/11 02:59:55 PM] Nlkosi scored a hit with Static Surge on the Crab Hunter for 25,441 Lightning damage to Morale.
+[08/11 02:59:56 PM] The Crab Hunter scored a hit with Deep Wound on Nlkosi for 5,639 Common damage to Morale.
+[08/11 02:59:56 PM] The Crab Hunter scored a partially evaded hit with a weak melee attack on Nlkosi for 5,170 Common damage to Morale.
+[08/11 02:59:57 PM] Your mighty blow defeated the Crab Hunter.
+[08/11 02:59:57 PM] Nlkosi scored a hit with Epic Conclusion on the Crab Hunter for 51,682 Lightning damage to Morale.
+[08/11 02:59:58 PM] The Crab Hunter scored a hit with Deep Wound on Nlkosi for 5,639 Common damage to Morale.
+[08/11 03:00:22 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crab Hunter for 13,587 Fire damage to Morale.
+[08/11 03:00:22 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Great Crab for 13,587 Fire damage to Morale.
+[08/11 03:00:23 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/11 03:00:23 PM] Nlkosi scored a hit with Fulgurite Strike on the Great Crab for 3,959 Lightning damage to Morale.
+[08/11 03:00:23 PM] Nlkosi scored a hit with Fulgurite Strike on the Crab Hunter for 3,993 Lightning damage to Morale.
+[08/11 03:00:23 PM] Nlkosi scored a hit with Fulgurite Strike on the Crab Hunter for 3,861 Lightning damage to Morale.
+[08/11 03:00:23 PM] Nlkosi scored a hit with Fulgurite Strike on the Great Crab for 3,785 Lightning damage to Morale.
+[08/11 03:00:23 PM] The Great Crab scored a partially evaded hit with a moderate swipe attack on the Volcanic Rune-stone for 1,338 Common damage to Morale.
+[08/11 03:00:23 PM] The Crab Hunter scored a hit with a moderate swipe attack on the Volcanic Rune-stone for 1,714 Common damage to Morale.
+[08/11 03:00:24 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 03:00:24 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crab Hunter for 13,587 Fire damage to Morale.
+[08/11 03:00:24 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Great Crab for 13,587 Fire damage to Morale.
+[08/11 03:00:25 PM] The Great Crab tried to use Deadly Pincers on the Volcanic Rune-stone but it blocked the attempt.
+[08/11 03:00:26 PM] Nlkosi scored a hit with Fulgurite Strike on the Great Crab for 4,052 Lightning damage to Morale.
+[08/11 03:00:26 PM] Nlkosi scored a hit with Fulgurite Strike on the Crab Hunter for 3,979 Lightning damage to Morale.
+[08/11 03:00:26 PM] Nlkosi scored a hit with Fulgurite Strike on the Crab Hunter for 3,734 Lightning damage to Morale.
+[08/11 03:00:26 PM] Nlkosi scored a hit with Fulgurite Strike on the Great Crab for 3,848 Lightning damage to Morale.
+[08/11 03:00:26 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crab Hunter for 13,587 Fire damage to Morale.
+[08/11 03:00:26 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crab Hunter for 13,587 Fire damage to Morale.
+[08/11 03:00:26 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Great Crab for 13,587 Fire damage to Morale.
+[08/11 03:00:27 PM] Nlkosi scored a hit with Vivid Imagery on the Great Crab for 12,378 Lightning damage to Morale.
+[08/11 03:00:27 PM] The Crab Hunter scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,558 Common damage to Morale.
+[08/11 03:00:28 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crab Hunter for 13,587 Fire damage to Morale.
+[08/11 03:00:28 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crab Hunter for 13,587 Fire damage to Morale.
+[08/11 03:00:28 PM] The Volcanic Rune-stone defeated the Crab Hunter.
+[08/11 03:00:28 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Great Crab for 13,587 Fire damage to Morale.
+[08/11 03:00:28 PM] The Volcanic Rune-stone defeated the Great Crab.
+[08/11 03:00:29 PM] Nlkosi scored a hit with Fulgurite Strike on the Great Crab for 4,037 Lightning damage to Morale.
+[08/11 03:00:29 PM] Nlkosi scored a hit with Fulgurite Strike on the Crab Hunter for 3,736 Lightning damage to Morale.
+[08/11 03:00:30 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crab Hunter for 13,587 Fire damage to Morale.
+[08/11 03:00:32 PM] Nlkosi scored a hit with Fulgurite Strike on the Great Crab for 3,769 Lightning damage to Morale.
+[08/11 03:00:32 PM] Nlkosi scored a hit with Fulgurite Strike on the Crab Hunter for 3,800 Lightning damage to Morale.
+[08/11 03:00:32 PM] The Charged Fulgurite Rune-stone defeated the Crab Hunter.
+[08/11 03:00:32 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Great Crab for 13,587 Fire damage to Morale.
+[08/11 03:00:53 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crab Hunter for 13,587 Fire damage to Morale.
+[08/11 03:00:53 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Great Crab for 13,587 Fire damage to Morale.
+[08/11 03:00:53 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Great Crab for 13,587 Fire damage to Morale.
+[08/11 03:00:53 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/11 03:00:54 PM] The Great Crab scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,886 Common damage to Morale.
+[08/11 03:00:55 PM] The Crab Hunter tried to use a weak melee attack on the Volcanic Rune-stone but it parried the attempt.
+[08/11 03:00:55 PM] The Great Crab scored a hit with Minor Cut on the Volcanic Rune-stone for 754 Common damage to Morale.
+[08/11 03:00:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Great Crab for 13,587 Fire damage to Morale.
+[08/11 03:00:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crab Hunter for 13,587 Fire damage to Morale.
+[08/11 03:00:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Great Crab for 13,587 Fire damage to Morale.
+[08/11 03:00:55 PM] The Great Crab scored a hit with Deadly Pincers on the Volcanic Rune-stone for 2,263 Common damage to Morale.
+[08/11 03:00:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Great Crab for 3,710 Lightning damage to Morale.
+[08/11 03:00:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Great Crab for 3,885 Lightning damage to Morale.
+[08/11 03:00:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Crab Hunter for 3,946 Lightning damage to Morale.
+[08/11 03:00:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Great Crab for 3,971 Lightning damage to Morale.
+[08/11 03:00:56 PM] The Great Crab scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,509 Common damage to Morale.
+[08/11 03:00:56 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 03:00:57 PM] The Great Crab tried to use Deep Wound on the Volcanic Rune-stone but it evaded the attempt.
+[08/11 03:00:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Great Crab for 13,587 Fire damage to Morale.
+[08/11 03:00:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crab Hunter for 13,587 Fire damage to Morale.
+[08/11 03:00:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Great Crab for 13,587 Fire damage to Morale.
+[08/11 03:00:57 PM] Your mighty blow defeated the Great Crab.
+[08/11 03:00:57 PM] Nlkosi scored a hit with Epic Conclusion on the Great Crab for 55,977 Lightning damage to Morale.
+[08/11 03:00:58 PM] The Great Crab scored a hit with Minor Cut on the Volcanic Rune-stone for 754 Common damage to Morale.
+[08/11 03:00:59 PM] Nlkosi scored a hit with Fulgurite Strike on the Great Crab for 3,890 Lightning damage to Morale.
+[08/11 03:00:59 PM] Nlkosi scored a hit with Fulgurite Strike on the Crab Hunter for 3,798 Lightning damage to Morale.
+[08/11 03:00:59 PM] Nlkosi scored a hit with Fulgurite Strike on the Great Crab for 3,788 Lightning damage to Morale.
+[08/11 03:00:59 PM] Master of Tragedy applied a heal to Nlkosi restoring 235 points to Power.
+[08/11 03:00:59 PM] Your mighty blow defeated the Crab Hunter.
+[08/11 03:00:59 PM] Nlkosi scored a hit with Vivid Imagery on the Great Crab for 9,946 Lightning damage to Morale.
+[08/11 03:00:59 PM] Nlkosi scored a critical hit with Vivid Imagery on the Crab Hunter for 26,459 Lightning damage to Morale.
+[08/11 03:00:59 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Great Crab for 13,587 Fire damage to Morale.
+[08/11 03:00:59 PM] The Volcanic Rune-stone defeated the Great Crab.
+[08/11 03:01:01 PM] The Great Crab scored a hit with Minor Cut on the Volcanic Rune-stone for 754 Common damage to Morale.
+[08/11 03:01:02 PM] Nlkosi scored a hit with Ceaseless Argument on the Great Crab for 13,009 Lightning damage to Morale.
+[08/11 03:01:02 PM] Nlkosi scored a hit with Fulgurite Strike on the Great Crab for 3,815 Lightning damage to Morale.
+[08/11 03:01:03 PM] Nlkosi scored a hit with Essence of Storm on the Great Crab for 10,365 Lightning damage to Morale.
+[08/11 03:01:04 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Great Crab for 13,587 Fire damage to Morale.
+[08/11 03:01:04 PM] Nlkosi tried to use Induce Stunned on the Great Crab but it was immune to the attempt.
+[08/11 03:01:04 PM] Your mighty blow defeated the Great Crab.
+[08/11 03:01:04 PM] Nlkosi scored a critical hit with Shocking Words on the Great Crab for 88,096 Lightning damage to Morale.
+[08/11 03:01:11 PM] Master of Tragedy applied a heal to Nlkosi restoring 235 points to Power.
+[08/11 03:01:11 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Great Crab for 35,508 Lightning damage to Morale.
+[08/11 03:01:11 PM] Nlkosi scored a devastating hit with Sustaining Bolt on the Great Crab for 21,510 Lightning damage to Morale.
+[08/11 03:01:12 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 1,938 points to Power.
+[08/11 03:01:12 PM] Sustenance applied a heal to Nlkosi restoring 20,928 points to Morale.
+[08/11 03:01:13 PM] Nlkosi scored a hit with Fiery Ridicule on the Great Crab for 4,810 Fire damage to Morale.
+[08/11 03:01:13 PM] Your mighty blow defeated the Great Crab.
+[08/11 03:01:13 PM] Nlkosi scored a critical hit with Essence of Storm on the Great Crab for 62,312 Lightning damage to Morale.
+[08/11 03:01:17 PM] The Crab Hunter scored a critical hit with Minor Cut on Nlkosi for 2,819 Common damage to Morale.
+[08/11 03:01:17 PM] The Crab Hunter scored a critical hit with Deadly Pincers on Nlkosi for 12,095 Common damage to Morale.
+[08/11 03:01:18 PM] The Crab Hunter scored a hit with Deep Wound on Nlkosi for 5,639 Common damage to Morale.
+[08/11 03:01:18 PM] The Crab Hunter scored a hit with Deep Wound on Nlkosi for 11,278 Common damage to Morale.
+[08/11 03:01:19 PM] The Crab Hunter tried to use a moderate melee attack on Nlkosi but he evaded the attempt.
+[08/11 03:01:19 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Crab Hunter for 37,572 Lightning damage to Morale.
+[08/11 03:01:20 PM] The Crab Hunter scored a hit with Deep Wound on Nlkosi for 5,639 Common damage to Morale.
+[08/11 03:01:20 PM] The Crab Hunter scored a hit with Minor Cut on Nlkosi for 2,819 Common damage to Morale.
+[08/11 03:01:20 PM] The Crab Hunter scored a hit with a weak melee attack on Nlkosi for 5,639 Common damage to Morale.
+[08/11 03:01:20 PM] Your mighty blow defeated the Crab Hunter.
+[08/11 03:01:20 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Crab Hunter for 38,088 Lightning damage to Morale.
+[08/11 03:01:21 PM] The Crab Hunter scored a hit with a minor melee attack on Nlkosi for 7,049 Common damage to Morale.
+[08/11 03:01:22 PM] The Crab Hunter scored a hit with Deep Wound on Nlkosi for 5,639 Common damage to Morale.
+[08/11 03:01:22 PM] Master of Tragedy applied a heal to Nlkosi restoring 235 points to Power.
+[08/11 03:01:22 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Crab Hunter for 38,604 Lightning damage to Morale.
+[08/11 03:01:23 PM] The Crab Hunter scored a hit with Minor Cut on Nlkosi for 2,735 Common damage to Morale.
+[08/11 03:01:23 PM] The Crab Hunter scored a hit with a moderate melee attack on Nlkosi for 7,521 Common damage to Morale.
+[08/11 03:01:23 PM] Your mighty blow defeated the Crab Hunter.
+[08/11 03:01:23 PM] Nlkosi scored a critical hit with Essence of Storm on the Crab Hunter for 68,986 Lightning damage to Morale.
+[08/11 03:01:24 PM] The Crab Hunter scored a hit with Deep Wound on Nlkosi for 5,301 Common damage to Morale.
+[08/11 03:01:26 PM] The Crab Hunter scored a hit with Deep Wound on Nlkosi for 5,301 Common damage to Morale.
+[08/11 03:01:26 PM] The Crab Hunter scored a hit with Minor Cut on Nlkosi for 2,650 Common damage to Morale.
+[08/11 03:01:28 PM] The Crab Hunter scored a hit with Deep Wound on Nlkosi for 5,301 Common damage to Morale.
+[08/11 03:01:29 PM] The Crab Hunter scored a hit with Minor Cut on Nlkosi for 2,650 Common damage to Morale.
+[08/11 03:01:43 PM] The Crab Hunter tried to use Minor Cut on Nlkosi but he resisted the attempt.
+[08/11 03:01:43 PM] The Crab Hunter scored a hit with Deadly Pincers on Nlkosi for 8,458 Common damage to Morale.
+[08/11 03:01:48 PM] Nlkosi scored a hit with Essence of Storm on the Crab Hunter for 18,020 Lightning damage to Morale.
+[08/11 03:01:48 PM] Nlkosi scored a hit with Sustaining Bolt on the Crab Hunter for 5,544 Lightning damage to Morale.
+[08/11 03:01:49 PM] The Crab Hunter scored a hit with a weak melee attack on Nlkosi for 5,639 Common damage to Morale.
+[08/11 03:01:49 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,223 points to Power.
+[08/11 03:01:49 PM] Sustenance applied a heal to Nlkosi restoring 20,544 points to Morale.
+[08/11 03:01:50 PM] Nlkosi scored a hit with Fiery Ridicule on the Crab Hunter for 4,774 Fire damage to Morale.
+[08/11 03:01:51 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Crab Hunter for 16,627 Frost damage to Morale.
+[08/11 03:01:51 PM] Your mighty blow defeated the Crab Hunter.
+[08/11 03:01:51 PM] Nlkosi scored a hit with Ceaseless Argument on the Crab Hunter for 11,143 Lightning damage to Morale.
+[08/11 03:01:57 PM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[08/11 03:01:59 PM] Self-motivation applied a critical heal to Nlkosi restoring 3,454 points to Power.
+[08/11 03:01:59 PM] Nlkosi applied a critical benefit with Self-motivation on Nlkosi.
+[08/11 03:02:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crab Hunter for 13,587 Fire damage to Morale.
+[08/11 03:02:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Great Crab for 13,587 Fire damage to Morale.
+[08/11 03:02:05 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/11 03:02:06 PM] The Great Crab tried to use Deadly Pincers on the Volcanic Rune-stone but it blocked the attempt.
+[08/11 03:02:06 PM] The Crab Hunter scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,246 Common damage to Morale.
+[08/11 03:02:07 PM] Nlkosi scored a hit with Fulgurite Strike on the Crab Hunter for 3,884 Lightning damage to Morale.
+[08/11 03:02:07 PM] Nlkosi scored a hit with Fulgurite Strike on the Great Crab for 3,912 Lightning damage to Morale.
+[08/11 03:02:07 PM] Nlkosi scored a hit with Fulgurite Strike on the Great Crab for 3,773 Lightning damage to Morale.
+[08/11 03:02:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Great Crab for 13,587 Fire damage to Morale.
+[08/11 03:02:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Crab Hunter for 13,587 Fire damage to Morale.
+[08/11 03:02:07 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 03:02:08 PM] The Great Crab scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,509 Common damage to Morale.
+[08/11 03:02:08 PM] Your mighty blow defeated the Crab Hunter.
+[08/11 03:02:08 PM] Nlkosi scored a hit with Epic Conclusion on the Crab Hunter for 62,565 Lightning damage to Morale.
+[08/11 03:02:09 PM] Master of Tragedy applied a heal to Nlkosi restoring 235 points to Power.
+[08/11 03:02:09 PM] Your mighty blow defeated the Great Crab.
+[08/11 03:02:09 PM] Nlkosi scored a critical hit with Static Surge on the Great Crab for 49,822 Lightning damage to Morale.
+[08/11 03:02:10 PM] Nlkosi scored a hit with Fulgurite Strike on the Great Crab for 3,860 Lightning damage to Morale.
+[08/11 03:02:11 PM] Nlkosi tried to use Induce Stunned on the Great Crab but it was immune to the attempt.
+[08/11 03:02:11 PM] Your mighty blow defeated the Great Crab.
+[08/11 03:02:11 PM] Nlkosi scored a critical hit with Shocking Words on the Great Crab for 90,630 Lightning damage to Morale.
+[08/11 03:02:14 PM] Nlkosi scored a hit with Scribe's Spark on the Crab Hunter for 14,827 Lightning damage to Morale.
+[08/11 03:02:15 PM] Nlkosi scored a critical hit with Writ of Lightning on the Crab Hunter for 29,314 Lightning damage to Morale.
+[08/11 03:02:16 PM] Nlkosi scored a hit with Sustaining Bolt on the Crab Hunter for 6,532 Lightning damage to Morale.
+[08/11 03:02:16 PM] Nlkosi scored a hit with Fulgurite Strike on the Crab Hunter for 3,859 Lightning damage to Morale.
+[08/11 03:02:16 PM] Nlkosi scored a hit with Fulgurite Strike on the Great Crab for 3,825 Lightning damage to Morale.
+[08/11 03:02:16 PM] Nlkosi scored a hit with Fulgurite Strike on the Crab Hunter for 3,874 Lightning damage to Morale.
+[08/11 03:02:16 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,623 points to Power.
+[08/11 03:02:16 PM] Sustenance applied a heal to Nlkosi restoring 23,188 points to Morale.
+[08/11 03:02:17 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Great Crab for 11,155 Fire damage to Morale.
+[08/11 03:02:18 PM] Nlkosi scored a hit with Scribe's Spark on the Great Crab for 14,467 Lightning damage to Morale.
+[08/11 03:02:20 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Great Crab for 3,805 Fire damage to Morale.
+[08/11 03:02:20 PM] Master of Tragedy applied a heal to Nlkosi restoring 235 points to Power.
+[08/11 03:02:20 PM] Your mighty blow defeated the Great Crab.
+[08/11 03:02:21 PM] Nlkosi scored a critical hit with Essence of Storm on the Great Crab for 63,720 Lightning damage to Morale.
+[08/11 03:02:21 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/11 03:02:22 PM] You have lost 5,470 points of temporary Morale!
+[08/11 03:02:22 PM] Nlkosi scored a hit with Scribe's Spark on the Crab Hunter for 13,747 Lightning damage to Morale.
+[08/11 03:02:26 PM] The Crab Hunter scored a hit with a melee double attack on Nlkosi for 5,301 Common damage to Morale.
+[08/11 03:02:26 PM] You have lost 5,301 points of temporary Morale!
+[08/11 03:02:26 PM] Nlkosi scored a hit with Writ of Lightning on the Crab Hunter for 10,889 Lightning damage to Morale.
+[08/11 03:02:26 PM] The Crab Hunter scored a hit with a melee double attack on Nlkosi for 5,301 Common damage to Morale.
+[08/11 03:02:26 PM] You have lost 5,301 points of temporary Morale!
+[08/11 03:02:27 PM] The Crab Hunter missed trying to use Deadly Pincers on Nlkosi.
+[08/11 03:02:27 PM] Nlkosi scored a hit with Fiery Ridicule on the Crab Hunter for 6,877 Fire damage to Morale.
+[08/11 03:02:28 PM] Your mighty blow defeated the Crab Hunter.
+[08/11 03:02:28 PM] Your mighty blow defeated the Crab Hunter.
+[08/11 03:02:28 PM] You have lost 6,683 points of temporary Morale!
+[08/11 03:02:28 PM] Nlkosi scored a hit with Essence of Flame on the Crab Hunter for 24,004 Fire damage to Morale.
+[08/11 03:02:28 PM] Nlkosi scored a hit with Essence of Flame on the Crab Hunter for 19,816 Fire damage to Morale.
+[08/11 03:02:41 PM] You have lost 29,098 points of temporary Morale!
+[08/11 03:03:08 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Greater Crab for 13,587 Fire damage to Morale.
+[08/11 03:03:08 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Greater Crab for 13,587 Fire damage to Morale.
+[08/11 03:03:09 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/11 03:03:09 PM] The Greater Crab scored a partially parried hit with Armour Rend on the Volcanic Rune-stone for 1,269 Common damage to Morale.
+[08/11 03:03:09 PM] The Greater Crab tried to use Knockback on the Volcanic Rune-stone but it was immune to the attempt.
+[08/11 03:03:09 PM] The Greater Crab scored a hit with Melee Knockback on the Volcanic Rune-stone for 3,936 Common damage to Morale.
+[08/11 03:03:10 PM] Nlkosi scored a hit with Fulgurite Strike on the Greater Crab for 3,820 Lightning damage to Morale.
+[08/11 03:03:10 PM] Nlkosi scored a hit with Fulgurite Strike on the Greater Crab for 3,729 Lightning damage to Morale.
+[08/11 03:03:10 PM] The Greater Crab tried to use Knockback on the Charged Fulgurite Rune-stone but it was immune to the attempt.
+[08/11 03:03:10 PM] The Greater Crab tried to use Knockback on the Volcanic Rune-stone but it was immune to the attempt.
+[08/11 03:03:10 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/11 03:03:10 PM] The Greater Crab scored a hit with Explosive Molt on the Volcanic Rune-stone.
+[08/11 03:03:10 PM] The Greater Crab scored a hit with Explosive Molt on the Charged Fulgurite Rune-stone.
+[08/11 03:03:10 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Greater Crab for 13,587 Fire damage to Morale.
+[08/11 03:03:10 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Greater Crab for 13,587 Fire damage to Morale.
+[08/11 03:03:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Greater Crab for 13,587 Fire damage to Morale.
+[08/11 03:03:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Greater Crab for 13,587 Fire damage to Morale.
+[08/11 03:03:13 PM] The Greater Crab tried to use a moderate swipe attack on the Volcanic Rune-stone but it blocked the attempt.
+[08/11 03:03:13 PM] Nlkosi scored a hit with Vivid Imagery on the Greater Crab for 12,132 Lightning damage to Morale.
+[08/11 03:03:13 PM] The Greater Crab scored a hit with a moderate swipe attack on the Charged Fulgurite Rune-stone for 3,247 Common damage to Morale.
+[08/11 03:03:13 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Greater Crab but it was immune to the attempt.
+[08/11 03:03:13 PM] Nlkosi scored a hit with Fulgurite Strike on the Greater Crab for 3,742 Lightning damage to Morale.
+[08/11 03:03:13 PM] Nlkosi scored a hit with Fulgurite Strike on the Greater Crab for 3,791 Lightning damage to Morale.
+[08/11 03:03:14 PM] The Greater Crab tried to use a weak swipe attack on the Volcanic Rune-stone but it blocked the attempt.
+[08/11 03:03:14 PM] The Greater Crab scored a hit with a weak swipe attack on the Charged Fulgurite Rune-stone for 1,968 Common damage to Morale.
+[08/11 03:03:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Greater Crab for 13,587 Fire damage to Morale.
+[08/11 03:03:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Greater Crab for 13,587 Fire damage to Morale.
+[08/11 03:03:15 PM] The Greater Crab scored a hit with a weak swipe attack on the Volcanic Rune-stone for 3,149 Common damage to Morale.
+[08/11 03:03:15 PM] The Greater Crab scored a hit with a weak swipe attack on the Charged Fulgurite Rune-stone for 2,361 Common damage to Morale.
+[08/11 03:03:16 PM] Nlkosi scored a hit with Shocking Words on the Greater Crab for 29,201 Lightning damage to Morale.
+[08/11 03:03:16 PM] The Greater Crab scored a hit with Minor Cut on the Volcanic Rune-stone for 1,312 Common damage to Morale.
+[08/11 03:03:16 PM] The Greater Crab scored a hit with Deadly Pincers on the Volcanic Rune-stone for 3,937 Common damage to Morale.
+[08/11 03:03:16 PM] Nlkosi scored a hit with Fulgurite Strike on the Greater Crab for 3,687 Lightning damage to Morale.
+[08/11 03:03:16 PM] Nlkosi scored a hit with Fulgurite Strike on the Greater Crab for 3,924 Lightning damage to Morale.
+[08/11 03:03:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Greater Crab for 13,587 Fire damage to Morale.
+[08/11 03:03:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Greater Crab for 13,587 Fire damage to Morale.
+[08/11 03:03:18 PM] Nlkosi scored a critical hit with Distracting Flame on the Greater Crab.
+[08/11 03:03:18 PM] Your mighty blow defeated the Greater Crab.
+[08/11 03:03:18 PM] Nlkosi scored a hit with Epic Conclusion on the Greater Crab for 43,868 Lightning damage to Morale.
+[08/11 03:03:18 PM] The Greater Crab scored a hit with a moderate swipe attack on Nlkosi for 12,242 Common damage to Morale.
+[08/11 03:03:18 PM] The Greater Crab scored a hit with a moderate swipe attack on the Volcanic Rune-stone for 3,609 Common damage to Morale.
+[08/11 03:03:18 PM] The Greater Crab scored a hit with a moderate swipe attack on the Charged Fulgurite Rune-stone for 2,706 Common damage to Morale.
+[08/11 03:03:19 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Greater Crab for 13,587 Fire damage to Morale.
+[08/11 03:03:19 PM] The Greater Crab scored a hit with Minor Cut on the Volcanic Rune-stone for 1,312 Common damage to Morale.
+[08/11 03:03:19 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Greater Crab but it was immune to the attempt.
+[08/11 03:03:19 PM] Nlkosi scored a hit with Fulgurite Strike on the Greater Crab for 3,954 Lightning damage to Morale.
+[08/11 03:03:20 PM] The Greater Crab scored a hit with a minor swipe attack on Nlkosi for 11,129 Common damage to Morale.
+[08/11 03:03:20 PM] Nlkosi scored a hit with Essence of Storm on the Greater Crab for 13,454 Lightning damage to Morale.
+[08/11 03:03:22 PM] Nlkosi scored a hit with Ceaseless Argument on the Greater Crab for 9,315 Lightning damage to Morale.
+[08/11 03:03:23 PM] Your mighty blow defeated the Greater Crab.
+[08/11 03:03:23 PM] Nlkosi scored a hit with Static Surge on the Greater Crab for 27,086 Lightning damage to Morale.

@@ -1,0 +1,236 @@
+### Chat Log: Combat 08/09 03:50 PM ###
+[08/09 03:53:30 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Look-out for 12,518 Fire damage to Morale.
+[08/09 03:53:30 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Cutthroat for 12,518 Fire damage to Morale.
+[08/09 03:53:30 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Deck-hand for 12,518 Fire damage to Morale.
+[08/09 03:53:30 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/09 03:53:30 PM] The Corsair Cutthroat scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,636 Common damage to Morale.
+[08/09 03:53:31 PM] The Corsair Deck-hand scored a hit with a moderate melee attack on the Volcanic Rune-stone for 1,799 Common damage to Morale.
+[08/09 03:53:31 PM] The Corsair Look-out scored a partially blocked hit with a weak melee attack on the Volcanic Rune-stone for 660 Common damage to Morale.
+[08/09 03:53:31 PM] Nlkosi scored a hit with Fulgurite Strike on the Corsair Cutthroat for 3,755 Lightning damage to Morale.
+[08/09 03:53:31 PM] Nlkosi scored a hit with Fulgurite Strike on the Corsair Look-out for 3,741 Lightning damage to Morale.
+[08/09 03:53:31 PM] Nlkosi scored a hit with Fulgurite Strike on the Corsair Deck-hand for 3,678 Lightning damage to Morale.
+[08/09 03:53:31 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/09 03:53:32 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Cutthroat for 12,518 Fire damage to Morale.
+[08/09 03:53:32 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Look-out for 12,518 Fire damage to Morale.
+[08/09 03:53:32 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Deck-hand for 12,518 Fire damage to Morale.
+[08/09 03:53:33 PM] The Corsair Cutthroat scored a critical hit with a weak melee attack on the Volcanic Rune-stone for 1,704 Common damage to Morale.
+[08/09 03:53:33 PM] Nlkosi scored a hit with Shocking Words on the Corsair Deck-hand for 26,157 Lightning damage to Morale.
+[08/09 03:53:34 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Look-out for 12,518 Fire damage to Morale.
+[08/09 03:53:34 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Cutthroat for 12,518 Fire damage to Morale.
+[08/09 03:53:34 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Deck-hand for 12,518 Fire damage to Morale.
+[08/09 03:53:34 PM] The Volcanic Rune-stone defeated the Corsair Deck-hand.
+[08/09 03:53:34 PM] Nlkosi scored a hit with Fulgurite Strike on the Corsair Look-out for 3,626 Lightning damage to Morale.
+[08/09 03:53:34 PM] Nlkosi scored a hit with Fulgurite Strike on the Corsair Cutthroat for 3,711 Lightning damage to Morale.
+[08/09 03:53:35 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/09 03:53:35 PM] Your mighty blow defeated the Corsair Cutthroat.
+[08/09 03:53:35 PM] Nlkosi scored a critical hit with Vivid Imagery on the Corsair Cutthroat for 25,334 Lightning damage to Morale.
+[08/09 03:53:35 PM] The Corsair Look-out scored a partially parried hit with a minor melee attack on the Volcanic Rune-stone for 825 Common damage to Morale.
+[08/09 03:53:36 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Look-out for 12,518 Fire damage to Morale.
+[08/09 03:53:37 PM] Nlkosi scored a devastating hit with Essence of Storm on the Corsair Deck-hand for 62,444 Lightning damage to Morale.
+[08/09 03:53:37 PM] The Corsair Look-out tried to use a weak melee attack on the Volcanic Rune-stone but it parried the attempt.
+[08/09 03:53:37 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Corsair Look-out but she was immune to the attempt.
+[08/09 03:53:37 PM] Nlkosi scored a hit with Fulgurite Strike on the Corsair Look-out for 3,398 Lightning damage to Morale.
+[08/09 03:53:37 PM] The Charged Fulgurite Rune-stone defeated the Corsair Look-out.
+[08/09 03:53:38 PM] The Corsair Look-out scored a hit with a weak ranged attack on Nlkosi for 5,950 Common damage to Morale.
+[08/09 03:53:40 PM] Your mighty blow defeated the Corsair Deck-hand.
+[08/09 03:53:40 PM] Nlkosi scored a hit with Epic Conclusion on the Corsair Deck-hand for 48,106 Lightning damage to Morale.
+[08/09 03:53:43 PM] Nlkosi scored a critical hit with Scribe's Spark on the Corsair Cutthroat for 28,887 Lightning damage to Morale.
+[08/09 03:53:44 PM] The Corsair Cutthroat scored a critical hit with a melee triple attack on Nlkosi for 4,127 Common damage to Morale.
+[08/09 03:53:44 PM] The Corsair Cutthroat scored a hit with a melee triple attack on Nlkosi for 2,886 Common damage to Morale.
+[08/09 03:53:44 PM] The Corsair Look-out scored a hit with a weak ranged attack on Nlkosi for 5,772 Common damage to Morale.
+[08/09 03:53:44 PM] Nlkosi scored a hit with Static Surge on the Corsair Look-out for 27,268 Lightning damage to Morale.
+[08/09 03:53:44 PM] Nlkosi scored a hit with Static Surge on the Corsair Cutthroat for 25,602 Lightning damage to Morale.
+[08/09 03:53:45 PM] The Corsair Cutthroat missed trying to use a melee triple attack on Nlkosi.
+[08/09 03:53:46 PM] Nlkosi scored a critical hit with Distracting Flame on the Corsair Cutthroat.
+[08/09 03:53:47 PM] The Corsair Cutthroat scored a hit with a weak melee attack on Nlkosi for 5,772 Common damage to Morale.
+[08/09 03:53:47 PM] Your mighty blow defeated the Corsair Cutthroat.
+[08/09 03:53:47 PM] The Corsair Look-out scored a hit with a moderate melee attack on Nlkosi for 6,211 Common damage to Morale.
+[08/09 03:53:47 PM] Nlkosi scored a hit with Essence of Storm on the Corsair Cutthroat for 13,777 Lightning damage to Morale.
+[08/09 03:53:49 PM] Nlkosi scored a hit with Ceaseless Argument on the Corsair Look-out for 11,712 Lightning damage to Morale.
+[08/09 03:53:49 PM] The Corsair Look-out scored a partially evaded hit with a minor melee attack on Nlkosi for 5,225 Common damage to Morale.
+[08/09 03:53:50 PM] Nlkosi scored a hit with Chilling Rhetoric on the Corsair Look-out for 15,156 Frost damage to Morale.
+[08/09 03:53:50 PM] Your mighty blow defeated the Corsair Look-out.
+[08/09 03:53:50 PM] Nlkosi scored a hit with Head-butt on the Corsair Look-out for 9,457 Common damage to Morale.
+[08/09 03:54:49 PM] The Corsair Cutthroat scored a hit with a melee triple attack on Nlkosi for 2,975 Common damage to Morale.
+[08/09 03:54:49 PM] The Corsair Cutthroat scored a hit with a melee triple attack on Nlkosi for 2,975 Common damage to Morale.
+[08/09 03:54:50 PM] The Corsair Cutthroat scored a hit with a melee triple attack on Nlkosi for 2,975 Common damage to Morale.
+[08/09 03:54:52 PM] Nothing to dispel.
+[08/09 03:54:52 PM] Nlkosi scored a hit with Essence of Storm on the Corsair Cutthroat for 11,281 Lightning damage to Morale.
+[08/09 03:54:52 PM] The Corsair Cutthroat scored a hit with a weak melee attack on Nlkosi for 5,950 Common damage to Morale.
+[08/09 03:54:52 PM] Nlkosi scored a hit with Improved Final Word on the Corsair Cutthroat.
+[08/09 03:54:53 PM] Prelude to Hope applied a heal to Nlkosi restoring 4,717 points to Morale.
+[08/09 03:54:53 PM] Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+[08/09 03:54:53 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/09 03:54:54 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,916 points to Morale.
+[08/09 03:54:54 PM] The Corsair Cutthroat scored a hit with a moderate melee attack on Nlkosi for 8,181 Common damage to Morale.
+[08/09 03:54:54 PM] You have lost 8,181 points of temporary Morale!
+[08/09 03:54:55 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,472 points to Morale.
+[08/09 03:54:55 PM] Nlkosi scored a hit with Distracting Flame on the Corsair Cutthroat.
+[08/09 03:54:56 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,899 points to Morale.
+[08/09 03:54:56 PM] The Corsair Cutthroat scored a hit with a weak melee attack on Nlkosi for 5,950 Common damage to Morale.
+[08/09 03:54:56 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Corsair Cutthroat for 12,741 Frost damage to Morale.
+[08/09 03:54:56 PM] You have lost 5,950 points of temporary Morale!
+[08/09 03:54:57 PM] Nlkosi scored a hit with Shocking Words on the Corsair Cutthroat for 26,988 Lightning damage to Morale.
+[08/09 03:54:57 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,713 points to Morale.
+[08/09 03:54:58 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,498 points to Morale.
+[08/09 03:54:58 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/09 03:54:58 PM] Your mighty blow defeated the Corsair Cutthroat.
+[08/09 03:54:58 PM] Nlkosi scored a critical hit with Vivid Imagery on the Corsair Cutthroat for 26,565 Lightning damage to Morale.
+[08/09 03:54:59 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,396 points to Morale.
+[08/09 03:55:00 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,913 points to Morale.
+[08/09 03:55:01 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,830 points to Morale.
+[08/09 03:55:02 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,249 points to Morale.
+[08/09 03:55:03 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,710 points to Morale.
+[08/09 03:55:04 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,430 points to Morale.
+[08/09 03:55:05 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,358 points to Morale.
+[08/09 03:55:05 PM] The Corsair Deck-hand scored a hit with a weak melee attack on Nlkosi for 5,772 Common damage to Morale.
+[08/09 03:55:05 PM] You have lost 5,772 points of temporary Morale!
+[08/09 03:55:07 PM] Nlkosi scored a hit with Fiery Ridicule on the Corsair Deck-hand for 4,495 Fire damage to Morale.
+[08/09 03:55:07 PM] You have lost 7,214 points of temporary Morale!
+[08/09 03:55:07 PM] Nlkosi scored a hit with Sustaining Bolt on the Corsair Deck-hand for 5,045 Lightning damage to Morale.
+[08/09 03:55:08 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,486 points to Power.
+[08/09 03:55:08 PM] Sustenance applied a critical heal to Nlkosi restoring 24,389 points to Morale.
+[08/09 03:55:09 PM] Nlkosi scored a hit with Fiery Ridicule on the Corsair Deck-hand for 5,224 Fire damage to Morale.
+[08/09 03:55:10 PM] The Corsair Deck-hand scored a hit with a weak melee attack on Nlkosi for 5,950 Common damage to Morale.
+[08/09 03:55:10 PM] You have lost 5,950 points of temporary Morale!
+[08/09 03:55:10 PM] Nlkosi scored a hit with Essence of Flame on the Corsair Deck-hand for 14,513 Fire damage to Morale.
+[08/09 03:55:11 PM] Nlkosi scored a hit with Shocking Touch on the Corsair Deck-hand for 4,893 Lightning damage to Morale.
+[08/09 03:55:12 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/09 03:55:12 PM] Your mighty blow defeated the Corsair Deck-hand.
+[08/09 03:55:13 PM] Nlkosi scored a critical hit with Epic Conclusion on the Corsair Deck-hand for 107,043 Lightning damage to Morale.
+[08/09 03:55:13 PM] You have lost 9,769 points of temporary Morale!
+[08/09 03:55:29 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Look-out for 12,518 Fire damage to Morale.
+[08/09 03:55:29 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Look-out for 12,518 Fire damage to Morale.
+[08/09 03:55:29 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Deck-hand for 12,518 Fire damage to Morale.
+[08/09 03:55:30 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/09 03:55:30 PM] The Corsair Deck-hand tried to use a minor melee attack on the Volcanic Rune-stone but it evaded the attempt.
+[08/09 03:55:30 PM] Nlkosi scored a hit with Fulgurite Strike on the Corsair Look-out for 3,504 Lightning damage to Morale.
+[08/09 03:55:30 PM] Nlkosi scored a hit with Fulgurite Strike on the Corsair Look-out for 3,572 Lightning damage to Morale.
+[08/09 03:55:30 PM] Nlkosi scored a hit with Fulgurite Strike on the Corsair Deck-hand for 3,513 Lightning damage to Morale.
+[08/09 03:55:30 PM] The Corsair Look-out scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,024 Common damage to Morale.
+[08/09 03:55:30 PM] The Corsair Look-out scored a partially evaded hit with a weak melee attack on the Volcanic Rune-stone for 660 Common damage to Morale.
+[08/09 03:55:31 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/09 03:55:31 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Look-out for 12,518 Fire damage to Morale.
+[08/09 03:55:31 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Look-out for 12,518 Fire damage to Morale.
+[08/09 03:55:31 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Deck-hand for 12,518 Fire damage to Morale.
+[08/09 03:55:32 PM] Nlkosi scored a hit with Essence of Storm on the Corsair Deck-hand for 11,020 Lightning damage to Morale.
+[08/09 03:55:33 PM] The Corsair Deck-hand scored a partially blocked hit with a weak melee attack on the Volcanic Rune-stone for 844 Common damage to Morale.
+[08/09 03:55:33 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Look-out for 12,518 Fire damage to Morale.
+[08/09 03:55:33 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Look-out for 12,518 Fire damage to Morale.
+[08/09 03:55:33 PM] Nlkosi scored a hit with Fulgurite Strike on the Corsair Look-out for 3,525 Lightning damage to Morale.
+[08/09 03:55:33 PM] Nlkosi scored a hit with Fulgurite Strike on the Corsair Look-out for 3,433 Lightning damage to Morale.
+[08/09 03:55:33 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Deck-hand for 12,518 Fire damage to Morale.
+[08/09 03:55:33 PM] Nlkosi scored a hit with Fulgurite Strike on the Corsair Deck-hand for 3,527 Lightning damage to Morale.
+[08/09 03:55:34 PM] Your mighty blow defeated the Corsair Deck-hand.
+[08/09 03:55:34 PM] Nlkosi scored a hit with Vivid Imagery on the Corsair Look-out for 12,423 Lightning damage to Morale.
+[08/09 03:55:34 PM] Nlkosi scored a hit with Vivid Imagery on the Corsair Deck-hand for 15,541 Lightning damage to Morale.
+[08/09 03:55:34 PM] The Corsair Look-out scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,280 Common damage to Morale.
+[08/09 03:55:35 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Look-out for 12,518 Fire damage to Morale.
+[08/09 03:55:35 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Look-out for 12,518 Fire damage to Morale.
+[08/09 03:55:35 PM] The Volcanic Rune-stone defeated the Corsair Look-out.
+[08/09 03:55:36 PM] Nlkosi scored a hit with Ceaseless Argument on the Corsair Look-out for 11,864 Lightning damage to Morale.
+[08/09 03:55:36 PM] Nlkosi scored a hit with Fulgurite Strike on the Corsair Look-out for 3,633 Lightning damage to Morale.
+[08/09 03:55:36 PM] The Charged Fulgurite Rune-stone defeated the Corsair Look-out.
+[08/09 03:55:37 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/09 03:55:37 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Corsair Look-out for 34,996 Lightning damage to Morale.
+[08/09 03:55:53 PM] The Corsair Look-out scored a hit with a weak ranged attack on Nlkosi for 5,950 Common damage to Morale.
+[08/09 03:55:53 PM] The Corsair Deck-hand scored a hit with a strong melee attack on Nlkosi for 8,925 Common damage to Morale.
+[08/09 03:55:54 PM] The Corsair Deck-hand scored a hit with a weak melee attack on Nlkosi for 5,950 Common damage to Morale.
+[08/09 03:55:55 PM] The Corsair Look-out scored a hit with a moderate ranged attack on Nlkosi for 8,181 Common damage to Morale.
+[08/09 03:55:56 PM] The Corsair Deck-hand scored a critical hit with a minor melee attack on Nlkosi for 10,636 Common damage to Morale.
+[08/09 03:55:56 PM] The Corsair Deck-hand scored a hit with a weak melee attack on Nlkosi for 5,950 Common damage to Morale.
+[08/09 03:55:57 PM] The Corsair Look-out scored a partially evaded hit with a weak ranged attack on Nlkosi for 5,506 Common damage to Morale.
+[08/09 03:55:58 PM] The Corsair Deck-hand scored a partially evaded hit with a minor melee attack on Nlkosi for 6,883 Common damage to Morale.
+[08/09 03:55:58 PM] The Corsair Deck-hand scored a hit with a weak melee attack on Nlkosi for 5,950 Common damage to Morale.
+[08/09 03:55:59 PM] The Corsair Look-out scored a partially evaded hit with a moderate ranged attack on Nlkosi for 7,571 Common damage to Morale.
+[08/09 03:55:59 PM] The Corsair Deck-hand tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[08/09 03:56:00 PM] The Corsair Deck-hand scored a partially evaded hit with a strong melee attack on Nlkosi for 8,259 Common damage to Morale.
+[08/09 03:56:00 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Deck-hand for 12,518 Fire damage to Morale.
+[08/09 03:56:00 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Deck-hand for 12,518 Fire damage to Morale.
+[08/09 03:56:01 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/09 03:56:02 PM] The Corsair Deck-hand scored a hit with a melee double attack on the Volcanic Rune-stone for 1,309 Common damage to Morale.
+[08/09 03:56:02 PM] The Corsair Look-out scored a hit with a minor ranged attack on Nlkosi for 7,438 Common damage to Morale.
+[08/09 03:56:02 PM] Nothing to dispel.
+[08/09 03:56:02 PM] The Corsair Deck-hand scored a critical hit with a minor melee attack on the Volcanic Rune-stone for 2,130 Common damage to Morale.
+[08/09 03:56:02 PM] Nlkosi scored a hit with Shocking Words on the Corsair Deck-hand for 23,585 Lightning damage to Morale.
+[08/09 03:56:02 PM] Nlkosi scored a hit with Improved Final Word on the Corsair Deck-hand.
+[08/09 03:56:02 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Deck-hand for 12,518 Fire damage to Morale.
+[08/09 03:56:02 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Deck-hand for 12,518 Fire damage to Morale.
+[08/09 03:56:04 PM] The Corsair Deck-hand scored a partially evaded hit with a melee double attack on the Volcanic Rune-stone for 844 Common damage to Morale.
+[08/09 03:56:04 PM] The Corsair Deck-hand scored a hit with a melee double attack on the Volcanic Rune-stone for 1,309 Common damage to Morale.
+[08/09 03:56:04 PM] Nlkosi scored a hit with Distracting Flame on the Corsair Deck-hand.
+[08/09 03:56:04 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Deck-hand for 12,518 Fire damage to Morale.
+[08/09 03:56:04 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Deck-hand for 12,819 Fire damage to Morale.
+[08/09 03:56:05 PM] Your mighty blow defeated the Corsair Deck-hand.
+[08/09 03:56:05 PM] Nlkosi scored a hit with Ceaseless Argument on the Corsair Deck-hand for 11,874 Lightning damage to Morale.
+[08/09 03:56:06 PM] The Corsair Look-out scored a hit with Sniper Arrow on Nlkosi.
+[08/09 03:56:06 PM] The Corsair Deck-hand scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,309 Common damage to Morale.
+[08/09 03:56:06 PM] Nlkosi scored a hit with Vivid Imagery on the Corsair Deck-hand for 9,180 Lightning damage to Morale.
+[08/09 03:56:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Deck-hand for 12,518 Fire damage to Morale.
+[08/09 03:56:07 PM] The Corsair Look-out scored a hit with Deep Wound on Nlkosi for 7,438 Common damage to Morale.
+[08/09 03:56:08 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/09 03:56:08 PM] Your mighty blow defeated the Corsair Deck-hand.
+[08/09 03:56:08 PM] Nlkosi scored a critical hit with Epic Conclusion on the Corsair Deck-hand for 133,761 Lightning damage to Morale.
+[08/09 03:56:09 PM] The Corsair Look-out scored a hit with a weak ranged attack on Nlkosi for 5,950 Common damage to Morale.
+[08/09 03:56:09 PM] The Corsair Look-out scored a hit with Deep Wound on Nlkosi for 7,438 Common damage to Morale.
+[08/09 03:56:10 PM] Nlkosi scored a hit with Ceaseless Argument on the Corsair Look-out for 14,565 Lightning damage to Morale.
+[08/09 03:56:11 PM] Your mighty blow defeated the Corsair Look-out.
+[08/09 03:56:11 PM] Nlkosi scored a critical hit with Essence of Storm on the Corsair Look-out for 52,555 Lightning damage to Morale.
+[08/09 03:56:11 PM] The Corsair Look-out scored a hit with Deep Wound on Nlkosi for 7,214 Common damage to Morale.
+[08/09 03:56:13 PM] The Corsair Look-out scored a hit with Deep Wound on Nlkosi for 7,214 Common damage to Morale.
+[08/09 03:56:15 PM] The Corsair Look-out scored a hit with Deep Wound on Nlkosi for 7,214 Common damage to Morale.
+[08/09 03:56:17 PM] The Corsair Look-out scored a hit with Deep Wound on Nlkosi for 7,214 Common damage to Morale.
+[08/09 03:56:19 PM] The Corsair Look-out scored a hit with Deep Wound on Nlkosi for 7,214 Common damage to Morale.
+[08/09 03:56:20 PM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[08/09 03:56:21 PM] The Corsair Look-out scored a hit with Deep Wound on Nlkosi for 3,719 Common damage to Morale.
+[08/09 03:56:23 PM] The Corsair Look-out scored a hit with Deep Wound on Nlkosi for 3,719 Common damage to Morale.
+[08/09 03:56:25 PM] The Corsair Look-out scored a hit with Deep Wound on Nlkosi for 3,719 Common damage to Morale.
+[08/09 03:56:27 PM] The Corsair Look-out scored a hit with Deep Wound on Nlkosi for 3,719 Common damage to Morale.
+[08/09 03:56:32 PM] The Corsair Look-out scored a hit with a weak ranged attack on Nlkosi for 5,950 Common damage to Morale.
+[08/09 03:56:32 PM] The Corsair Deck-hand scored a hit with a weak melee attack on Nlkosi for 5,950 Common damage to Morale.
+[08/09 03:56:33 PM] The Corsair Cutthroat scored a hit with a melee triple attack on Nlkosi for 2,975 Common damage to Morale.
+[08/09 03:56:33 PM] The Corsair Cutthroat tried to use a melee triple attack on Nlkosi but he evaded the attempt.
+[08/09 03:56:34 PM] Nlkosi scored a hit with Essence of Storm on the Corsair Cutthroat for 10,412 Lightning damage to Morale.
+[08/09 03:56:34 PM] The Corsair Cutthroat scored a critical hit with a melee triple attack on Nlkosi for 4,254 Common damage to Morale.
+[08/09 03:56:34 PM] The Corsair Look-out scored a hit with a minor melee attack on Nlkosi for 5,821 Common damage to Morale.
+[08/09 03:56:34 PM] The Corsair Deck-hand scored a hit with a melee double attack on Nlkosi for 5,772 Common damage to Morale.
+[08/09 03:56:35 PM] The Corsair Deck-hand scored a hit with a melee double attack on Nlkosi for 5,772 Common damage to Morale.
+[08/09 03:56:35 PM] Nlkosi scored a hit with Ceaseless Argument on the Corsair Cutthroat for 11,182 Lightning damage to Morale.
+[08/09 03:56:35 PM] The Corsair Cutthroat scored a hit with a weak melee attack on Nlkosi for 5,772 Common damage to Morale.
+[08/09 03:56:36 PM] The Corsair Look-out scored a hit with a weak melee attack on Nlkosi for 4,517 Common damage to Morale.
+[08/09 03:56:37 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Deck-hand for 12,518 Fire damage to Morale.
+[08/09 03:56:37 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Look-out for 12,518 Fire damage to Morale.
+[08/09 03:56:37 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Cutthroat for 12,518 Fire damage to Morale.
+[08/09 03:56:37 PM] The Corsair Deck-hand scored a hit with a weak melee attack on Nlkosi for 5,772 Common damage to Morale.
+[08/09 03:56:37 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/09 03:56:37 PM] The Corsair Cutthroat scored a hit with a moderate melee attack on Nlkosi for 7,936 Common damage to Morale.
+[08/09 03:56:38 PM] Nlkosi scored a hit with Fulgurite Strike on the Corsair Deck-hand for 3,408 Lightning damage to Morale.
+[08/09 03:56:38 PM] Nlkosi scored a hit with Fulgurite Strike on the Corsair Cutthroat for 3,700 Lightning damage to Morale.
+[08/09 03:56:38 PM] Nlkosi scored a hit with Fulgurite Strike on the Corsair Look-out for 3,544 Lightning damage to Morale.
+[08/09 03:56:38 PM] The Corsair Look-out scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,280 Common damage to Morale.
+[08/09 03:56:38 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/09 03:56:39 PM] Master of Tragedy applied a heal to Nlkosi restoring 215 points to Power.
+[08/09 03:56:39 PM] Your mighty blow defeated the Corsair Cutthroat.
+[08/09 03:56:39 PM] Your mighty blow defeated the Corsair Look-out.
+[08/09 03:56:39 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Deck-hand for 12,518 Fire damage to Morale.
+[08/09 03:56:39 PM] Nlkosi scored a hit with Static Surge on the Corsair Deck-hand for 29,370 Lightning damage to Morale.
+[08/09 03:56:39 PM] Nlkosi scored a devastating hit with Static Surge on the Corsair Look-out for 76,756 Lightning damage to Morale.
+[08/09 03:56:39 PM] Nlkosi scored a hit with Static Surge on the Corsair Cutthroat for 25,959 Lightning damage to Morale.
+[08/09 03:56:41 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Corsair Deck-hand for 12,518 Fire damage to Morale.
+[08/09 03:56:41 PM] The Volcanic Rune-stone defeated the Corsair Deck-hand.
+[08/09 03:56:41 PM] Nlkosi scored a critical hit with Vivid Imagery on the Corsair Deck-hand for 38,282 Lightning damage to Morale.
+[08/09 03:57:15 PM] Nlkosi scored a hit with Volcanic Rune-stone on Belizâm the Bitter for 13,806 Fire damage to Morale.
+[08/09 03:57:15 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/09 03:57:15 PM] Belizâm the Bitter scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,789 Common damage to Morale.
+[08/09 03:57:16 PM] Nlkosi scored a hit with Fulgurite Strike on Belizâm the Bitter for 3,863 Lightning damage to Morale.
+[08/09 03:57:16 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/09 03:57:17 PM] Nlkosi scored a hit with Volcanic Rune-stone on Belizâm the Bitter for 13,806 Fire damage to Morale.
+[08/09 03:57:17 PM] Nlkosi scored a hit with Shocking Words on Belizâm the Bitter for 33,169 Lightning damage to Morale.
+[08/09 03:57:19 PM] Nlkosi scored a hit with Fulgurite Strike on Belizâm the Bitter for 3,832 Lightning damage to Morale.
+[08/09 03:57:19 PM] Nlkosi scored a hit with Volcanic Rune-stone on Belizâm the Bitter for 13,806 Fire damage to Morale.
+[08/09 03:57:19 PM] Nlkosi scored a hit with Essence of Storm on Belizâm the Bitter for 10,785 Lightning damage to Morale.
+[08/09 03:57:21 PM] Nlkosi scored a hit with Volcanic Rune-stone on Belizâm the Bitter for 13,806 Fire damage to Morale.
+[08/09 03:57:21 PM] Nlkosi scored a hit with Distracting Flame on Belizâm the Bitter.
+[08/09 03:57:21 PM] Master of Tragedy applied a heal to Nlkosi restoring 230 points to Power.
+[08/09 03:57:21 PM] Your mighty blow defeated Belizâm the Bitter.
+[08/09 03:57:22 PM] Nlkosi scored a critical hit with Epic Conclusion on Belizâm the Bitter for 135,605 Lightning damage to Morale.
