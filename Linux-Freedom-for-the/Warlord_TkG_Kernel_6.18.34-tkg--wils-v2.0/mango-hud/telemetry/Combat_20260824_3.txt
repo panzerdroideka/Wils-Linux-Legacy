@@ -1,0 +1,490 @@
+### Chat Log: Combat 08/24 11:47 AM ###
+[08/24 12:18:43 PM] Nlkosi applied a benefit with Track Mines on Nlkosi.
+[08/24 12:19:07 PM] Logging chat tab Combat to file Z:\home\wils\Games\WARLORDLOTRO\Spillfiler\Combat_20260824_3.txt
+[08/24 12:19:28 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,576 Fire damage to Morale.
+[08/24 12:19:28 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 12:19:29 PM] Nlkosi scored a hit with Fulgurite Strike on the Salt-land Pack-leader for 5,361 Lightning damage to Morale.
+[08/24 12:19:29 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 12:19:30 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,576 Fire damage to Morale.
+[08/24 12:19:31 PM] Nlkosi scored a hit with Sustaining Bolt on the Salt-land Pack-leader for 5,307 Lightning damage to Morale.
+[08/24 12:19:32 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,576 Fire damage to Morale.
+[08/24 12:19:32 PM] Nlkosi scored a hit with Fulgurite Strike on the Salt-land Pack-leader for 5,524 Lightning damage to Morale.
+[08/24 12:19:32 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,610 points to Power.
+[08/24 12:19:32 PM] Sustenance applied a critical heal to Nlkosi restoring 26,060 points to Morale.
+[08/24 12:19:33 PM] The Salt-land Pack-leader tried to use Dislocation on the Volcanic Rune-stone but it resisted the attempt.
+[08/24 12:19:33 PM] The Salt-land Pack-leader scored a hit with Dislocation on the Volcanic Rune-stone.
+[08/24 12:19:33 PM] Nlkosi scored a hit with Ceaseless Argument on the Salt-land Pack-leader for 10,038 Lightning damage to Morale.
+[08/24 12:19:34 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Salt-land Pack-leader for 12,187 Fire damage to Morale.
+[08/24 12:19:34 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,960 Fire damage to Morale.
+[08/24 12:19:34 PM] The Salt-land Pack-leader tried to use a weak melee attack on the Volcanic Rune-stone but it evaded the attempt.
+[08/24 12:19:35 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Salt-land Pack-leader but he was immune to the attempt.
+[08/24 12:19:35 PM] Nlkosi scored a hit with Fulgurite Strike on the Salt-land Pack-leader for 5,179 Lightning damage to Morale.
+[08/24 12:19:35 PM] Nlkosi scored a critical hit with Essence of Flame on the Salt-land Pack-leader for 32,901 Fire damage to Morale.
+[08/24 12:19:36 PM] Nlkosi scored a hit with Ceaseless Argument on the Salt-land Pack-leader for 11,082 Lightning damage to Morale.
+[08/24 12:19:36 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,960 Fire damage to Morale.
+[08/24 12:19:36 PM] Nlkosi tried to use Induce Stunned on the Salt-land Pack-leader but he was immune to the attempt.
+[08/24 12:19:37 PM] The Salt-land Pack-leader scored a partially evaded hit with a minor melee attack on the Volcanic Rune-stone for 1,485 Common damage to Morale.
+[08/24 12:19:37 PM] Nlkosi scored a hit with Shocking Words on the Salt-land Pack-leader for 33,273 Lightning damage to Morale.
+[08/24 12:19:38 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Salt-land Pack-leader for 3,498 Fire damage to Morale.
+[08/24 12:19:38 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Salt-land Pack-leader but he was immune to the attempt.
+[08/24 12:19:38 PM] Nlkosi scored a hit with Fulgurite Strike on the Salt-land Pack-leader for 5,645 Lightning damage to Morale.
+[08/24 12:19:38 PM] Nlkosi scored a devastating hit with Chilling Rhetoric on the Salt-land Pack-leader for 18,202 Frost damage to Morale.
+[08/24 12:19:38 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,960 Fire damage to Morale.
+[08/24 12:19:38 PM] The Salt-land Pack-leader scored a partially evaded hit with Crippling Bite on the Volcanic Rune-stone.
+[08/24 12:19:38 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:19:39 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Salt-land Pack-leader for 32,424 Lightning damage to Morale.
+[08/24 12:19:40 PM] Nlkosi scored a hit with Essence of Storm on the Salt-land Pack-leader for 18,089 Lightning damage to Morale.
+[08/24 12:19:41 PM] Your mighty blow defeated the Salt-land Pack-leader.
+[08/24 12:19:41 PM] Nlkosi scored a devastating hit with Epic Conclusion on the Salt-land Pack-leader for 185,920 Lightning damage to Morale.
+[08/24 12:19:47 PM] Nlkosi scored a hit with Ceaseless Argument on the Jázga Cub for 12,681 Lightning damage to Morale.
+[08/24 12:19:49 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:19:49 PM] Nlkosi scored a hit with Distracting Flame on the Jázga Cub.
+[08/24 12:19:49 PM] Nothing to dispel.
+[08/24 12:19:49 PM] Nlkosi scored a devastating hit with Writ of Lightning on the Jázga Cub for 32,469 Lightning damage to Morale.
+[08/24 12:19:49 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/24 12:19:49 PM] Nlkosi scored a hit with Improved Final Word on the Jázga Cub.
+[08/24 12:19:50 PM] You have lost 4,723 points of temporary Morale!
+[08/24 12:19:52 PM] Nlkosi scored a hit with Distracting Flame on the Jázga Cub for 3,797 Fire damage to Morale.
+[08/24 12:19:52 PM] Nlkosi scored a hit with Flurry of Words on the Jázga Cub for 1,406 Frost damage to Morale.
+[08/24 12:19:53 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/24 12:19:53 PM] You have lost 5,904 points of temporary Morale!
+[08/24 12:19:53 PM] Your mighty blow defeated the Jázga Cub.
+[08/24 12:19:53 PM] Nlkosi scored a hit with Ceaseless Argument on the Jázga Cub for 14,799 Lightning damage to Morale.
+[08/24 12:19:56 PM] Nlkosi scored a hit with Chilling Rhetoric on the Salt-land Jackal for 6,540 Frost damage to Morale.
+[08/24 12:19:59 PM] Nlkosi scored a hit with Essence of Winter on the Salt-land Jackal for 10,806 Frost damage to Morale.
+[08/24 12:19:59 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:19:59 PM] Your mighty blow defeated the Salt-land Jackal.
+[08/24 12:19:59 PM] Nlkosi scored a critical hit with Epic Conclusion on the Salt-land Jackal for 91,796 Lightning damage to Morale.
+[08/24 12:20:03 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Jázga Cub for 30,560 Lightning damage to Morale.
+[08/24 12:20:04 PM] Your mighty blow defeated the Jázga Cub.
+[08/24 12:20:04 PM] Nlkosi scored a critical hit with Scribe's Spark on the Jázga Cub for 39,212 Lightning damage to Morale.
+[08/24 12:20:06 PM] Nlkosi scored a hit with Writ of Lightning on the Callow Kalorkhûn for 12,128 Lightning damage to Morale.
+[08/24 12:20:08 PM] Nlkosi scored a hit with Essence of Flame on the Callow Kalorkhûn for 15,369 Fire damage to Morale.
+[08/24 12:20:08 PM] Your mighty blow defeated the Callow Kalorkhûn.
+[08/24 12:20:09 PM] Nlkosi scored a critical hit with Shocking Words on the Callow Kalorkhûn for 108,031 Lightning damage to Morale.
+[08/24 12:20:09 PM] You have lost 56,946 points of temporary Morale!
+[08/24 12:21:56 PM] The Ordâkhai Look-out scored a hit with a moderate thrown attack on Nlkosi for 10,669 Common damage to Morale.
+[08/24 12:22:07 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Look-out for 8,600 Lightning damage to Morale.
+[08/24 12:22:08 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Look-out for 32,781 Lightning damage to Morale.
+[08/24 12:22:08 PM] The Ordâkhai Look-out scored a hit with a weak thrown attack on Nlkosi for 7,760 Common damage to Morale.
+[08/24 12:22:09 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:22:09 PM] Nlkosi scored a critical hit with Writ of Lightning on the Ordâkhai Look-out for 25,132 Lightning damage to Morale.
+[08/24 12:22:10 PM] The Ordâkhai Look-out scored a hit with a moderate thrown attack on Nlkosi for 10,349 Common damage to Morale.
+[08/24 12:22:10 PM] Your mighty blow defeated the Ordâkhai Look-out.
+[08/24 12:22:10 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Ordâkhai Look-out for 16,318 Lightning damage to Morale.
+[08/24 12:22:11 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,402 points to Power.
+[08/24 12:22:11 PM] Sustenance applied a heal to Nlkosi restoring 20,801 points to Morale.
+[08/24 12:22:12 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Warrior for 31,435 Lightning damage to Morale.
+[08/24 12:22:13 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/24 12:22:13 PM] Nlkosi scored a critical hit with Shocking Words on the Ordâkhai Warrior for 81,416 Lightning damage to Morale.
+[08/24 12:22:44 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,576 Fire damage to Morale.
+[08/24 12:22:44 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 12:22:45 PM] The Salt-land Pack-leader scored a partially evaded hit with a minor melee attack on the Volcanic Rune-stone for 1,485 Common damage to Morale.
+[08/24 12:22:45 PM] Nlkosi scored a hit with Fulgurite Strike on the Salt-land Pack-leader for 5,175 Lightning damage to Morale.
+[08/24 12:22:46 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 12:22:46 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,576 Fire damage to Morale.
+[08/24 12:22:46 PM] The Salt-land Pack-leader tried to use a weak melee attack on the Volcanic Rune-stone but it parried the attempt.
+[08/24 12:22:47 PM] Nlkosi scored a hit with Shocking Words on the Salt-land Pack-leader for 27,438 Lightning damage to Morale.
+[08/24 12:22:47 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:22:48 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Salt-land Pack-leader for 11,868 Lightning damage to Morale.
+[08/24 12:22:48 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,576 Fire damage to Morale.
+[08/24 12:22:48 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,894 points to Power.
+[08/24 12:22:48 PM] Sustenance applied a heal to Nlkosi restoring 21,269 points to Morale.
+[08/24 12:22:49 PM] Nlkosi scored a hit with Fulgurite Strike on the Salt-land Pack-leader for 5,488 Lightning damage to Morale.
+[08/24 12:22:50 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,960 Fire damage to Morale.
+[08/24 12:22:50 PM] Nlkosi scored a hit with Distracting Flame on the Salt-land Pack-leader.
+[08/24 12:22:51 PM] Nlkosi scored a critical hit with Essence of Flame on the Salt-land Pack-leader for 27,458 Fire damage to Morale.
+[08/24 12:22:52 PM] Nlkosi scored a hit with Fulgurite Strike on the Salt-land Pack-leader for 5,266 Lightning damage to Morale.
+[08/24 12:22:52 PM] The Salt-land Pack-leader scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,865 Common damage to Morale.
+[08/24 12:22:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,960 Fire damage to Morale.
+[08/24 12:22:52 PM] Nlkosi scored a hit with Chilling Rhetoric on the Salt-land Pack-leader for 6,288 Frost damage to Morale.
+[08/24 12:22:52 PM] Nlkosi scored a hit with Ceaseless Argument on the Salt-land Pack-leader for 10,782 Lightning damage to Morale.
+[08/24 12:22:53 PM] Nlkosi scored a critical hit with Distracting Flame on the Salt-land Pack-leader for 5,283 Fire damage to Morale.
+[08/24 12:22:53 PM] Your mighty blow defeated the Salt-land Pack-leader.
+[08/24 12:22:53 PM] Nlkosi scored a critical hit with Epic Conclusion on the Salt-land Pack-leader for 178,219 Lightning damage to Morale.
+[08/24 12:23:26 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 8,727 Lightning damage to Morale.
+[08/24 12:23:27 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:23:27 PM] Nlkosi scored a critical hit with Shocking Words on the Ordâkhai Warrior for 67,090 Lightning damage to Morale.
+[08/24 12:23:29 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 12,820 Lightning damage to Morale.
+[08/24 12:23:30 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/24 12:23:30 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Warrior for 31,212 Lightning damage to Morale.
+[08/24 12:24:21 PM] The Callow Kalorkhûn scored a hit with a weak melee attack on Nlkosi for 6,506 Common damage to Morale.
+[08/24 12:24:22 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:24:23 PM] The Callow Kalorkhûn tried to use Beak Swipe on Nlkosi but he evaded the attempt.
+[08/24 12:24:23 PM] Nlkosi scored a critical hit with Shocking Touch on the Callow Kalorkhûn for 8,498 Lightning damage to Morale.
+[08/24 12:24:23 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/24 12:24:24 PM] Nlkosi scored a hit with Vivid Imagery on the Callow Kalorkhûn for 11,741 Lightning damage to Morale.
+[08/24 12:24:25 PM] Nlkosi scored a hit with Essence of Storm on the Callow Kalorkhûn for 13,248 Lightning damage to Morale.
+[08/24 12:24:26 PM] The Callow Kalorkhûn scored a hit with a weak melee attack on Nlkosi for 6,506 Common damage to Morale.
+[08/24 12:24:26 PM] You have lost 6,506 points of temporary Morale!
+[08/24 12:24:27 PM] Nlkosi scored a hit with Scribe's Spark on the Callow Kalorkhûn for 9,925 Lightning damage to Morale.
+[08/24 12:24:28 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Callow Kalorkhûn for 20,430 Lightning damage to Morale.
+[08/24 12:24:28 PM] The Callow Kalorkhûn scored a hit with Light Wound on Nlkosi for 5,317 Common damage to Morale.
+[08/24 12:24:28 PM] The Callow Kalorkhûn scored a partially evaded hit with Beak Strike on Nlkosi for 21,016 Common damage to Morale.
+[08/24 12:24:28 PM] You have lost 21,016 points of temporary Morale!
+[08/24 12:24:28 PM] You have lost 5,317 points of temporary Morale!
+[08/24 12:24:28 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,663 points to Power.
+[08/24 12:24:28 PM] Sustenance applied a critical heal to Nlkosi restoring 23,264 points to Morale.
+[08/24 12:24:29 PM] Your mighty blow defeated the Callow Kalorkhûn.
+[08/24 12:24:29 PM] Nlkosi scored a critical hit with Shocking Words on the Callow Kalorkhûn for 102,644 Lightning damage to Morale.
+[08/24 12:24:31 PM] The Callow Kalorkhûn scored a hit with Light Wound on Nlkosi for 5,317 Common damage to Morale.
+[08/24 12:24:31 PM] You have lost 5,317 points of temporary Morale!
+[08/24 12:24:31 PM] Nlkosi scored a hit with Ceaseless Argument on the Callow Kalorkhûn for 12,116 Lightning damage to Morale.
+[08/24 12:24:32 PM] Nlkosi scored a hit with Chilling Rhetoric on the Callow Kalorkhûn for 6,987 Frost damage to Morale.
+[08/24 12:24:33 PM] Nlkosi scored a hit with Writ of Lightning on the Callow Kalorkhûn for 11,364 Lightning damage to Morale.
+[08/24 12:24:33 PM] The Callow Kalorkhûn scored a hit with Serious Wound on Nlkosi for 7,084 Common damage to Morale.
+[08/24 12:24:34 PM] The Callow Kalorkhûn scored a hit with Beak Swipe on Nlkosi for 34,385 Common damage to Morale.
+[08/24 12:24:34 PM] You have lost 29,417 points of temporary Morale!
+[08/24 12:24:34 PM] The Callow Kalorkhûn scored a hit with Light Wound on Nlkosi for 5,313 Common damage to Morale.
+[08/24 12:24:34 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:24:34 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Callow Kalorkhûn for 33,419 Lightning damage to Morale.
+[08/24 12:24:35 PM] Your mighty blow defeated the Callow Kalorkhûn.
+[08/24 12:24:35 PM] Nlkosi scored a critical hit with Essence of Storm on the Callow Kalorkhûn for 64,970 Lightning damage to Morale.
+[08/24 12:24:36 PM] The Callow Kalorkhûn scored a hit with Serious Wound on Nlkosi for 6,865 Common damage to Morale.
+[08/24 12:24:37 PM] The Callow Kalorkhûn scored a hit with Light Wound on Nlkosi for 5,149 Common damage to Morale.
+[08/24 12:24:39 PM] The Callow Kalorkhûn scored a hit with Serious Wound on Nlkosi for 6,865 Common damage to Morale.
+[08/24 12:24:40 PM] The Callow Kalorkhûn scored a hit with Light Wound on Nlkosi for 5,149 Common damage to Morale.
+[08/24 12:24:43 PM] The Callow Kalorkhûn scored a hit with Serious Wound on Nlkosi for 6,865 Common damage to Morale.
+[08/24 12:24:43 PM] The Callow Kalorkhûn scored a hit with Light Wound on Nlkosi for 5,149 Common damage to Morale.
+[08/24 12:24:46 PM] The Callow Kalorkhûn scored a hit with Serious Wound on Nlkosi for 7,303 Common damage to Morale.
+[08/24 12:24:47 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Look-out for 10,017 Lightning damage to Morale.
+[08/24 12:24:49 PM] The Callow Kalorkhûn scored a hit with Serious Wound on Nlkosi for 7,303 Common damage to Morale.
+[08/24 12:24:49 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Look-out for 12,738 Lightning damage to Morale.
+[08/24 12:24:49 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:24:49 PM] The Ordâkhai Look-out scored a hit with a weak thrown attack on Nlkosi for 9,332 Common damage to Morale.
+[08/24 12:24:49 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Ordâkhai Look-out for 13,967 Lightning damage to Morale.
+[08/24 12:24:50 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,288 points to Power.
+[08/24 12:24:50 PM] Sustenance applied a heal to Nlkosi restoring 19,440 points to Morale.
+[08/24 12:24:52 PM] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Look-out for 13,206 Fire damage to Morale.
+[08/24 12:24:52 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Look-out for 12,332 Lightning damage to Morale.
+[08/24 12:24:53 PM] Your mighty blow defeated the Ordâkhai Look-out.
+[08/24 12:24:53 PM] Nlkosi scored a critical hit with Epic Conclusion on the Ordâkhai Look-out for 119,854 Lightning damage to Morale.
+[08/24 12:26:40 PM] Nlkosi scored a hit with Ceaseless Argument on the Kalorkhûn for 11,583 Lightning damage to Morale.
+[08/24 12:26:40 PM] Nothing to dispel.
+[08/24 12:26:40 PM] Nlkosi scored a hit with Writ of Lightning on the Kalorkhûn for 10,650 Lightning damage to Morale.
+[08/24 12:26:40 PM] Nlkosi scored a hit with Improved Final Word on the Kalorkhûn.
+[08/24 12:26:43 PM] The Kalorkhûn scored a hit with a minor melee attack on Nlkosi for 10,461 Common damage to Morale.
+[08/24 12:26:44 PM] Nlkosi scored a hit with Shocking Words on the Kalorkhûn for 30,485 Lightning damage to Morale.
+[08/24 12:26:45 PM] Nlkosi scored a hit with Essence of Storm on the Kalorkhûn for 11,303 Lightning damage to Morale.
+[08/24 12:26:46 PM] Nlkosi scored a hit with Fiery Ridicule on the Kalorkhûn for 6,308 Fire damage to Morale.
+[08/24 12:26:47 PM] Your mighty blow defeated the Kalorkhûn.
+[08/24 12:26:48 PM] Nlkosi scored a hit with Epic Conclusion on the Kalorkhûn for 49,571 Lightning damage to Morale.
+[08/24 12:30:08 PM] The Carrion-fed Craban scored a hit with a weak melee attack on Nlkosi for 5,645 Common damage to Morale.
+[08/24 12:30:10 PM] The Carrion-fed Craban scored a hit with a minor melee attack on Nlkosi for 7,056 Common damage to Morale.
+[08/24 12:30:10 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:30:10 PM] Nlkosi scored a devastating hit with Writ of Lightning on the Carrion-fed Craban for 24,302 Lightning damage to Morale.
+[08/24 12:30:11 PM] Your mighty blow defeated the Carrion-fed Craban.
+[08/24 12:30:11 PM] Nlkosi scored a critical hit with Epic Conclusion on the Carrion-fed Craban for 123,742 Lightning damage to Morale.
+[08/24 12:30:12 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/24 12:30:32 PM] You have lost 67,573 points of temporary Morale!
+[08/24 12:31:37 PM] The Salt-sifter scored a hit with a strong swipe attack on Nlkosi for 9,182 Acid damage to Morale.
+[08/24 12:31:39 PM] The Salt-sifter scored a hit with a minor melee attack on Nlkosi for 6,777 Common damage to Morale.
+[08/24 12:31:41 PM] The Salt-sifter scored a hit with a weak melee attack on Nlkosi for 5,421 Common damage to Morale.
+[08/24 12:31:42 PM] Nothing to dispel.
+[08/24 12:31:42 PM] Nlkosi scored a hit with Head-butt on the Salt-sifter for 13,271 Common damage to Morale.
+[08/24 12:31:43 PM] Nlkosi scored a hit with Improved Final Word on the Salt-sifter.
+[08/24 12:31:43 PM] The Salt-sifter scored a partially evaded hit with a moderate melee attack on Nlkosi for 6,880 Common damage to Morale.
+[08/24 12:31:44 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:31:44 PM] Nlkosi scored a critical hit with Shocking Touch on the Salt-sifter for 8,498 Lightning damage to Morale.
+[08/24 12:31:45 PM] Nlkosi scored a hit with Sustaining Bolt on the Salt-sifter for 5,280 Lightning damage to Morale.
+[08/24 12:31:46 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,898 points to Power.
+[08/24 12:31:46 PM] Sustenance applied a heal to Nlkosi restoring 17,572 points to Morale.
+[08/24 12:31:47 PM] Nlkosi scored a hit with Essence of Storm on the Salt-sifter for 11,401 Lightning damage to Morale.
+[08/24 12:31:48 PM] The Salt-sifter scored a hit with a moderate melee attack on Nlkosi for 7,454 Common damage to Morale.
+[08/24 12:31:48 PM] Your mighty blow defeated the Salt-sifter.
+[08/24 12:31:48 PM] Nlkosi scored a critical hit with Scribe's Spark on the Salt-sifter for 35,786 Lightning damage to Morale.
+[08/24 12:39:23 PM] The Mashâli Crypt-guardian scored a hit with Shadow Aura on Nlkosi for 510 Shadow damage to Morale.
+[08/24 12:39:24 PM] The Mashâli Crypt-guardian scored a hit with Shadow Aura on Nlkosi for 187 Shadow damage to Morale.
+[08/24 12:39:30 PM] The Mashâli Crypt-guardian scored a hit with Shadow Aura on Nlkosi for 385 Shadow damage to Morale.
+[08/24 12:39:30 PM] The Mashâli Crypt-guardian scored a hit with Shadow Aura on Nlkosi for 12 Shadow damage to Morale.
+[08/24 12:39:30 PM] The Mashâli Crypt-guardian scored a hit with Shadow Aura on Nlkosi for 42 Shadow damage to Morale.
+[08/24 12:40:26 PM] The Salt-sifter scored a hit with a moderate melee attack on Nlkosi for 7,454 Common damage to Morale.
+[08/24 12:40:30 PM] The Salt-sifter scored a critical hit with a weak melee attack on Nlkosi for 7,753 Common damage to Morale.
+[08/24 12:41:09 PM] The Relentless Soldier scored a hit with a weak melee attack on Nlkosi for 7,914 Shadow damage to Morale.
+[08/24 12:41:10 PM] Nlkosi scored a hit with Writ of Lightning on the Relentless Soldier for 8,377 Lightning damage to Morale.
+[08/24 12:41:10 PM] Nothing to dispel.
+[08/24 12:41:10 PM] Nlkosi scored a critical hit with Improved Final Word on the Relentless Soldier.
+[08/24 12:41:11 PM] The Relentless Soldier scored a hit with a minor melee attack on Nlkosi for 9,892 Shadow damage to Morale.
+[08/24 12:41:11 PM] You have lost 9,892 points of temporary Morale!
+[08/24 12:41:11 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/24 12:41:12 PM] Nlkosi scored a hit with Vivid Imagery on the Relentless Soldier for 11,429 Lightning damage to Morale.
+[08/24 12:41:14 PM] Nlkosi scored a hit with Ceaseless Argument on the Relentless Soldier for 12,492 Lightning damage to Morale.
+[08/24 12:41:14 PM] Nlkosi scored a hit with Sustaining Bolt on the Relentless Soldier for 6,679 Lightning damage to Morale.
+[08/24 12:41:15 PM] The Relentless Soldier scored a hit with a weak melee attack on Nlkosi for 7,486 Shadow damage to Morale.
+[08/24 12:41:15 PM] You have lost 7,486 points of temporary Morale!
+[08/24 12:41:15 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,005 points to Power.
+[08/24 12:41:15 PM] Sustenance applied a heal to Nlkosi restoring 21,380 points to Morale.
+[08/24 12:41:16 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:41:16 PM] Your mighty blow defeated the Relentless Soldier.
+[08/24 12:41:16 PM] Nlkosi scored a devastating hit with Essence of Storm on the Relentless Soldier for 67,196 Lightning damage to Morale.
+[08/24 12:41:19 PM] Nlkosi scored a hit with Ceaseless Argument on the Mashâli Crypt-guardian for 12,336 Lightning damage to Morale.
+[08/24 12:41:20 PM] Nlkosi scored a hit with Chilling Rhetoric on the Mashâli Crypt-guardian for 8,441 Frost damage to Morale.
+[08/24 12:41:21 PM] Nlkosi scored a critical hit with Essence of Flame on the Mashâli Crypt-guardian for 31,132 Fire damage to Morale.
+[08/24 12:41:22 PM] Your mighty blow defeated the Mashâli Crypt-guardian.
+[08/24 12:41:22 PM] Nlkosi scored a critical hit with Scribe's Spark on the Mashâli Crypt-guardian for 40,500 Lightning damage to Morale.
+[08/24 12:41:31 PM] You have lost 46,817 points of temporary Morale!
+[08/24 12:41:54 PM] Nlkosi scored a hit with Ceaseless Argument on the Forgotten Oath-breaker for 11,408 Lightning damage to Morale.
+[08/24 12:41:55 PM] Nlkosi scored a hit with Sustaining Bolt on the Forgotten Oath-breaker for 4,263 Lightning damage to Morale.
+[08/24 12:41:55 PM] The Forgotten Oath-breaker scored a hit with a weak ranged attack on Nlkosi for 9,972 Shadow damage to Morale.
+[08/24 12:41:56 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,230 points to Power.
+[08/24 12:41:56 PM] Sustenance applied a critical heal to Nlkosi restoring 23,342 points to Morale.
+[08/24 12:41:56 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:41:56 PM] Nlkosi scored a devastating hit with Scribe's Spark on the Forgotten Oath-breaker for 43,574 Lightning damage to Morale.
+[08/24 12:41:57 PM] The Forgotten Oath-breaker scored a hit with a mighty ranged attack on Nlkosi for 21,765 Shadow damage to Morale.
+[08/24 12:41:58 PM] Nlkosi scored a hit with Shocking Words on the Forgotten Oath-breaker for 42,140 Lightning damage to Morale.
+[08/24 12:41:59 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Forgotten Oath-breaker for 11,172 Fire damage to Morale.
+[08/24 12:42:00 PM] Nlkosi scored a hit with Essence of Winter on the Forgotten Oath-breaker for 12,390 Frost damage to Morale.
+[08/24 12:42:01 PM] The Forgotten Oath-breaker scored a partially evaded hit with a weak ranged attack on Nlkosi for 8,866 Shadow damage to Morale.
+[08/24 12:42:01 PM] Nlkosi scored a hit with Chilling Rhetoric on the Forgotten Oath-breaker for 8,739 Frost damage to Morale.
+[08/24 12:42:01 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Forgotten Oath-breaker for 3,296 Fire damage to Morale.
+[08/24 12:42:02 PM] Nlkosi scored a hit with Distracting Flame on the Forgotten Oath-breaker.
+[08/24 12:42:03 PM] Nlkosi scored a hit with Writ of Lightning on the Forgotten Oath-breaker for 12,743 Lightning damage to Morale.
+[08/24 12:42:04 PM] Nlkosi scored a hit with Scribe's Spark on the Forgotten Oath-breaker for 17,974 Lightning damage to Morale.
+[08/24 12:42:05 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Forgotten Oath-breaker for 4,297 Fire damage to Morale.
+[08/24 12:42:05 PM] Nlkosi scored a hit with Distracting Flame on the Forgotten Oath-breaker for 4,429 Fire damage to Morale.
+[08/24 12:42:05 PM] The Forgotten Oath-breaker scored a hit with Sniper Arrow on Nlkosi.
+[08/24 12:42:05 PM] Nlkosi scored a hit with Essence of Storm on the Forgotten Oath-breaker for 18,008 Lightning damage to Morale.
+[08/24 12:42:05 PM] The Forgotten Oath-breaker scored a hit with Deep Wound on Nlkosi for 10,976 Common damage to Morale.
+[08/24 12:42:07 PM] Nlkosi scored a hit with Essence of Flame on the Forgotten Oath-breaker for 23,876 Fire damage to Morale.
+[08/24 12:42:08 PM] The Forgotten Oath-breaker scored a hit with Deep Wound on Nlkosi for 10,976 Common damage to Morale.
+[08/24 12:42:08 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:42:08 PM] The Forgotten Oath-breaker scored a hit with Chilled on Nlkosi for 7,836 Shadow damage to Morale.
+[08/24 12:42:08 PM] Nlkosi scored a hit with Distracting Flame on the Forgotten Oath-breaker for 3,223 Fire damage to Morale.
+[08/24 12:42:08 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Forgotten Oath-breaker for 42,598 Lightning damage to Morale.
+[08/24 12:42:08 PM] The Forgotten Oath-breaker scored a hit with Chilled on Nlkosi.
+[08/24 12:42:09 PM] Nlkosi scored a hit with Scribe's Spark on the Forgotten Oath-breaker for 17,479 Lightning damage to Morale.
+[08/24 12:42:10 PM] The Forgotten Oath-breaker scored a hit with Deep Wound on Nlkosi for 10,976 Common damage to Morale.
+[08/24 12:42:10 PM] The Forgotten Oath-breaker scored a hit with a weak ranged attack on Nlkosi for 9,972 Shadow damage to Morale.
+[08/24 12:42:10 PM] Your mighty blow defeated the Forgotten Oath-breaker.
+[08/24 12:42:10 PM] Nlkosi scored a critical hit with Epic Conclusion on the Forgotten Oath-breaker for 221,723 Lightning damage to Morale.
+[08/24 12:42:12 PM] The Forgotten Oath-breaker scored a hit with Deep Wound on Nlkosi for 10,976 Common damage to Morale.
+[08/24 12:42:12 PM] The Forgotten Oath-breaker scored a hit with Chilled on Nlkosi for 7,836 Shadow damage to Morale.
+[08/24 12:42:14 PM] The Forgotten Oath-breaker scored a hit with Deep Wound on Nlkosi for 10,976 Common damage to Morale.
+[08/24 12:42:16 PM] The Forgotten Oath-breaker scored a hit with Deep Wound on Nlkosi for 10,976 Common damage to Morale.
+[08/24 12:42:16 PM] Nlkosi scored a hit with Ceaseless Argument on the Mashâli Crypt-sentinel for 14,044 Lightning damage to Morale.
+[08/24 12:42:16 PM] The Forgotten Oath-breaker scored a hit with Chilled on Nlkosi for 7,836 Shadow damage to Morale.
+[08/24 12:42:16 PM] The Mashâli Crypt-sentinel scored a hit with a weak ranged attack on Nlkosi for 8,097 Common damage to Morale.
+[08/24 12:42:16 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Mashâli Crypt-sentinel for 15,840 Lightning damage to Morale.
+[08/24 12:42:17 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,920 points to Power.
+[08/24 12:42:17 PM] Sustenance applied a heal to Nlkosi restoring 17,378 points to Morale.
+[08/24 12:42:18 PM] The Forgotten Oath-breaker scored a hit with Deep Wound on Nlkosi for 10,976 Common damage to Morale.
+[08/24 12:42:18 PM] Nlkosi scored a hit with Essence of Storm on the Mashâli Crypt-sentinel for 13,693 Lightning damage to Morale.
+[08/24 12:42:19 PM] The Mashâli Crypt-sentinel scored a hit with a moderate ranged attack on Nlkosi for 11,133 Common damage to Morale.
+[08/24 12:42:20 PM] Nlkosi scored a hit with Chilling Rhetoric on the Mashâli Crypt-sentinel for 7,104 Frost damage to Morale.
+[08/24 12:42:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Mashâli Crypt-sentinel for 19,362 Fire damage to Morale.
+[08/24 12:42:20 PM] The Forgotten Oath-breaker scored a hit with Deep Wound on Nlkosi for 10,976 Common damage to Morale.
+[08/24 12:42:20 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 12:42:20 PM] The Forgotten Oath-breaker scored a hit with Chilled on Nlkosi for 7,836 Shadow damage to Morale.
+[08/24 12:42:21 PM] Nlkosi scored a hit with Fulgurite Strike on the Mashâli Crypt-sentinel for 5,779 Lightning damage to Morale.
+[08/24 12:42:21 PM] The Charged Fulgurite Rune-stone defeated the Mashâli Crypt-sentinel.
+[08/24 12:42:21 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 12:42:22 PM] The Forgotten Oath-breaker scored a hit with Deep Wound on Nlkosi for 10,976 Common damage to Morale.
+[08/24 12:42:24 PM] The Forgotten Oath-breaker scored a hit with Deep Wound on Nlkosi for 10,976 Common damage to Morale.
+[08/24 12:42:24 PM] The Forgotten Oath-breaker scored a hit with Chilled on Nlkosi for 7,836 Shadow damage to Morale.
+[08/24 12:42:25 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:42:25 PM] Nlkosi scored a critical hit with Writ of Lightning on the Mashâli Crypt-guardian for 29,431 Lightning damage to Morale.
+[08/24 12:42:26 PM] The Forgotten Oath-breaker scored a hit with Deep Wound on Nlkosi for 10,646 Common damage to Morale.
+[08/24 12:42:27 PM] Nlkosi scored a hit with Fulgurite Strike on the Mashâli Crypt-guardian for 6,081 Lightning damage to Morale.
+[08/24 12:42:27 PM] Nlkosi scored a hit with Essence of Winter on the Mashâli Crypt-guardian for 27,761 Frost damage to Morale.
+[08/24 12:42:28 PM] Your mighty blow defeated the Mashâli Crypt-guardian.
+[08/24 12:42:28 PM] Nlkosi scored a critical hit with Scribe's Spark on the Mashâli Crypt-guardian for 45,883 Lightning damage to Morale.
+[08/24 12:42:28 PM] The Forgotten Oath-breaker scored a hit with Chilled on Nlkosi for 7,600 Shadow damage to Morale.
+[08/24 12:43:18 PM] The Mashâli Crypt-guardian scored a hit with a weak melee attack on Nlkosi for 9,758 Common damage to Morale.
+[08/24 12:43:18 PM] The Mashâli Crypt-guardian scored a hit with Shadow Aura on Nlkosi for 1,976 Shadow damage to Morale.
+[08/24 12:43:21 PM] The Mashâli Crypt-guardian scored a hit with a minor melee attack on Nlkosi for 12,198 Common damage to Morale.
+[08/24 12:43:23 PM] The Mashâli Crypt-guardian scored a hit with a melee double attack on Nlkosi for 9,758 Common damage to Morale.
+[08/24 12:43:23 PM] Nlkosi scored a hit with Ceaseless Argument on the Mashâli Crypt-guardian for 11,293 Lightning damage to Morale.
+[08/24 12:43:23 PM] The Mashâli Crypt-guardian scored a hit with a melee double attack on Nlkosi for 9,758 Common damage to Morale.
+[08/24 12:43:24 PM] The Mashâli Crypt-guardian scored a hit with Shadow Aura on Nlkosi for 4,081 Shadow damage to Morale.
+[08/24 12:43:24 PM] Nothing to dispel.
+[08/24 12:43:24 PM] Nlkosi scored a hit with Shocking Touch on the Mashâli Crypt-guardian for 5,173 Lightning damage to Morale.
+[08/24 12:43:24 PM] Nlkosi scored a hit with Improved Final Word on the Mashâli Crypt-guardian.
+[08/24 12:43:26 PM] Nlkosi scored a hit with Vivid Imagery on the Mashâli Crypt-guardian for 8,730 Lightning damage to Morale.
+[08/24 12:43:27 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:43:27 PM] Nlkosi scored a critical hit with Essence of Storm on the Mashâli Crypt-guardian for 48,468 Lightning damage to Morale.
+[08/24 12:43:28 PM] Your mighty blow defeated the Mashâli Crypt-guardian.
+[08/24 12:43:28 PM] The Mashâli Crypt-guardian scored a hit with Shadow Aura on Nlkosi for 3,652 Shadow damage to Morale.
+[08/24 12:43:28 PM] Nlkosi scored a hit with Sustaining Bolt on the Mashâli Crypt-guardian for 7,307 Lightning damage to Morale.
+[08/24 12:43:29 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,406 points to Power.
+[08/24 12:43:29 PM] Sustenance applied a heal to Nlkosi restoring 19,032 points to Morale.
+[08/24 12:43:35 PM] Nlkosi scored a hit with Writ of Lightning on the Forgotten Oath-breaker for 7,491 Lightning damage to Morale.
+[08/24 12:43:36 PM] The Forgotten Oath-breaker scored a hit with a weak ranged attack on Nlkosi for 11,426 Shadow damage to Morale.
+[08/24 12:43:36 PM] Nlkosi scored a hit with Epic Conclusion on the Forgotten Oath-breaker for 40,118 Lightning damage to Morale.
+[08/24 12:43:40 PM] Nlkosi scored a hit with Ceaseless Argument on the Forgotten Oath-breaker for 12,853 Lightning damage to Morale.
+[08/24 12:43:43 PM] Nlkosi scored a hit with Shocking Words on the Forgotten Oath-breaker for 34,480 Lightning damage to Morale.
+[08/24 12:43:44 PM] Nlkosi scored a hit with Head-butt on the Forgotten Oath-breaker for 13,469 Common damage to Morale.
+[08/24 12:43:45 PM] Nothing to dispel.
+[08/24 12:43:45 PM] Nlkosi scored a hit with Improved Final Word on the Forgotten Oath-breaker.
+[08/24 12:43:45 PM] The Forgotten Oath-breaker scored a hit with a minor melee attack on Nlkosi for 11,335 Shadow damage to Morale.
+[08/24 12:43:46 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:43:46 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Forgotten Oath-breaker for 32,566 Lightning damage to Morale.
+[08/24 12:43:48 PM] The Forgotten Oath-breaker tried to use a moderate melee attack on Nlkosi but he evaded the attempt.
+[08/24 12:43:48 PM] Nlkosi scored a hit with Chilling Rhetoric on the Forgotten Oath-breaker for 6,153 Frost damage to Morale.
+[08/24 12:43:49 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Forgotten Oath-breaker for 16,462 Lightning damage to Morale.
+[08/24 12:43:49 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,964 points to Power.
+[08/24 12:43:49 PM] Sustenance applied a heal to Nlkosi restoring 18,364 points to Morale.
+[08/24 12:43:50 PM] The Forgotten Oath-breaker scored a hit with a minor melee attack on Nlkosi for 10,995 Shadow damage to Morale.
+[08/24 12:43:51 PM] Nlkosi scored a hit with Distracting Flame on the Forgotten Oath-breaker.
+[08/24 12:43:52 PM] Nlkosi scored a hit with Essence of Storm on the Forgotten Oath-breaker for 18,565 Lightning damage to Morale.
+[08/24 12:43:53 PM] The Forgotten Oath-breaker scored a hit with a moderate melee attack on Nlkosi for 12,094 Shadow damage to Morale.
+[08/24 12:43:54 PM] Nlkosi scored a hit with Distracting Flame on the Forgotten Oath-breaker for 2,985 Fire damage to Morale.
+[08/24 12:43:54 PM] Nlkosi scored a hit with Essence of Flame on the Forgotten Oath-breaker for 18,156 Fire damage to Morale.
+[08/24 12:43:54 PM] The Forgotten Oath-breaker scored a hit with a minor melee attack on Nlkosi for 10,995 Shadow damage to Morale.
+[08/24 12:43:55 PM] Nlkosi scored a hit with Fiery Ridicule on the Forgotten Oath-breaker for 6,278 Fire damage to Morale.
+[08/24 12:43:55 PM] Nlkosi scored a hit with Static Surge on the Forgotten Oath-breaker for 33,148 Lightning damage to Morale.
+[08/24 12:43:57 PM] The Forgotten Oath-breaker scored a hit with a weak melee attack on Nlkosi for 8,796 Shadow damage to Morale.
+[08/24 12:43:57 PM] Nlkosi scored a critical hit with Distracting Flame on the Forgotten Oath-breaker for 5,827 Fire damage to Morale.
+[08/24 12:43:57 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Forgotten Oath-breaker for 3,666 Fire damage to Morale.
+[08/24 12:43:58 PM] Nlkosi scored a hit with Ceaseless Argument on the Forgotten Oath-breaker for 11,677 Lightning damage to Morale.
+[08/24 12:43:59 PM] The Forgotten Oath-breaker scored a hit with a mighty melee attack on Nlkosi for 20,402 Shadow damage to Morale.
+[08/24 12:43:59 PM] Nlkosi scored a hit with Writ of Lightning on the Forgotten Oath-breaker for 12,146 Lightning damage to Morale.
+[08/24 12:44:00 PM] Nlkosi scored a hit with Ceaseless Argument on the Forgotten Oath-breaker for 9,629 Lightning damage to Morale.
+[08/24 12:44:00 PM] Nlkosi scored a hit with Distracting Flame on the Forgotten Oath-breaker for 3,046 Fire damage to Morale.
+[08/24 12:44:00 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Forgotten Oath-breaker for 4,706 Fire damage to Morale.
+[08/24 12:44:01 PM] The Forgotten Oath-breaker scored a hit with a weak melee attack on Nlkosi for 9,068 Shadow damage to Morale.
+[08/24 12:44:01 PM] Nlkosi scored a hit with Ceaseless Argument on the Forgotten Oath-breaker for 12,960 Lightning damage to Morale.
+[08/24 12:44:02 PM] The Forgotten Oath-breaker tried to use a moderate melee attack on Nlkosi but he evaded the attempt.
+[08/24 12:44:03 PM] Your mighty blow defeated the Forgotten Oath-breaker.
+[08/24 12:44:03 PM] Nlkosi scored a hit with Ceaseless Argument on the Forgotten Oath-breaker for 13,066 Lightning damage to Morale.
+[08/24 12:44:18 PM] The Mashâli Crypt-sentinel scored a hit with Shadow Aura on Nlkosi for 236 Shadow damage to Morale.
+[08/24 12:44:18 PM] The Mashâli Crypt-sentinel scored a hit with a ranged double attack on Nlkosi for 11,289 Common damage to Morale.
+[08/24 12:44:19 PM] The Mashâli Crypt-sentinel scored a hit with a ranged double attack on Nlkosi for 11,289 Common damage to Morale.
+[08/24 12:44:21 PM] The Mashâli Crypt-sentinel scored a hit with a moderate melee attack on Nlkosi for 7,330 Common damage to Morale.
+[08/24 12:44:22 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:44:22 PM] Nlkosi scored a critical hit with Scribe's Spark on the Mashâli Crypt-sentinel for 34,276 Lightning damage to Morale.
+[08/24 12:44:24 PM] Nlkosi scored a hit with Writ of Lightning on the Mashâli Crypt-sentinel for 13,144 Lightning damage to Morale.
+[08/24 12:44:24 PM] The Mashâli Crypt-sentinel scored a hit with a weak melee attack on Nlkosi for 5,171 Common damage to Morale.
+[08/24 12:44:25 PM] Your mighty blow defeated the Mashâli Crypt-sentinel.
+[08/24 12:44:25 PM] The Mashâli Crypt-sentinel scored a hit with Shadow Aura on Nlkosi for 3,444 Shadow damage to Morale.
+[08/24 12:44:25 PM] Nlkosi scored a critical hit with Shocking Words on the Mashâli Crypt-sentinel for 86,460 Lightning damage to Morale.
+[08/24 12:44:26 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/24 12:44:34 PM] The Mashâli Crypt-sentinel scored a hit with a moderate ranged attack on Nlkosi for 10,349 Common damage to Morale.
+[08/24 12:44:34 PM] You have lost 10,349 points of temporary Morale!
+[08/24 12:44:34 PM] Nlkosi scored a hit with Ceaseless Argument on the Mashâli Crypt-sentinel for 15,609 Lightning damage to Morale.
+[08/24 12:44:35 PM] The Relentless Soldier scored a hit with a moderate melee attack on Nlkosi for 10,953 Shadow damage to Morale.
+[08/24 12:44:35 PM] You have lost 10,953 points of temporary Morale!
+[08/24 12:44:35 PM] Nlkosi scored a hit with Sustaining Bolt on the Mashâli Crypt-sentinel for 6,726 Lightning damage to Morale.
+[08/24 12:44:35 PM] You have lost 4,739 points of temporary Morale!
+[08/24 12:44:36 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,893 points to Power.
+[08/24 12:44:36 PM] Sustenance applied a heal to Nlkosi restoring 16,255 points to Morale.
+[08/24 12:44:36 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:44:37 PM] Nlkosi scored a critical hit with Scribe's Spark on the Relentless Soldier for 35,395 Lightning damage to Morale.
+[08/24 12:44:37 PM] You have lost 10,799 points of temporary Morale!
+[08/24 12:44:37 PM] The Relentless Soldier scored a hit with a strong melee attack on Nlkosi for 10,799 Common damage to Morale.
+[08/24 12:44:38 PM] Nlkosi scored a hit with Ceaseless Argument on the Relentless Soldier for 13,625 Lightning damage to Morale.
+[08/24 12:44:39 PM] Your mighty blow defeated the Relentless Soldier.
+[08/24 12:44:39 PM] The Mashâli Crypt-sentinel tried to use Shadow Aura on Nlkosi but he resisted the attempt.
+[08/24 12:44:39 PM] Nlkosi scored a critical hit with Epic Conclusion on the Relentless Soldier for 145,086 Lightning damage to Morale.
+[08/24 12:44:41 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Mashâli Crypt-sentinel for 20,229 Fire damage to Morale.
+[08/24 12:44:41 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 12:44:42 PM] Nlkosi scored a hit with Fulgurite Strike on the Mashâli Crypt-sentinel for 6,081 Lightning damage to Morale.
+[08/24 12:44:42 PM] The Mashâli Crypt-sentinel scored a hit with a moderate melee attack on the Volcanic Rune-stone for 1,004 Common damage to Morale.
+[08/24 12:44:42 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 12:44:43 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Mashâli Crypt-sentinel for 20,497 Fire damage to Morale.
+[08/24 12:44:43 PM] The Volcanic Rune-stone defeated the Mashâli Crypt-sentinel.
+[08/24 12:44:43 PM] The Mashâli Crypt-sentinel scored a hit with Shadow Aura on Nlkosi for 2,967 Shadow damage to Morale.
+[08/24 12:44:43 PM] Nlkosi scored a hit with Writ of Lightning on the Mashâli Crypt-sentinel for 13,762 Lightning damage to Morale.
+[08/24 12:44:43 PM] You have lost 2,967 points of temporary Morale!
+[08/24 12:44:45 PM] You have lost 27,766 points of temporary Morale!
+[08/24 12:45:25 PM] Nlkosi applied a benefit with Return to Gadim-ûn (An Shêru, the Height of the Sky) on Nlkosi.
+[08/24 12:46:35 PM] The Salt-land Pack-leader scored a hit with a weak melee attack on Nlkosi for 10,120 Common damage to Morale.
+[08/24 12:46:37 PM] The Salt-land Pack-leader scored a hit with a moderate melee attack on Nlkosi for 13,915 Common damage to Morale.
+[08/24 12:46:39 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,576 Fire damage to Morale.
+[08/24 12:46:39 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 12:46:39 PM] The Salt-land Pack-leader scored a hit with a minor melee attack on Nlkosi for 12,650 Common damage to Morale.
+[08/24 12:46:40 PM] Nlkosi scored a hit with Fulgurite Strike on the Salt-land Pack-leader for 5,132 Lightning damage to Morale.
+[08/24 12:46:40 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 12:46:40 PM] Nothing to dispel.
+[08/24 12:46:41 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,576 Fire damage to Morale.
+[08/24 12:46:41 PM] Nlkosi scored a hit with Improved Final Word on the Salt-land Pack-leader.
+[08/24 12:46:41 PM] The Salt-land Pack-leader scored a critical hit with a weak melee attack on the Volcanic Rune-stone for 2,427 Common damage to Morale.
+[08/24 12:46:43 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,576 Fire damage to Morale.
+[08/24 12:46:43 PM] Nlkosi scored a hit with Shocking Touch on the Salt-land Pack-leader for 4,099 Lightning damage to Morale.
+[08/24 12:46:43 PM] Nlkosi scored a hit with Fulgurite Strike on the Salt-land Pack-leader for 5,087 Lightning damage to Morale.
+[08/24 12:46:44 PM] Nlkosi scored a hit with Chilling Rhetoric on the Salt-land Pack-leader for 7,484 Frost damage to Morale.
+[08/24 12:46:44 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:46:45 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,576 Fire damage to Morale.
+[08/24 12:46:45 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Salt-land Pack-leader for 27,446 Lightning damage to Morale.
+[08/24 12:46:45 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Salt-land Pack-leader for 17,032 Lightning damage to Morale.
+[08/24 12:46:46 PM] Nlkosi scored a hit with Fulgurite Strike on the Salt-land Pack-leader for 5,444 Lightning damage to Morale.
+[08/24 12:46:46 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,949 points to Power.
+[08/24 12:46:46 PM] Sustenance applied a critical heal to Nlkosi restoring 26,251 points to Morale.
+[08/24 12:46:47 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,576 Fire damage to Morale.
+[08/24 12:46:47 PM] The Salt-land Pack-leader scored a partially blocked hit with a weak melee attack on the Volcanic Rune-stone for 1,188 Common damage to Morale.
+[08/24 12:46:47 PM] Nlkosi scored a hit with Head-butt on the Salt-land Pack-leader for 13,683 Common damage to Morale.
+[08/24 12:46:48 PM] The Salt-land Pack-leader scored a partially parried hit with a mighty melee attack on the Volcanic Rune-stone for 2,673 Common damage to Morale.
+[08/24 12:46:49 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 19,576 Fire damage to Morale.
+[08/24 12:46:49 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Salt-land Pack-leader but he was immune to the attempt.
+[08/24 12:46:49 PM] Nlkosi scored a hit with Fulgurite Strike on the Salt-land Pack-leader for 5,174 Lightning damage to Morale.
+[08/24 12:46:49 PM] Nlkosi scored a hit with Vivid Imagery on the Salt-land Pack-leader for 13,491 Lightning damage to Morale.
+[08/24 12:46:50 PM] Nothing to cure.
+[08/24 12:46:51 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/24 12:46:52 PM] Nothing to cure.
+[08/24 12:46:53 PM] Nlkosi scored a hit with Flurry of Words on the Salt-land Pack-leader for 1,605 Frost damage to Morale.
+[08/24 12:46:53 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/24 12:46:54 PM] The Salt-land Pack-leader scored a hit with a weak melee attack on Nlkosi for 10,120 Common damage to Morale.
+[08/24 12:46:54 PM] Nlkosi scored a devastating hit with Ceaseless Argument on the Salt-land Pack-leader for 38,691 Lightning damage to Morale.
+[08/24 12:46:54 PM] Nothing to cure.
+[08/24 12:46:55 PM] Nlkosi scored a hit with Essence of Storm on the Salt-land Pack-leader for 15,437 Lightning damage to Morale.
+[08/24 12:46:56 PM] Nlkosi scored a hit with Flurry of Words on the Salt-land Pack-leader for 2,270 Frost damage to Morale.
+[08/24 12:46:56 PM] The Salt-land Pack-leader scored a hit with a minor melee attack on Nlkosi for 12,650 Common damage to Morale.
+[08/24 12:46:56 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:46:56 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Salt-land Pack-leader for 33,608 Lightning damage to Morale.
+[08/24 12:46:57 PM] Your mighty blow defeated the Salt-land Pack-leader.
+[08/24 12:46:57 PM] Nlkosi scored a critical hit with Epic Conclusion on the Salt-land Pack-leader for 205,027 Lightning damage to Morale.
+[08/24 12:47:18 PM] Nlkosi scored a hit with Writ of Lightning on the Salt-land Jackal for 11,668 Lightning damage to Morale.
+[08/24 12:47:19 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:47:19 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Salt-land Jackal for 14,178 Lightning damage to Morale.
+[08/24 12:47:20 PM] The Salt-land Jackal scored a hit with a minor melee attack on Nlkosi for 9,939 Common damage to Morale.
+[08/24 12:47:20 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,348 points to Power.
+[08/24 12:47:20 PM] Sustenance applied a heal to Nlkosi restoring 15,086 points to Morale.
+[08/24 12:47:21 PM] Nlkosi scored a hit with Chilling Rhetoric on the Salt-land Jackal for 5,658 Frost damage to Morale.
+[08/24 12:47:21 PM] The Salt-land Jackal scored a hit with a moderate melee attack on Nlkosi for 10,933 Common damage to Morale.
+[08/24 12:47:22 PM] Nlkosi scored a hit with Ceaseless Argument on the Salt-land Jackal for 11,546 Lightning damage to Morale.
+[08/24 12:47:23 PM] Nlkosi scored a hit with Essence of Storm on the Salt-land Jackal for 10,778 Lightning damage to Morale.
+[08/24 12:47:23 PM] The Salt-land Jackal scored a hit with a weak melee attack on Nlkosi for 7,951 Common damage to Morale.
+[08/24 12:47:24 PM] Nlkosi scored a hit with Ceaseless Argument on the Salt-land Jackal for 8,929 Lightning damage to Morale.
+[08/24 12:47:25 PM] Your mighty blow defeated the Salt-land Jackal.
+[08/24 12:47:26 PM] Nlkosi scored a hit with Shocking Words on the Salt-land Jackal for 32,792 Lightning damage to Morale.
+[08/24 12:49:40 PM] Nlkosi scored a hit with Fiery Ridicule on the Plains Ox for 5,749 Fire damage to Morale.
+[08/24 12:49:40 PM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[08/24 12:49:42 PM] Nlkosi scored a hit with Essence of Winter on the Plains Ox for 16,577 Frost damage to Morale.
+[08/24 12:49:42 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Plains Ox for 7,011 Fire damage to Morale.
+[08/24 12:49:43 PM] Nlkosi scored a critical hit with Essence of Flame on the Plains Ox for 31,811 Fire damage to Morale.
+[08/24 12:49:44 PM] Nlkosi scored a hit with Ceaseless Argument on the Plains Ox for 14,990 Lightning damage to Morale.
+[08/24 12:49:44 PM] Your mighty blow defeated the Plains Ox.
+[08/24 12:49:45 PM] Nlkosi scored a hit with Essence of Storm on the Plains Ox for 20,632 Lightning damage to Morale.
+[08/24 12:49:59 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Plains Ox for 14,927 Fire damage to Morale.
+[08/24 12:50:01 PM] Nlkosi scored a hit with Distracting Flame on the Plains Ox.
+[08/24 12:50:01 PM] Nlkosi scored a hit with Chilling Rhetoric on the Plains Ox for 10,028 Frost damage to Morale.
+[08/24 12:50:02 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:50:02 PM] Nlkosi scored a critical hit with Scribe's Spark on the Plains Ox for 38,972 Lightning damage to Morale.
+[08/24 12:50:02 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Plains Ox for 6,015 Fire damage to Morale.
+[08/24 12:50:03 PM] Your mighty blow defeated the Plains Ox.
+[08/24 12:50:03 PM] Nlkosi scored a hit with Shocking Words on the Plains Ox for 45,652 Lightning damage to Morale.
+[08/24 12:50:11 PM] Nlkosi scored a devastating hit with Ceaseless Argument on the Plains Ox for 35,628 Lightning damage to Morale.
+[08/24 12:50:11 PM] Your mighty blow defeated the Plains Ox.
+[08/24 12:50:11 PM] Nlkosi scored a critical hit with Epic Conclusion on the Plains Ox for 108,139 Lightning damage to Morale.
+[08/24 12:52:42 PM] Nlkosi scored a hit with Chilling Rhetoric on the Goblin Raider for 7,393 Frost damage to Morale.
+[08/24 12:52:43 PM] Nlkosi scored a hit with Distracting Flame on the Goblin Raider.
+[08/24 12:52:45 PM] Nlkosi scored a devastating hit with Essence of Winter on the Goblin Raider for 27,580 Frost damage to Morale.
+[08/24 12:52:46 PM] Nlkosi scored a hit with Ceaseless Argument on the Goblin Raider for 9,539 Lightning damage to Morale.
+[08/24 12:52:46 PM] Nlkosi scored a hit with Distracting Flame on the Goblin Raider for 3,573 Fire damage to Morale.
+[08/24 12:52:47 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:52:47 PM] Your mighty blow defeated the Goblin Raider.
+[08/24 12:52:48 PM] Nlkosi scored a critical hit with Epic Conclusion on the Goblin Raider for 121,297 Lightning damage to Morale.
+[08/24 12:53:05 PM] Nlkosi scored a hit with Ceaseless Argument on the Plains Cow for 11,110 Lightning damage to Morale.
+[08/24 12:53:05 PM] Nlkosi scored a hit with Sustaining Bolt on the Plains Cow for 4,970 Lightning damage to Morale.
+[08/24 12:53:06 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,403 points to Power.
+[08/24 12:53:06 PM] Sustenance applied a heal to Nlkosi restoring 18,399 points to Morale.
+[08/24 12:53:07 PM] Nlkosi scored a hit with Ceaseless Argument on the Plains Cow for 11,072 Lightning damage to Morale.
+[08/24 12:53:08 PM] Nlkosi scored a hit with Scribe's Spark on the Plains Cow for 12,256 Lightning damage to Morale.
+[08/24 12:53:08 PM] The Plains Cow scored a hit with a moderate melee attack on Nlkosi for 8,624 Common damage to Morale.
+[08/24 12:53:09 PM] Nlkosi scored a hit with Ceaseless Argument on the Plains Cow for 10,558 Lightning damage to Morale.
+[08/24 12:53:10 PM] The Plains Cow scored a hit with a weak melee attack on Nlkosi for 6,272 Common damage to Morale.
+[08/24 12:53:10 PM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 12:53:10 PM] Your mighty blow defeated the Plains Cow.
+[08/24 12:53:10 PM] Nlkosi scored a critical hit with Essence of Storm on the Plains Cow for 54,447 Lightning damage to Morale.
+[08/24 01:06:52 PM] Wibelo defeated the Goblin Sapper.
+[08/24 01:06:56 PM] Wibelo defeated the Goblin Raider.
+[08/24 01:07:01 PM] Wibelo defeated the Goblin Watch-keep.

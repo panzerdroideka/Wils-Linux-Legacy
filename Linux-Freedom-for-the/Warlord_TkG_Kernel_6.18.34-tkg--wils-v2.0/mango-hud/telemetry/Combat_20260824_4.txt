@@ -1,0 +1,524 @@
+### Chat Log: Combat 08/24 07:51 PM ###
+[08/24 07:51:59 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,843 points to Morale.
+[08/24 07:52:00 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,682 points to Morale.
+[08/24 07:52:01 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,505 points to Morale.
+[08/24 07:52:02 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,931 points to Morale.
+[08/24 07:52:04 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,666 points to Morale.
+[08/24 07:52:05 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,653 points to Morale.
+[08/24 07:52:06 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,596 points to Morale.
+[08/24 07:52:07 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,568 points to Morale.
+[08/24 07:55:36 PM] Nlkosi applied a benefit with Track Mines on Nlkosi.
+[08/24 07:55:47 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 07:55:48 PM] Nlkosi scored a hit with Fulgurite Strike on the Grazing Oryx for 5,975 Lightning damage to Morale.
+[08/24 07:55:48 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 07:55:49 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 07:55:49 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Grazing Oryx for 29,360 Lightning damage to Morale.
+[08/24 07:55:50 PM] Your mighty blow defeated the Grazing Oryx.
+[08/24 07:55:50 PM] Nlkosi scored a critical hit with Shocking Words on the Grazing Oryx for 98,619 Lightning damage to Morale.
+[08/24 07:55:59 PM] Nothing to cure.
+[08/24 07:56:00 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/24 07:56:00 PM] Nlkosi scored a hit with Fiery Ridicule on the Buzzing Worker Bee for 5,090 Fire damage to Morale.
+[08/24 07:56:01 PM] Nothing to cure.
+[08/24 07:56:01 PM] Nlkosi scored a critical hit with Essence of Flame on the Buzzing Worker Bee for 30,605 Fire damage to Morale.
+[08/24 07:56:02 PM] Nlkosi scored a hit with Fiery Ridicule on the Buzzing Worker Bee for 6,924 Fire damage to Morale.
+[08/24 07:56:02 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Buzzing Worker Bee for 16,506 Frost damage to Morale.
+[08/24 07:56:03 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 07:56:03 PM] Your mighty blow defeated the Buzzing Worker Bee.
+[08/24 07:56:03 PM] Nothing to cure.
+[08/24 07:56:03 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Buzzing Worker Bee for 38,169 Lightning damage to Morale.
+[08/24 07:56:14 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/24 07:56:18 PM] Nlkosi scored a hit with Ceaseless Argument on the Wild Serval for 11,929 Lightning damage to Morale.
+[08/24 07:56:19 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 07:56:19 PM] Your mighty blow defeated the Wild Serval.
+[08/24 07:56:19 PM] Nlkosi scored a critical hit with Epic Conclusion on the Wild Serval for 114,524 Lightning damage to Morale.
+[08/24 07:56:30 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 07:56:30 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Buzzing Worker Bee for 35,940 Lightning damage to Morale.
+[08/24 07:56:31 PM] Nlkosi scored a hit with Sustaining Bolt on the Buzzing Worker Bee for 6,670 Lightning damage to Morale.
+[08/24 07:56:31 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,911 points to Power.
+[08/24 07:56:31 PM] Sustenance applied a heal to Nlkosi restoring 15,352 points to Morale.
+[08/24 07:56:32 PM] Your mighty blow defeated the Buzzing Worker Bee.
+[08/24 07:56:32 PM] Nlkosi scored a critical hit with Essence of Storm on the Buzzing Worker Bee for 61,406 Lightning damage to Morale.
+[08/24 07:56:35 PM] Nlkosi scored a hit with Scribe's Spark on the Stinging Corpse-fly Swarm for 17,290 Lightning damage to Morale.
+[08/24 07:56:36 PM] Nlkosi tried to use Induce Stunned on the Stinging Corpse-fly Swarm but it was immune to the attempt.
+[08/24 07:56:36 PM] Your mighty blow defeated the Stinging Corpse-fly Swarm.
+[08/24 07:56:37 PM] Nlkosi scored a devastating hit with Shocking Words on the Stinging Corpse-fly Swarm for 123,498 Lightning damage to Morale.
+[08/24 07:56:42 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Corpse-fly Swarm for 13,385 Lightning damage to Morale.
+[08/24 07:56:43 PM] Nlkosi scored a hit with Writ of Lightning on the Stinging Corpse-fly Swarm for 12,729 Lightning damage to Morale.
+[08/24 07:56:44 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Stinging Corpse-fly Swarm for 13,332 Fire damage to Morale.
+[08/24 07:56:46 PM] Nlkosi scored a hit with Essence of Winter on the Stinging Corpse-fly Swarm for 12,724 Frost damage to Morale.
+[08/24 07:56:46 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 07:56:46 PM] Your mighty blow defeated the Stinging Corpse-fly Swarm.
+[08/24 07:56:46 PM] Nlkosi scored a critical hit with Epic Conclusion on the Stinging Corpse-fly Swarm for 185,205 Lightning damage to Morale.
+[08/24 07:57:04 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 07:57:04 PM] Nlkosi scored a critical hit with Essence of Storm on the Buzzing Worker Bee for 50,312 Lightning damage to Morale.
+[08/24 07:57:05 PM] Nlkosi scored a hit with Chilling Rhetoric on the Buzzing Worker Bee for 6,714 Frost damage to Morale.
+[08/24 07:57:06 PM] Your mighty blow defeated the Buzzing Worker Bee.
+[08/24 07:57:06 PM] Nlkosi scored a critical hit with Epic Conclusion on the Buzzing Worker Bee for 129,931 Lightning damage to Morale.
+[08/24 07:57:08 PM] Nothing to dispel.
+[08/24 07:57:08 PM] Nlkosi scored a critical hit with Scribe's Spark on the Grazing Oryx for 40,015 Lightning damage to Morale.
+[08/24 07:57:08 PM] Nlkosi scored a devastating hit with Improved Final Word on the Grazing Oryx.
+[08/24 07:57:10 PM] Nlkosi scored a hit with Distracting Flame on the Grazing Oryx.
+[08/24 07:57:11 PM] Nlkosi scored a hit with Essence of Flame on the Grazing Oryx for 21,786 Fire damage to Morale.
+[08/24 07:57:11 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Grazing Oryx for 22,946 Lightning damage to Morale.
+[08/24 07:57:12 PM] The Grazing Oryx tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[08/24 07:57:13 PM] Nlkosi scored a hit with Distracting Flame on the Grazing Oryx for 3,870 Fire damage to Morale.
+[08/24 07:57:13 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,223 points to Power.
+[08/24 07:57:13 PM] Sustenance applied a heal to Nlkosi restoring 18,833 points to Morale.
+[08/24 07:57:13 PM] Your mighty blow defeated the Grazing Oryx.
+[08/24 07:57:14 PM] Nlkosi scored a critical hit with Shocking Words on the Grazing Oryx for 107,465 Lightning damage to Morale.
+[08/24 07:57:20 PM] Nlkosi scored a hit with Writ of Lightning on the Buzzing Worker Bee for 10,905 Lightning damage to Morale.
+[08/24 07:57:21 PM] Nlkosi scored a hit with Ceaseless Argument on the Buzzing Worker Bee for 12,386 Lightning damage to Morale.
+[08/24 07:57:22 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Buzzing Worker Bee for 13,722 Fire damage to Morale.
+[08/24 07:57:22 PM] Nothing to cure.
+[08/24 07:57:23 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/24 07:57:24 PM] Nothing to cure.
+[08/24 07:57:24 PM] The Buzzing Worker Bee scored a hit with a minor melee attack on Nlkosi for 7,671 Common damage to Morale.
+[08/24 07:57:24 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Buzzing Worker Bee for 8,027 Fire damage to Morale.
+[08/24 07:57:25 PM] Nlkosi scored a hit with Ceaseless Argument on the Buzzing Worker Bee for 13,200 Lightning damage to Morale.
+[08/24 07:57:26 PM] Nlkosi scored a hit with Essence of Storm on the Buzzing Worker Bee for 19,282 Lightning damage to Morale.
+[08/24 07:57:26 PM] Nothing to cure.
+[08/24 07:57:26 PM] The Buzzing Worker Bee scored a hit with a moderate melee attack on Nlkosi for 7,932 Common damage to Morale.
+[08/24 07:57:26 PM] Your mighty blow defeated the Buzzing Worker Bee.
+[08/24 07:57:27 PM] Nlkosi scored a hit with Fiery Ridicule on the Buzzing Worker Bee for 7,870 Fire damage to Morale.
+[08/24 07:57:48 PM] Nlkosi scored a hit with Ceaseless Argument on the Stinging Corpse-fly Swarm for 12,168 Lightning damage to Morale.
+[08/24 07:57:48 PM] Nlkosi scored a hit with Sustaining Bolt on the Stinging Corpse-fly Swarm for 6,414 Lightning damage to Morale.
+[08/24 07:57:49 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,026 points to Power.
+[08/24 07:57:49 PM] Sustenance applied a heal to Nlkosi restoring 17,196 points to Morale.
+[08/24 07:57:51 PM] Nlkosi scored a hit with Distracting Flame on the Stinging Corpse-fly Swarm.
+[08/24 07:57:52 PM] Nlkosi scored a critical hit with Essence of Flame on the Stinging Corpse-fly Swarm for 31,253 Fire damage to Morale.
+[08/24 07:57:52 PM] Nlkosi tried to use Induce Stunned on the Stinging Corpse-fly Swarm but it was immune to the attempt.
+[08/24 07:57:52 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 07:57:52 PM] Your mighty blow defeated the Stinging Corpse-fly Swarm.
+[08/24 07:57:53 PM] Nlkosi scored a critical hit with Shocking Words on the Stinging Corpse-fly Swarm for 98,854 Lightning damage to Morale.
+[08/24 07:58:05 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 07:58:06 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Territorial Raptor for 29,098 Lightning damage to Morale.
+[08/24 07:58:07 PM] Nlkosi scored a hit with Writ of Lightning on the Territorial Raptor for 11,885 Lightning damage to Morale.
+[08/24 07:58:07 PM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[08/24 07:58:09 PM] Your mighty blow defeated the Territorial Raptor.
+[08/24 07:58:09 PM] Nlkosi scored a devastating hit with Essence of Winter on the Territorial Raptor for 51,324 Frost damage to Morale.
+[08/24 07:58:11 PM] Nlkosi scored a hit with Scribe's Spark on the Grazing Oryx for 14,998 Lightning damage to Morale.
+[08/24 07:58:12 PM] Nothing to dispel.
+[08/24 07:58:12 PM] Nlkosi scored a hit with Improved Final Word on the Grazing Oryx.
+[08/24 07:58:14 PM] Nlkosi scored a hit with Flurry of Words on the Grazing Oryx for 2,769 Frost damage to Morale.
+[08/24 07:58:15 PM] The Grazing Oryx tried to use Melee Knockdown on Nlkosi but he evaded the attempt.
+[08/24 07:58:15 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/24 07:58:15 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Grazing Oryx for 34,733 Lightning damage to Morale.
+[08/24 07:58:16 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 07:58:16 PM] Your mighty blow defeated the Grazing Oryx.
+[08/24 07:58:16 PM] Nlkosi scored a critical hit with Concession and Rebuttal: Sustaining Bolt on the Grazing Oryx for 50,619 Lightning damage to Morale.
+[08/24 07:58:17 PM] Powerful Sustenance applied a heal to Nlkosi restoring 40,495 points to Morale.
+[08/24 07:58:17 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,239 points to Power.
+[08/24 07:58:21 PM] Nlkosi scored a devastating hit with Scribe's Spark on the Buzzing Worker Bee for 42,235 Lightning damage to Morale.
+[08/24 07:58:22 PM] Your mighty blow defeated the Buzzing Worker Bee.
+[08/24 07:58:22 PM] Nlkosi scored a critical hit with Epic Conclusion on the Buzzing Worker Bee for 204,296 Lightning damage to Morale.
+[08/24 07:58:46 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 07:58:48 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Butcher for 6,388 Lightning damage to Morale.
+[08/24 07:58:48 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 07:58:50 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 21,978 Fire damage to Morale.
+[08/24 07:58:51 PM] The Tarsâri Butcher tried to use a minor melee attack on the Charged Fulgurite Rune-stone but it evaded the attempt.
+[08/24 07:58:51 PM] Nlkosi scored a hit with Fulgurite Strike on the Tarsâri Butcher for 6,383 Lightning damage to Morale.
+[08/24 07:58:51 PM] Nlkosi scored a hit with Essence of Winter on the Tarsâri Butcher for 12,362 Frost damage to Morale.
+[08/24 07:58:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Tarsâri Butcher for 21,978 Fire damage to Morale.
+[08/24 07:58:52 PM] The Volcanic Rune-stone defeated the Tarsâri Butcher.
+[08/24 07:58:52 PM] Nlkosi scored a hit with Essence of Storm on the Tarsâri Butcher for 12,018 Lightning damage to Morale.
+[08/24 07:58:57 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 07:58:58 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Kighân Tough for 31,071 Lightning damage to Morale.
+[08/24 07:58:58 PM] Your mighty blow defeated the Kighân Tough.
+[08/24 07:58:58 PM] Nlkosi scored a hit with Epic Conclusion on the Kighân Tough for 43,543 Lightning damage to Morale.
+[08/24 07:59:01 PM] Nlkosi scored a devastating hit with Writ of Lightning on the Kighân Marksman for 26,061 Lightning damage to Morale.
+[08/24 07:59:03 PM] The Kighân Marksman scored a hit with a weak ranged attack on Nlkosi for 5,603 Common damage to Morale.
+[08/24 07:59:04 PM] The Kighân Marksman scored a hit with a minor ranged attack on Nlkosi for 7,004 Common damage to Morale.
+[08/24 07:59:04 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/24 07:59:05 PM] Nlkosi scored a hit with Shocking Words on the Kighân Marksman for 33,755 Lightning damage to Morale.
+[08/24 07:59:07 PM] Your mighty blow defeated the Kighân Marksman.
+[08/24 07:59:07 PM] Nlkosi scored a critical hit with Essence of Flame on the Kighân Marksman for 26,920 Fire damage to Morale.
+[08/24 07:59:31 PM] Nlkosi scored a hit with Sustaining Bolt on the Stinging Corpse-fly Swarm for 4,340 Lightning damage to Morale.
+[08/24 07:59:32 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,187 points to Power.
+[08/24 07:59:32 PM] Sustenance applied a heal to Nlkosi restoring 17,397 points to Morale.
+[08/24 07:59:33 PM] Nlkosi scored a hit with Distracting Flame on the Stinging Corpse-fly Swarm.
+[08/24 07:59:34 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Stinging Corpse-fly Swarm for 15,018 Frost damage to Morale.
+[08/24 07:59:34 PM] Nlkosi tried to use Induce Stunned on the Stinging Corpse-fly Swarm but it was immune to the attempt.
+[08/24 07:59:35 PM] Nlkosi scored a hit with Shocking Words on the Stinging Corpse-fly Swarm for 32,314 Lightning damage to Morale.
+[08/24 07:59:35 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 07:59:35 PM] Your mighty blow defeated the Stinging Corpse-fly Swarm.
+[08/24 07:59:36 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Stinging Corpse-fly Swarm for 31,753 Lightning damage to Morale.
+[08/24 07:59:46 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 07:59:46 PM] Nlkosi scored a critical hit with Scribe's Spark on the Wild Serval for 37,833 Lightning damage to Morale.
+[08/24 07:59:50 PM] The Wild Serval scored a hit with a weak melee attack on Nlkosi for 6,585 Common damage to Morale.
+[08/24 07:59:51 PM] Nlkosi scored a hit with Writ of Lightning on the Wild Serval for 13,375 Lightning damage to Morale.
+[08/24 07:59:51 PM] Nlkosi scored a hit with Essence of Storm on the Wild Serval for 15,698 Lightning damage to Morale.
+[08/24 07:59:52 PM] The Wild Serval scored a hit with Minor Dislocation on Nlkosi.
+[08/24 07:59:52 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/24 07:59:52 PM] Your mighty blow defeated the Wild Serval.
+[08/24 07:59:53 PM] Nlkosi scored a critical hit with Shocking Touch on the Wild Serval for 12,651 Lightning damage to Morale.
+[08/24 08:00:12 PM] You have lost 67,573 points of temporary Morale!
+[08/24 08:02:52 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/24 08:03:12 PM] You have lost 67,573 points of temporary Morale!
+[08/24 08:18:36 PM] Nlkosi scored a hit with Distracting Flame on the Zizanu Burrower.
+[08/24 08:18:38 PM] Nlkosi scored a hit with Essence of Winter on the Zizanu Burrower for 8,958 Frost damage to Morale.
+[08/24 08:18:38 PM] Nlkosi scored a hit with Essence of Winter on the Biting Zizanu for 9,023 Frost damage to Morale.
+[08/24 08:18:38 PM] Nlkosi scored a hit with Sustaining Bolt on the Zizanu Burrower for 3,597 Lightning damage to Morale.
+[08/24 08:18:39 PM] Nlkosi scored a hit with Distracting Flame on the Zizanu Burrower for 2,205 Fire damage to Morale.
+[08/24 08:18:39 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,915 points to Power.
+[08/24 08:18:39 PM] Sustenance applied a heal to Nlkosi restoring 17,476 points to Morale.
+[08/24 08:18:40 PM] The Zizanu Burrower scored a hit with a weak swipe attack on Nlkosi for 4,716 Common damage to Morale.
+[08/24 08:18:40 PM] Nlkosi scored a hit with Essence of Storm on the Zizanu Burrower for 9,239 Lightning damage to Morale.
+[08/24 08:18:40 PM] The Biting Zizanu missed trying to use a weak melee attack on Nlkosi.
+[08/24 08:18:41 PM] Nlkosi scored a hit with Shocking Words on the Zizanu Burrower for 24,942 Lightning damage to Morale.
+[08/24 08:18:42 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 08:18:42 PM] Your mighty blow defeated the Zizanu Burrower.
+[08/24 08:18:42 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/24 08:18:42 PM] Nlkosi scored a critical hit with Static Surge on the Biting Zizanu for 36,363 Lightning damage to Morale.
+[08/24 08:18:42 PM] Nlkosi scored a hit with Static Surge on the Zizanu Burrower for 16,079 Lightning damage to Morale.
+[08/24 08:18:42 PM] You have lost 5,895 points of temporary Morale!
+[08/24 08:18:44 PM] Nlkosi scored a hit with Vivid Imagery on the Biting Zizanu for 8,537 Lightning damage to Morale.
+[08/24 08:18:46 PM] Nlkosi scored a hit with Scribe's Spark on the Biting Zizanu for 7,507 Lightning damage to Morale.
+[08/24 08:18:47 PM] The Biting Zizanu scored a hit with Lesser Crippling Poison on Nlkosi.
+[08/24 08:18:48 PM] Your mighty blow defeated the Biting Zizanu.
+[08/24 08:18:48 PM] Nlkosi scored a hit with Chilling Rhetoric on the Biting Zizanu for 4,782 Frost damage to Morale.
+[08/24 08:18:56 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Biting Zizanu for 13,859 Fire damage to Morale.
+[08/24 08:18:56 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Zizanu Burrower for 13,859 Fire damage to Morale.
+[08/24 08:18:56 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 08:18:57 PM] Nlkosi scored a hit with Fulgurite Strike on the Biting Zizanu for 3,655 Lightning damage to Morale.
+[08/24 08:18:57 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Burrower for 3,793 Lightning damage to Morale.
+[08/24 08:18:58 PM] The Biting Zizanu scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,054 Common damage to Morale.
+[08/24 08:18:58 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 08:18:58 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Biting Zizanu for 13,859 Fire damage to Morale.
+[08/24 08:18:58 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Zizanu Burrower for 13,859 Fire damage to Morale.
+[08/24 08:18:59 PM] Nlkosi scored a hit with Sustaining Bolt on the Zizanu Burrower for 3,671 Lightning damage to Morale.
+[08/24 08:19:00 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,460 points to Power.
+[08/24 08:19:00 PM] Sustenance applied a heal to Nlkosi restoring 22,164 points to Morale.
+[08/24 08:19:00 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Biting Zizanu for 13,859 Fire damage to Morale.
+[08/24 08:19:00 PM] Nlkosi scored a hit with Fulgurite Strike on the Biting Zizanu for 3,967 Lightning damage to Morale.
+[08/24 08:19:01 PM] The Biting Zizanu scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,054 Common damage to Morale.
+[08/24 08:19:02 PM] You have lost 61,678 points of temporary Morale!
+[08/24 08:19:02 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Biting Zizanu for 13,859 Fire damage to Morale.
+[08/24 08:19:03 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 08:19:03 PM] Your mighty blow defeated the Zizanu Burrower.
+[08/24 08:19:03 PM] Nlkosi scored a critical hit with Epic Conclusion on the Zizanu Burrower for 112,740 Lightning damage to Morale.
+[08/24 08:19:03 PM] The Biting Zizanu scored a hit with a moderate melee attack on the Volcanic Rune-stone for 1,449 Common damage to Morale.
+[08/24 08:19:04 PM] Nlkosi scored a hit with Fulgurite Strike on the Biting Zizanu for 3,752 Lightning damage to Morale.
+[08/24 08:19:04 PM] The Charged Fulgurite Rune-stone defeated the Biting Zizanu.
+[08/24 08:20:10 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Zizanu Queen for 13,859 Fire damage to Morale.
+[08/24 08:20:10 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Zizanu Burrower for 13,859 Fire damage to Morale.
+[08/24 08:20:10 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 08:20:11 PM] The Zizanu Burrower scored a hit with Sonic Blast on the Volcanic Rune-stone for 1,833 Common damage to Morale.
+[08/24 08:20:11 PM] Nlkosi scored a hit with Fulgurite Strike on the Biting Zizanu for 3,679 Lightning damage to Morale.
+[08/24 08:20:11 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Queen for 3,796 Lightning damage to Morale.
+[08/24 08:20:11 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Burrower for 3,903 Lightning damage to Morale.
+[08/24 08:20:11 PM] The Zizanu Queen scored a hit with a melee double attack on the Volcanic Rune-stone for 1,329 Common damage to Morale.
+[08/24 08:20:12 PM] The Biting Zizanu scored a partially parried hit with a moderate melee attack on the Volcanic Rune-stone for 935 Common damage to Morale.
+[08/24 08:20:12 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 08:20:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Biting Zizanu for 13,859 Fire damage to Morale.
+[08/24 08:20:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Zizanu Queen for 13,859 Fire damage to Morale.
+[08/24 08:20:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Zizanu Burrower for 13,859 Fire damage to Morale.
+[08/24 08:20:13 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 08:20:13 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Zizanu Burrower for 21,304 Lightning damage to Morale.
+[08/24 08:20:14 PM] Your mighty blow defeated the Zizanu Burrower.
+[08/24 08:20:14 PM] Nlkosi scored a hit with Essence of Storm on the Zizanu Burrower for 12,598 Lightning damage to Morale.
+[08/24 08:20:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Biting Zizanu for 13,859 Fire damage to Morale.
+[08/24 08:20:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Zizanu Queen for 13,859 Fire damage to Morale.
+[08/24 08:20:14 PM] Nlkosi scored a hit with Fulgurite Strike on the Biting Zizanu for 3,791 Lightning damage to Morale.
+[08/24 08:20:15 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Queen for 3,654 Lightning damage to Morale.
+[08/24 08:20:15 PM] The Biting Zizanu scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,054 Common damage to Morale.
+[08/24 08:20:15 PM] Nlkosi scored a hit with Sustaining Bolt on the Zizanu Queen for 5,902 Lightning damage to Morale.
+[08/24 08:20:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Biting Zizanu for 13,859 Fire damage to Morale.
+[08/24 08:20:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Zizanu Queen for 13,859 Fire damage to Morale.
+[08/24 08:20:16 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,277 points to Power.
+[08/24 08:20:16 PM] Sustenance applied a heal to Nlkosi restoring 20,374 points to Morale.
+[08/24 08:20:17 PM] The Biting Zizanu tried to use Lesser Venom on the Volcanic Rune-stone but it blocked the attempt.
+[08/24 08:20:17 PM] Nlkosi scored a hit with Fulgurite Strike on the Biting Zizanu for 3,918 Lightning damage to Morale.
+[08/24 08:20:18 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Queen for 4,035 Lightning damage to Morale.
+[08/24 08:20:18 PM] Nlkosi scored a critical hit with Distracting Flame on the Zizanu Queen.
+[08/24 08:20:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Biting Zizanu for 13,859 Fire damage to Morale.
+[08/24 08:20:18 PM] The Volcanic Rune-stone defeated the Biting Zizanu.
+[08/24 08:20:21 PM] Nlkosi scored a hit with Distracting Flame on the Zizanu Queen for 2,380 Fire damage to Morale.
+[08/24 08:20:24 PM] Nlkosi scored a critical hit with Distracting Flame on the Zizanu Queen for 5,320 Fire damage to Morale.
+[08/24 08:20:27 PM] Nlkosi scored a hit with Distracting Flame on the Zizanu Queen for 2,758 Fire damage to Morale.
+[08/24 08:20:29 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 08:20:30 PM] Nlkosi scored a critical hit with Scribe's Spark on the Zizanu Queen for 30,059 Lightning damage to Morale.
+[08/24 08:20:30 PM] Nlkosi scored a hit with Distracting Flame on the Zizanu Queen for 2,957 Fire damage to Morale.
+[08/24 08:20:30 PM] The Zizanu Queen scored a critical hit with a weak melee attack on Nlkosi for 8,504 Common damage to Morale.
+[08/24 08:20:31 PM] Nothing to cure.
+[08/24 08:20:31 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/24 08:20:32 PM] Nlkosi scored a hit with Epic Conclusion on the Zizanu Queen for 57,488 Lightning damage to Morale.
+[08/24 08:20:32 PM] The Zizanu Queen scored a hit with a minor melee attack on Nlkosi for 7,433 Common damage to Morale.
+[08/24 08:20:33 PM] Nothing to cure.
+[08/24 08:20:33 PM] Nlkosi scored a hit with Distracting Flame on the Zizanu Queen for 3,133 Fire damage to Morale.
+[08/24 08:20:34 PM] Nlkosi scored a critical hit with Essence of Storm on the Zizanu Queen for 39,496 Lightning damage to Morale.
+[08/24 08:20:34 PM] Your mighty blow defeated the Zizanu Queen.
+[08/24 08:20:35 PM] Nothing to cure.
+[08/24 08:20:35 PM] Nlkosi scored a devastating hit with Static Surge on the Zizanu Queen for 63,247 Lightning damage to Morale.
+[08/24 08:20:38 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/24 08:20:39 PM] Nlkosi scored a hit with Chilling Rhetoric on the Biting Zizanu for 5,767 Frost damage to Morale.
+[08/24 08:20:39 PM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[08/24 08:20:39 PM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[08/24 08:20:40 PM] Nlkosi scored a hit with Fiery Ridicule on the Biting Zizanu for 4,766 Fire damage to Morale.
+[08/24 08:20:40 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 08:20:40 PM] Nlkosi scored a hit with Flurry of Words on the Biting Zizanu for 1,347 Frost damage to Morale.
+[08/24 08:20:40 PM] Nlkosi scored a critical hit with Concession and Rebuttal: Writ of Lightning on the Biting Zizanu for 30,349 Lightning damage to Morale.
+[08/24 08:20:41 PM] Your mighty blow defeated the Biting Zizanu.
+[08/24 08:20:42 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Biting Zizanu for 34,682 Lightning damage to Morale.
+[08/24 08:21:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Biting Zizanu for 13,859 Fire damage to Morale.
+[08/24 08:21:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Zizanu Burrower for 13,859 Fire damage to Morale.
+[08/24 08:21:12 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 08:21:13 PM] The Zizanu Burrower scored a hit with a melee double attack on the Volcanic Rune-stone for 1,054 Common damage to Morale.
+[08/24 08:21:13 PM] The Biting Zizanu scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,054 Common damage to Morale.
+[08/24 08:21:13 PM] The Zizanu Burrower scored a hit with a melee double attack on the Volcanic Rune-stone for 1,054 Common damage to Morale.
+[08/24 08:21:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Biting Zizanu for 13,859 Fire damage to Morale.
+[08/24 08:21:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Zizanu Burrower for 13,859 Fire damage to Morale.
+[08/24 08:21:14 PM] Nlkosi scored a hit with Fulgurite Strike on the Biting Zizanu for 3,802 Lightning damage to Morale.
+[08/24 08:21:14 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Burrower for 3,821 Lightning damage to Morale.
+[08/24 08:21:15 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 08:21:15 PM] The Zizanu Burrower scored a hit with Sonic Blast on the Volcanic Rune-stone for 1,833 Common damage to Morale.
+[08/24 08:21:15 PM] The Zizanu Burrower scored a hit with Sonic Blast on the Charged Fulgurite Rune-stone for 1,833 Common damage to Morale.
+[08/24 08:21:16 PM] Nlkosi scored a hit with Ceaseless Argument on the Zizanu Burrower for 7,197 Lightning damage to Morale.
+[08/24 08:21:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Biting Zizanu for 13,859 Fire damage to Morale.
+[08/24 08:21:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Zizanu Burrower for 13,859 Fire damage to Morale.
+[08/24 08:21:17 PM] Nlkosi scored a hit with Fulgurite Strike on the Biting Zizanu for 3,916 Lightning damage to Morale.
+[08/24 08:21:17 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Burrower for 3,774 Lightning damage to Morale.
+[08/24 08:21:18 PM] Nlkosi scored a hit with Writ of Lightning on the Zizanu Burrower for 7,446 Lightning damage to Morale.
+[08/24 08:21:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Zizanu Burrower for 14,128 Fire damage to Morale.
+[08/24 08:21:18 PM] The Volcanic Rune-stone defeated the Zizanu Burrower.
+[08/24 08:21:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Biting Zizanu for 13,859 Fire damage to Morale.
+[08/24 08:21:18 PM] The Biting Zizanu scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,054 Common damage to Morale.
+[08/24 08:21:20 PM] Nlkosi tried to use Induce Stunned on the Biting Zizanu but it was immune to the attempt.
+[08/24 08:21:20 PM] Your mighty blow defeated the Biting Zizanu.
+[08/24 08:21:20 PM] Nlkosi scored a hit with Shocking Words on the Biting Zizanu for 21,401 Lightning damage to Morale.
+[08/24 08:21:22 PM] Nlkosi scored a hit with Ceaseless Argument on the Zizanu Burrower for 8,951 Lightning damage to Morale.
+[08/24 08:21:24 PM] Nlkosi scored a hit with Essence of Winter on the Zizanu Burrower for 9,333 Frost damage to Morale.
+[08/24 08:21:24 PM] Nlkosi scored a hit with Essence of Winter on the Biting Zizanu for 8,153 Frost damage to Morale.
+[08/24 08:21:25 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 08:21:25 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Zizanu Burrower for 24,805 Lightning damage to Morale.
+[08/24 08:21:25 PM] The Zizanu Burrower scored a hit with Sonic Blast on Nlkosi for 7,956 Common damage to Morale.
+[08/24 08:21:26 PM] Your mighty blow defeated the Zizanu Burrower.
+[08/24 08:21:26 PM] Nlkosi scored a hit with Epic Conclusion on the Zizanu Burrower for 30,366 Lightning damage to Morale.
+[08/24 08:21:27 PM] The Biting Zizanu scored a hit with a weak melee attack on Nlkosi for 4,575 Common damage to Morale.
+[08/24 08:21:28 PM] Nlkosi scored a hit with Essence of Storm on the Biting Zizanu for 8,988 Lightning damage to Morale.
+[08/24 08:21:29 PM] The Biting Zizanu scored a hit with a moderate melee attack on Nlkosi for 6,290 Common damage to Morale.
+[08/24 08:21:29 PM] Nlkosi scored a hit with Fiery Ridicule on the Biting Zizanu for 4,223 Fire damage to Morale.
+[08/24 08:21:30 PM] Nothing to dispel.
+[08/24 08:21:30 PM] Nlkosi scored a hit with Writ of Lightning on the Biting Zizanu for 9,591 Lightning damage to Morale.
+[08/24 08:21:30 PM] Nlkosi scored a hit with Improved Final Word on the Biting Zizanu.
+[08/24 08:21:31 PM] The Biting Zizanu scored a hit with a minor melee attack on Nlkosi for 5,719 Common damage to Morale.
+[08/24 08:21:32 PM] Nlkosi scored a hit with Vivid Imagery on the Biting Zizanu for 11,639 Lightning damage to Morale.
+[08/24 08:21:32 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Biting Zizanu for 5,214 Fire damage to Morale.
+[08/24 08:21:33 PM] Nothing to cure.
+[08/24 08:21:34 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/24 08:21:34 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Biting Zizanu for 10,861 Fire damage to Morale.
+[08/24 08:21:35 PM] The Biting Zizanu scored a hit with Minor Poison on Nlkosi for 3,537 Common damage to Morale.
+[08/24 08:21:35 PM] The Biting Zizanu scored a hit with Lesser Venom on Nlkosi.
+[08/24 08:21:35 PM] Minor Poison has been cured.
+[08/24 08:21:35 PM] Your mighty blow defeated the Biting Zizanu.
+[08/24 08:21:35 PM] Nlkosi scored a hit with Sustaining Bolt on the Biting Zizanu for 6,620 Lightning damage to Morale.
+[08/24 08:21:36 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,230 points to Power.
+[08/24 08:21:36 PM] Sustenance applied a heal to Nlkosi restoring 19,570 points to Morale.
+[08/24 08:21:36 PM] Increased Morale applied a heal to Nlkosi restoring 81,134 points to Morale.
+[08/24 08:21:37 PM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[08/24 08:21:37 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 6,119 points to Morale.
+[08/24 08:21:37 PM] Nothing to cure.
+[08/24 08:21:38 PM] Nlkosi applied a critical benefit with Prelude to Hope on Nlkosi.
+[08/24 08:21:38 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,351 points to Morale.
+[08/24 08:21:39 PM] Self-motivation applied a heal to Nlkosi restoring 4,000 points to Power.
+[08/24 08:21:39 PM] Nlkosi applied a benefit with Self-motivation on Nlkosi.
+[08/24 08:21:39 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,401 points to Morale.
+[08/24 08:21:40 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,535 points to Morale.
+[08/24 08:21:41 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,520 points to Morale.
+[08/24 08:21:42 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,481 points to Morale.
+[08/24 08:21:43 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,033 points to Morale.
+[08/24 08:21:44 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,669 points to Morale.
+[08/24 08:21:45 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,819 points to Morale.
+[08/24 08:21:46 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,559 points to Morale.
+[08/24 08:21:47 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,519 points to Morale.
+[08/24 08:21:48 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,394 points to Morale.
+[08/24 08:21:50 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,431 points to Morale.
+[08/24 08:21:51 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 08:21:51 PM] Nlkosi scored a devastating hit with Ceaseless Argument on the Biting Zizanu for 23,782 Lightning damage to Morale.
+[08/24 08:21:52 PM] Nlkosi scored a hit with Essence of Storm on the Biting Zizanu for 11,350 Lightning damage to Morale.
+[08/24 08:21:54 PM] Nlkosi scored a hit with Essence of Flame on the Biting Zizanu for 10,916 Fire damage to Morale.
+[08/24 08:21:54 PM] Nlkosi scored a hit with Essence of Flame on the Zizanu Burrower for 11,837 Fire damage to Morale.
+[08/24 08:21:55 PM] The Biting Zizanu scored a hit with a melee double attack on Nlkosi for 4,716 Common damage to Morale.
+[08/24 08:21:55 PM] Nlkosi scored a hit with Sustaining Bolt on the Biting Zizanu for 5,022 Lightning damage to Morale.
+[08/24 08:21:55 PM] The Zizanu Burrower scored a hit with a moderate melee attack on Nlkosi for 6,485 Common damage to Morale.
+[08/24 08:21:55 PM] The Biting Zizanu scored a hit with a melee double attack on Nlkosi for 4,716 Common damage to Morale.
+[08/24 08:21:56 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,102 points to Power.
+[08/24 08:21:56 PM] Sustenance applied a heal to Nlkosi restoring 17,544 points to Morale.
+[08/24 08:21:57 PM] Your mighty blow defeated the Biting Zizanu.
+[08/24 08:21:57 PM] Nlkosi scored a hit with Shocking Words on the Biting Zizanu for 20,787 Lightning damage to Morale.
+[08/24 08:21:57 PM] The Zizanu Burrower scored a hit with a weak melee attack on Nlkosi for 4,575 Common damage to Morale.
+[08/24 08:21:58 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/24 08:21:59 PM] Nlkosi scored a critical hit with Writ of Lightning on the Zizanu Burrower for 21,045 Lightning damage to Morale.
+[08/24 08:21:59 PM] The Zizanu Burrower scored a hit with a weak swipe attack on Nlkosi for 4,575 Common damage to Morale.
+[08/24 08:21:59 PM] You have lost 4,575 points of temporary Morale!
+[08/24 08:22:00 PM] Nlkosi scored a hit with Ceaseless Argument on the Zizanu Burrower for 9,713 Lightning damage to Morale.
+[08/24 08:22:01 PM] The Zizanu Burrower scored a hit with a melee double attack on Nlkosi for 4,433 Common damage to Morale.
+[08/24 08:22:01 PM] You have lost 4,433 points of temporary Morale!
+[08/24 08:22:02 PM] You have lost 4,433 points of temporary Morale!
+[08/24 08:22:02 PM] Nlkosi scored a hit with Distracting Flame on the Zizanu Burrower.
+[08/24 08:22:02 PM] Nothing to dispel.
+[08/24 08:22:03 PM] Nlkosi scored a hit with Improved Final Word on the Zizanu Burrower.
+[08/24 08:22:04 PM] Nlkosi scored a hit with Shocking Touch on the Zizanu Burrower for 4,611 Lightning damage to Morale.
+[08/24 08:22:05 PM] Nlkosi scored a hit with Distracting Flame on the Zizanu Burrower for 2,710 Fire damage to Morale.
+[08/24 08:22:07 PM] Nlkosi scored a hit with Flurry of Words on the Zizanu Burrower for 1,220 Frost damage to Morale.
+[08/24 08:22:07 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/24 08:22:08 PM] The Zizanu Burrower scored a hit with a weak melee attack on Nlkosi for 4,292 Common damage to Morale.
+[08/24 08:22:08 PM] You have lost 4,292 points of temporary Morale!
+[08/24 08:22:08 PM] Nlkosi scored a hit with Distracting Flame on the Zizanu Burrower for 2,904 Fire damage to Morale.
+[08/24 08:22:10 PM] Nlkosi scored a hit with Flurry of Words on the Zizanu Burrower for 1,718 Frost damage to Morale.
+[08/24 08:22:10 PM] The Zizanu Burrower scored a hit with a minor melee attack on Nlkosi for 5,365 Common damage to Morale.
+[08/24 08:22:10 PM] You have lost 5,365 points of temporary Morale!
+[08/24 08:22:11 PM] Nlkosi scored a hit with Distracting Flame on the Zizanu Burrower for 2,543 Fire damage to Morale.
+[08/24 08:22:11 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 08:22:11 PM] Your mighty blow defeated the Zizanu Burrower.
+[08/24 08:22:11 PM] Nlkosi scored a critical hit with Scribe's Spark on the Zizanu Burrower for 30,419 Lightning damage to Morale.
+[08/24 08:22:17 PM] You have lost 44,475 points of temporary Morale!
+[08/24 08:22:22 PM] Nlkosi scored a hit with Fulgurite Strike on the Biting Zizanu for 3,868 Lightning damage to Morale.
+[08/24 08:22:22 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Burrower for 3,648 Lightning damage to Morale.
+[08/24 08:22:22 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Queen for 3,736 Lightning damage to Morale.
+[08/24 08:22:22 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 08:22:23 PM] The Zizanu Queen scored a partially blocked hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 1,179 Common damage to Morale.
+[08/24 08:22:25 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Burrower for 3,924 Lightning damage to Morale.
+[08/24 08:22:25 PM] Nlkosi scored a hit with Fulgurite Strike on the Biting Zizanu for 3,677 Lightning damage to Morale.
+[08/24 08:22:25 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Queen for 3,676 Lightning damage to Morale.
+[08/24 08:22:25 PM] The Zizanu Queen scored a critical hit with a weak melee attack on the Charged Fulgurite Rune-stone for 1,730 Common damage to Morale.
+[08/24 08:22:26 PM] The Biting Zizanu scored a hit with a melee double attack on the Charged Fulgurite Rune-stone for 1,054 Common damage to Morale.
+[08/24 08:22:26 PM] The Zizanu Burrower scored a hit with a weak swipe attack on the Charged Fulgurite Rune-stone for 1,054 Common damage to Morale.
+[08/24 08:22:26 PM] Nlkosi scored a hit with Shocking Words on the Zizanu Queen for 21,927 Lightning damage to Morale.
+[08/24 08:22:27 PM] The Biting Zizanu scored a hit with a melee double attack on the Charged Fulgurite Rune-stone for 1,054 Common damage to Morale.
+[08/24 08:22:28 PM] Nlkosi scored a hit with Writ of Lightning on the Zizanu Queen for 7,192 Lightning damage to Morale.
+[08/24 08:22:28 PM] The Zizanu Burrower tried to use a minor melee attack on the Charged Fulgurite Rune-stone but it parried the attempt.
+[08/24 08:22:28 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Queen for 3,746 Lightning damage to Morale.
+[08/24 08:22:28 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Burrower for 3,882 Lightning damage to Morale.
+[08/24 08:22:28 PM] Nlkosi scored a hit with Fulgurite Strike on the Biting Zizanu for 3,944 Lightning damage to Morale.
+[08/24 08:22:29 PM] The Biting Zizanu scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 1,318 Common damage to Morale.
+[08/24 08:22:29 PM] Nlkosi scored a hit with Scribe's Spark on the Zizanu Queen for 8,054 Lightning damage to Morale.
+[08/24 08:22:30 PM] The Zizanu Burrower scored a hit with Sonic Blast on the Charged Fulgurite Rune-stone for 1,833 Common damage to Morale.
+[08/24 08:22:30 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 08:22:30 PM] The Biting Zizanu scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 1,449 Common damage to Morale.
+[08/24 08:22:30 PM] Nlkosi scored a critical hit with Epic Conclusion on the Zizanu Queen for 108,405 Lightning damage to Morale.
+[08/24 08:22:31 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Burrower for 3,828 Lightning damage to Morale.
+[08/24 08:22:31 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Queen for 4,000 Lightning damage to Morale.
+[08/24 08:22:31 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Biting Zizanu but it was immune to the attempt.
+[08/24 08:22:31 PM] Nlkosi scored a hit with Fulgurite Strike on the Biting Zizanu for 3,948 Lightning damage to Morale.
+[08/24 08:22:34 PM] Nlkosi scored a hit with Writ of Lightning on the Biting Zizanu for 8,871 Lightning damage to Morale.
+[08/24 08:22:35 PM] Nlkosi scored a hit with Essence of Storm on the Biting Zizanu for 8,851 Lightning damage to Morale.
+[08/24 08:22:36 PM] The Zizanu Burrower scored a hit with Lesser Crippling Poison on Nlkosi.
+[08/24 08:22:36 PM] Minor Crippling Poison has been cured.
+[08/24 08:22:37 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/24 08:22:37 PM] Nlkosi scored a hit with Static Surge on the Zizanu Burrower for 16,156 Lightning damage to Morale.
+[08/24 08:22:38 PM] The Zizanu Burrower scored a hit with a minor melee attack on Nlkosi for 5,365 Common damage to Morale.
+[08/24 08:22:38 PM] Nothing to dispel.
+[08/24 08:22:38 PM] Nlkosi scored a hit with Improved Final Word on the Zizanu Burrower.
+[08/24 08:22:38 PM] Nothing to cure.
+[08/24 08:22:39 PM] Nlkosi scored a hit with Head-butt on the Zizanu Burrower for 9,819 Common damage to Morale.
+[08/24 08:22:39 PM] The Zizanu Burrower scored a hit with a weak melee attack on Nlkosi for 4,292 Common damage to Morale.
+[08/24 08:22:41 PM] Nothing to cure.
+[08/24 08:22:41 PM] The Zizanu Burrower scored a hit with a melee double attack on Nlkosi for 4,716 Common damage to Morale.
+[08/24 08:22:41 PM] Nlkosi scored a hit with Vivid Imagery on the Biting Zizanu for 9,273 Lightning damage to Morale.
+[08/24 08:22:41 PM] Nlkosi scored a hit with Vivid Imagery on the Zizanu Burrower for 8,550 Lightning damage to Morale.
+[08/24 08:22:43 PM] Nlkosi scored a hit with Shocking Touch on the Zizanu Burrower for 3,490 Lightning damage to Morale.
+[08/24 08:22:44 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 08:22:44 PM] Your mighty blow defeated the Zizanu Burrower.
+[08/24 08:22:45 PM] Nlkosi scored a critical hit with Essence of Storm on the Zizanu Burrower for 45,908 Lightning damage to Morale.
+[08/24 08:22:45 PM] The Zizanu Queen scored a hit with a weak melee attack on Nlkosi for 5,768 Common damage to Morale.
+[08/24 08:22:46 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 08:22:47 PM] Nlkosi scored a hit with Fulgurite Strike on the Biting Zizanu for 3,870 Lightning damage to Morale.
+[08/24 08:22:47 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Queen for 3,977 Lightning damage to Morale.
+[08/24 08:22:47 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 08:22:47 PM] The Zizanu Queen missed trying to use a mighty melee attack on Nlkosi.
+[08/24 08:22:48 PM] Nlkosi scored a hit with Writ of Lightning on the Biting Zizanu for 10,674 Lightning damage to Morale.
+[08/24 08:22:49 PM] Your mighty blow defeated the Biting Zizanu.
+[08/24 08:22:49 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Biting Zizanu for 16,589 Lightning damage to Morale.
+[08/24 08:22:49 PM] The Zizanu Queen scored a hit with a melee double attack on Nlkosi for 5,590 Common damage to Morale.
+[08/24 08:22:50 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Queen for 3,661 Lightning damage to Morale.
+[08/24 08:22:50 PM] The Zizanu Queen scored a hit with a melee double attack on Nlkosi for 5,590 Common damage to Morale.
+[08/24 08:22:50 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,204 points to Power.
+[08/24 08:22:50 PM] Sustenance applied a critical heal to Nlkosi restoring 27,919 points to Morale.
+[08/24 08:22:51 PM] Nlkosi scored a hit with Ceaseless Argument on the Zizanu Queen for 9,305 Lightning damage to Morale.
+[08/24 08:22:53 PM] Nlkosi scored a hit with Fulgurite Strike on the Zizanu Queen for 3,733 Lightning damage to Morale.
+[08/24 08:22:53 PM] The Zizanu Queen scored a hit with a melee double attack on Nlkosi for 5,412 Common damage to Morale.
+[08/24 08:22:53 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Zizanu Queen for 25,900 Lightning damage to Morale.
+[08/24 08:22:54 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Zizanu Queen for 13,859 Fire damage to Morale.
+[08/24 08:22:54 PM] Nlkosi scored a hit with Essence of Storm on the Zizanu Queen for 12,496 Lightning damage to Morale.
+[08/24 08:22:55 PM] Your mighty blow defeated the Zizanu Queen.
+[08/24 08:22:56 PM] Nlkosi scored a hit with Shocking Words on the Zizanu Queen for 31,253 Lightning damage to Morale.
+[08/24 08:23:24 PM] Zâwakhar the Hoardsman scored a hit with Max Shadow Damage on Nlkosi for 26,609 Shadow damage to Morale.
+[08/24 08:23:25 PM] Zâwakhar the Hoardsman scored a hit with Painful Memory on Nlkosi.
+[08/24 08:23:25 PM] Nlkosi scored a hit with Volcanic Rune-stone on Zâwakhar the Hoardsman for 17,353 Fire damage to Morale.
+[08/24 08:23:25 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 08:23:26 PM] Zâwakhar the Hoardsman scored a hit with a mighty thrown attack on Nlkosi for 17,106 Shadow damage to Morale.
+[08/24 08:23:26 PM] Nlkosi scored a hit with Fulgurite Strike on Zâwakhar the Hoardsman for 5,001 Lightning damage to Morale.
+[08/24 08:23:26 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 08:23:27 PM] Nlkosi scored a hit with Volcanic Rune-stone on Zâwakhar the Hoardsman for 17,353 Fire damage to Morale.
+[08/24 08:23:27 PM] Zâwakhar the Hoardsman scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,696 Shadow damage to Morale.
+[08/24 08:23:27 PM] Nlkosi scored a hit with Ceaseless Argument on Zâwakhar the Hoardsman for 10,981 Lightning damage to Morale.
+[08/24 08:23:28 PM] Nlkosi scored a hit with Essence of Storm on Zâwakhar the Hoardsman for 12,949 Lightning damage to Morale.
+[08/24 08:23:29 PM] Nlkosi scored a hit with Fulgurite Strike on Zâwakhar the Hoardsman for 5,124 Lightning damage to Morale.
+[08/24 08:23:29 PM] Nlkosi scored a hit with Volcanic Rune-stone on Zâwakhar the Hoardsman for 17,353 Fire damage to Morale.
+[08/24 08:23:29 PM] Zâwakhar the Hoardsman scored a hit with a mighty melee attack on the Volcanic Rune-stone for 3,815 Shadow damage to Morale.
+[08/24 08:23:30 PM] Nlkosi scored a hit with Epic Conclusion on Zâwakhar the Hoardsman for 58,195 Lightning damage to Morale.
+[08/24 08:23:31 PM] Nlkosi scored a hit with Volcanic Rune-stone on Zâwakhar the Hoardsman for 17,353 Fire damage to Morale.
+[08/24 08:23:31 PM] Zâwakhar the Hoardsman scored a partially blocked hit with a weak melee attack on the Volcanic Rune-stone for 1,094 Shadow damage to Morale.
+[08/24 08:23:32 PM] Nothing to dispel.
+[08/24 08:23:32 PM] Nlkosi scored a hit with Improved Final Word on Zâwakhar the Hoardsman.
+[08/24 08:23:32 PM] Nlkosi scored a hit with Fulgurite Strike on Zâwakhar the Hoardsman for 4,814 Lightning damage to Morale.
+[08/24 08:23:33 PM] Nlkosi scored a hit with Volcanic Rune-stone on Zâwakhar the Hoardsman for 17,353 Fire damage to Morale.
+[08/24 08:23:33 PM] Nlkosi scored a hit with Shocking Touch on Zâwakhar the Hoardsman for 4,795 Lightning damage to Morale.
+[08/24 08:23:34 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 4,462 points to Morale.
+[08/24 08:23:35 PM] Nlkosi scored a hit with Fulgurite Strike on Zâwakhar the Hoardsman for 4,783 Lightning damage to Morale.
+[08/24 08:23:35 PM] Nlkosi applied a benefit with Prelude to Hope on the Volcanic Rune-stone.
+[08/24 08:23:35 PM] Nlkosi scored a hit with Volcanic Rune-stone on Zâwakhar the Hoardsman for 18,627 Fire damage to Morale.
+[08/24 08:23:35 PM] Nlkosi scored a devastating hit with Fiery Ridicule on Zâwakhar the Hoardsman for 11,888 Fire damage to Morale.
+[08/24 08:23:35 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,387 points to Morale.
+[08/24 08:23:36 PM] Nlkosi applied a heal with Prelude to Hope to the Volcanic Rune-stone restoring 1,576 points to Morale.
+[08/24 08:23:37 PM] Nlkosi scored a critical hit with Essence of Winter on Zâwakhar the Hoardsman for 19,317 Frost damage to Morale.
+[08/24 08:23:37 PM] Nothing to cure.
+[08/24 08:23:38 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/24 08:23:38 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on Zâwakhar the Hoardsman for 2,751 Fire damage to Morale.
+[08/24 08:23:39 PM] Zâwakhar the Hoardsman scored a hit with Max Shadow Damage on Nlkosi for 26,609 Shadow damage to Morale.
+[08/24 08:23:39 PM] Zâwakhar the Hoardsman scored a critical hit with Painful Memory on Nlkosi.
+[08/24 08:23:39 PM] Nothing to cure.
+[08/24 08:23:40 PM] Zâwakhar the Hoardsman scored a hit with a weak melee attack on Nlkosi for 8,524 Shadow damage to Morale.
+[08/24 08:23:40 PM] Nlkosi scored a hit with Flurry of Words on Zâwakhar the Hoardsman for 1,579 Frost damage to Morale.
+[08/24 08:23:41 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 08:23:41 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/24 08:23:41 PM] Nlkosi scored a critical hit with Sustaining Bolt on Zâwakhar the Hoardsman for 13,617 Lightning damage to Morale.
+[08/24 08:23:41 PM] Nothing to cure.
+[08/24 08:23:41 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on Zâwakhar the Hoardsman for 3,036 Fire damage to Morale.
+[08/24 08:23:42 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,855 points to Power.
+[08/24 08:23:42 PM] Sustenance applied a heal to Nlkosi restoring 18,787 points to Morale.
+[08/24 08:23:43 PM] Zâwakhar the Hoardsman scored a hit with Thunderous Command on Nlkosi.
+[08/24 08:23:43 PM] Nlkosi scored a critical hit with Essence of Storm on Zâwakhar the Hoardsman for 54,492 Lightning damage to Morale.
+[08/24 08:23:44 PM] Nlkosi scored a hit with Flurry of Words on Zâwakhar the Hoardsman for 2,107 Frost damage to Morale.
+[08/24 08:23:44 PM] Nlkosi scored a critical hit with Shocking Words on Zâwakhar the Hoardsman for 88,412 Lightning damage to Morale.
+[08/24 08:23:44 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on Zâwakhar the Hoardsman for 2,786 Fire damage to Morale.
+[08/24 08:23:46 PM] Nlkosi scored a hit with Writ of Lightning on Zâwakhar the Hoardsman for 8,784 Lightning damage to Morale.
+[08/24 08:23:47 PM] Nlkosi scored a hit with Static Surge on Zâwakhar the Hoardsman for 18,975 Lightning damage to Morale.
+[08/24 08:23:47 PM] Nlkosi scored a hit with Flurry of Words on Zâwakhar the Hoardsman for 1,781 Frost damage to Morale.
+[08/24 08:23:47 PM] Zâwakhar the Hoardsman scored a hit with a mighty melee attack on Nlkosi for 18,604 Shadow damage to Morale.
+[08/24 08:23:47 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on Zâwakhar the Hoardsman for 4,764 Fire damage to Morale.
+[08/24 08:23:48 PM] Nothing to cure.
+[08/24 08:23:49 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/24 08:23:50 PM] Nlkosi scored a critical hit with Flurry of Words on Zâwakhar the Hoardsman for 3,739 Frost damage to Morale.
+[08/24 08:23:50 PM] Nlkosi scored a critical hit with Chilling Rhetoric on Zâwakhar the Hoardsman for 15,398 Frost damage to Morale.
+[08/24 08:23:50 PM] Zâwakhar the Hoardsman scored a hit with Max Shadow Damage on Nlkosi for 25,811 Shadow damage to Morale.
+[08/24 08:23:50 PM] Nlkosi scored a hit with Fiery Ridicule on Zâwakhar the Hoardsman for 6,564 Fire damage to Morale.
+[08/24 08:23:50 PM] Nothing to cure.
+[08/24 08:23:50 PM] Zâwakhar the Hoardsman scored a hit with Painful Memory on Nlkosi.
+[08/24 08:23:51 PM] Zâwakhar the Hoardsman scored a critical hit with a moderate melee attack on Nlkosi for 16,258 Shadow damage to Morale.
+[08/24 08:23:52 PM] Nlkosi scored a hit with Essence of Flame on Zâwakhar the Hoardsman for 17,958 Fire damage to Morale.
+[08/24 08:23:52 PM] Nothing to cure.
+[08/24 08:23:52 PM] Nlkosi scored a hit with Essence of Storm on Zâwakhar the Hoardsman for 16,343 Lightning damage to Morale.
+[08/24 08:23:53 PM] Nlkosi scored a hit with Flurry of Words on Zâwakhar the Hoardsman for 1,977 Frost damage to Morale.
+[08/24 08:23:53 PM] Zâwakhar the Hoardsman scored a hit with a weak melee attack on Nlkosi for 8,268 Shadow damage to Morale.
+[08/24 08:23:54 PM] Nothing to dispel.
+[08/24 08:23:54 PM] Nlkosi scored a hit with Ceaseless Argument on Zâwakhar the Hoardsman for 13,774 Lightning damage to Morale.
+[08/24 08:23:54 PM] Nlkosi scored a hit with Improved Final Word on Zâwakhar the Hoardsman.
+[08/24 08:23:54 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 2 on Zâwakhar the Hoardsman for 8,333 Fire damage to Morale.
+[08/24 08:23:55 PM] Nlkosi scored a hit with Writ of Lightning on Zâwakhar the Hoardsman for 10,445 Lightning damage to Morale.
+[08/24 08:23:56 PM] Nlkosi scored a hit with Flurry of Words on Zâwakhar the Hoardsman for 1,786 Frost damage to Morale.
+[08/24 08:23:56 PM] Zâwakhar the Hoardsman scored a hit with Max Shadow Damage on Nlkosi for 25,012 Shadow damage to Morale.
+[08/24 08:23:56 PM] Zâwakhar the Hoardsman scored a hit with Painful Memory on Nlkosi.
+[08/24 08:23:56 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/24 08:23:56 PM] Your mighty blow defeated Zâwakhar the Hoardsman.
+[08/24 08:23:57 PM] Nlkosi scored a critical hit with Scribe's Spark on Zâwakhar the Hoardsman for 43,540 Lightning damage to Morale.

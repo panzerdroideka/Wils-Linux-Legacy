@@ -1,0 +1,1328 @@
+### Chat Log: Combat 08/25 12:59 PM ###
+[08/25 12:59:28 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,121 points to Power.
+[08/25 12:59:31 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,096 points to Power.
+[08/25 12:59:38 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Robber for 8,801 Lightning damage to Morale.
+[08/25 12:59:39 PM] Nlkosi scored a hit with Shocking Words on the Idagâl Robber for 26,551 Lightning damage to Morale.
+[08/25 12:59:41 PM] Nlkosi scored a hit with Distracting Flame on the Idagâl Robber.
+[08/25 12:59:41 PM] Nlkosi scored a hit with Essence of Storm on the Idagâl Robber for 12,649 Lightning damage to Morale.
+[08/25 12:59:43 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Robber for 12,638 Lightning damage to Morale.
+[08/25 12:59:43 PM] Your mighty blow defeated the Idagâl Robber.
+[08/25 12:59:43 PM] Nlkosi scored a hit with Epic Conclusion on the Idagâl Robber for 57,723 Lightning damage to Morale.
+[08/25 12:59:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Rat-keeper for 16,795 Fire damage to Morale.
+[08/25 12:59:52 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/25 12:59:53 PM] The Idagâl Rat-keeper scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,833 Common damage to Morale.
+[08/25 12:59:53 PM] The Idagâl Robber scored a hit with a strong melee attack on the Volcanic Rune-stone for 2,750 Common damage to Morale.
+[08/25 12:59:53 PM] The Keeper's Rat scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,106 Common damage to Morale.
+[08/25 12:59:53 PM] Nlkosi scored a hit with Fulgurite Strike on the Idagâl Robber for 4,982 Lightning damage to Morale.
+[08/25 12:59:53 PM] Nlkosi scored a hit with Fulgurite Strike on the Idagâl Rat-keeper for 4,727 Lightning damage to Morale.
+[08/25 12:59:53 PM] Nlkosi scored a hit with Fulgurite Strike on the Keeper's Rat for 4,849 Lightning damage to Morale.
+[08/25 12:59:54 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Robber for 16,795 Fire damage to Morale.
+[08/25 12:59:54 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Rat-keeper for 16,795 Fire damage to Morale.
+[08/25 12:59:54 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Keeper's Rat for 18,183 Fire damage to Morale.
+[08/25 12:59:54 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/25 12:59:55 PM] The Idagâl Robber tried to use a weak melee attack on the Volcanic Rune-stone but it blocked the attempt.
+[08/25 12:59:55 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Rat-keeper for 9,987 Lightning damage to Morale.
+[08/25 12:59:56 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Robber for 16,795 Fire damage to Morale.
+[08/25 12:59:56 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Rat-keeper for 16,795 Fire damage to Morale.
+[08/25 12:59:56 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Keeper's Rat for 18,183 Fire damage to Morale.
+[08/25 12:59:56 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 12:59:56 PM] Your mighty blow defeated the Idagâl Rat-keeper.
+[08/25 12:59:56 PM] Nlkosi scored a critical hit with Scribe's Spark on the Idagâl Rat-keeper for 36,654 Lightning damage to Morale.
+[08/25 12:59:57 PM] Nlkosi scored a hit with Fulgurite Strike on the Idagâl Robber for 4,687 Lightning damage to Morale.
+[08/25 12:59:57 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Keeper's Rat but he was immune to the attempt.
+[08/25 12:59:57 PM] Nlkosi scored a hit with Fulgurite Strike on the Keeper's Rat for 5,246 Lightning damage to Morale.
+[08/25 12:59:58 PM] The Keeper's Rat scored a partially parried hit with a weak melee attack on the Volcanic Rune-stone for 709 Common damage to Morale.
+[08/25 12:59:58 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Robber for 16,795 Fire damage to Morale.
+[08/25 12:59:58 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Keeper's Rat for 18,183 Fire damage to Morale.
+[08/25 12:59:58 PM] Your mighty blow defeated the Keeper's Rat.
+[08/25 12:59:58 PM] Nlkosi scored a hit with Ceaseless Argument on the Keeper's Rat for 13,047 Lightning damage to Morale.
+[08/25 01:00:00 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Idagâl Robber for 17,063 Fire damage to Morale.
+[08/25 01:00:00 PM] The Volcanic Rune-stone defeated the Idagâl Robber.
+[08/25 01:00:00 PM] Nlkosi scored a hit with Writ of Lightning on the Idagâl Robber for 10,143 Lightning damage to Morale.
+[08/25 01:00:46 PM] Nlkosi scored a hit with Ceaseless Argument on Nagísu the Keen-eyed for 9,884 Lightning damage to Morale.
+[08/25 01:00:47 PM] Nlkosi scored a hit with Fiery Ridicule on Nagísu the Keen-eyed for 4,954 Fire damage to Morale.
+[08/25 01:00:48 PM] Nlkosi scored a hit with Distracting Flame on Nagísu the Keen-eyed.
+[08/25 01:00:49 PM] Nlkosi scored a hit with Epic Conclusion on Nagísu the Keen-eyed for 55,367 Lightning damage to Morale.
+[08/25 01:00:49 PM] Nagísu the Keen-eyed scored a hit with a moderate melee attack on Nlkosi for 15,908 Common damage to Morale.
+[08/25 01:00:49 PM] Nothing to dispel.
+[08/25 01:00:49 PM] Nlkosi scored a hit with Improved Final Word on Nagísu the Keen-eyed.
+[08/25 01:00:50 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on Nagísu the Keen-eyed for 6,652 Fire damage to Morale.
+[08/25 01:00:50 PM] Nlkosi scored a hit with Shocking Touch on Nagísu the Keen-eyed for 5,301 Lightning damage to Morale.
+[08/25 01:00:51 PM] Nlkosi scored a hit with Distracting Flame on Nagísu the Keen-eyed for 3,607 Fire damage to Morale.
+[08/25 01:00:53 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on Nagísu the Keen-eyed for 5,323 Fire damage to Morale.
+[08/25 01:00:53 PM] Nlkosi scored a hit with Scribe's Spark on Nagísu the Keen-eyed for 12,630 Lightning damage to Morale.
+[08/25 01:00:53 PM] Nagísu the Keen-eyed scored a hit with Light Injury on Nlkosi for 5,785 Common damage to Morale.
+[08/25 01:00:54 PM] Nagísu the Keen-eyed scored a hit with Caltrop Scatter on Nlkosi.
+[08/25 01:00:54 PM] Nlkosi scored a hit with Distracting Flame on Nagísu the Keen-eyed for 3,805 Fire damage to Morale.
+[08/25 01:00:55 PM] Self-motivation applied a heal to Nlkosi restoring 4,000 points to Power.
+[08/25 01:00:55 PM] Nlkosi applied a benefit with Self-motivation on Nlkosi.
+[08/25 01:00:55 PM] Nagísu the Keen-eyed scored a hit with Light Injury on Nlkosi for 5,785 Common damage to Morale.
+[08/25 01:00:56 PM] The Herbalist applied a benefit with Nature's Power on the Herbalist.
+[08/25 01:00:56 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on Nagísu the Keen-eyed for 3,199 Fire damage to Morale.
+[08/25 01:00:56 PM] Nagísu the Keen-eyed scored a hit with a mighty melee attack on Nlkosi for 26,032 Common damage to Morale.
+[08/25 01:00:57 PM] Nlkosi scored a hit with Distracting Flame on Nagísu the Keen-eyed for 3,262 Fire damage to Morale.
+[08/25 01:00:57 PM] Increased Morale applied a heal to Nlkosi restoring 82,323 points to Morale.
+[08/25 01:00:57 PM] Nlkosi scored a critical hit with Flurry of Words on Nagísu the Keen-eyed for 2,322 Frost damage to Morale.
+[08/25 01:00:57 PM] Herbalist's Care applied a heal to Nlkosi restoring 244 points to Morale.
+[08/25 01:00:58 PM] Nothing to dispel.
+[08/25 01:00:58 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/25 01:00:58 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 01:00:58 PM] Nagísu the Keen-eyed scored a hit with Light Injury on Nlkosi for 5,785 Common damage to Morale.
+[08/25 01:00:58 PM] Nlkosi scored a critical hit with Speak No Evil on Nagísu the Keen-eyed.
+[08/25 01:00:58 PM] Nagísu the Keen-eyed scored a hit with a minor melee attack on Nlkosi for 14,462 Common damage to Morale.
+[08/25 01:00:58 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 897 points to Power.
+[08/25 01:00:59 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on Nagísu the Keen-eyed for 3,691 Fire damage to Morale.
+[08/25 01:01:00 PM] Nagísu the Keen-eyed scored a hit with Light Injury on Nlkosi for 5,785 Common damage to Morale.
+[08/25 01:01:00 PM] Nlkosi scored a hit with Distracting Flame on Nagísu the Keen-eyed for 3,068 Fire damage to Morale.
+[08/25 01:01:00 PM] Nlkosi scored a hit with Ceaseless Argument on Nagísu the Keen-eyed for 11,005 Lightning damage to Morale.
+[08/25 01:01:00 PM] Nagísu the Keen-eyed scored a hit with a weak melee attack on Nlkosi for 11,570 Common damage to Morale.
+[08/25 01:01:00 PM] Nlkosi scored a hit with Flurry of Words on Nagísu the Keen-eyed for 1,884 Frost damage to Morale.
+[08/25 01:01:01 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:01:01 PM] Nlkosi scored a critical hit with Essence of Storm on Nagísu the Keen-eyed for 53,346 Lightning damage to Morale.
+[08/25 01:01:01 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,133 points to Power.
+[08/25 01:01:02 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on Nagísu the Keen-eyed for 6,235 Fire damage to Morale.
+[08/25 01:01:02 PM] Nagísu the Keen-eyed scored a hit with Light Injury on Nlkosi for 5,785 Common damage to Morale.
+[08/25 01:01:02 PM] Nlkosi scored a devastating hit with Shocking Words on Nagísu the Keen-eyed for 117,338 Lightning damage to Morale.
+[08/25 01:01:03 PM] Nlkosi scored a hit with Distracting Flame on Nagísu the Keen-eyed for 3,233 Fire damage to Morale.
+[08/25 01:01:03 PM] Nlkosi scored a hit with Sustaining Bolt on Nagísu the Keen-eyed for 5,349 Lightning damage to Morale.
+[08/25 01:01:03 PM] Nlkosi scored a hit with Flurry of Words on Nagísu the Keen-eyed for 1,925 Frost damage to Morale.
+[08/25 01:01:04 PM] Herbalist's Care applied a heal to Nlkosi restoring 187 points to Morale.
+[08/25 01:01:04 PM] Nagísu the Keen-eyed scored a hit with Light Injury on Nlkosi for 5,785 Common damage to Morale.
+[08/25 01:01:04 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 01:01:04 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,964 points to Power.
+[08/25 01:01:04 PM] Sustenance applied a heal to Nlkosi restoring 18,639 points to Morale.
+[08/25 01:01:04 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,164 points to Power.
+[08/25 01:01:05 PM] Nlkosi scored a hit with Chilling Rhetoric on Nagísu the Keen-eyed for 7,404 Frost damage to Morale.
+[08/25 01:01:06 PM] Nagísu the Keen-eyed scored a hit with Light Injury on Nlkosi for 5,785 Common damage to Morale.
+[08/25 01:01:06 PM] Nagísu the Keen-eyed scored a hit with a weak melee attack on Nlkosi for 11,223 Common damage to Morale.
+[08/25 01:01:06 PM] Nlkosi scored a hit with Flurry of Words on Nagísu the Keen-eyed for 2,236 Frost damage to Morale.
+[08/25 01:01:07 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,174 points to Power.
+[08/25 01:01:07 PM] Your mighty blow defeated Nagísu the Keen-eyed.
+[08/25 01:01:08 PM] Nlkosi scored a hit with Essence of Winter on Nagísu the Keen-eyed for 11,454 Frost damage to Morale.
+[08/25 01:01:08 PM] The Caltrops tried to use Light Injury on Nlkosi but he resisted the attempt.
+[08/25 01:01:10 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 982 points to Power.
+[08/25 01:01:46 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Robber for 9,242 Lightning damage to Morale.
+[08/25 01:01:47 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:01:47 PM] Nlkosi scored a critical hit with Shocking Words on the Idagâl Robber for 62,177 Lightning damage to Morale.
+[08/25 01:01:48 PM] Nlkosi scored a hit with Scribe's Spark on the Idagâl Robber for 11,814 Lightning damage to Morale.
+[08/25 01:01:49 PM] Your mighty blow defeated the Idagâl Robber.
+[08/25 01:01:50 PM] Nlkosi scored a critical hit with Epic Conclusion on the Idagâl Robber for 123,435 Lightning damage to Morale.
+[08/25 01:01:53 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Marksman for 10,659 Lightning damage to Morale.
+[08/25 01:01:54 PM] Nlkosi scored a devastating hit with Scribe's Spark on the Idagâl Marksman for 39,958 Lightning damage to Morale.
+[08/25 01:01:54 PM] The Idagâl Marksman scored a hit with a weak ranged attack on Nlkosi for 7,837 Common damage to Morale.
+[08/25 01:01:55 PM] Your mighty blow defeated the Idagâl Marksman.
+[08/25 01:01:55 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Idagâl Marksman for 34,897 Lightning damage to Morale.
+[08/25 01:02:02 PM] The Idagâl Cutthroat scored a hit with a melee triple attack on Nlkosi for 3,509 Common damage to Morale.
+[08/25 01:02:03 PM] The Idagâl Cutthroat scored a hit with a melee triple attack on Nlkosi for 3,509 Common damage to Morale.
+[08/25 01:02:04 PM] The Idagâl Cutthroat scored a hit with a melee triple attack on Nlkosi for 3,509 Common damage to Morale.
+[08/25 01:02:04 PM] Nothing to dispel.
+[08/25 01:02:04 PM] Nlkosi scored a hit with Writ of Lightning on the Idagâl Cutthroat for 9,025 Lightning damage to Morale.
+[08/25 01:02:04 PM] Nlkosi scored a hit with Improved Final Word on the Idagâl Cutthroat.
+[08/25 01:02:04 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 247 points to Morale.
+[08/25 01:02:05 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 01:02:05 PM] The Idagâl Cutthroat scored a hit with a minor melee attack on Nlkosi for 9,641 Common damage to Morale.
+[08/25 01:02:06 PM] Nlkosi scored a hit with Shocking Touch on the Idagâl Cutthroat for 4,956 Lightning damage to Morale.
+[08/25 01:02:06 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/25 01:02:07 PM] Nlkosi scored a hit with Head-butt on the Idagâl Cutthroat for 13,304 Common damage to Morale.
+[08/25 01:02:08 PM] The Idagâl Cutthroat scored a hit with a moderate melee attack on Nlkosi for 10,606 Common damage to Morale.
+[08/25 01:02:08 PM] You have lost 10,606 points of temporary Morale!
+[08/25 01:02:08 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Cutthroat for 10,993 Lightning damage to Morale.
+[08/25 01:02:09 PM] Nlkosi scored a hit with Epic Conclusion on the Idagâl Cutthroat for 33,812 Lightning damage to Morale.
+[08/25 01:02:10 PM] The Idagâl Cutthroat scored a hit with a weak melee attack on Nlkosi for 7,713 Common damage to Morale.
+[08/25 01:02:10 PM] You have lost 7,713 points of temporary Morale!
+[08/25 01:02:10 PM] Your mighty blow defeated the Idagâl Cutthroat.
+[08/25 01:02:11 PM] Nlkosi scored a hit with Essence of Storm on the Idagâl Cutthroat for 12,582 Lightning damage to Morale.
+[08/25 01:02:22 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:02:23 PM] Nlkosi scored a critical hit with Writ of Lightning on the Idagâl Robber for 25,733 Lightning damage to Morale.
+[08/25 01:02:24 PM] Nlkosi scored a hit with Scribe's Spark on the Idagâl Robber for 14,340 Lightning damage to Morale.
+[08/25 01:02:25 PM] Your mighty blow defeated the Idagâl Robber.
+[08/25 01:02:25 PM] Nlkosi scored a critical hit with Shocking Words on the Idagâl Robber for 89,654 Lightning damage to Morale.
+[08/25 01:02:26 PM] You have lost 49,254 points of temporary Morale!
+[08/25 01:02:45 PM] The Idagâl Marksman scored a hit with Sniper Arrow on Nlkosi.
+[08/25 01:02:45 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 10,123 Common damage to Morale.
+[08/25 01:02:46 PM] The Idagâl Rat-keeper scored a hit with a weak thrown attack on Nlkosi for 6,562 Common damage to Morale.
+[08/25 01:02:47 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 10,123 Common damage to Morale.
+[08/25 01:02:48 PM] The Idagâl Marksman scored a hit with a weak melee attack on Nlkosi for 7,327 Common damage to Morale.
+[08/25 01:02:48 PM] The Herbalist applied a benefit with Nature's Power on Nlkosi.
+[08/25 01:02:48 PM] The Idagâl Rat-keeper scored a hit with a minor thrown attack on Nlkosi for 8,202 Common damage to Morale.
+[08/25 01:02:48 PM] The Keeper's Rat scored a partially evaded hit with a minor melee attack on Nlkosi for 6,249 Common damage to Morale.
+[08/25 01:02:48 PM] Nlkosi scored a hit with Scribe's Spark on the Idagâl Marksman for 10,689 Lightning damage to Morale.
+[08/25 01:02:50 PM] Nlkosi scored a hit with Writ of Lightning on the Idagâl Marksman for 10,288 Lightning damage to Morale.
+[08/25 01:02:50 PM] The Idagâl Rat-keeper scored a hit with a moderate thrown attack on Nlkosi for 9,023 Common damage to Morale.
+[08/25 01:02:50 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 201 points to Morale.
+[08/25 01:02:50 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 9,820 Common damage to Morale.
+[08/25 01:02:50 PM] The Keeper's Rat scored a hit with a weak melee attack on Nlkosi for 5,399 Common damage to Morale.
+[08/25 01:02:50 PM] The Idagâl Marksman scored a hit with a weak ranged attack on the Herbalist for 8,251 Common damage to Morale.
+[08/25 01:02:50 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 01:02:50 PM] Nature's Power applied a heal to Nlkosi restoring 881 points to Power.
+[08/25 01:02:51 PM] Nlkosi scored a hit with Essence of Storm on the Idagâl Marksman for 11,475 Lightning damage to Morale.
+[08/25 01:02:51 PM] The Idagâl Marksman scored a hit with a weak ranged attack on Nlkosi for 7,856 Common damage to Morale.
+[08/25 01:02:51 PM] The Idagâl Rat-keeper scored a hit with a weak thrown attack on Nlkosi for 6,365 Common damage to Morale.
+[08/25 01:02:52 PM] The Idagâl Marksman scored a hit with a minor ranged attack on the Herbalist for 10,314 Common damage to Morale.
+[08/25 01:02:52 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 9,516 Common damage to Morale.
+[08/25 01:02:53 PM] Nlkosi scored a hit with Chilling Rhetoric on the Idagâl Marksman for 11,973 Frost damage to Morale.
+[08/25 01:02:53 PM] Refreshing Herbs applied a heal to Nlkosi restoring 938 points to Morale.
+[08/25 01:02:53 PM] The Idagâl Rat-keeper scored a partially blocked hit with a minor thrown attack on the Herbalist for 5,403 Common damage to Morale.
+[08/25 01:02:53 PM] Nlkosi scored a hit with Sustaining Bolt on the Idagâl Marksman for 6,190 Lightning damage to Morale.
+[08/25 01:02:53 PM] The Herbalist applied a benefit with Refreshing Herbs on Nlkosi.
+[08/25 01:02:53 PM] The Idagâl Marksman scored a hit with a moderate ranged attack on Nlkosi for 10,468 Common damage to Morale.
+[08/25 01:02:53 PM] The Keeper's Rat scored a hit with a melee double attack on the Herbalist for 5,501 Common damage to Morale.
+[08/25 01:02:53 PM] The Keeper's Rat scored a hit with a melee double attack on the Herbalist for 5,501 Common damage to Morale.
+[08/25 01:02:53 PM] Nature's Power applied a heal to Nlkosi restoring 1,132 points to Power.
+[08/25 01:02:54 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 9,212 Common damage to Morale.
+[08/25 01:02:54 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,285 points to Power.
+[08/25 01:02:54 PM] Sustenance applied a heal to Nlkosi restoring 21,353 points to Morale.
+[08/25 01:02:54 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:02:54 PM] The Idagâl Rat-keeper scored a hit with a moderate thrown attack on the Herbalist for 9,215 Common damage to Morale.
+[08/25 01:02:55 PM] The Idagâl Marksman tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[08/25 01:02:55 PM] Nlkosi scored a critical hit with Writ of Lightning on the Idagâl Marksman for 31,183 Lightning damage to Morale.
+[08/25 01:02:55 PM] The Keeper's Rat scored a hit with a moderate melee attack on the Herbalist for 7,564 Common damage to Morale.
+[08/25 01:02:56 PM] The Idagâl Marksman scored a hit with Sniper Arrow on the Herbalist.
+[08/25 01:02:56 PM] Nlkosi scored a hit with Scribe's Spark on the Idagâl Marksman for 18,662 Lightning damage to Morale.
+[08/25 01:02:56 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 9,212 Common damage to Morale.
+[08/25 01:02:56 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 207 points to Morale.
+[08/25 01:02:56 PM] Your mighty blow defeated the Idagâl Marksman.
+[08/25 01:02:56 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 01:02:56 PM] The Idagâl Rat-keeper tried to use a weak thrown attack on the Herbalist but she evaded the attempt.
+[08/25 01:02:57 PM] Nature's Power applied a heal to Nlkosi restoring 1,193 points to Power.
+[08/25 01:02:57 PM] The Idagâl Marksman scored a hit with Deep Wound on the Herbalist for 10,314 Common damage to Morale.
+[08/25 01:02:57 PM] The Keeper's Rat defeated the Herbalist.
+[08/25 01:02:58 PM] Your mighty blow defeated the Keeper's Rat.
+[08/25 01:02:58 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 8,909 Common damage to Morale.
+[08/25 01:02:58 PM] Nlkosi scored a critical hit with Epic Conclusion on the Keeper's Rat for 184,280 Lightning damage to Morale.
+[08/25 01:02:59 PM] The Idagâl Marksman scored a devastating hit with a moderate ranged attack on Nlkosi for 19,558 Common damage to Morale.
+[08/25 01:03:00 PM] Nature's Power applied a heal to Nlkosi restoring 1,113 points to Power.
+[08/25 01:03:00 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 8,909 Common damage to Morale.
+[08/25 01:03:00 PM] Nlkosi scored a hit with Writ of Lightning on the Idagâl Rat-keeper for 12,208 Lightning damage to Morale.
+[08/25 01:03:01 PM] Nothing to dispel.
+[08/25 01:03:01 PM] Nlkosi scored a hit with Static Surge on the Idagâl Rat-keeper for 25,332 Lightning damage to Morale.
+[08/25 01:03:01 PM] Nlkosi scored a hit with Improved Final Word on the Idagâl Rat-keeper.
+[08/25 01:03:01 PM] The Idagâl Rat-keeper scored a hit with a minor melee attack on Nlkosi for 7,218 Common damage to Morale.
+[08/25 01:03:01 PM] The Idagâl Marksman scored a hit with a weak ranged attack on Nlkosi for 7,127 Common damage to Morale.
+[08/25 01:03:02 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 8,909 Common damage to Morale.
+[08/25 01:03:02 PM] Increased Morale applied a heal to Nlkosi restoring 83,497 points to Morale.
+[08/25 01:03:03 PM] The Idagâl Rat-keeper scored a critical hit with a weak melee attack on Nlkosi for 8,258 Common damage to Morale.
+[08/25 01:03:03 PM] Nlkosi scored a hit with Shocking Touch on the Idagâl Rat-keeper for 4,938 Lightning damage to Morale.
+[08/25 01:03:03 PM] Nature's Power applied a heal to Nlkosi restoring 919 points to Power.
+[08/25 01:03:03 PM] The Idagâl Marksman scored a hit with a minor ranged attack on Nlkosi for 8,909 Common damage to Morale.
+[08/25 01:03:03 PM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[08/25 01:03:04 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 3,847 Common damage to Morale.
+[08/25 01:03:05 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Rat-keeper for 13,201 Lightning damage to Morale.
+[08/25 01:03:05 PM] The Idagâl Marksman scored a hit with a weak ranged attack on Nlkosi for 3,078 Common damage to Morale.
+[08/25 01:03:05 PM] Your mighty blow defeated the Idagâl Rat-keeper.
+[08/25 01:03:06 PM] Nlkosi scored a hit with Shocking Words on the Idagâl Rat-keeper for 30,890 Lightning damage to Morale.
+[08/25 01:03:06 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 3,847 Common damage to Morale.
+[08/25 01:03:07 PM] The Idagâl Marksman scored a hit with a moderate ranged attack on Nlkosi for 4,232 Common damage to Morale.
+[08/25 01:03:08 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Marksman for 12,579 Lightning damage to Morale.
+[08/25 01:03:09 PM] The Idagâl Marksman scored a critical hit with a weak ranged attack on Nlkosi for 5,791 Common damage to Morale.
+[08/25 01:03:09 PM] Nlkosi scored a hit with Scribe's Spark on the Idagâl Marksman for 11,614 Lightning damage to Morale.
+[08/25 01:03:11 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Marksman for 9,340 Lightning damage to Morale.
+[08/25 01:03:11 PM] The Idagâl Marksman scored a hit with a minor melee attack on Nlkosi for 4,580 Common damage to Morale.
+[08/25 01:03:12 PM] Nlkosi scored a hit with Writ of Lightning on the Idagâl Marksman for 8,793 Lightning damage to Morale.
+[08/25 01:03:14 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Marksman for 11,294 Lightning damage to Morale.
+[08/25 01:03:14 PM] The Idagâl Marksman scored a hit with a minor ranged attack on Nlkosi for 5,062 Common damage to Morale.
+[08/25 01:03:15 PM] Nlkosi scored a hit with Scribe's Spark on the Idagâl Marksman for 11,478 Lightning damage to Morale.
+[08/25 01:03:16 PM] Nlkosi scored a hit with Essence of Storm on the Idagâl Marksman for 14,870 Lightning damage to Morale.
+[08/25 01:03:18 PM] Nlkosi scored a hit with Distracting Flame on the Idagâl Marksman.
+[08/25 01:03:19 PM] Your mighty blow defeated the Idagâl Marksman.
+[08/25 01:03:19 PM] Nlkosi scored a critical hit with Essence of Winter on the Idagâl Marksman for 39,858 Frost damage to Morale.
+[08/25 01:03:21 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Deserter for 12,337 Lightning damage to Morale.
+[08/25 01:03:22 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:03:22 PM] Nlkosi scored a critical hit with Epic Conclusion on the Ordâkhai Deserter for 188,650 Lightning damage to Morale.
+[08/25 01:03:24 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Deserter for 12,804 Lightning damage to Morale.
+[08/25 01:03:26 PM] The Ordâkhai Deserter scored a hit with a minor melee attack on Nlkosi for 15,379 Common damage to Morale.
+[08/25 01:03:26 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Deserter for 11,945 Lightning damage to Morale.
+[08/25 01:03:27 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Deserter for 10,873 Lightning damage to Morale.
+[08/25 01:03:28 PM] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Deserter for 36,988 Lightning damage to Morale.
+[08/25 01:03:28 PM] The Ordâkhai Deserter scored a hit with a mighty melee attack on Nlkosi for 27,683 Common damage to Morale.
+[08/25 01:03:29 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Deserter for 37,376 Lightning damage to Morale.
+[08/25 01:03:30 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Deserter for 13,177 Lightning damage to Morale.
+[08/25 01:03:31 PM] The Ordâkhai Deserter scored a critical hit with a weak melee attack on Nlkosi for 17,594 Common damage to Morale.
+[08/25 01:03:31 PM] Your mighty blow defeated the Ordâkhai Deserter.
+[08/25 01:03:32 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Deserter for 34,953 Lightning damage to Morale.
+[08/25 01:03:38 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:03:38 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Deserter for 35,044 Lightning damage to Morale.
+[08/25 01:03:39 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Deserter for 8,305 Lightning damage to Morale.
+[08/25 01:03:40 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,002 points to Power.
+[08/25 01:03:40 PM] Sustenance applied a heal to Nlkosi restoring 19,283 points to Morale.
+[08/25 01:03:41 PM] Nlkosi scored a hit with Shocking Words on the Ordâkhai Deserter for 26,369 Lightning damage to Morale.
+[08/25 01:03:42 PM] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Deserter for 10,727 Lightning damage to Morale.
+[08/25 01:03:43 PM] The Ordâkhai Deserter scored a hit with a weak melee attack on Nlkosi for 11,223 Common damage to Morale.
+[08/25 01:03:44 PM] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Deserter for 15,868 Fire damage to Morale.
+[08/25 01:03:45 PM] Nothing to dispel.
+[08/25 01:03:45 PM] Nlkosi scored a critical hit with Writ of Lightning on the Ordâkhai Deserter for 31,944 Lightning damage to Morale.
+[08/25 01:03:45 PM] Nlkosi scored a critical hit with Improved Final Word on the Ordâkhai Deserter.
+[08/25 01:03:46 PM] The Ordâkhai Deserter scored a partially evaded hit with a moderate melee attack on Nlkosi for 14,287 Common damage to Morale.
+[08/25 01:03:47 PM] Nlkosi scored a critical hit with Shocking Touch on the Ordâkhai Deserter for 12,676 Lightning damage to Morale.
+[08/25 01:03:48 PM] Nlkosi scored a hit with Static Surge on the Ordâkhai Deserter for 25,168 Lightning damage to Morale.
+[08/25 01:03:49 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:03:49 PM] Your mighty blow defeated the Ordâkhai Deserter.
+[08/25 01:03:49 PM] Nlkosi scored a critical hit with Epic Conclusion on the Ordâkhai Deserter for 186,874 Lightning damage to Morale.
+[08/25 01:03:54 PM] Nlkosi applied a benefit with Herbalist on Nlkosi.
+[08/25 01:03:54 PM] The Herbalist applied a critical benefit with Herbalist Aura on the Herbalist.
+[08/25 01:04:31 PM] The Idagâl Robber scored a partially blocked hit with a weak melee attack on the Herbalist for 5,403 Common damage to Morale.
+[08/25 01:04:33 PM] The Idagâl Robber scored a partially evaded hit with a minor melee attack on the Herbalist for 6,754 Common damage to Morale.
+[08/25 01:04:33 PM] Herbalist's Care applied a heal to Nlkosi restoring 192 points to Morale.
+[08/25 01:04:33 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 01:04:35 PM] The Idagâl Robber scored a hit with a weak melee attack on the Herbalist for 8,377 Common damage to Morale.
+[08/25 01:04:36 PM] The Herbalist applied a benefit with Nature's Power on Nlkosi.
+[08/25 01:04:37 PM] The Idagâl Robber tried to use a moderate melee attack on the Herbalist but she parried the attempt.
+[08/25 01:04:37 PM] Nlkosi scored a hit with Scribe's Spark on the Idagâl Robber for 10,769 Lightning damage to Morale.
+[08/25 01:04:38 PM] Nothing to dispel.
+[08/25 01:04:38 PM] Nlkosi scored a hit with Epic Conclusion on the Idagâl Robber for 37,802 Lightning damage to Morale.
+[08/25 01:04:38 PM] Nlkosi scored a critical hit with Improved Final Word on the Idagâl Robber.
+[08/25 01:04:38 PM] Nlkosi applied a heal with Refreshing Herbs to the Herbalist restoring 1,118 points to Morale.
+[08/25 01:04:38 PM] The Herbalist applied a benefit with Refreshing Herbs on the Herbalist.
+[08/25 01:04:39 PM] The Idagâl Robber scored a hit with a weak melee attack on Nlkosi for 8,202 Common damage to Morale.
+[08/25 01:04:39 PM] Nature's Power applied a heal to Nlkosi restoring 1,194 points to Power.
+[08/25 01:04:41 PM] The Idagâl Robber scored a devastating hit with a minor melee attack on Nlkosi for 19,788 Common damage to Morale.
+[08/25 01:04:41 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 186 points to Morale.
+[08/25 01:04:41 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 01:04:42 PM] Nlkosi scored a hit with Shocking Touch on the Idagâl Robber for 5,220 Lightning damage to Morale.
+[08/25 01:04:42 PM] Nature's Power applied a heal to Nlkosi restoring 1,101 points to Power.
+[08/25 01:04:44 PM] Nlkosi scored a hit with Vivid Imagery on the Idagâl Robber for 11,147 Lightning damage to Morale.
+[08/25 01:04:45 PM] Nature's Power applied a heal to Nlkosi restoring 924 points to Power.
+[08/25 01:04:45 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:04:45 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Idagâl Robber for 15,530 Lightning damage to Morale.
+[08/25 01:04:46 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,927 points to Power.
+[08/25 01:04:46 PM] Sustenance applied a heal to Nlkosi restoring 20,915 points to Morale.
+[08/25 01:04:46 PM] The Idagâl Robber scored a hit with a weak melee attack on Nlkosi for 8,202 Common damage to Morale.
+[08/25 01:04:48 PM] Nlkosi scored a hit with Distracting Flame on the Idagâl Robber.
+[08/25 01:04:48 PM] Nature's Power applied a heal to Nlkosi restoring 1,092 points to Power.
+[08/25 01:04:48 PM] Your mighty blow defeated the Idagâl Robber.
+[08/25 01:04:48 PM] Nlkosi scored a critical hit with Essence of Storm on the Idagâl Robber for 62,309 Lightning damage to Morale.
+[08/25 01:04:51 PM] Nature's Power applied a heal to Nlkosi restoring 1,174 points to Power.
+[08/25 01:05:31 PM] Nlkosi scored a hit with Essence of Flame on the Idagâl Marksman for 13,242 Fire damage to Morale.
+[08/25 01:05:32 PM] Nlkosi scored a hit with Distracting Flame on the Idagâl Marksman.
+[08/25 01:05:33 PM] The Idagâl Marksman scored a critical hit with a weak ranged attack on Nlkosi for 11,581 Common damage to Morale.
+[08/25 01:05:33 PM] Nlkosi scored a hit with Fiery Ridicule on the Idagâl Marksman for 6,725 Fire damage to Morale.
+[08/25 01:05:33 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:05:34 PM] Nlkosi scored a devastating hit with Scribe's Spark on the Idagâl Marksman for 39,203 Lightning damage to Morale.
+[08/25 01:05:34 PM] The Idagâl Marksman scored a hit with a minor ranged attack on Nlkosi for 10,123 Common damage to Morale.
+[08/25 01:05:34 PM] Nlkosi scored a hit with Sustaining Bolt on the Idagâl Marksman for 7,186 Lightning damage to Morale.
+[08/25 01:05:35 PM] The Herbalist applied a benefit with Nature's Power on Nlkosi.
+[08/25 01:05:35 PM] Nlkosi scored a hit with Distracting Flame on the Idagâl Marksman for 3,332 Fire damage to Morale.
+[08/25 01:05:35 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,165 points to Power.
+[08/25 01:05:35 PM] Sustenance applied a heal to Nlkosi restoring 20,720 points to Morale.
+[08/25 01:05:36 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Idagâl Marksman for 5,864 Fire damage to Morale.
+[08/25 01:05:36 PM] Your mighty blow defeated the Idagâl Marksman.
+[08/25 01:05:36 PM] Nlkosi scored a hit with Epic Conclusion on the Idagâl Marksman for 48,568 Lightning damage to Morale.
+[08/25 01:05:38 PM] Nature's Power applied a heal to Nlkosi restoring 942 points to Power.
+[08/25 01:05:41 PM] Nature's Power applied a heal to Nlkosi restoring 1,121 points to Power.
+[08/25 01:05:44 PM] Nature's Power applied a heal to Nlkosi restoring 1,213 points to Power.
+[08/25 01:05:47 PM] Nature's Power applied a heal to Nlkosi restoring 1,038 points to Power.
+[08/25 01:05:50 PM] Nature's Power applied a heal to Nlkosi restoring 1,083 points to Power.
+[08/25 01:05:55 PM] Nothing to dispel.
+[08/25 01:05:56 PM] Nlkosi scored a hit with Improved Final Word on the Idagâl Marksman.
+[08/25 01:05:57 PM] Nlkosi scored a hit with Essence of Storm on the Idagâl Marksman for 9,880 Lightning damage to Morale.
+[08/25 01:05:57 PM] The Idagâl Marksman scored a hit with a weak ranged attack on Nlkosi for 8,613 Common damage to Morale.
+[08/25 01:05:59 PM] Herbalist's Care applied a heal to Nlkosi restoring 252 points to Morale.
+[08/25 01:05:59 PM] Nlkosi scored a hit with Essence of Winter on the Idagâl Marksman for 11,094 Frost damage to Morale.
+[08/25 01:05:59 PM] The Idagâl Marksman scored a hit with a moderate ranged attack on Nlkosi for 11,842 Common damage to Morale.
+[08/25 01:06:00 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 01:06:00 PM] Nlkosi scored a hit with Scribe's Spark on the Idagâl Marksman for 10,796 Lightning damage to Morale.
+[08/25 01:06:01 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:06:01 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Idagâl Marksman for 14,079 Lightning damage to Morale.
+[08/25 01:06:01 PM] The Idagâl Marksman scored a hit with a minor ranged attack on Nlkosi for 10,766 Common damage to Morale.
+[08/25 01:06:02 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,982 points to Power.
+[08/25 01:06:02 PM] Sustenance applied a heal to Nlkosi restoring 19,539 points to Morale.
+[08/25 01:06:02 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/25 01:06:03 PM] The Herbalist applied a benefit with Nature's Power on Nlkosi.
+[08/25 01:06:04 PM] The Idagâl Marksman scored a hit with a weak ranged attack on Nlkosi for 8,613 Common damage to Morale.
+[08/25 01:06:04 PM] You have lost 8,613 points of temporary Morale!
+[08/25 01:06:04 PM] Nlkosi applied a heal with Refreshing Herbs to the Herbalist restoring 979 points to Morale.
+[08/25 01:06:05 PM] The Herbalist applied a benefit with Refreshing Herbs on the Herbalist.
+[08/25 01:06:05 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/25 01:06:05 PM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[08/25 01:06:05 PM] Nothing to cure.
+[08/25 01:06:05 PM] Nature's Power applied a heal to Nlkosi restoring 1,217 points to Power.
+[08/25 01:06:06 PM] The Idagâl Marksman scored a hit with a moderate ranged attack on Nlkosi for 11,842 Common damage to Morale.
+[08/25 01:06:06 PM] You have lost 11,842 points of temporary Morale!
+[08/25 01:06:06 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/25 01:06:07 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Idagâl Marksman for 29,491 Lightning damage to Morale.
+[08/25 01:06:07 PM] Nothing to cure.
+[08/25 01:06:08 PM] Herbalist's Care applied a heal to Nlkosi restoring 204 points to Morale.
+[08/25 01:06:08 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 01:06:08 PM] Your mighty blow defeated the Idagâl Marksman.
+[08/25 01:06:08 PM] Nlkosi scored a critical hit with Scribe's Spark on the Idagâl Marksman for 37,956 Lightning damage to Morale.
+[08/25 01:06:08 PM] Nature's Power applied a heal to Nlkosi restoring 917 points to Power.
+[08/25 01:06:09 PM] Nothing to cure.
+[08/25 01:06:11 PM] Nature's Power applied a heal to Nlkosi restoring 909 points to Power.
+[08/25 01:06:15 PM] Nature's Power applied a heal to Nlkosi restoring 1,129 points to Power.
+[08/25 01:06:18 PM] Nature's Power applied a heal to Nlkosi restoring 1,191 points to Power.
+[08/25 01:06:22 PM] You have lost 47,118 points of temporary Morale!
+[08/25 01:06:23 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Deserter for 9,265 Lightning damage to Morale.
+[08/25 01:06:23 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:06:24 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Deserter for 1,293 Frost damage to Morale.
+[08/25 01:06:24 PM] Nlkosi scored a critical hit with Epic Conclusion on the Ordâkhai Deserter for 113,257 Lightning damage to Morale.
+[08/25 01:06:25 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Ordâkhai Deserter for 15,311 Lightning damage to Morale.
+[08/25 01:06:26 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,271 points to Power.
+[08/25 01:06:26 PM] Sustenance applied a heal to Nlkosi restoring 16,185 points to Morale.
+[08/25 01:06:27 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Deserter for 15,491 Lightning damage to Morale.
+[08/25 01:06:27 PM] The Ordâkhai Deserter scored a hit with a weak melee attack on Nlkosi for 12,304 Common damage to Morale.
+[08/25 01:06:28 PM] Nlkosi scored a hit with Shocking Words on the Ordâkhai Deserter for 27,403 Lightning damage to Morale.
+[08/25 01:06:29 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 218 points to Morale.
+[08/25 01:06:29 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 01:06:29 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Ordâkhai Deserter for 13,257 Frost damage to Morale.
+[08/25 01:06:30 PM] Nothing to dispel.
+[08/25 01:06:30 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Deserter for 30,082 Lightning damage to Morale.
+[08/25 01:06:30 PM] Nlkosi scored a hit with Improved Final Word on the Ordâkhai Deserter.
+[08/25 01:06:31 PM] The Ordâkhai Deserter scored a partially evaded hit with a mighty melee attack on Nlkosi for 24,933 Common damage to Morale.
+[08/25 01:06:31 PM] Nlkosi scored a hit with Head-butt on the Ordâkhai Deserter for 12,903 Common damage to Morale.
+[08/25 01:06:33 PM] Nlkosi scored a critical hit with Vivid Imagery on the Ordâkhai Deserter for 32,898 Lightning damage to Morale.
+[08/25 01:06:35 PM] Nothing to cure.
+[08/25 01:06:36 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/25 01:06:37 PM] Nothing to cure.
+[08/25 01:06:37 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Deserter for 1,318 Frost damage to Morale.
+[08/25 01:06:38 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/25 01:06:38 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:06:38 PM] The Ordâkhai Deserter scored a hit with Light Injury on Nlkosi for 6,152 Common damage to Morale.
+[08/25 01:06:38 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Deserter for 32,499 Lightning damage to Morale.
+[08/25 01:06:38 PM] The Ordâkhai Deserter scored a hit with Caltrop Scatter on Nlkosi.
+[08/25 01:06:39 PM] Nothing to cure.
+[08/25 01:06:39 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Deserter for 13,054 Lightning damage to Morale.
+[08/25 01:06:40 PM] The Ordâkhai Deserter scored a hit with Light Injury on Nlkosi for 6,152 Common damage to Morale.
+[08/25 01:06:40 PM] Refreshing Herbs applied a heal to Nlkosi restoring 1,116 points to Morale.
+[08/25 01:06:40 PM] Your mighty blow defeated the Ordâkhai Deserter.
+[08/25 01:06:41 PM] The Herbalist applied a benefit with Refreshing Herbs on Nlkosi.
+[08/25 01:06:41 PM] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Deserter for 33,978 Lightning damage to Morale.
+[08/25 01:06:42 PM] The Ordâkhai Deserter scored a hit with Light Injury on Nlkosi for 6,152 Common damage to Morale.
+[08/25 01:06:44 PM] The Ordâkhai Deserter scored a hit with Light Injury on Nlkosi for 6,152 Common damage to Morale.
+[08/25 01:06:46 PM] The Ordâkhai Deserter scored a hit with Light Injury on Nlkosi for 6,152 Common damage to Morale.
+[08/25 01:06:48 PM] The Ordâkhai Deserter scored a hit with Light Injury on Nlkosi for 6,152 Common damage to Morale.
+[08/25 01:15:17 PM] Nlkosi applied a benefit with Herbalist on Nlkosi.
+[08/25 01:15:17 PM] The Herbalist applied a benefit with Herbalist Aura on the Herbalist.
+[08/25 01:15:21 PM] The Idagâl Rat-keeper scored a hit with a weak thrown attack on Nlkosi for 6,170 Common damage to Morale.
+[08/25 01:15:22 PM] The Keeper's Rat scored a hit with a weak melee attack on Nlkosi for 5,060 Common damage to Morale.
+[08/25 01:15:22 PM] Nlkosi scored a hit with Writ of Lightning on the Keeper's Rat for 8,647 Lightning damage to Morale.
+[08/25 01:15:23 PM] The Idagâl Rat-keeper scored a hit with a weak melee attack on Nlkosi for 6,170 Common damage to Morale.
+[08/25 01:15:23 PM] Nothing to dispel.
+[08/25 01:15:23 PM] Nlkosi scored a hit with Head-butt on the Keeper's Rat for 13,686 Common damage to Morale.
+[08/25 01:15:23 PM] Nlkosi scored a hit with Improved Final Word on the Keeper's Rat.
+[08/25 01:15:23 PM] The Herbalist applied a benefit with Nature's Power on the Herbalist.
+[08/25 01:15:24 PM] The Keeper's Rat scored a partially evaded hit with a moderate melee attack on Nlkosi for 6,229 Common damage to Morale.
+[08/25 01:15:24 PM] You have lost 6,229 points of temporary Morale!
+[08/25 01:15:24 PM] The Idagâl Rat-keeper tried to use a minor melee attack on Nlkosi but he evaded the attempt.
+[08/25 01:15:24 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/25 01:15:24 PM] Nlkosi scored a hit with Static Surge on the Idagâl Rat-keeper for 19,971 Lightning damage to Morale.
+[08/25 01:15:24 PM] Nlkosi scored a hit with Static Surge on the Keeper's Rat for 20,881 Lightning damage to Morale.
+[08/25 01:15:25 PM] Herbalist's Care applied a heal to Nlkosi restoring 234 points to Morale.
+[08/25 01:15:25 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 01:15:26 PM] You have lost 8,773 points of temporary Morale!
+[08/25 01:15:26 PM] The Idagâl Rat-keeper scored a hit with a moderate melee attack on Nlkosi for 8,230 Common damage to Morale.
+[08/25 01:15:26 PM] You have lost 8,230 points of temporary Morale!
+[08/25 01:15:26 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,187 points to Power.
+[08/25 01:15:28 PM] Nlkosi scored a hit with Flurry of Words on the Idagâl Rat-keeper for 1,481 Frost damage to Morale.
+[08/25 01:15:28 PM] Nlkosi scored a hit with Flurry of Words on the Keeper's Rat for 1,494 Frost damage to Morale.
+[08/25 01:15:28 PM] The Idagâl Rat-keeper scored a hit with a weak melee attack on Nlkosi for 5,985 Common damage to Morale.
+[08/25 01:15:28 PM] You have lost 5,985 points of temporary Morale!
+[08/25 01:15:28 PM] Refreshing Herbs applied a heal to Nlkosi restoring 848 points to Morale.
+[08/25 01:15:28 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/25 01:15:29 PM] The Herbalist applied a benefit with Refreshing Herbs on Nlkosi.
+[08/25 01:15:29 PM] Nlkosi scored a hit with Writ of Lightning on the Keeper's Rat for 9,378 Lightning damage to Morale.
+[08/25 01:15:29 PM] The Keeper's Rat scored a hit with a weak melee attack on Nlkosi for 4,908 Common damage to Morale.
+[08/25 01:15:29 PM] You have lost 4,908 points of temporary Morale!
+[08/25 01:15:29 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,054 points to Power.
+[08/25 01:15:30 PM] The Idagâl Rat-keeper scored a hit with Lesser Crippling Poison on Nlkosi.
+[08/25 01:15:31 PM] Nlkosi scored a hit with Chilling Rhetoric on the Keeper's Rat for 7,660 Frost damage to Morale.
+[08/25 01:15:31 PM] Nlkosi scored a hit with Flurry of Words on the Idagâl Rat-keeper for 2,348 Frost damage to Morale.
+[08/25 01:15:31 PM] Nlkosi scored a hit with Flurry of Words on the Keeper's Rat for 2,090 Frost damage to Morale.
+[08/25 01:15:31 PM] The Flurry of Words defeated the Keeper's Rat.
+[08/25 01:15:31 PM] You have lost 6,237 points of temporary Morale!
+[08/25 01:15:31 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:15:31 PM] You have lost 7,482 points of temporary Morale!
+[08/25 01:15:32 PM] Nlkosi scored a critical hit with Vivid Imagery on the Idagâl Rat-keeper for 31,146 Lightning damage to Morale.
+[08/25 01:15:32 PM] Nlkosi scored a hit with Vivid Imagery on the Keeper's Rat for 13,123 Lightning damage to Morale.
+[08/25 01:15:32 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 933 points to Power.
+[08/25 01:15:33 PM] Your mighty blow defeated the Idagâl Rat-keeper.
+[08/25 01:15:34 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Idagâl Rat-keeper for 36,242 Lightning damage to Morale.
+[08/25 01:15:35 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 961 points to Power.
+[08/25 01:15:38 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,096 points to Power.
+[08/25 01:15:44 PM] You have lost 19,729 points of temporary Morale!
+[08/25 01:15:57 PM] The Idagâl Marksman scored a hit with a weak ranged attack on Nlkosi for 8,613 Common damage to Morale.
+[08/25 01:15:59 PM] Nlkosi scored a hit with Writ of Lightning on the Idagâl Marksman for 7,261 Lightning damage to Morale.
+[08/25 01:15:59 PM] The Idagâl Marksman scored a hit with a minor ranged attack on Nlkosi for 10,766 Common damage to Morale.
+[08/25 01:16:00 PM] Nlkosi scored a hit with Sustaining Bolt on the Idagâl Marksman for 4,305 Lightning damage to Morale.
+[08/25 01:16:01 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,886 points to Power.
+[08/25 01:16:01 PM] Sustenance applied a heal to Nlkosi restoring 20,310 points to Morale.
+[08/25 01:16:01 PM] The Idagâl Marksman scored a hit with a weak ranged attack on Nlkosi for 8,613 Common damage to Morale.
+[08/25 01:16:02 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Idagâl Marksman for 11,224 Frost damage to Morale.
+[08/25 01:16:02 PM] Nlkosi scored a hit with Essence of Storm on the Idagâl Marksman for 9,226 Lightning damage to Morale.
+[08/25 01:16:03 PM] The Idagâl Marksman scored a hit with a minor ranged attack on Nlkosi for 10,766 Common damage to Morale.
+[08/25 01:16:04 PM] Nlkosi scored a hit with Scribe's Spark on the Idagâl Marksman for 11,560 Lightning damage to Morale.
+[08/25 01:16:05 PM] Nlkosi scored a hit with Epic Conclusion on the Idagâl Marksman for 36,212 Lightning damage to Morale.
+[08/25 01:16:06 PM] The Idagâl Marksman scored a hit with a moderate ranged attack on Nlkosi for 11,842 Common damage to Morale.
+[08/25 01:16:06 PM] Your mighty blow defeated the Idagâl Marksman.
+[08/25 01:16:07 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Marksman for 8,348 Lightning damage to Morale.
+[08/25 01:17:34 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:17:34 PM] Nlkosi scored a critical hit with Writ of Lightning on the Ordâkhai Deserter for 22,377 Lightning damage to Morale.
+[08/25 01:17:35 PM] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Deserter for 33,543 Lightning damage to Morale.
+[08/25 01:17:37 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Deserter for 31,306 Lightning damage to Morale.
+[08/25 01:17:37 PM] The Ordâkhai Deserter scored a hit with a mighty melee attack on Nlkosi for 26,032 Common damage to Morale.
+[08/25 01:17:38 PM] Nlkosi scored a hit with Shocking Words on the Ordâkhai Deserter for 29,493 Lightning damage to Morale.
+[08/25 01:17:39 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Deserter for 4,686 Lightning damage to Morale.
+[08/25 01:17:40 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,836 points to Power.
+[08/25 01:17:40 PM] Sustenance applied a heal to Nlkosi restoring 19,703 points to Morale.
+[08/25 01:17:41 PM] Nlkosi scored a hit with Chilling Rhetoric on the Ordâkhai Deserter for 5,137 Frost damage to Morale.
+[08/25 01:17:42 PM] Nlkosi scored a critical hit with Distracting Flame on the Ordâkhai Deserter.
+[08/25 01:17:42 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Deserter for 41,556 Lightning damage to Morale.
+[08/25 01:17:42 PM] The Ordâkhai Deserter scored a hit with Light Injury on Nlkosi for 5,785 Common damage to Morale.
+[08/25 01:17:42 PM] Nothing to dispel.
+[08/25 01:17:43 PM] The Ordâkhai Deserter scored a hit with Caltrop Scatter on Nlkosi.
+[08/25 01:17:43 PM] Nlkosi scored a devastating hit with Improved Final Word on the Ordâkhai Deserter.
+[08/25 01:17:44 PM] Nlkosi scored a hit with Vivid Imagery on the Ordâkhai Deserter for 10,122 Lightning damage to Morale.
+[08/25 01:17:44 PM] The Ordâkhai Deserter scored a hit with Light Injury on Nlkosi for 5,785 Common damage to Morale.
+[08/25 01:17:44 PM] Nlkosi scored a critical hit with Distracting Flame on the Ordâkhai Deserter for 5,429 Fire damage to Morale.
+[08/25 01:17:46 PM] The Caltrops tried to use Light Injury on Nlkosi but he resisted the attempt.
+[08/25 01:17:47 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Deserter for 1,292 Frost damage to Morale.
+[08/25 01:17:47 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/25 01:17:48 PM] Nlkosi scored a hit with Static Surge on the Ordâkhai Deserter for 27,987 Lightning damage to Morale.
+[08/25 01:17:48 PM] Nlkosi scored a hit with Distracting Flame on the Ordâkhai Deserter for 3,065 Fire damage to Morale.
+[08/25 01:17:48 PM] The Ordâkhai Deserter scored a hit with a weak melee attack on Nlkosi for 11,570 Common damage to Morale.
+[08/25 01:17:49 PM] The Ordâkhai Deserter scored a hit with Light Injury on Nlkosi for 5,785 Common damage to Morale.
+[08/25 01:17:49 PM] Nlkosi scored a hit with Shocking Touch on the Ordâkhai Deserter for 5,997 Lightning damage to Morale.
+[08/25 01:17:50 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Deserter for 2,012 Frost damage to Morale.
+[08/25 01:17:51 PM] The Ordâkhai Deserter scored a hit with Light Injury on Nlkosi for 5,785 Common damage to Morale.
+[08/25 01:17:51 PM] Nlkosi scored a hit with Distracting Flame on the Ordâkhai Deserter for 2,677 Fire damage to Morale.
+[08/25 01:17:51 PM] The Ordâkhai Deserter scored a hit with a mighty melee attack on Nlkosi for 26,032 Common damage to Morale.
+[08/25 01:17:53 PM] The Ordâkhai Deserter scored a hit with Light Injury on Nlkosi for 5,785 Common damage to Morale.
+[08/25 01:17:53 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Deserter for 1,789 Frost damage to Morale.
+[08/25 01:17:54 PM] Nlkosi scored a hit with Distracting Flame on the Ordâkhai Deserter for 2,643 Fire damage to Morale.
+[08/25 01:17:54 PM] The Ordâkhai Deserter scored a hit with a weak melee attack on Nlkosi for 11,570 Common damage to Morale.
+[08/25 01:17:55 PM] The Ordâkhai Deserter scored a hit with Light Injury on Nlkosi for 5,785 Common damage to Morale.
+[08/25 01:17:55 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:17:55 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Deserter for 32,639 Lightning damage to Morale.
+[08/25 01:17:56 PM] The Ordâkhai Deserter tried to use a moderate melee attack on Nlkosi but he evaded the attempt.
+[08/25 01:17:56 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Ordâkhai Deserter for 18,223 Lightning damage to Morale.
+[08/25 01:17:56 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Deserter for 2,020 Frost damage to Morale.
+[08/25 01:17:57 PM] The Ordâkhai Deserter scored a hit with Light Injury on Nlkosi for 5,785 Common damage to Morale.
+[08/25 01:17:57 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,381 points to Power.
+[08/25 01:17:57 PM] Sustenance applied a heal to Nlkosi restoring 20,843 points to Morale.
+[08/25 01:17:57 PM] Nlkosi scored a critical hit with Distracting Flame on the Ordâkhai Deserter for 5,241 Fire damage to Morale.
+[08/25 01:17:58 PM] Nlkosi scored a critical hit with Writ of Lightning on the Ordâkhai Deserter for 30,897 Lightning damage to Morale.
+[08/25 01:17:58 PM] The Ordâkhai Deserter scored a hit with a weak melee attack on Nlkosi for 11,223 Common damage to Morale.
+[08/25 01:17:58 PM] Your mighty blow defeated the Ordâkhai Deserter.
+[08/25 01:17:59 PM] The Ordâkhai Deserter scored a hit with Light Injury on Nlkosi for 5,785 Common damage to Morale.
+[08/25 01:17:59 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Deserter for 15,311 Lightning damage to Morale.
+[08/25 01:18:01 PM] The Ordâkhai Deserter scored a hit with Light Injury on Nlkosi for 5,785 Common damage to Morale.
+[08/25 01:18:06 PM] Nlkosi scored a hit with Writ of Lightning on the Idagâl Cutthroat for 7,651 Lightning damage to Morale.
+[08/25 01:18:08 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Cutthroat for 12,200 Lightning damage to Morale.
+[08/25 01:18:08 PM] The Idagâl Cutthroat scored a hit with a minor melee attack on Nlkosi for 9,352 Common damage to Morale.
+[08/25 01:18:09 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:18:09 PM] Your mighty blow defeated the Idagâl Cutthroat.
+[08/25 01:18:09 PM] Nlkosi scored a critical hit with Shocking Words on the Idagâl Cutthroat for 90,278 Lightning damage to Morale.
+[08/25 01:18:20 PM] The Idagâl Cutthroat scored a hit with a melee triple attack on Nlkosi for 4,101 Common damage to Morale.
+[08/25 01:18:20 PM] The Idagâl Cutthroat scored a critical hit with a melee triple attack on Nlkosi for 5,865 Common damage to Morale.
+[08/25 01:18:21 PM] The Idagâl Cutthroat scored a devastating hit with a melee triple attack on Nlkosi for 7,915 Common damage to Morale.
+[08/25 01:18:22 PM] The Idagâl Cutthroat scored a hit with a melee triple attack on Nlkosi for 4,101 Common damage to Morale.
+[08/25 01:18:23 PM] The Idagâl Cutthroat scored a hit with a melee triple attack on Nlkosi for 4,101 Common damage to Morale.
+[08/25 01:18:23 PM] The Idagâl Cutthroat scored a hit with a weak melee attack on Nlkosi for 8,202 Common damage to Morale.
+[08/25 01:18:24 PM] The Idagâl Cutthroat scored a hit with a melee triple attack on Nlkosi for 4,101 Common damage to Morale.
+[08/25 01:18:25 PM] The Idagâl Cutthroat scored a hit with a moderate melee attack on Nlkosi for 11,278 Common damage to Morale.
+[08/25 01:18:25 PM] Nlkosi scored a hit with Writ of Lightning on the Idagâl Cutthroat for 10,234 Lightning damage to Morale.
+[08/25 01:18:25 PM] The Idagâl Cutthroat scored a hit with a weak melee attack on Nlkosi for 8,202 Common damage to Morale.
+[08/25 01:18:26 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:18:26 PM] Your mighty blow defeated the Idagâl Cutthroat.
+[08/25 01:18:26 PM] Nlkosi scored a critical hit with Epic Conclusion on the Idagâl Cutthroat for 130,327 Lightning damage to Morale.
+[08/25 01:18:27 PM] The Idagâl Cutthroat scored a hit with a minor melee attack on Nlkosi for 9,638 Common damage to Morale.
+[08/25 01:18:28 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Idagâl Cutthroat for 15,311 Lightning damage to Morale.
+[08/25 01:18:29 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,909 points to Power.
+[08/25 01:18:29 PM] Sustenance applied a heal to Nlkosi restoring 15,802 points to Morale.
+[08/25 01:18:29 PM] The Idagâl Cutthroat scored a hit with a weak melee attack on Nlkosi for 7,464 Common damage to Morale.
+[08/25 01:18:29 PM] Nlkosi scored a critical hit with Essence of Storm on the Idagâl Cutthroat for 57,407 Lightning damage to Morale.
+[08/25 01:18:30 PM] Your mighty blow defeated the Idagâl Cutthroat.
+[08/25 01:18:31 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Cutthroat for 13,073 Lightning damage to Morale.
+[08/25 01:19:48 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Robber for 7,853 Lightning damage to Morale.
+[08/25 01:19:49 PM] Nlkosi scored a hit with Essence of Storm on the Idagâl Robber for 12,844 Lightning damage to Morale.
+[08/25 01:19:49 PM] Nothing to dispel.
+[08/25 01:19:49 PM] Nlkosi scored a hit with Improved Final Word on the Idagâl Robber.
+[08/25 01:19:49 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/25 01:19:50 PM] The Idagâl Robber scored a critical hit with a weak melee attack on Nlkosi for 11,729 Common damage to Morale.
+[08/25 01:19:50 PM] You have lost 11,729 points of temporary Morale!
+[08/25 01:19:51 PM] Nlkosi scored a hit with Flurry of Words on the Idagâl Robber for 1,332 Frost damage to Morale.
+[08/25 01:19:51 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/25 01:19:52 PM] You have lost 12,304 points of temporary Morale!
+[08/25 01:19:52 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Robber for 7,766 Lightning damage to Morale.
+[08/25 01:19:53 PM] Nlkosi scored a hit with Head-butt on the Idagâl Robber for 12,903 Common damage to Morale.
+[08/25 01:19:54 PM] You have lost 9,945 points of temporary Morale!
+[08/25 01:19:54 PM] Nlkosi scored a hit with Flurry of Words on the Idagâl Robber for 1,964 Frost damage to Morale.
+[08/25 01:19:55 PM] Nlkosi scored a hit with Shocking Touch on the Idagâl Robber for 4,810 Lightning damage to Morale.
+[08/25 01:19:56 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 01:19:56 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Idagâl Robber for 25,599 Lightning damage to Morale.
+[08/25 01:19:57 PM] The Idagâl Robber scored a devastating hit with a weak melee attack on Nlkosi for 14,881 Common damage to Morale.
+[08/25 01:19:57 PM] You have lost 14,881 points of temporary Morale!
+[08/25 01:19:57 PM] Nlkosi scored a hit with Flurry of Words on the Idagâl Robber for 1,954 Frost damage to Morale.
+[08/25 01:19:57 PM] Your mighty blow defeated the Idagâl Robber.
+[08/25 01:19:58 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Idagâl Robber for 28,260 Lightning damage to Morale.
+[08/25 01:20:09 PM] You have lost 18,714 points of temporary Morale!
+[08/25 01:20:23 PM] The Idagâl Marksman scored a hit with a weak ranged attack on Nlkosi for 8,099 Common damage to Morale.
+[08/25 01:20:25 PM] The Idagâl Marksman scored a hit with a weak ranged attack on Nlkosi for 8,099 Common damage to Morale.
+[08/25 01:20:26 PM] The Idagâl Rat-keeper scored a hit with a minor thrown attack on Nlkosi for 7,713 Common damage to Morale.
+[08/25 01:20:27 PM] The Keeper's Rat scored a hit with a weak melee attack on Nlkosi for 5,060 Common damage to Morale.
+[08/25 01:20:28 PM] The Idagâl Rat-keeper scored a hit with a weak thrown attack on Nlkosi for 6,170 Common damage to Morale.
+[08/25 01:20:30 PM] The Idagâl Robber scored a hit with a weak melee attack on Nlkosi for 8,202 Common damage to Morale.
+[08/25 01:20:46 PM] The Idagâl Rat-keeper scored a hit with a moderate thrown attack on Nlkosi for 9,023 Common damage to Morale.
+[08/25 01:20:46 PM] The Idagâl Marksman scored a hit with a weak ranged attack on Nlkosi for 8,613 Common damage to Morale.
+[08/25 01:20:48 PM] The Idagâl Rat-keeper scored a hit with a weak thrown attack on Nlkosi for 6,562 Common damage to Morale.
+[08/25 01:20:57 PM] The Idagâl Rat-keeper scored a hit with a minor thrown attack on Nlkosi for 8,202 Common damage to Morale.
+[08/25 01:21:11 PM] Nlkosi applied a benefit with Herbalist on Nlkosi.
+[08/25 01:21:11 PM] The Herbalist applied a benefit with Herbalist Aura on the Herbalist.
+[08/25 02:39:44 PM] The Idagâl Rat-keeper scored a critical hit with a moderate thrown attack on Nlkosi for 12,902 Common damage to Morale.
+[08/25 02:39:44 PM] The Keeper's Rat scored a hit with a weak melee attack on Nlkosi for 5,399 Common damage to Morale.
+[08/25 02:39:45 PM] The Idagâl Rat-keeper scored a hit with a weak thrown attack on Nlkosi for 6,562 Common damage to Morale.
+[08/25 02:39:47 PM] The Idagâl Marksman scored a hit with Sniper Arrow on Nlkosi.
+[08/25 02:39:47 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 10,766 Common damage to Morale.
+[08/25 02:39:49 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 10,766 Common damage to Morale.
+[08/25 02:39:50 PM] The Idagâl Rat-keeper scored a hit with a weak thrown attack on Nlkosi for 6,562 Common damage to Morale.
+[08/25 02:39:50 PM] The Keeper's Rat scored a hit with a weak melee attack on Nlkosi for 5,399 Common damage to Morale.
+[08/25 02:39:51 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 10,766 Common damage to Morale.
+[08/25 02:39:52 PM] The Idagâl Rat-keeper scored a hit with a minor thrown attack on Nlkosi for 8,202 Common damage to Morale.
+[08/25 02:39:53 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 10,766 Common damage to Morale.
+[08/25 02:39:54 PM] The Idagâl Rat-keeper scored a hit with a moderate thrown attack on Nlkosi for 9,023 Common damage to Morale.
+[08/25 02:39:54 PM] The Idagâl Robber scored a hit with a weak melee attack on Nlkosi for 8,202 Common damage to Morale.
+[08/25 02:39:55 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 10,766 Common damage to Morale.
+[08/25 02:39:57 PM] The Idagâl Marksman tried to use Deep Wound on Nlkosi but he resisted the attempt.
+[08/25 02:39:59 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 10,766 Common damage to Morale.
+[08/25 02:40:01 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 10,766 Common damage to Morale.
+[08/25 02:40:03 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 10,766 Common damage to Morale.
+[08/25 02:40:03 PM] Increased Morale applied a heal to Nlkosi restoring 81,183 points to Morale.
+[08/25 02:40:05 PM] The Idagâl Marksman scored a hit with a weak ranged attack on Nlkosi for 8,613 Common damage to Morale.
+[08/25 02:40:05 PM] Nothing to dispel.
+[08/25 02:40:05 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 10,766 Common damage to Morale.
+[08/25 02:40:05 PM] Nlkosi scored a hit with Speak No Evil on the Idagâl Robber.
+[08/25 02:40:05 PM] The Idagâl Robber scored a hit with a weak melee attack on Nlkosi for 7,713 Common damage to Morale.
+[08/25 02:40:07 PM] The Idagâl Marksman scored a hit with Deep Wound on Nlkosi for 10,766 Common damage to Morale.
+[08/25 02:40:08 PM] The Idagâl Marksman scored a hit with a moderate ranged attack on Nlkosi for 11,842 Common damage to Morale.
+[08/25 02:40:10 PM] The Idagâl Marksman scored a hit with a weak ranged attack on Nlkosi for 8,613 Common damage to Morale.
+[08/25 02:40:15 PM] The Idagâl Marksman scored a hit with a weak ranged attack on Nlkosi for 8,613 Common damage to Morale.
+[08/25 02:40:16 PM] The Idagâl Marksman scored a hit with a minor ranged attack on Nlkosi for 10,766 Common damage to Morale.
+[08/25 02:40:17 PM] The Ordâkhai Deserter scored a critical hit with a moderate melee attack on Nlkosi for 24,192 Common damage to Morale.
+[08/25 02:40:26 PM] Nothing to dispel.
+[08/25 02:40:26 PM] Nlkosi scored a hit with Speak No Evil on the Idagâl Robber.
+[08/25 02:41:07 PM] The Idagâl Robber scored a hit with a weak melee attack on Nlkosi for 8,202 Common damage to Morale.
+[08/25 02:41:17 PM] The Idagâl Marksman scored a critical hit with a minor ranged attack on Nlkosi for 15,395 Common damage to Morale.
+[08/25 02:41:19 PM] The Idagâl Robber scored a hit with a strong melee attack on Nlkosi for 11,570 Common damage to Morale.
+[08/25 02:41:19 PM] The Idagâl Marksman scored a critical hit with a weak ranged attack on Nlkosi for 12,316 Common damage to Morale.
+[08/25 02:41:29 PM] The Idagâl Rat-keeper scored a critical hit with a weak thrown attack on Nlkosi for 9,384 Common damage to Morale.
+[08/25 02:41:30 PM] The Keeper's Rat scored a hit with a melee double attack on Nlkosi for 5,399 Common damage to Morale.
+[08/25 02:41:31 PM] The Keeper's Rat scored a hit with a melee double attack on Nlkosi for 5,399 Common damage to Morale.
+[08/25 02:41:32 PM] The Idagâl Rat-keeper scored a hit with a moderate thrown attack on Nlkosi for 9,023 Common damage to Morale.
+[08/25 02:41:34 PM] The Idagâl Rat-keeper scored a hit with a weak thrown attack on Nlkosi for 6,562 Common damage to Morale.
+[08/25 02:41:35 PM] The Idagâl Robber scored a hit with a moderate melee attack on Nlkosi for 10,606 Common damage to Morale.
+[08/25 02:41:36 PM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[08/25 02:41:36 PM] The Idagâl Robber scored a hit with a weak melee attack on Nlkosi for 8,202 Common damage to Morale.
+[08/25 02:41:41 PM] The Ordâkhai Deserter scored a hit with a minor melee attack on Nlkosi for 7,231 Common damage to Morale.
+[08/25 02:41:41 PM] The Idagâl Robber scored a hit with a weak melee attack on Nlkosi for 3,857 Common damage to Morale.
+[08/25 02:41:44 PM] The Idagâl Robber scored a hit with a moderate melee attack on Nlkosi for 5,303 Common damage to Morale.
+[08/25 02:41:44 PM] The Idagâl Rat-keeper scored a hit with a minor thrown attack on Nlkosi for 4,101 Common damage to Morale.
+[08/25 02:41:45 PM] The Ordâkhai Deserter scored a partially evaded hit with a moderate melee attack on Nlkosi for 7,364 Common damage to Morale.
+[08/25 02:41:45 PM] The Idagâl Robber scored a hit with a melee double attack on Nlkosi for 3,857 Common damage to Morale.
+[08/25 02:41:46 PM] The Idagâl Robber scored a hit with a melee double attack on Nlkosi for 3,857 Common damage to Morale.
+[08/25 02:41:55 PM] The Idagâl Robber scored a partially evaded hit with a weak melee attack on Nlkosi for 7,141 Common damage to Morale.
+[08/25 02:41:55 PM] The Ordâkhai Deserter scored a hit with a weak melee attack on Nlkosi for 11,570 Common damage to Morale.
+[08/25 02:41:55 PM] The Idagâl Robber scored a hit with a minor melee attack on Nlkosi for 9,641 Common damage to Morale.
+[08/25 02:41:56 PM] The Idagâl Rat-keeper scored a hit with a weak thrown attack on Nlkosi for 6,562 Common damage to Morale.
+[08/25 02:41:56 PM] The Keeper's Rat scored a hit with a weak melee attack on Nlkosi for 5,399 Common damage to Morale.
+[08/25 02:43:34 PM] The Ordâkhai Look-out scored a hit with a minor thrown attack on Nlkosi for 11,791 Common damage to Morale.
+[08/25 02:43:40 PM] The Ordâkhai Look-out scored a hit with a weak thrown attack on Nlkosi for 9,433 Common damage to Morale.
+[08/25 02:43:40 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Look-out for 7,328 Lightning damage to Morale.
+[08/25 02:43:41 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Look-out for 5,073 Fire damage to Morale.
+[08/25 02:43:41 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Look-out for 55,377 Lightning damage to Morale.
+[08/25 02:43:42 PM] The Ordâkhai Look-out scored a critical hit with a moderate thrown attack on Nlkosi for 18,547 Common damage to Morale.
+[08/25 02:43:43 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:43:43 PM] Your mighty blow defeated the Ordâkhai Look-out.
+[08/25 02:43:43 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Look-out for 32,154 Lightning damage to Morale.
+[08/25 02:43:50 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Look-out for 17,275 Fire damage to Morale.
+[08/25 02:43:51 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/25 02:43:51 PM] The Ordâkhai Look-out scored a critical hit with a weak melee attack on the Volcanic Rune-stone for 2,148 Common damage to Morale.
+[08/25 02:43:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Look-out for 17,275 Fire damage to Morale.
+[08/25 02:43:53 PM] The Ordâkhai Look-out scored a hit with a minor melee attack on the Volcanic Rune-stone for 2,062 Common damage to Morale.
+[08/25 02:43:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Look-out for 17,275 Fire damage to Morale.
+[08/25 02:43:55 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Look-out for 4,694 Lightning damage to Morale.
+[08/25 02:43:55 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/25 02:43:55 PM] The Ordâkhai Look-out scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,650 Common damage to Morale.
+[08/25 02:43:56 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Look-out for 17,275 Fire damage to Morale.
+[08/25 02:43:57 PM] The Ordâkhai Look-out scored a critical hit with a minor melee attack on the Volcanic Rune-stone for 2,685 Common damage to Morale.
+[08/25 02:43:58 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Look-out for 4,709 Lightning damage to Morale.
+[08/25 02:43:59 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:43:59 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Look-out for 17,275 Fire damage to Morale.
+[08/25 02:43:59 PM] The Volcanic Rune-stone defeated the Ordâkhai Look-out.
+[08/25 02:43:59 PM] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Warrior for 39,793 Lightning damage to Morale.
+[08/25 02:44:00 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/25 02:44:00 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Warrior for 65,728 Lightning damage to Morale.
+[08/25 02:44:06 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Warrior for 9,856 Lightning damage to Morale.
+[08/25 02:44:07 PM] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Warrior for 16,953 Fire damage to Morale.
+[08/25 02:44:08 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/25 02:44:08 PM] Nlkosi scored a devastating hit with Shocking Words on the Ordâkhai Warrior for 113,097 Lightning damage to Morale.
+[08/25 02:44:29 PM] The Ordâkhai Sorcerer scored a critical hit with a weak melee attack on Nlkosi for 11,179 Shadow damage to Morale.
+[08/25 02:44:31 PM] The Ordâkhai Sorcerer scored a hit with Max Shadow Damage on Nlkosi for 36,483 Shadow damage to Morale.
+[08/25 02:44:31 PM] The Ordâkhai Sorcerer scored a hit with Painful Memory on Nlkosi.
+[08/25 02:44:32 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Sorcerer for 11,256 Lightning damage to Morale.
+[08/25 02:44:32 PM] Nothing to dispel.
+[08/25 02:44:32 PM] The Ordâkhai Sorcerer scored a hit with a moderate melee attack on Nlkosi for 10,750 Shadow damage to Morale.
+[08/25 02:44:32 PM] Nlkosi scored a critical hit with Improved Final Word on the Ordâkhai Sorcerer.
+[08/25 02:44:33 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/25 02:44:34 PM] Nlkosi scored a hit with Head-butt on the Ordâkhai Sorcerer for 13,304 Common damage to Morale.
+[08/25 02:44:34 PM] You have lost 7,437 points of temporary Morale!
+[08/25 02:44:35 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Sorcerer for 8,619 Lightning damage to Morale.
+[08/25 02:44:36 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Sorcerer for 8,078 Lightning damage to Morale.
+[08/25 02:44:37 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:44:37 PM] Your mighty blow defeated the Ordâkhai Sorcerer.
+[08/25 02:44:38 PM] Nlkosi scored a critical hit with Shocking Words on the Ordâkhai Sorcerer for 76,875 Lightning damage to Morale.
+[08/25 02:44:53 PM] You have lost 60,136 points of temporary Morale!
+[08/25 02:45:03 PM] The Ordâkhai Sorcerer scored a hit with a minor thrown attack on Nlkosi for 13,247 Shadow damage to Morale.
+[08/25 02:45:05 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Sorcerer for 3,453 Lightning damage to Morale.
+[08/25 02:45:05 PM] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on Nlkosi for 27,646 Shadow damage to Morale.
+[08/25 02:45:05 PM] The Ordâkhai Sorcerer scored a hit with Song of Despair on Nlkosi.
+[08/25 02:45:05 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,288 points to Power.
+[08/25 02:45:05 PM] Sustenance applied a heal to Nlkosi restoring 15,970 points to Morale.
+[08/25 02:45:06 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Sorcerer for 11,612 Lightning damage to Morale.
+[08/25 02:45:07 PM] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Sorcerer for 11,996 Lightning damage to Morale.
+[08/25 02:45:08 PM] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on Nlkosi for 23,872 Shadow damage to Morale.
+[08/25 02:45:08 PM] Nothing to dispel.
+[08/25 02:45:08 PM] Nlkosi scored a hit with Shocking Words on the Ordâkhai Sorcerer for 34,940 Lightning damage to Morale.
+[08/25 02:45:09 PM] Nlkosi scored a hit with Improved Final Word on the Ordâkhai Sorcerer.
+[08/25 02:45:11 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Sorcerer for 1,513 Frost damage to Morale.
+[08/25 02:45:11 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/25 02:45:12 PM] Nlkosi scored a hit with Vivid Imagery on the Ordâkhai Sorcerer for 11,363 Lightning damage to Morale.
+[08/25 02:45:14 PM] Your mighty blow defeated the Ordâkhai Sorcerer.
+[08/25 02:45:14 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Sorcerer for 12,106 Lightning damage to Morale.
+[08/25 02:45:38 PM] The Ordâkhai Sorcerer scored a hit with Max Shadow Damage on Nlkosi for 38,704 Shadow damage to Morale.
+[08/25 02:45:38 PM] The Ordâkhai Sorcerer scored a hit with Painful Memory on Nlkosi.
+[08/25 02:45:39 PM] The Ordâkhai Look-out scored a hit with a moderate thrown attack on Nlkosi for 12,196 Common damage to Morale.
+[08/25 02:45:41 PM] The Ordâkhai Look-out scored a hit with a weak thrown attack on Nlkosi for 8,870 Common damage to Morale.
+[08/25 02:45:42 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on Nlkosi for 9,256 Common damage to Morale.
+[08/25 02:45:43 PM] The Ordâkhai Look-out scored a hit with a weak thrown attack on Nlkosi for 9,433 Common damage to Morale.
+[08/25 02:45:48 PM] The Ordâkhai Battle-cat scored a hit with a weak melee attack on Nlkosi for 11,073 Common damage to Morale.
+[08/25 02:45:48 PM] The Ordâkhai Cat-keeper scored a hit with a minor melee attack on Nlkosi for 12,304 Common damage to Morale.
+[08/25 02:45:49 PM] The Ordâkhai Cat-keeper scored a hit with a melee double attack on Nlkosi for 9,843 Common damage to Morale.
+[08/25 02:45:49 PM] The Ordâkhai Battle-cat scored a hit with a weak melee attack on Nlkosi for 10,413 Common damage to Morale.
+[08/25 02:45:50 PM] The Ordâkhai Cat-keeper scored a hit with a melee double attack on Nlkosi for 9,843 Common damage to Morale.
+[08/25 02:45:53 PM] The Ordâkhai Sorcerer scored a hit with a moderate thrown attack on Nlkosi for 14,572 Shadow damage to Morale.
+[08/25 02:45:54 PM] The Ordâkhai Look-out tried to use a weak thrown attack on Nlkosi but he evaded the attempt.
+[08/25 02:45:56 PM] The Ordâkhai Sorcerer scored a hit with a weak thrown attack on Nlkosi for 10,598 Shadow damage to Morale.
+[08/25 02:45:56 PM] The Ordâkhai Warrior scored a hit with a moderate melee attack on Nlkosi for 12,727 Common damage to Morale.
+[08/25 02:45:58 PM] The Ordâkhai Sorcerer scored a hit with Max Shadow Damage on Nlkosi for 38,704 Shadow damage to Morale.
+[08/25 02:45:58 PM] The Ordâkhai Sorcerer scored a hit with Painful Memory on Nlkosi.
+[08/25 02:46:00 PM] The Ordâkhai Sorcerer scored a hit with a moderate thrown attack on Nlkosi for 14,572 Shadow damage to Morale.
+[08/25 02:46:01 PM] Increased Morale applied a heal to Nlkosi restoring 80,521 points to Morale.
+[08/25 02:46:05 PM] Prelude to Hope applied a heal to Nlkosi restoring 5,176 points to Morale.
+[08/25 02:46:05 PM] The Ordâkhai Sorcerer scored a hit with a weak thrown attack on Nlkosi for 10,598 Shadow damage to Morale.
+[08/25 02:46:06 PM] Nlkosi applied a benefit with Prelude to Hope on Nlkosi.
+[08/25 02:46:06 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,907 points to Morale.
+[08/25 02:46:07 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,254 points to Morale.
+[08/25 02:46:07 PM] The Ordâkhai Sorcerer scored a hit with Max Shadow Damage on Nlkosi for 38,704 Shadow damage to Morale.
+[08/25 02:46:08 PM] The Ordâkhai Sorcerer scored a hit with Painful Memory on Nlkosi.
+[08/25 02:46:08 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,515 points to Morale.
+[08/25 02:46:09 PM] The Ordâkhai Bóro scored a hit with a weak melee attack on Nlkosi for 11,483 Common damage to Morale.
+[08/25 02:46:10 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,254 points to Morale.
+[08/25 02:46:11 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,468 points to Morale.
+[08/25 02:46:12 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,472 points to Morale.
+[08/25 02:46:13 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,411 points to Morale.
+[08/25 02:46:14 PM] Prelude to Hope applied a critical heal to Nlkosi restoring 2,091 points to Morale.
+[08/25 02:46:15 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,453 points to Morale.
+[08/25 02:46:16 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,805 points to Morale.
+[08/25 02:46:17 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,912 points to Morale.
+[08/25 02:46:18 PM] Prelude to Hope applied a heal to Nlkosi restoring 1,431 points to Morale.
+[08/25 02:46:22 PM] The Ordâkhai Sorcerer scored a hit with Max Shadow Damage on Nlkosi for 38,704 Shadow damage to Morale.
+[08/25 02:46:23 PM] The Ordâkhai Sorcerer scored a hit with Painful Memory on Nlkosi.
+[08/25 02:46:30 PM] The Ordâkhai Bóro scored a critical hit with a moderate melee attack on Nlkosi for 22,579 Common damage to Morale.
+[08/25 02:46:36 PM] The Ordâkhai Bóro scored a hit with a minor melee attack on Nlkosi for 14,354 Common damage to Morale.
+[08/25 02:46:37 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Bóro for 9,432 Lightning damage to Morale.
+[08/25 02:46:38 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:46:38 PM] The Ordâkhai Bóro scored a hit with a weak melee attack on Nlkosi for 11,139 Common damage to Morale.
+[08/25 02:46:38 PM] Nothing to dispel.
+[08/25 02:46:38 PM] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Bóro for 26,370 Lightning damage to Morale.
+[08/25 02:46:38 PM] Nlkosi scored a hit with Improved Final Word on the Ordâkhai Bóro.
+[08/25 02:46:39 PM] The Ordâkhai Bóro scored a hit with Light Injury on Nlkosi for 6,152 Common damage to Morale.
+[08/25 02:46:39 PM] The Ordâkhai Bóro scored a hit with Caltrop Scatter on Nlkosi.
+[08/25 02:46:40 PM] The Ordâkhai Sorcerer scored a hit with a moderate thrown attack on Nlkosi for 13,697 Shadow damage to Morale.
+[08/25 02:46:40 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Bóro for 16,795 Fire damage to Morale.
+[08/25 02:46:40 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/25 02:46:41 PM] The Ordâkhai Bóro scored a hit with a minor melee attack on Nlkosi for 13,493 Common damage to Morale.
+[08/25 02:46:41 PM] The Ordâkhai Bóro scored a hit with Light Injury on Nlkosi for 6,152 Common damage to Morale.
+[08/25 02:46:42 PM] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Bóro for 32,522 Lightning damage to Morale.
+[08/25 02:46:42 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Bóro for 16,795 Fire damage to Morale.
+[08/25 02:46:42 PM] The Ordâkhai Sorcerer scored a hit with Max Shadow Damage on Nlkosi for 36,382 Shadow damage to Morale.
+[08/25 02:46:42 PM] The Ordâkhai Sorcerer incapacitated you.
+[08/25 02:46:42 PM] The Ordâkhai Sorcerer scored a hit with Painful Memory on Nlkosi.
+[08/25 02:46:43 PM] The Ordâkhai Bóro tried to use Wild Slash on the Volcanic Rune-stone but it blocked the attempt.
+[08/25 02:46:51 PM] You have been revived.
+[08/25 02:46:54 PM] The Ordâkhai Bóro scored a hit with Light Injury on Nlkosi for 6,152 Common damage to Morale.
+[08/25 02:46:55 PM] The Ordâkhai Bóro scored a hit with Light Injury on Nlkosi for 6,152 Common damage to Morale.
+[08/25 02:46:57 PM] The Ordâkhai Bóro scored a hit with Light Injury on Nlkosi for 6,152 Common damage to Morale.
+[08/25 02:46:57 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/25 02:46:59 PM] The Caltrops tried to use Light Injury on Nlkosi but he resisted the attempt.
+[08/25 02:47:42 PM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[08/25 02:48:35 PM] Nlkosi applied a benefit with Herbalist on Nlkosi.
+[08/25 02:48:35 PM] The Herbalist applied a benefit with Herbalist Aura on the Herbalist.
+[08/25 02:48:42 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:48:43 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Sorcerer for 24,420 Lightning damage to Morale.
+[08/25 02:48:43 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Sorcerer for 4,823 Lightning damage to Morale.
+[08/25 02:48:44 PM] The Ordâkhai Sorcerer scored a hit with a weak thrown attack on Nlkosi for 9,989 Shadow damage to Morale.
+[08/25 02:48:44 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,840 points to Power.
+[08/25 02:48:44 PM] Sustenance applied a critical heal to Nlkosi restoring 24,982 points to Morale.
+[08/25 02:48:45 PM] Nlkosi scored a hit with Chilling Rhetoric on the Ordâkhai Sorcerer for 6,302 Frost damage to Morale.
+[08/25 02:48:46 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Sorcerer for 4,320 Fire damage to Morale.
+[08/25 02:48:46 PM] The Ordâkhai Sorcerer scored a hit with Max Shadow Damage on Nlkosi for 36,483 Shadow damage to Morale.
+[08/25 02:48:46 PM] Nlkosi applied a heal with Refreshing Herbs to the Herbalist restoring 1,094 points to Morale.
+[08/25 02:48:46 PM] The Ordâkhai Sorcerer scored a hit with Painful Memory on Nlkosi.
+[08/25 02:48:46 PM] The Herbalist applied a benefit with Refreshing Herbs on the Herbalist.
+[08/25 02:48:47 PM] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on Nlkosi for 26,059 Shadow damage to Morale.
+[08/25 02:48:47 PM] The Ordâkhai Sorcerer scored a hit with Song of Despair on Nlkosi.
+[08/25 02:48:47 PM] Nlkosi scored a hit with Distracting Flame on the Ordâkhai Sorcerer.
+[08/25 02:48:47 PM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[08/25 02:48:48 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Ordâkhai Sorcerer for 2,795 Fire damage to Morale.
+[08/25 02:48:49 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 238 points to Morale.
+[08/25 02:48:49 PM] Nlkosi scored a critical hit with Essence of Winter on the Ordâkhai Sorcerer for 32,524 Frost damage to Morale.
+[08/25 02:48:49 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 02:48:49 PM] Nlkosi scored a hit with Fiery Ridicule on the Ordâkhai Sorcerer for 5,144 Fire damage to Morale.
+[08/25 02:48:50 PM] Your mighty blow defeated the Ordâkhai Sorcerer.
+[08/25 02:48:50 PM] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on Nlkosi for 19,284 Shadow damage to Morale.
+[08/25 02:48:50 PM] Nlkosi scored a hit with Concession and Rebuttal: Shocking Words on the Ordâkhai Sorcerer for 41,284 Lightning damage to Morale.
+[08/25 02:48:51 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/25 02:48:53 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/25 02:48:58 PM] Nlkosi scored a hit with Concession and Rebuttal: Writ of Lightning on the Ordâkhai Look-out for 7,212 Lightning damage to Morale.
+[08/25 02:48:59 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:48:59 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Look-out for 30,093 Lightning damage to Morale.
+[08/25 02:49:00 PM] Your mighty blow defeated the Ordâkhai Look-out.
+[08/25 02:49:00 PM] Nlkosi scored a devastating hit with Essence of Storm on the Ordâkhai Look-out for 66,791 Lightning damage to Morale.
+[08/25 02:49:10 PM] You have lost 67,573 points of temporary Morale!
+[08/25 02:49:37 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 17,645 Fire damage to Morale.
+[08/25 02:49:37 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/25 02:49:38 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Champion for 5,005 Lightning damage to Morale.
+[08/25 02:49:38 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 4,893 Lightning damage to Morale.
+[08/25 02:49:38 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/25 02:49:39 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Champion for 16,795 Fire damage to Morale.
+[08/25 02:49:39 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 17,645 Fire damage to Morale.
+[08/25 02:49:39 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 9,156 Lightning damage to Morale.
+[08/25 02:49:40 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:49:40 PM] Nlkosi scored a devastating hit with Writ of Lightning on the Ordâkhai Warrior for 24,768 Lightning damage to Morale.
+[08/25 02:49:41 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Champion for 4,892 Lightning damage to Morale.
+[08/25 02:49:41 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 5,211 Lightning damage to Morale.
+[08/25 02:49:41 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Champion for 16,795 Fire damage to Morale.
+[08/25 02:49:41 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 17,914 Fire damage to Morale.
+[08/25 02:49:41 PM] The Volcanic Rune-stone defeated the Ordâkhai Warrior.
+[08/25 02:49:42 PM] The Ordâkhai Champion scored a critical hit with a strong melee attack on the Volcanic Rune-stone for 5,369 Common damage to Morale.
+[08/25 02:49:43 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Champion for 16,795 Fire damage to Morale.
+[08/25 02:49:44 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Champion for 4,666 Lightning damage to Morale.
+[08/25 02:49:44 PM] The Ordâkhai Champion tried to use a mighty melee attack on the Volcanic Rune-stone but it parried the attempt.
+[08/25 02:49:45 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Champion for 6,244 Lightning damage to Morale.
+[08/25 02:49:45 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Champion for 16,795 Fire damage to Morale.
+[08/25 02:49:46 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,233 points to Power.
+[08/25 02:49:46 PM] Sustenance applied a heal to Nlkosi restoring 21,877 points to Morale.
+[08/25 02:49:46 PM] The Ordâkhai Champion scored a hit with a weak melee attack on the Volcanic Rune-stone for 2,750 Common damage to Morale.
+[08/25 02:49:47 PM] Nlkosi scored a devastating hit with Chilling Rhetoric on the Ordâkhai Champion for 17,389 Frost damage to Morale.
+[08/25 02:49:47 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Champion for 4,780 Lightning damage to Morale.
+[08/25 02:49:47 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Champion for 16,795 Fire damage to Morale.
+[08/25 02:49:47 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Champion for 7,945 Lightning damage to Morale.
+[08/25 02:49:48 PM] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Champion for 31,952 Lightning damage to Morale.
+[08/25 02:49:49 PM] The Ordâkhai Look-out scored a critical hit with a weak thrown attack on the Herbalist for 11,765 Common damage to Morale.
+[08/25 02:49:51 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:49:51 PM] The Ordâkhai Look-out tried to use a minor thrown attack on the Herbalist but she blocked the attempt.
+[08/25 02:49:51 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Look-out for 32,594 Lightning damage to Morale.
+[08/25 02:49:52 PM] The Herbalist applied a benefit with Nature's Power on the Herbalist.
+[08/25 02:49:52 PM] Your mighty blow defeated the Ordâkhai Look-out.
+[08/25 02:49:52 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Look-out for 54,823 Lightning damage to Morale.
+[08/25 02:49:54 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,137 points to Power.
+[08/25 02:49:54 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Champion for 24,930 Lightning damage to Morale.
+[08/25 02:49:55 PM] The Ordâkhai Champion scored a hit with a minor melee attack on Nlkosi for 14,918 Common damage to Morale.
+[08/25 02:49:56 PM] Nlkosi scored a critical hit with Essence of Storm on the Ordâkhai Champion for 56,829 Lightning damage to Morale.
+[08/25 02:49:57 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 185 points to Morale.
+[08/25 02:49:57 PM] Nlkosi scored a critical hit with Shocking Words on the Ordâkhai Champion for 94,285 Lightning damage to Morale.
+[08/25 02:49:57 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 02:49:58 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,067 points to Power.
+[08/25 02:49:58 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Champion for 9,967 Lightning damage to Morale.
+[08/25 02:50:00 PM] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Champion for 34,022 Lightning damage to Morale.
+[08/25 02:50:01 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,102 points to Power.
+[08/25 02:50:01 PM] The Ordâkhai Champion scored a hit with a weak melee attack on Nlkosi for 11,196 Common damage to Morale.
+[08/25 02:50:01 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:50:01 PM] Your mighty blow defeated the Ordâkhai Champion.
+[08/25 02:50:01 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Champion for 35,810 Lightning damage to Morale.
+[08/25 02:50:04 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,214 points to Power.
+[08/25 02:50:07 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,224 points to Power.
+[08/25 02:50:35 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 7,520 Lightning damage to Morale.
+[08/25 02:50:35 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Warrior for 5,067 Lightning damage to Morale.
+[08/25 02:50:36 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,854 points to Power.
+[08/25 02:50:36 PM] Sustenance applied a heal to Nlkosi restoring 15,429 points to Morale.
+[08/25 02:50:37 PM] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Warrior for 11,482 Lightning damage to Morale.
+[08/25 02:50:37 PM] The Ordâkhai Warrior scored a critical hit with a weak melee attack on Nlkosi for 13,653 Common damage to Morale.
+[08/25 02:50:39 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Warrior for 10,448 Lightning damage to Morale.
+[08/25 02:50:39 PM] Herbalist's Care applied a heal to Nlkosi restoring 191 points to Morale.
+[08/25 02:50:39 PM] The Ordâkhai Warrior scored a hit with a melee double attack on Nlkosi for 9,548 Common damage to Morale.
+[08/25 02:50:40 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 02:50:40 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Warrior for 7,974 Lightning damage to Morale.
+[08/25 02:50:40 PM] The Ordâkhai Warrior scored a hit with a melee double attack on Nlkosi for 9,548 Common damage to Morale.
+[08/25 02:50:41 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Warrior for 50,426 Lightning damage to Morale.
+[08/25 02:50:42 PM] The Ordâkhai Warrior scored a hit with a minor melee attack on Nlkosi for 11,934 Common damage to Morale.
+[08/25 02:50:43 PM] The Herbalist applied a benefit with Nature's Power on Nlkosi.
+[08/25 02:50:44 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:50:44 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/25 02:50:44 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Warrior for 31,857 Lightning damage to Morale.
+[08/25 02:50:45 PM] Nature's Power applied a heal to Nlkosi restoring 884 points to Power.
+[08/25 02:50:46 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Warrior for 35,040 Lightning damage to Morale.
+[08/25 02:50:47 PM] Nlkosi scored a hit with Shocking Words on the Ordâkhai Warrior for 40,936 Lightning damage to Morale.
+[08/25 02:50:48 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Warrior for 11,726 Lightning damage to Morale.
+[08/25 02:50:48 PM] Nature's Power applied a heal to Nlkosi restoring 975 points to Power.
+[08/25 02:50:50 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/25 02:50:50 PM] Nlkosi scored a hit with Essence of Winter on the Ordâkhai Warrior for 10,277 Frost damage to Morale.
+[08/25 02:50:51 PM] Nature's Power applied a heal to Nlkosi restoring 991 points to Power.
+[08/25 02:50:55 PM] Nature's Power applied a heal to Nlkosi restoring 1,012 points to Power.
+[08/25 02:50:58 PM] Nature's Power applied a heal to Nlkosi restoring 1,048 points to Power.
+[08/25 02:51:08 PM] Nlkosi applied a benefit with Herbalist on Nlkosi.
+[08/25 02:51:08 PM] The Herbalist applied a benefit with Herbalist Aura on the Herbalist.
+[08/25 02:51:20 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Bóro for 16,795 Fire damage to Morale.
+[08/25 02:51:20 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/25 02:51:21 PM] The Ordâkhai Bóro scored a hit with a weak melee attack on the Volcanic Rune-stone for 2,566 Common damage to Morale.
+[08/25 02:51:21 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Bóro for 5,051 Lightning damage to Morale.
+[08/25 02:51:21 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/25 02:51:22 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Bóro for 16,795 Fire damage to Morale.
+[08/25 02:51:22 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Bóro for 11,533 Lightning damage to Morale.
+[08/25 02:51:22 PM] The Ordâkhai Bóro scored a hit with Caltrop Scatter on the Charged Fulgurite Rune-stone.
+[08/25 02:51:23 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Bóro for 54,472 Lightning damage to Morale.
+[08/25 02:51:24 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Bóro for 16,795 Fire damage to Morale.
+[08/25 02:51:24 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Bóro for 4,841 Lightning damage to Morale.
+[08/25 02:51:25 PM] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Bóro for 16,568 Fire damage to Morale.
+[08/25 02:51:25 PM] Nothing to cure.
+[08/25 02:51:26 PM] The Herbalist applied a benefit with Nature's Power on the Herbalist.
+[08/25 02:51:26 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Bóro for 17,198 Fire damage to Morale.
+[08/25 02:51:26 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/25 02:51:27 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Bóro for 4,746 Lightning damage to Morale.
+[08/25 02:51:27 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Bóro for 4,829 Lightning damage to Morale.
+[08/25 02:51:27 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,214 points to Power.
+[08/25 02:51:27 PM] Sustenance applied a heal to Nlkosi restoring 16,147 points to Morale.
+[08/25 02:51:27 PM] Nothing to cure.
+[08/25 02:51:28 PM] The Ordâkhai Bóro scored a hit with a moderate melee attack on Nlkosi for 15,790 Common damage to Morale.
+[08/25 02:51:28 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 190 points to Morale.
+[08/25 02:51:28 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 02:51:28 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Bóro for 9,083 Lightning damage to Morale.
+[08/25 02:51:28 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,012 points to Power.
+[08/25 02:51:29 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:51:29 PM] Nothing to cure.
+[08/25 02:51:30 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Bóro for 30,590 Lightning damage to Morale.
+[08/25 02:51:30 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Bóro for 4,898 Lightning damage to Morale.
+[08/25 02:51:30 PM] The Ordâkhai Bóro scored a hit with a weak melee attack on Nlkosi for 11,483 Common damage to Morale.
+[08/25 02:51:31 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Bóro for 14,372 Lightning damage to Morale.
+[08/25 02:51:31 PM] Refreshing Herbs applied a heal to Nlkosi restoring 1,106 points to Morale.
+[08/25 02:51:31 PM] The Herbalist applied a benefit with Refreshing Herbs on Nlkosi.
+[08/25 02:51:32 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 970 points to Power.
+[08/25 02:51:32 PM] The Ordâkhai Bóro scored a hit with a moderate melee attack on Nlkosi for 15,316 Common damage to Morale.
+[08/25 02:51:32 PM] Nlkosi scored a critical hit with Shocking Words on the Ordâkhai Bóro for 83,910 Lightning damage to Morale.
+[08/25 02:51:33 PM] Nlkosi scored a critical hit with Essence of Storm on the Ordâkhai Bóro for 56,154 Lightning damage to Morale.
+[08/25 02:51:34 PM] Nothing to dispel.
+[08/25 02:51:34 PM] Nlkosi scored a hit with Improved Final Word on the Ordâkhai Bóro.
+[08/25 02:51:34 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 210 points to Morale.
+[08/25 02:51:34 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 02:51:35 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,067 points to Power.
+[08/25 02:51:35 PM] Nlkosi scored a hit with Shocking Touch on the Ordâkhai Bóro for 6,254 Lightning damage to Morale.
+[08/25 02:51:38 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,079 points to Power.
+[08/25 02:51:38 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Bóro for 1,318 Frost damage to Morale.
+[08/25 02:51:38 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/25 02:51:39 PM] The Ordâkhai Bóro scored a hit with a moderate melee attack on Nlkosi for 14,842 Common damage to Morale.
+[08/25 02:51:39 PM] Nlkosi scored a critical hit with Vivid Imagery on the Ordâkhai Bóro for 28,241 Lightning damage to Morale.
+[08/25 02:51:41 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,000 points to Power.
+[08/25 02:51:41 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Bóro for 2,031 Frost damage to Morale.
+[08/25 02:51:41 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Bóro for 11,578 Lightning damage to Morale.
+[08/25 02:51:42 PM] The Ordâkhai Bóro scored a hit with a mighty melee attack on Nlkosi for 24,287 Common damage to Morale.
+[08/25 02:51:42 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Bóro for 10,141 Lightning damage to Morale.
+[08/25 02:51:43 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Bóro for 10,845 Lightning damage to Morale.
+[08/25 02:51:44 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 219 points to Morale.
+[08/25 02:51:44 PM] The Ordâkhai Bóro scored a hit with a weak melee attack on Nlkosi for 10,450 Common damage to Morale.
+[08/25 02:51:44 PM] Your mighty blow defeated the Ordâkhai Bóro.
+[08/25 02:51:44 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 02:51:44 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Bóro for 7,256 Lightning damage to Morale.
+[08/25 02:51:45 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,209 points to Power.
+[08/25 02:51:45 PM] Sustenance applied a heal to Nlkosi restoring 19,658 points to Morale.
+[08/25 02:51:46 PM] The Ordâkhai Bóro scored a hit with Light Injury on Nlkosi for 6,152 Common damage to Morale.
+[08/25 02:52:02 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 206 points to Morale.
+[08/25 02:52:02 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 02:52:05 PM] The Herbalist applied a benefit with Nature's Power on Nlkosi.
+[08/25 02:52:07 PM] Nlkosi applied a heal with Refreshing Herbs to the Herbalist restoring 1,060 points to Morale.
+[08/25 02:52:07 PM] The Herbalist applied a benefit with Refreshing Herbs on the Herbalist.
+[08/25 02:52:08 PM] Nature's Power applied a heal to Nlkosi restoring 1,247 points to Power.
+[08/25 02:52:11 PM] Nature's Power applied a heal to Nlkosi restoring 935 points to Power.
+[08/25 02:52:11 PM] Herbalist's Care applied a heal to Nlkosi restoring 199 points to Morale.
+[08/25 02:52:12 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 02:52:14 PM] Nature's Power applied a heal to Nlkosi restoring 970 points to Power.
+[08/25 02:52:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 17,645 Fire damage to Morale.
+[08/25 02:52:15 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/25 02:52:15 PM] The Ordâkhai Warrior scored a hit with a strong melee attack on the Volcanic Rune-stone for 2,844 Common damage to Morale.
+[08/25 02:52:16 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 4,798 Lightning damage to Morale.
+[08/25 02:52:16 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/25 02:52:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 17,645 Fire damage to Morale.
+[08/25 02:52:17 PM] Nature's Power applied a heal to Nlkosi restoring 1,065 points to Power.
+[08/25 02:52:17 PM] The Ordâkhai Warrior missed trying to use a weak melee attack on the Volcanic Rune-stone.
+[08/25 02:52:17 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 11,127 Lightning damage to Morale.
+[08/25 02:52:17 PM] Herbalist's Care applied a heal to Nlkosi restoring 192 points to Morale.
+[08/25 02:52:18 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 02:52:18 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Warrior for 5,806 Lightning damage to Morale.
+[08/25 02:52:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Warrior for 17,645 Fire damage to Morale.
+[08/25 02:52:19 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,069 points to Power.
+[08/25 02:52:19 PM] Sustenance applied a heal to Nlkosi restoring 21,905 points to Morale.
+[08/25 02:52:19 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Warrior for 5,053 Lightning damage to Morale.
+[08/25 02:52:19 PM] The Ordâkhai Warrior scored a hit with a strong melee attack on the Volcanic Rune-stone for 2,844 Common damage to Morale.
+[08/25 02:52:20 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/25 02:52:20 PM] Nature's Power applied a heal to Nlkosi restoring 1,130 points to Power.
+[08/25 02:52:20 PM] Nlkosi scored a hit with Shocking Words on the Ordâkhai Warrior for 29,837 Lightning damage to Morale.
+[08/25 02:52:23 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:52:23 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ordâkhai Sorcerer for 29,987 Lightning damage to Morale.
+[08/25 02:52:24 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Sorcerer for 44,498 Lightning damage to Morale.
+[08/25 02:52:25 PM] Your mighty blow defeated the Ordâkhai Sorcerer.
+[08/25 02:52:26 PM] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Sorcerer for 33,643 Lightning damage to Morale.
+[08/25 02:52:47 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 218 points to Morale.
+[08/25 02:52:47 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 02:52:50 PM] The Herbalist applied a benefit with Nature's Power on the Herbalist.
+[08/25 02:52:51 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Cat-keeper for 7,807 Lightning damage to Morale.
+[08/25 02:52:51 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:52:52 PM] Nlkosi scored a critical hit with Shocking Words on the Ordâkhai Cat-keeper for 62,177 Lightning damage to Morale.
+[08/25 02:52:52 PM] Refreshing Herbs applied a heal to Nlkosi restoring 1,031 points to Morale.
+[08/25 02:52:52 PM] The Herbalist applied a benefit with Refreshing Herbs on Nlkosi.
+[08/25 02:52:53 PM] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Cat-keeper for 10,312 Lightning damage to Morale.
+[08/25 02:52:53 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 963 points to Power.
+[08/25 02:52:54 PM] Nothing to dispel.
+[08/25 02:52:54 PM] Nlkosi scored a hit with Improved Final Word on the Ordâkhai Cat-keeper.
+[08/25 02:52:54 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/25 02:52:55 PM] Herbalist's Care applied a heal to Nlkosi restoring 246 points to Morale.
+[08/25 02:52:55 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 02:52:56 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,134 points to Power.
+[08/25 02:52:56 PM] The Ordâkhai Cat-keeper scored a hit with a strong melee attack on Nlkosi for 13,878 Common damage to Morale.
+[08/25 02:52:56 PM] You have lost 13,878 points of temporary Morale!
+[08/25 02:52:57 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Cat-keeper for 1,420 Frost damage to Morale.
+[08/25 02:52:57 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/25 02:52:58 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Cat-keeper for 9,115 Lightning damage to Morale.
+[08/25 02:52:58 PM] The Ordâkhai Cat-keeper scored a hit with a weak melee attack on Nlkosi for 9,252 Common damage to Morale.
+[08/25 02:52:58 PM] You have lost 9,252 points of temporary Morale!
+[08/25 02:52:59 PM] Nlkosi scored a hit with Shocking Touch on the Ordâkhai Cat-keeper for 4,193 Lightning damage to Morale.
+[08/25 02:52:59 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,005 points to Power.
+[08/25 02:53:00 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Cat-keeper for 1,705 Frost damage to Morale.
+[08/25 02:53:00 PM] Your mighty blow defeated the Ordâkhai Cat-keeper.
+[08/25 02:53:00 PM] Nlkosi scored a hit with Head-butt on the Ordâkhai Cat-keeper for 12,903 Common damage to Morale.
+[08/25 02:53:02 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 954 points to Power.
+[08/25 02:53:05 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,124 points to Power.
+[08/25 02:53:07 PM] The Herbalist applied a benefit with Nature's Power on the Herbalist.
+[08/25 02:53:08 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 9,708 Lightning damage to Morale.
+[08/25 02:53:08 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Warrior for 4,379 Lightning damage to Morale.
+[08/25 02:53:09 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,981 points to Power.
+[08/25 02:53:09 PM] Sustenance applied a heal to Nlkosi restoring 21,518 points to Morale.
+[08/25 02:53:10 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 218 points to Morale.
+[08/25 02:53:10 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 02:53:10 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 894 points to Power.
+[08/25 02:53:10 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Warrior for 10,808 Lightning damage to Morale.
+[08/25 02:53:11 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on Nlkosi for 9,256 Common damage to Morale.
+[08/25 02:53:11 PM] You have lost 9,256 points of temporary Morale!
+[08/25 02:53:11 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:53:11 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/25 02:53:11 PM] Nlkosi scored a critical hit with Epic Conclusion on the Ordâkhai Warrior for 136,727 Lightning damage to Morale.
+[08/25 02:53:13 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,093 points to Power.
+[08/25 02:53:14 PM] You have lost 35,187 points of temporary Morale!
+[08/25 02:53:16 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 180 points to Morale.
+[08/25 02:53:16 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 972 points to Power.
+[08/25 02:53:16 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 02:53:19 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,192 points to Power.
+[08/25 02:53:22 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,069 points to Power.
+[08/25 02:53:24 PM] Herbalist's Care applied a heal to Nlkosi restoring 222 points to Morale.
+[08/25 02:53:25 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 02:53:27 PM] The Ordâkhai Battle-cat scored a hit with a weak melee attack on the Herbalist for 10,609 Common damage to Morale.
+[08/25 02:53:28 PM] The Herbalist applied a benefit with Nature's Power on Nlkosi.
+[08/25 02:53:29 PM] The Ordâkhai Battle-cat scored a partially parried hit with a melee double attack on the Herbalist for 6,802 Common damage to Morale.
+[08/25 02:53:29 PM] The Ordâkhai Battle-cat scored a hit with a melee double attack on the Herbalist for 10,609 Common damage to Morale.
+[08/25 02:53:30 PM] Nlkosi applied a heal with Refreshing Herbs to the Herbalist restoring 1,086 points to Morale.
+[08/25 02:53:30 PM] The Herbalist applied a benefit with Refreshing Herbs on the Herbalist.
+[08/25 02:53:30 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:53:30 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on Nlkosi for 9,843 Common damage to Morale.
+[08/25 02:53:30 PM] Nature's Power applied a heal to Nlkosi restoring 1,065 points to Power.
+[08/25 02:53:30 PM] Nlkosi scored a critical hit with Scribe's Spark on the Ordâkhai Warrior for 25,787 Lightning damage to Morale.
+[08/25 02:53:32 PM] Nlkosi scored a hit with Shocking Touch on the Ordâkhai Warrior for 4,998 Lightning damage to Morale.
+[08/25 02:53:32 PM] Nothing to dispel.
+[08/25 02:53:32 PM] Nlkosi scored a hit with Improved Final Word on the Ordâkhai Warrior.
+[08/25 02:53:33 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 187 points to Morale.
+[08/25 02:53:33 PM] The Ordâkhai Battle-cat scored a hit with a weak melee attack on the Herbalist for 10,609 Common damage to Morale.
+[08/25 02:53:33 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 02:53:34 PM] Nature's Power applied a heal to Nlkosi restoring 1,218 points to Power.
+[08/25 02:53:34 PM] The Ordâkhai Sorcerer tried to use a weak thrown attack on Nlkosi but he evaded the attempt.
+[08/25 02:53:34 PM] The Ordâkhai Battle-cat scored a hit with a moderate melee attack on the Herbalist for 14,587 Common damage to Morale.
+[08/25 02:53:35 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 8,390 Lightning damage to Morale.
+[08/25 02:53:36 PM] The Ordâkhai Warrior scored a hit with a strong melee attack on Nlkosi for 14,764 Common damage to Morale.
+[08/25 02:53:36 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/25 02:53:36 PM] Nlkosi scored a critical hit with Shocking Words on the Ordâkhai Warrior for 64,925 Lightning damage to Morale.
+[08/25 02:53:36 PM] The Ordâkhai Battle-cat scored a hit with a minor melee attack on the Herbalist for 13,261 Common damage to Morale.
+[08/25 02:53:37 PM] Nature's Power applied a heal to Nlkosi restoring 1,073 points to Power.
+[08/25 02:53:38 PM] The Ordâkhai Battle-cat defeated the Herbalist.
+[08/25 02:53:40 PM] Nature's Power applied a heal to Nlkosi restoring 1,241 points to Power.
+[08/25 02:53:43 PM] Nature's Power applied a heal to Nlkosi restoring 1,207 points to Power.
+[08/25 02:53:44 PM] The Ordâkhai Sorcerer scored a critical hit with a weak thrown attack on Nlkosi for 15,154 Shadow damage to Morale.
+[08/25 02:53:44 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Champion for 11,640 Lightning damage to Morale.
+[08/25 02:53:45 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Champion for 9,382 Lightning damage to Morale.
+[08/25 02:53:46 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:53:46 PM] The Ordâkhai Sorcerer scored a hit with Max Shadow Damage on Nlkosi for 38,704 Shadow damage to Morale.
+[08/25 02:53:46 PM] Nlkosi scored a devastating hit with Static Surge on the Ordâkhai Champion for 57,392 Lightning damage to Morale.
+[08/25 02:53:46 PM] The Ordâkhai Sorcerer scored a hit with Painful Memory on Nlkosi.
+[08/25 02:53:47 PM] The Ordâkhai Champion scored a hit with a mighty melee attack on Nlkosi for 27,683 Common damage to Morale.
+[08/25 02:53:47 PM] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on Nlkosi for 27,646 Shadow damage to Morale.
+[08/25 02:53:47 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Champion for 16,795 Fire damage to Morale.
+[08/25 02:53:47 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Sorcerer for 16,795 Fire damage to Morale.
+[08/25 02:53:47 PM] The Ordâkhai Sorcerer scored a critical hit with Song of Despair on Nlkosi.
+[08/25 02:53:47 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/25 02:53:48 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Champion for 4,650 Lightning damage to Morale.
+[08/25 02:53:48 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Sorcerer for 4,946 Lightning damage to Morale.
+[08/25 02:53:48 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/25 02:53:49 PM] The Ordâkhai Champion scored a hit with a weak melee attack on Nlkosi for 12,304 Common damage to Morale.
+[08/25 02:53:49 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Champion for 16,795 Fire damage to Morale.
+[08/25 02:53:49 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Sorcerer for 16,795 Fire damage to Morale.
+[08/25 02:53:50 PM] The Ordâkhai Champion scored a hit with a minor melee attack on Nlkosi for 15,379 Common damage to Morale.
+[08/25 02:53:50 PM] Nlkosi scored a hit with Static Surge on the Ordâkhai Champion for 27,757 Lightning damage to Morale.
+[08/25 02:53:51 PM] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on Nlkosi for 27,646 Shadow damage to Morale.
+[08/25 02:53:51 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Champion for 4,763 Lightning damage to Morale.
+[08/25 02:53:51 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Sorcerer for 5,004 Lightning damage to Morale.
+[08/25 02:53:51 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Champion for 16,795 Fire damage to Morale.
+[08/25 02:53:51 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Sorcerer for 16,795 Fire damage to Morale.
+[08/25 02:53:53 PM] Nlkosi scored a hit with Shocking Touch on the Ordâkhai Champion for 4,541 Lightning damage to Morale.
+[08/25 02:53:53 PM] Nothing to dispel.
+[08/25 02:53:53 PM] Nlkosi scored a hit with Improved Final Word on the Ordâkhai Champion.
+[08/25 02:53:53 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Champion for 16,795 Fire damage to Morale.
+[08/25 02:53:53 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Sorcerer for 16,795 Fire damage to Morale.
+[08/25 02:53:54 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Champion for 4,751 Lightning damage to Morale.
+[08/25 02:53:54 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Sorcerer for 4,693 Lightning damage to Morale.
+[08/25 02:53:54 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Champion for 5,139 Lightning damage to Morale.
+[08/25 02:53:55 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,694 points to Power.
+[08/25 02:53:55 PM] Sustenance applied a heal to Nlkosi restoring 17,387 points to Morale.
+[08/25 02:53:55 PM] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on Nlkosi for 27,646 Shadow damage to Morale.
+[08/25 02:53:55 PM] The Ordâkhai Champion scored a hit with Haymaker Uppercut on Nlkosi.
+[08/25 02:53:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Champion for 16,795 Fire damage to Morale.
+[08/25 02:53:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Sorcerer for 16,795 Fire damage to Morale.
+[08/25 02:53:55 PM] The Volcanic Rune-stone defeated the Ordâkhai Sorcerer.
+[08/25 02:53:55 PM] The Ordâkhai Sorcerer scored a hit with Terrifying Wind on Nlkosi for 3,394 Shadow damage to Morale.
+[08/25 02:53:57 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Ordâkhai Champion but she was immune to the attempt.
+[08/25 02:53:57 PM] Nlkosi scored a hit with Fulgurite Strike on the Ordâkhai Champion for 4,813 Lightning damage to Morale.
+[08/25 02:53:57 PM] The Ordâkhai Champion scored a hit with a weak melee attack on Nlkosi for 12,304 Common damage to Morale.
+[08/25 02:53:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Ordâkhai Champion for 16,795 Fire damage to Morale.
+[08/25 02:53:59 PM] The Ordâkhai Champion scored a hit with a mighty melee attack on Nlkosi for 27,683 Common damage to Morale.
+[08/25 02:54:00 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Champion for 9,098 Lightning damage to Morale.
+[08/25 02:54:01 PM] The Ordâkhai Champion scored a hit with a melee double attack on Nlkosi for 12,304 Common damage to Morale.
+[08/25 02:54:01 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Champion for 14,370 Lightning damage to Morale.
+[08/25 02:54:02 PM] The Ordâkhai Champion scored a partially evaded hit with a melee double attack on Nlkosi for 11,424 Common damage to Morale.
+[08/25 02:54:02 PM] Nlkosi tried to use Induce Stunned on the Ordâkhai Champion but she was immune to the attempt.
+[08/25 02:54:02 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:54:03 PM] Nlkosi scored a critical hit with Shocking Words on the Ordâkhai Champion for 96,692 Lightning damage to Morale.
+[08/25 02:54:04 PM] The Ordâkhai Champion scored a hit with a moderate melee attack on Nlkosi for 16,410 Common damage to Morale.
+[08/25 02:54:04 PM] Nlkosi scored a hit with Static Surge on the Ordâkhai Champion for 27,944 Lightning damage to Morale.
+[08/25 02:54:05 PM] Increased Morale applied a heal to Nlkosi restoring 83,271 points to Morale.
+[08/25 02:54:06 PM] The Ordâkhai Champion scored a hit with a weak melee attack on Nlkosi for 11,934 Common damage to Morale.
+[08/25 02:54:06 PM] Your mighty blow defeated the Ordâkhai Champion.
+[08/25 02:54:06 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Champion for 10,236 Lightning damage to Morale.
+[08/25 02:54:10 PM] Nlkosi applied a benefit with Herbalist on Nlkosi.
+[08/25 02:54:10 PM] The Herbalist applied a benefit with Herbalist Aura on the Herbalist.
+[08/25 02:54:32 PM] Herbalist's Care applied a heal to Nlkosi restoring 211 points to Morale.
+[08/25 02:54:33 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 02:55:03 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on Nlkosi for 9,810 Common damage to Morale.
+[08/25 02:55:04 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Warrior for 4,170 Lightning damage to Morale.
+[08/25 02:55:04 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,853 points to Power.
+[08/25 02:55:04 PM] Sustenance applied a heal to Nlkosi restoring 19,598 points to Morale.
+[08/25 02:55:05 PM] Refreshing Herbs applied a heal to Nlkosi restoring 1,097 points to Morale.
+[08/25 02:55:05 PM] The Ordâkhai Warrior scored a hit with a moderate melee attack on Nlkosi for 13,489 Common damage to Morale.
+[08/25 02:55:05 PM] The Herbalist applied a benefit with Refreshing Herbs on Nlkosi.
+[08/25 02:55:05 PM] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Warrior for 9,338 Lightning damage to Morale.
+[08/25 02:55:07 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Warrior for 39,047 Lightning damage to Morale.
+[08/25 02:55:07 PM] The Ordâkhai Warrior scored a hit with a melee double attack on Nlkosi for 9,810 Common damage to Morale.
+[08/25 02:55:08 PM] The Ordâkhai Warrior scored a hit with a melee double attack on Nlkosi for 9,810 Common damage to Morale.
+[08/25 02:55:08 PM] Herbalist's Care applied a heal to Nlkosi restoring 216 points to Morale.
+[08/25 02:55:08 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 02:55:08 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 9,755 Lightning damage to Morale.
+[08/25 02:55:09 PM] The Ordâkhai Warrior scored a hit with a weak melee attack on Nlkosi for 9,810 Common damage to Morale.
+[08/25 02:55:10 PM] Nlkosi scored a hit with Shocking Words on the Ordâkhai Warrior for 26,132 Lightning damage to Morale.
+[08/25 02:55:11 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Warrior for 7,915 Lightning damage to Morale.
+[08/25 02:55:11 PM] The Herbalist applied a benefit with Nature's Power on Nlkosi.
+[08/25 02:55:12 PM] The Ordâkhai Warrior scored a hit with a moderate melee attack on Nlkosi for 13,489 Common damage to Morale.
+[08/25 02:55:12 PM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/25 02:55:13 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Warrior for 12,544 Lightning damage to Morale.
+[08/25 02:55:14 PM] Nature's Power applied a heal to Nlkosi restoring 1,032 points to Power.
+[08/25 02:55:17 PM] Nature's Power applied a heal to Nlkosi restoring 1,140 points to Power.
+[08/25 02:55:20 PM] Nature's Power applied a heal to Nlkosi restoring 1,207 points to Power.
+[08/25 02:55:23 PM] Nature's Power applied a heal to Nlkosi restoring 1,201 points to Power.
+[08/25 02:55:26 PM] Nature's Power applied a heal to Nlkosi restoring 1,246 points to Power.
+[08/25 02:56:17 PM] The Ordâkhai Cat-keeper scored a hit with a weak melee attack on the Herbalist for 10,052 Common damage to Morale.
+[08/25 02:56:19 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Cat-keeper for 8,338 Lightning damage to Morale.
+[08/25 02:56:19 PM] The Ordâkhai Cat-keeper scored a hit with a minor melee attack on the Herbalist for 12,565 Common damage to Morale.
+[08/25 02:56:19 PM] Herbalist's Care applied a heal to Nlkosi restoring 188 points to Morale.
+[08/25 02:56:20 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 02:56:20 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Cat-keeper for 11,114 Lightning damage to Morale.
+[08/25 02:56:21 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:56:21 PM] The Ordâkhai Cat-keeper scored a hit with a melee double attack on Nlkosi for 9,810 Common damage to Morale.
+[08/25 02:56:21 PM] Nlkosi scored a critical hit with Shocking Words on the Ordâkhai Cat-keeper for 73,060 Lightning damage to Morale.
+[08/25 02:56:22 PM] Your mighty blow defeated the Ordâkhai Cat-keeper.
+[08/25 02:56:22 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Cat-keeper for 8,828 Lightning damage to Morale.
+[08/25 02:57:01 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Champion for 10,203 Lightning damage to Morale.
+[08/25 02:57:02 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Champion for 8,617 Lightning damage to Morale.
+[08/25 02:57:03 PM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Champion for 46,314 Lightning damage to Morale.
+[08/25 02:57:04 PM] Nlkosi scored a hit with Sustaining Bolt on the Ordâkhai Champion for 3,638 Lightning damage to Morale.
+[08/25 02:57:05 PM] The Ordâkhai Champion scored a hit with a moderate melee attack on Nlkosi for 15,854 Common damage to Morale.
+[08/25 02:57:05 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,319 points to Power.
+[08/25 02:57:05 PM] Sustenance applied a heal to Nlkosi restoring 20,168 points to Morale.
+[08/25 02:57:06 PM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Champion for 8,539 Lightning damage to Morale.
+[08/25 02:57:07 PM] The Herbalist applied a benefit with Nature's Power on Nlkosi.
+[08/25 02:57:07 PM] The Ordâkhai Champion scored a hit with a weak melee attack on Nlkosi for 11,184 Common damage to Morale.
+[08/25 02:57:08 PM] Nlkosi scored a hit with Shocking Words on the Ordâkhai Champion for 31,679 Lightning damage to Morale.
+[08/25 02:57:09 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Champion for 11,808 Lightning damage to Morale.
+[08/25 02:57:09 PM] Herbalist's Care applied a heal to Nlkosi restoring 252 points to Morale.
+[08/25 02:57:10 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 02:57:10 PM] Nature's Power applied a heal to Nlkosi restoring 952 points to Power.
+[08/25 02:57:10 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:57:10 PM] Nlkosi scored a critical hit with Writ of Lightning on the Ordâkhai Champion for 31,371 Lightning damage to Morale.
+[08/25 02:57:11 PM] The Ordâkhai Champion scored a hit with a strong melee attack on Nlkosi for 16,776 Common damage to Morale.
+[08/25 02:57:11 PM] You have lost 16,776 points of temporary Morale!
+[08/25 02:57:11 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/25 02:57:11 PM] Nothing to cure.
+[08/25 02:57:12 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/25 02:57:12 PM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[08/25 02:57:12 PM] Nlkosi applied a heal with Refreshing Herbs to the Herbalist restoring 1,084 points to Morale.
+[08/25 02:57:13 PM] The Herbalist applied a benefit with Refreshing Herbs on the Herbalist.
+[08/25 02:57:13 PM] Nature's Power applied a heal to Nlkosi restoring 991 points to Power.
+[08/25 02:57:13 PM] The Ordâkhai Champion scored a hit with a weak melee attack on Nlkosi for 11,184 Common damage to Morale.
+[08/25 02:57:13 PM] You have lost 11,184 points of temporary Morale!
+[08/25 02:57:13 PM] Nothing to cure.
+[08/25 02:57:14 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Champion for 1,564 Frost damage to Morale.
+[08/25 02:57:15 PM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/25 02:57:15 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Champion for 14,582 Lightning damage to Morale.
+[08/25 02:57:15 PM] Nothing to cure.
+[08/25 02:57:15 PM] The Ordâkhai Champion scored a critical hit with a moderate melee attack on Nlkosi for 22,671 Common damage to Morale.
+[08/25 02:57:15 PM] You have lost 22,671 points of temporary Morale!
+[08/25 02:57:16 PM] Nature's Power applied a heal to Nlkosi restoring 1,182 points to Power.
+[08/25 02:57:16 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 187 points to Morale.
+[08/25 02:57:17 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 02:57:17 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Champion for 14,514 Lightning damage to Morale.
+[08/25 02:57:17 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Champion for 2,797 Frost damage to Morale.
+[08/25 02:57:18 PM] You have lost 11,184 points of temporary Morale!
+[08/25 02:57:18 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Champion for 11,758 Lightning damage to Morale.
+[08/25 02:57:19 PM] Nature's Power applied a heal to Nlkosi restoring 1,058 points to Power.
+[08/25 02:57:19 PM] Nlkosi scored a hit with Head-butt on the Ordâkhai Champion for 13,304 Common damage to Morale.
+[08/25 02:57:20 PM] The Ordâkhai Champion scored a hit with a weak melee attack on Nlkosi for 11,184 Common damage to Morale.
+[08/25 02:57:20 PM] You have lost 5,758 points of temporary Morale!
+[08/25 02:57:21 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Champion for 2,208 Frost damage to Morale.
+[08/25 02:57:21 PM] Nlkosi scored a critical hit with Shocking Touch on the Ordâkhai Champion for 11,741 Lightning damage to Morale.
+[08/25 02:57:21 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:57:22 PM] Nature's Power applied a heal to Nlkosi restoring 890 points to Power.
+[08/25 02:57:22 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Champion for 15,809 Lightning damage to Morale.
+[08/25 02:57:23 PM] Nlkosi scored a devastating hit with Concession and Rebuttal: Writ of Lightning on the Ordâkhai Champion for 31,973 Lightning damage to Morale.
+[08/25 02:57:24 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Champion for 2,156 Frost damage to Morale.
+[08/25 02:57:24 PM] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Champion for 20,903 Lightning damage to Morale.
+[08/25 02:57:26 PM] Nlkosi scored a hit with Chilling Rhetoric on the Ordâkhai Champion for 15,444 Frost damage to Morale.
+[08/25 02:57:26 PM] Nlkosi scored a hit with Concession and Rebuttal: Sustaining Bolt on the Ordâkhai Champion for 16,883 Lightning damage to Morale.
+[08/25 02:57:26 PM] The Ordâkhai Champion scored a hit with a strong melee attack on Nlkosi for 17,295 Common damage to Morale.
+[08/25 02:57:27 PM] Powerful Sustenance applied a heal to Nlkosi restoring 45,492 points to Morale.
+[08/25 02:57:27 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,254 points to Power.
+[08/25 02:57:27 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Champion for 2,860 Frost damage to Morale.
+[08/25 02:57:28 PM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Champion for 10,303 Lightning damage to Morale.
+[08/25 02:57:28 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 210 points to Morale.
+[08/25 02:57:29 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 02:57:29 PM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Champion for 11,183 Lightning damage to Morale.
+[08/25 02:57:30 PM] Nlkosi scored a hit with Flurry of Words on the Ordâkhai Champion for 2,845 Frost damage to Morale.
+[08/25 02:57:31 PM] Nlkosi scored a critical hit with Distracting Flame on the Ordâkhai Champion.
+[08/25 02:57:31 PM] Nothing to dispel.
+[08/25 02:57:31 PM] Nlkosi scored a hit with Concession and Rebuttal: Writ of Lightning on the Ordâkhai Champion for 14,895 Lightning damage to Morale.
+[08/25 02:57:31 PM] Nlkosi scored a hit with Improved Final Word on the Ordâkhai Champion.
+[08/25 02:57:31 PM] The Ordâkhai Champion scored a hit with a weak melee attack on Nlkosi for 11,530 Common damage to Morale.
+[08/25 02:57:32 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 02:57:32 PM] Your mighty blow defeated the Ordâkhai Champion.
+[08/25 02:57:32 PM] Nlkosi scored a critical hit with Static Surge on the Ordâkhai Champion for 69,572 Lightning damage to Morale.
+[08/25 03:18:13 PM] Nlkosi applied a benefit with Return to The Dawn-warden (Idagâl, the Dry-whelm) on Nlkosi.
+[08/25 03:20:18 PM] Nlkosi applied a benefit with Track Mines on Nlkosi.
+[08/25 03:22:02 PM] Nlkosi scored a hit with Ceaseless Argument on the Lakeshore Scavenger for 9,590 Lightning damage to Morale.
+[08/25 03:22:02 PM] The Lakeshore Scavenger scored a hit with a minor melee attack on Nlkosi for 10,253 Common damage to Morale.
+[08/25 03:22:04 PM] Nlkosi scored a hit with Distracting Flame on the Lakeshore Scavenger.
+[08/25 03:22:04 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 03:22:04 PM] Your mighty blow defeated the Lakeshore Scavenger.
+[08/25 03:22:04 PM] Nlkosi scored a critical hit with Epic Conclusion on the Lakeshore Scavenger for 119,783 Lightning damage to Morale.
+[08/25 03:22:05 PM] The Lakeshore Scavenger scored a hit with a weak melee attack on Nlkosi for 7,713 Common damage to Morale.
+[08/25 03:22:06 PM] The Lakeshore Scavenger scored a critical hit with a minor melee attack on Nlkosi for 13,787 Common damage to Morale.
+[08/25 03:22:07 PM] Nlkosi scored a devastating hit with Sustaining Bolt on the Lakeshore Scavenger for 18,814 Lightning damage to Morale.
+[08/25 03:22:08 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,310 points to Power.
+[08/25 03:22:08 PM] Sustenance applied a heal to Nlkosi restoring 18,615 points to Morale.
+[08/25 03:22:08 PM] The Lakeshore Scavenger scored a hit with a moderate melee attack on Nlkosi for 10,606 Common damage to Morale.
+[08/25 03:22:08 PM] Nlkosi scored a hit with Essence of Storm on the Lakeshore Scavenger for 16,703 Lightning damage to Morale.
+[08/25 03:22:10 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Lakeshore Scavenger for 31,023 Lightning damage to Morale.
+[08/25 03:22:10 PM] The Lakeshore Scavenger scored a hit with a weak melee attack on Nlkosi for 7,713 Common damage to Morale.
+[08/25 03:22:11 PM] Nlkosi scored a hit with Writ of Lightning on the Lakeshore Scavenger for 13,918 Lightning damage to Morale.
+[08/25 03:22:12 PM] The Lakeshore Scavenger scored a hit with a minor melee attack on Nlkosi for 9,641 Common damage to Morale.
+[08/25 03:22:12 PM] Your mighty blow defeated the Lakeshore Scavenger.
+[08/25 03:22:12 PM] Nlkosi scored a critical hit with Shocking Words on the Lakeshore Scavenger for 97,100 Lightning damage to Morale.
+[08/25 03:26:15 PM] The Idagâl Dune-beetle scored a hit with a weak melee attack on Nlkosi for 6,152 Common damage to Morale.
+[08/25 03:26:56 PM] The Deadshore Muck-raker scored a hit with Foul Spew on Nlkosi.
+[08/25 03:26:57 PM] The Deadshore Muck-raker scored a partially evaded hit with a moderate swipe attack on Nlkosi for 10,801 Common damage to Morale.
+[08/25 03:26:58 PM] Nlkosi scored a hit with Ceaseless Argument on the Deadshore Muck-raker for 9,047 Lightning damage to Morale.
+[08/25 03:26:59 PM] The Deadshore Muck-raker tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[08/25 03:26:59 PM] Nlkosi scored a hit with Shocking Words on the Deadshore Muck-raker for 25,578 Lightning damage to Morale.
+[08/25 03:26:59 PM] Nothing to dispel.
+[08/25 03:27:00 PM] Nlkosi scored a critical hit with Improved Final Word on the Deadshore Muck-raker.
+[08/25 03:27:01 PM] Nlkosi scored a hit with Head-butt on the Deadshore Muck-raker for 13,304 Common damage to Morale.
+[08/25 03:27:01 PM] The Deadshore Muck-raker scored a hit with a mighty swipe attack on Nlkosi for 19,090 Common damage to Morale.
+[08/25 03:27:02 PM] Nlkosi scored a hit with Vivid Imagery on the Deadshore Muck-raker for 8,950 Lightning damage to Morale.
+[08/25 03:27:04 PM] Nlkosi scored a hit with Chilling Rhetoric on the Deadshore Muck-raker for 5,791 Frost damage to Morale.
+[08/25 03:27:05 PM] The Deadshore Muck-raker scored a hit with a minor melee attack on Nlkosi for 10,287 Common damage to Morale.
+[08/25 03:27:06 PM] Nlkosi scored a hit with Distracting Flame on the Deadshore Muck-raker.
+[08/25 03:27:07 PM] Nlkosi scored a hit with Ceaseless Argument on the Deadshore Muck-raker for 11,487 Lightning damage to Morale.
+[08/25 03:27:07 PM] The Deadshore Muck-raker scored a hit with Wasting Sickness on Nlkosi.
+[08/25 03:27:08 PM] Nlkosi scored a hit with Scribe's Spark on the Deadshore Muck-raker for 11,573 Lightning damage to Morale.
+[08/25 03:27:08 PM] Your mighty blow defeated the Deadshore Muck-raker.
+[08/25 03:27:09 PM] Nlkosi scored a hit with Static Surge on the Deadshore Muck-raker for 22,803 Lightning damage to Morale.
+[08/25 03:27:10 PM] The Deadshore Muck-raker scored a hit with Disease on Nlkosi for 521 Common damage to Power.
+[08/25 03:27:13 PM] The Deadshore Muck-raker scored a hit with Disease on Nlkosi for 521 Common damage to Power.
+[08/25 03:27:16 PM] The Deadshore Muck-raker scored a hit with Disease on Nlkosi for 521 Common damage to Power.
+[08/25 03:27:16 PM] The Deadshore Muck-raker tried to use Major Disease on Nlkosi but he resisted the attempt.
+[08/25 03:27:19 PM] The Deadshore Muck-raker scored a hit with Disease on Nlkosi for 555 Common damage to Power.
+[08/25 03:27:22 PM] The Deadshore Muck-raker scored a hit with Disease on Nlkosi for 555 Common damage to Power.
+[08/25 03:27:25 PM] The Deadshore Muck-raker scored a hit with Disease on Nlkosi for 555 Common damage to Power.
+[08/25 03:27:28 PM] The Deadshore Muck-raker scored a hit with Disease on Nlkosi for 555 Common damage to Power.
+[08/25 03:27:55 PM] Nlkosi scored a hit with Writ of Lightning on the Idagâl Serpent for 8,930 Lightning damage to Morale.
+[08/25 03:27:56 PM] The Idagâl Serpent scored a hit with a weak melee attack on Nlkosi for 8,484 Common damage to Morale.
+[08/25 03:27:56 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Serpent for 9,241 Lightning damage to Morale.
+[08/25 03:27:57 PM] Nlkosi scored a hit with Epic Conclusion on the Idagâl Serpent for 39,268 Lightning damage to Morale.
+[08/25 03:27:58 PM] The Idagâl Serpent scored a hit with a moderate melee attack on Nlkosi for 11,316 Common damage to Morale.
+[08/25 03:27:59 PM] The Idagâl Serpent tried to use a minor melee attack on Nlkosi but he evaded the attempt.
+[08/25 03:27:59 PM] Nlkosi scored a hit with Essence of Storm on the Idagâl Serpent for 12,189 Lightning damage to Morale.
+[08/25 03:28:00 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 03:28:00 PM] Your mighty blow defeated the Idagâl Serpent.
+[08/25 03:28:01 PM] Nlkosi scored a critical hit with Writ of Lightning on the Idagâl Serpent for 26,178 Lightning damage to Morale.
+[08/25 03:28:07 PM] Nlkosi scored a hit with Writ of Lightning on Ershubât the Cradle-thief for 13,551 Lightning damage to Morale.
+[08/25 03:28:08 PM] Nlkosi scored a hit with Shocking Words on Ershubât the Cradle-thief for 31,314 Lightning damage to Morale.
+[08/25 03:28:09 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/25 03:28:10 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/25 03:28:11 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 03:28:11 PM] Nlkosi scored a critical hit with Ceaseless Argument on Ershubât the Cradle-thief for 31,880 Lightning damage to Morale.
+[08/25 03:28:12 PM] Nlkosi scored a critical hit with Scribe's Spark on Ershubât the Cradle-thief for 39,606 Lightning damage to Morale.
+[08/25 03:28:13 PM] Nlkosi scored a critical hit with Ceaseless Argument on Ershubât the Cradle-thief for 36,776 Lightning damage to Morale.
+[08/25 03:28:14 PM] Nlkosi scored a critical hit with Sustaining Bolt on Ershubât the Cradle-thief for 21,633 Lightning damage to Morale.
+[08/25 03:28:15 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,219 points to Power.
+[08/25 03:28:15 PM] Sustenance applied a heal to Nlkosi restoring 21,217 points to Morale.
+[08/25 03:28:16 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on Ershubât the Cradle-thief but he was immune to the attempt.
+[08/25 03:28:16 PM] Nlkosi scored a hit with Fulgurite Strike on Ershubât the Cradle-thief for 4,705 Lightning damage to Morale.
+[08/25 03:28:16 PM] Nlkosi scored a hit with Essence of Storm on Ershubât the Cradle-thief for 15,588 Lightning damage to Morale.
+[08/25 03:28:17 PM] Nlkosi scored a hit with Volcanic Rune-stone on Ershubât the Cradle-thief for 17,601 Fire damage to Morale.
+[08/25 03:28:17 PM] Nlkosi scored a hit with Ceaseless Argument on Ershubât the Cradle-thief for 10,717 Lightning damage to Morale.
+[08/25 03:28:19 PM] Nlkosi scored a hit with Writ of Lightning on Ershubât the Cradle-thief for 10,378 Lightning damage to Morale.
+[08/25 03:28:19 PM] Nlkosi scored a hit with Fulgurite Strike on Ershubât the Cradle-thief for 5,287 Lightning damage to Morale.
+[08/25 03:28:19 PM] Nlkosi scored a hit with Volcanic Rune-stone on Ershubât the Cradle-thief for 18,139 Fire damage to Morale.
+[08/25 03:28:19 PM] Nothing to dispel.
+[08/25 03:28:20 PM] Nlkosi scored a hit with Scribe's Spark on Ershubât the Cradle-thief for 14,847 Lightning damage to Morale.
+[08/25 03:28:20 PM] Nlkosi scored a hit with Improved Final Word on Ershubât the Cradle-thief.
+[08/25 03:28:20 PM] Ershubât the Cradle-thief scored a hit with a weak melee attack on Nlkosi for 12,127 Acid damage to Morale.
+[08/25 03:28:20 PM] Nlkosi scored a hit with Static Surge on Ershubât the Cradle-thief for 23,934 Lightning damage to Morale.
+[08/25 03:28:23 PM] Nlkosi scored a hit with Scribe's Spark on Ershubât the Cradle-thief for 15,695 Lightning damage to Morale.
+[08/25 03:28:24 PM] Nlkosi scored a hit with Ceaseless Argument on Ershubât the Cradle-thief for 10,919 Lightning damage to Morale.
+[08/25 03:28:24 PM] Ershubât the Cradle-thief scored a hit with a minor melee attack on Nlkosi for 15,159 Acid damage to Morale.
+[08/25 03:28:25 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 03:28:25 PM] Nlkosi scored a critical hit with Writ of Lightning on Ershubât the Cradle-thief for 33,772 Lightning damage to Morale.
+[08/25 03:28:26 PM] Ershubât the Cradle-thief scored a hit with a weak melee attack on Nlkosi for 12,127 Acid damage to Morale.
+[08/25 03:28:27 PM] Nlkosi scored a hit with Essence of Storm on Ershubât the Cradle-thief for 14,858 Lightning damage to Morale.
+[08/25 03:28:28 PM] Ershubât the Cradle-thief scored a hit with a minor melee attack on Nlkosi for 14,675 Acid damage to Morale.
+[08/25 03:28:29 PM] Nlkosi scored a critical hit with Ceaseless Argument on Ershubât the Cradle-thief for 34,520 Lightning damage to Morale.
+[08/25 03:28:29 PM] Your mighty blow defeated Ershubât the Cradle-thief.
+[08/25 03:28:30 PM] Nlkosi scored a critical hit with Shocking Words on Ershubât the Cradle-thief for 117,330 Lightning damage to Morale.
+[08/25 03:33:35 PM] The Idagâl Serpent scored a hit with a minor melee attack on Nlkosi for 11,278 Common damage to Morale.
+[08/25 03:33:37 PM] The Idagâl Cobra scored a hit with Minor Poison on Nlkosi for 8,099 Common damage to Morale.
+[08/25 03:33:38 PM] The Idagâl Serpent scored a hit with a weak melee attack on Nlkosi for 9,023 Common damage to Morale.
+[08/25 03:33:40 PM] The Idagâl Cobra scored a hit with Minor Poison on Nlkosi for 8,099 Common damage to Morale.
+[08/25 03:33:43 PM] The Idagâl Cobra scored a hit with Minor Poison on Nlkosi for 8,099 Common damage to Morale.
+[08/25 03:33:46 PM] The Idagâl Cobra scored a hit with Minor Poison on Nlkosi for 8,099 Common damage to Morale.
+[08/25 03:33:47 PM] The Lakeshore Scavenger scored a hit with a weak melee attack on Nlkosi for 7,713 Common damage to Morale.
+[08/25 03:33:49 PM] The Idagâl Cobra scored a hit with Minor Poison on Nlkosi for 8,099 Common damage to Morale.
+[08/25 03:33:50 PM] The Lakeshore Scavenger scored a hit with a moderate melee attack on Nlkosi for 10,606 Common damage to Morale.

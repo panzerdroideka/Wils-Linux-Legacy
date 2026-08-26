@@ -1,0 +1,721 @@
+### Chat Log: Combat 08/24 10:36 AM ###
+[08/24 10:36:40 AM] Nlkosi applied a benefit with Track Mines on Nlkosi.
+[08/24 10:37:18 AM] The An Shêru Hill-bat scored a hit with a weak melee attack on Nlkosi for 3,136 Common damage to Morale.
+[08/24 10:37:19 AM] The An Shêru Hill-bat scored a hit with a minor melee attack on Nlkosi for 3,920 Common damage to Morale.
+[08/24 10:37:20 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:37:21 AM] Nlkosi scored a critical hit with Ceaseless Argument on the An Shêru Hill-bat for 27,527 Lightning damage to Morale.
+[08/24 10:37:21 AM] The An Shêru Hill-bat scored a hit with Aural Assault on Nlkosi.
+[08/24 10:37:21 AM] Your mighty blow defeated the An Shêru Hill-bat.
+[08/24 10:37:22 AM] Nlkosi scored a critical hit with Shocking Words on the An Shêru Hill-bat for 82,589 Lightning damage to Morale.
+[08/24 10:37:23 AM] The An Shêru Blighted Hill-bat scored a hit with a weak melee attack on Nlkosi for 4,723 Common damage to Morale.
+[08/24 10:37:23 AM] Nlkosi scored a critical hit with Scribe's Spark on the An Shêru Blighted Hill-bat for 34,047 Lightning damage to Morale.
+[08/24 10:37:25 AM] Nlkosi scored a critical hit with Writ of Lightning on the An Shêru Blighted Hill-bat for 29,478 Lightning damage to Morale.
+[08/24 10:37:25 AM] Your mighty blow defeated the An Shêru Blighted Hill-bat.
+[08/24 10:37:26 AM] Nlkosi scored a devastating hit with Sustaining Bolt on the An Shêru Blighted Hill-bat for 25,268 Lightning damage to Morale.
+[08/24 10:37:27 AM] Sustaining Bolt applied a heal to Nlkosi restoring 2,088 points to Power.
+[08/24 10:37:27 AM] Sustenance applied a heal to Nlkosi restoring 20,505 points to Morale.
+[08/24 10:41:02 AM] The Ordâkhai Sorcerer scored a hit with a weak thrown attack on Nlkosi for 8,786 Shadow damage to Morale.
+[08/24 10:41:10 AM] The Ordâkhai Sorcerer scored a hit with a moderate thrown attack on Nlkosi for 12,081 Shadow damage to Morale.
+[08/24 10:41:12 AM] The Ordâkhai Sorcerer scored a hit with Max Shadow Damage on Nlkosi for 32,088 Shadow damage to Morale.
+[08/24 10:41:12 AM] The Ordâkhai Sorcerer scored a hit with Painful Memory on Nlkosi.
+[08/24 10:41:50 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:41:51 AM] Nlkosi scored a critical hit with Writ of Lightning on the Kalorkhûn for 24,390 Lightning damage to Morale.
+[08/24 10:41:52 AM] Nlkosi scored a hit with Epic Conclusion on the Kalorkhûn for 45,945 Lightning damage to Morale.
+[08/24 10:41:54 AM] Nlkosi scored a hit with Essence of Flame on the Kalorkhûn for 14,077 Fire damage to Morale.
+[08/24 10:41:54 AM] Your mighty blow defeated the Kalorkhûn.
+[08/24 10:41:54 AM] Nlkosi scored a hit with Sustaining Bolt on the Kalorkhûn for 6,997 Lightning damage to Morale.
+[08/24 10:41:55 AM] Sustaining Bolt applied a heal to Nlkosi restoring 2,004 points to Power.
+[08/24 10:41:55 AM] Sustenance applied a heal to Nlkosi restoring 16,356 points to Morale.
+[08/24 10:42:36 AM] The Ordâkhai Warrior scored a hit with a minor melee attack on Nlkosi for 10,843 Common damage to Morale.
+[08/24 10:42:39 AM] The Ordâkhai Warrior scored a hit with a weak melee attack on Nlkosi for 8,674 Common damage to Morale.
+[08/24 10:42:39 AM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 11,107 Lightning damage to Morale.
+[08/24 10:42:40 AM] Nlkosi scored a hit with Writ of Lightning on the Ordâkhai Warrior for 8,888 Lightning damage to Morale.
+[08/24 10:42:41 AM] The Ordâkhai Warrior scored a hit with a melee double attack on Nlkosi for 8,674 Common damage to Morale.
+[08/24 10:42:41 AM] The Ordâkhai Warrior scored a hit with a melee double attack on Nlkosi for 8,674 Common damage to Morale.
+[08/24 10:42:42 AM] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Warrior for 15,961 Fire damage to Morale.
+[08/24 10:42:43 AM] Nlkosi scored a hit with Chilling Rhetoric on the Ordâkhai Warrior for 9,633 Frost damage to Morale.
+[08/24 10:42:43 AM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/24 10:42:43 AM] The Ordâkhai Warrior scored a hit with a weak melee attack on Nlkosi for 8,674 Common damage to Morale.
+[08/24 10:42:43 AM] You have lost 8,674 points of temporary Morale!
+[08/24 10:42:44 AM] Nlkosi scored a hit with Shocking Touch on the Ordâkhai Warrior for 5,286 Lightning damage to Morale.
+[08/24 10:42:45 AM] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Warrior for 17,667 Lightning damage to Morale.
+[08/24 10:42:46 AM] The Ordâkhai Warrior missed trying to use a moderate melee attack on Nlkosi.
+[08/24 10:42:47 AM] Nlkosi scored a hit with Distracting Flame on the Ordâkhai Warrior.
+[08/24 10:42:48 AM] Nlkosi scored a hit with Scribe's Spark on the Ordâkhai Warrior for 16,724 Lightning damage to Morale.
+[08/24 10:42:48 AM] The Ordâkhai Warrior scored a critical hit with a strong melee attack on Nlkosi for 18,606 Common damage to Morale.
+[08/24 10:42:48 AM] You have lost 18,606 points of temporary Morale!
+[08/24 10:42:49 AM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/24 10:42:49 AM] Nlkosi scored a hit with Vivid Imagery on the Ordâkhai Warrior for 14,741 Lightning damage to Morale.
+[08/24 10:42:56 AM] The Ordâkhai Look-out scored a hit with a minor thrown attack on Nlkosi for 10,391 Common damage to Morale.
+[08/24 10:42:57 AM] You have lost 10,391 points of temporary Morale!
+[08/24 10:42:58 AM] The Ordâkhai Look-out scored a hit with a moderate thrown attack on Nlkosi for 11,430 Common damage to Morale.
+[08/24 10:42:59 AM] You have lost 11,430 points of temporary Morale!
+[08/24 10:42:59 AM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Look-out for 12,100 Lightning damage to Morale.
+[08/24 10:43:00 AM] The Ordâkhai Look-out scored a hit with a weak thrown attack on Nlkosi for 8,313 Common damage to Morale.
+[08/24 10:43:01 AM] You have lost 8,313 points of temporary Morale!
+[08/24 10:43:02 AM] The Ordâkhai Look-out scored a hit with a moderate thrown attack on Nlkosi for 11,430 Common damage to Morale.
+[08/24 10:43:02 AM] Nlkosi scored a hit with Essence of Flame on the Ordâkhai Look-out for 16,103 Fire damage to Morale.
+[08/24 10:43:03 AM] You have lost 10,159 points of temporary Morale!
+[08/24 10:43:04 AM] Nlkosi scored a hit with Essence of Winter on the Ordâkhai Look-out for 24,942 Frost damage to Morale.
+[08/24 10:43:05 AM] Nlkosi scored a hit with Essence of Storm on the Ordâkhai Look-out for 15,597 Lightning damage to Morale.
+[08/24 10:43:05 AM] Nothing to dispel.
+[08/24 10:43:06 AM] Nlkosi scored a hit with Improved Final Word on the Ordâkhai Look-out.
+[08/24 10:43:06 AM] Your mighty blow defeated the Ordâkhai Look-out.
+[08/24 10:43:07 AM] Nlkosi scored a hit with Epic Conclusion on the Ordâkhai Look-out for 58,625 Lightning damage to Morale.
+[08/24 10:43:44 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Kalorkhûn for 19,900 Fire damage to Morale.
+[08/24 10:43:44 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 10:43:44 AM] The Kalorkhûn tried to use Minor Fright on the Volcanic Rune-stone but it resisted the attempt.
+[08/24 10:43:45 AM] The Kalorkhûn scored a hit with Prolonged Screech on the Volcanic Rune-stone for 3,056 Common damage to Morale.
+[08/24 10:43:45 AM] The Salt-land Pack-leader tried to use a weak melee attack on the Volcanic Rune-stone but it blocked the attempt.
+[08/24 10:43:46 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 20,437 Fire damage to Morale.
+[08/24 10:43:46 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Kalorkhûn for 19,900 Fire damage to Morale.
+[08/24 10:43:46 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Kalorkhûn for 19,039 Fire damage to Morale.
+[08/24 10:43:46 AM] The Kalorkhûn scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,831 Common damage to Morale.
+[08/24 10:43:47 AM] The Salt-land Pack-leader scored a hit with a mighty melee attack on the Volcanic Rune-stone for 3,438 Common damage to Morale.
+[08/24 10:43:47 AM] Nlkosi scored a hit with Fulgurite Strike on the Salt-land Pack-leader for 5,624 Lightning damage to Morale.
+[08/24 10:43:47 AM] Nlkosi scored a hit with Fulgurite Strike on the Kalorkhûn for 5,564 Lightning damage to Morale.
+[08/24 10:43:47 AM] Nlkosi scored a hit with Fulgurite Strike on the Kalorkhûn for 5,303 Lightning damage to Morale.
+[08/24 10:43:48 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 20,437 Fire damage to Morale.
+[08/24 10:43:48 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Kalorkhûn for 19,900 Fire damage to Morale.
+[08/24 10:43:48 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Kalorkhûn for 19,039 Fire damage to Morale.
+[08/24 10:43:48 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 10:43:48 AM] The Kalorkhûn scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,201 Common damage to Morale.
+[08/24 10:43:49 AM] Nlkosi scored a hit with Ceaseless Argument on the Kalorkhûn for 9,568 Lightning damage to Morale.
+[08/24 10:43:50 AM] Nlkosi scored a hit with Sustaining Bolt on the Kalorkhûn for 6,388 Lightning damage to Morale.
+[08/24 10:43:50 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 20,437 Fire damage to Morale.
+[08/24 10:43:50 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Kalorkhûn for 19,039 Fire damage to Morale.
+[08/24 10:43:50 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Kalorkhûn for 19,900 Fire damage to Morale.
+[08/24 10:43:50 AM] The Volcanic Rune-stone defeated the Kalorkhûn.
+[08/24 10:43:50 AM] Nlkosi scored a hit with Fulgurite Strike on the Salt-land Pack-leader for 5,371 Lightning damage to Morale.
+[08/24 10:43:50 AM] Nlkosi scored a hit with Fulgurite Strike on the Kalorkhûn for 5,049 Lightning damage to Morale.
+[08/24 10:43:51 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,466 points to Power.
+[08/24 10:43:51 AM] Sustenance applied a heal to Nlkosi restoring 20,471 points to Morale.
+[08/24 10:43:51 AM] The Kalorkhûn tried to use Light Wound on the Volcanic Rune-stone but it resisted the attempt.
+[08/24 10:43:51 AM] The Kalorkhûn scored a hit with Beak Strike on the Volcanic Rune-stone for 5,128 Common damage to Morale.
+[08/24 10:43:52 AM] The Salt-land Pack-leader scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,910 Common damage to Morale.
+[08/24 10:43:52 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 20,437 Fire damage to Morale.
+[08/24 10:43:52 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Kalorkhûn for 19,039 Fire damage to Morale.
+[08/24 10:43:53 AM] The Salt-land Pack-leader tried to use a moderate melee attack on the Volcanic Rune-stone but it blocked the attempt.
+[08/24 10:43:53 AM] Your mighty blow defeated the Kalorkhûn.
+[08/24 10:43:53 AM] Nlkosi scored a hit with Fulgurite Strike on the Salt-land Pack-leader for 5,665 Lightning damage to Morale.
+[08/24 10:43:53 AM] Nlkosi scored a hit with Writ of Lightning on the Kalorkhûn for 11,224 Lightning damage to Morale.
+[08/24 10:43:54 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Salt-land Pack-leader for 20,437 Fire damage to Morale.
+[08/24 10:43:55 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:43:55 AM] Nlkosi scored a critical hit with Scribe's Spark on the Salt-land Pack-leader for 34,180 Lightning damage to Morale.
+[08/24 10:43:56 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Salt-land Pack-leader but he was immune to the attempt.
+[08/24 10:43:56 AM] Nlkosi scored a hit with Fulgurite Strike on the Salt-land Pack-leader for 5,628 Lightning damage to Morale.
+[08/24 10:43:57 AM] Nlkosi scored a hit with Distracting Flame on the Salt-land Pack-leader.
+[08/24 10:43:58 AM] Nlkosi tried to use Induce Stunned on the Salt-land Pack-leader but he was immune to the attempt.
+[08/24 10:43:58 AM] Nlkosi scored a critical hit with Shocking Words on the Salt-land Pack-leader for 106,508 Lightning damage to Morale.
+[08/24 10:44:00 AM] Nlkosi scored a critical hit with Distracting Flame on the Salt-land Pack-leader for 5,289 Fire damage to Morale.
+[08/24 10:44:00 AM] Nlkosi scored a critical hit with Essence of Winter on the Salt-land Pack-leader for 18,436 Frost damage to Morale.
+[08/24 10:44:00 AM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[08/24 10:44:01 AM] Nothing to dispel.
+[08/24 10:44:01 AM] Nlkosi scored a hit with Improved Final Word on the Salt-land Pack-leader.
+[08/24 10:44:02 AM] Nlkosi scored a hit with Concession and Rebuttal: Epic Conclusion on the Salt-land Pack-leader for 54,630 Lightning damage to Morale.
+[08/24 10:44:03 AM] Nlkosi scored a hit with Distracting Flame on the Salt-land Pack-leader for 3,795 Fire damage to Morale.
+[08/24 10:44:04 AM] Your mighty blow defeated the Salt-land Pack-leader.
+[08/24 10:44:04 AM] Nlkosi scored a hit with Head-butt on the Salt-land Pack-leader for 14,299 Common damage to Morale.
+[08/24 10:44:13 AM] Nlkosi scored a hit with Ceaseless Argument on the Callow Kalorkhûn for 11,097 Lightning damage to Morale.
+[08/24 10:44:13 AM] Nlkosi scored a hit with Concession and Rebuttal: Sustaining Bolt on the Callow Kalorkhûn for 9,031 Lightning damage to Morale.
+[08/24 10:44:14 AM] Powerful Sustenance applied a critical heal to Nlkosi restoring 42,492 points to Morale.
+[08/24 10:44:14 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,281 points to Power.
+[08/24 10:44:15 AM] Nlkosi scored a hit with Ceaseless Argument on the Callow Kalorkhûn for 8,788 Lightning damage to Morale.
+[08/24 10:44:15 AM] The Callow Kalorkhûn scored a hit with Prolonged Screech on Nlkosi for 15,180 Common damage to Morale.
+[08/24 10:44:16 AM] Master of Tragedy applied a heal to Nlkosi restoring 275 points to Power.
+[08/24 10:44:16 AM] Your mighty blow defeated the Callow Kalorkhûn.
+[08/24 10:44:16 AM] Nlkosi scored a critical hit with Essence of Storm on the Callow Kalorkhûn for 47,680 Lightning damage to Morale.
+[08/24 10:46:04 AM] The Kalorkhûn scored a hit with Prolonged Screech on Nlkosi for 20,240 Common damage to Morale.
+[08/24 10:46:52 AM] The Ordâkhai Warrior scored a hit with a melee double attack on Nlkosi for 7,526 Common damage to Morale.
+[08/24 10:46:53 AM] The Ordâkhai Warrior scored a hit with a melee double attack on Nlkosi for 7,526 Common damage to Morale.
+[08/24 10:46:55 AM] The Ordâkhai Warrior scored a hit with a minor melee attack on Nlkosi for 9,408 Common damage to Morale.
+[08/24 10:46:56 AM] Nlkosi scored a hit with Ceaseless Argument on the Ordâkhai Warrior for 12,165 Lightning damage to Morale.
+[08/24 10:46:56 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:46:57 AM] Nlkosi scored a critical hit with Essence of Storm on the Ordâkhai Warrior for 48,569 Lightning damage to Morale.
+[08/24 10:46:57 AM] The Ordâkhai Warrior scored a hit with a weak melee attack on Nlkosi for 7,526 Common damage to Morale.
+[08/24 10:46:57 AM] Nothing to dispel.
+[08/24 10:46:57 AM] Nlkosi scored a hit with Improved Final Word on the Ordâkhai Warrior.
+[08/24 10:46:58 AM] Your mighty blow defeated the Ordâkhai Warrior.
+[08/24 10:46:58 AM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/24 10:46:58 AM] Nlkosi scored a critical hit with Static Surge on the Ordâkhai Warrior for 53,922 Lightning damage to Morale.
+[08/24 10:47:15 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Young Mûmak for 20,766 Fire damage to Morale.
+[08/24 10:47:16 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 10:47:17 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Young Mûmak for 5,301 Lightning damage to Morale.
+[08/24 10:47:17 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,582 Lightning damage to Morale.
+[08/24 10:47:17 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Young Mûmak for 5,877 Lightning damage to Morale.
+[08/24 10:47:17 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 10:47:17 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Young Mûmak for 20,766 Fire damage to Morale.
+[08/24 10:47:18 AM] The Wild Young Mûmak scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,073 Common damage to Morale.
+[08/24 10:47:18 AM] You have lost 67,573 points of temporary Morale!
+[08/24 10:47:18 AM] The Wild Young Mûmak scored a hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 1,501 Common damage to Morale.
+[08/24 10:47:18 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Young Mûmak for 12,737 Lightning damage to Morale.
+[08/24 10:47:19 AM] Nlkosi scored a hit with Chilling Rhetoric on the Wild Young Mûmak for 7,539 Frost damage to Morale.
+[08/24 10:47:19 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Young Mûmak for 21,130 Fire damage to Morale.
+[08/24 10:47:19 AM] The Volcanic Rune-stone defeated the Wild Young Mûmak.
+[08/24 10:47:20 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Wild Young Mûmak for 11,794 Fire damage to Morale.
+[08/24 10:47:20 AM] The Wild Mûmak scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 1,419 Common damage to Morale.
+[08/24 10:47:20 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,767 Lightning damage to Morale.
+[08/24 10:47:20 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Young Mûmak for 5,390 Lightning damage to Morale.
+[08/24 10:47:20 AM] The Wild Young Mûmak scored a partially parried hit with a weak melee attack on the Charged Fulgurite Rune-stone for 690 Common damage to Morale.
+[08/24 10:47:22 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Mûmak for 13,269 Lightning damage to Morale.
+[08/24 10:47:22 AM] The Wild Young Mûmak scored a partially blocked hit with a minor melee attack on the Charged Fulgurite Rune-stone for 863 Common damage to Morale.
+[08/24 10:47:23 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Young Mûmak for 5,424 Lightning damage to Morale.
+[08/24 10:47:23 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Wild Mûmak but she was immune to the attempt.
+[08/24 10:47:23 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,325 Lightning damage to Morale.
+[08/24 10:47:23 AM] Nlkosi scored a hit with Essence of Flame on the Wild Mûmak for 14,433 Fire damage to Morale.
+[08/24 10:47:23 AM] Nlkosi scored a hit with Essence of Flame on the Wild Young Mûmak for 16,175 Fire damage to Morale.
+[08/24 10:47:24 AM] Nlkosi tried to use Induce Stunned on the Wild Mûmak but she was immune to the attempt.
+[08/24 10:47:24 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:47:24 AM] Nlkosi scored a critical hit with Shocking Words on the Wild Mûmak for 95,813 Lightning damage to Morale.
+[08/24 10:47:24 AM] The Wild Mûmak scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 1,774 Common damage to Morale.
+[08/24 10:47:25 AM] The Wild Young Mûmak scored a partially parried hit with a weak melee attack on the Charged Fulgurite Rune-stone for 690 Common damage to Morale.
+[08/24 10:47:25 AM] Nlkosi scored a devastating hit with Writ of Lightning on the Wild Mûmak for 27,218 Lightning damage to Morale.
+[08/24 10:47:26 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Young Mûmak for 5,854 Lightning damage to Morale.
+[08/24 10:47:26 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,725 Lightning damage to Morale.
+[08/24 10:47:27 AM] Nlkosi scored a devastating hit with Essence of Storm on the Wild Mûmak for 65,847 Lightning damage to Morale.
+[08/24 10:47:28 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak for 13,928 Lightning damage to Morale.
+[08/24 10:47:29 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Wild Mûmak for 20,206 Lightning damage to Morale.
+[08/24 10:47:30 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,627 points to Power.
+[08/24 10:47:30 AM] Sustenance applied a heal to Nlkosi restoring 22,101 points to Morale.
+[08/24 10:47:30 AM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[08/24 10:47:32 AM] The Wild Mûmak scored a critical hit with a weak melee attack on Nlkosi for 12,167 Common damage to Morale.
+[08/24 10:47:32 AM] Nlkosi scored a hit with Flurry of Words on the Wild Mûmak for 3,474 Frost damage to Morale.
+[08/24 10:47:32 AM] Nlkosi scored a hit with Flurry of Words on the Wild Young Mûmak for 3,251 Frost damage to Morale.
+[08/24 10:47:32 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/24 10:47:33 AM] Nlkosi scored a hit with Concession and Rebuttal: Epic Conclusion on the Wild Mûmak for 86,589 Lightning damage to Morale.
+[08/24 10:47:34 AM] The Wild Mûmak scored a hit with Melee Knockdown on Nlkosi.
+[08/24 10:47:34 AM] Nlkosi scored a critical hit with Epic Conclusion - Wounding Memory on the Wild Mûmak for 24,034 Lightning damage to Morale.
+[08/24 10:47:34 AM] The Wild Young Mûmak scored a hit with a weak melee attack on Nlkosi for 6,545 Common damage to Morale.
+[08/24 10:47:35 AM] Nlkosi scored a hit with Flurry of Words on the Wild Mûmak for 3,803 Frost damage to Morale.
+[08/24 10:47:35 AM] Nlkosi scored a hit with Flurry of Words on the Wild Young Mûmak for 3,594 Frost damage to Morale.
+[08/24 10:47:36 AM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[08/24 10:47:36 AM] The Wild Young Mûmak scored a hit with a minor melee attack on Nlkosi for 8,181 Common damage to Morale.
+[08/24 10:47:36 AM] The Wild Mûmak scored a hit with a mighty melee attack on Nlkosi for 19,144 Common damage to Morale.
+[08/24 10:47:36 AM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on the Wild Mûmak for 13,436 Lightning damage to Morale.
+[08/24 10:47:36 AM] Your mighty blow defeated the Wild Mûmak.
+[08/24 10:47:37 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak for 10,730 Lightning damage to Morale.
+[08/24 10:47:38 AM] Nlkosi scored a hit with Flurry of Words on the Wild Young Mûmak for 3,739 Frost damage to Morale.
+[08/24 10:47:38 AM] The Wild Young Mûmak scored a partially evaded hit with a moderate melee attack on Nlkosi for 8,278 Common damage to Morale.
+[08/24 10:47:39 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Young Mûmak for 11,995 Lightning damage to Morale.
+[08/24 10:47:40 AM] Nlkosi scored a hit with Concession and Rebuttal: Writ of Lightning on the Wild Young Mûmak for 12,073 Lightning damage to Morale.
+[08/24 10:47:40 AM] The Wild Young Mûmak scored a hit with a minor melee attack on Nlkosi for 8,434 Common damage to Morale.
+[08/24 10:47:41 AM] Nlkosi scored a hit with Flurry of Words on the Wild Young Mûmak for 5,057 Frost damage to Morale.
+[08/24 10:47:43 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:47:43 AM] Your mighty blow defeated the Wild Young Mûmak.
+[08/24 10:47:43 AM] Nlkosi scored a critical hit with Essence of Storm on the Wild Young Mûmak for 70,418 Lightning damage to Morale.
+[08/24 10:47:57 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 10:48:03 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak Bull for 5,791 Lightning damage to Morale.
+[08/24 10:48:04 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 10:48:05 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak Bull for 10,399 Lightning damage to Morale.
+[08/24 10:48:06 AM] Nlkosi scored a hit with Shocking Words on the Wild Mûmak Bull for 34,434 Lightning damage to Morale.
+[08/24 10:48:07 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak Bull for 5,677 Lightning damage to Morale.
+[08/24 10:48:08 AM] Nlkosi scored a hit with Essence of Winter on the Wild Mûmak Bull for 9,686 Frost damage to Morale.
+[08/24 10:48:09 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak Bull for 11,626 Lightning damage to Morale.
+[08/24 10:48:09 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak Bull for 5,256 Lightning damage to Morale.
+[08/24 10:48:10 AM] Nlkosi scored a hit with Writ of Lightning on the Wild Mûmak Bull for 7,983 Lightning damage to Morale.
+[08/24 10:48:11 AM] Nlkosi scored a hit with Essence of Storm on the Wild Mûmak Bull for 13,861 Lightning damage to Morale.
+[08/24 10:48:12 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:48:12 AM] Nlkosi scored a critical hit with Epic Conclusion on the Wild Mûmak Bull for 147,432 Lightning damage to Morale.
+[08/24 10:48:12 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak Bull for 5,377 Lightning damage to Morale.
+[08/24 10:48:14 AM] Nlkosi scored a hit with Sustaining Bolt on the Wild Mûmak Bull for 4,646 Lightning damage to Morale.
+[08/24 10:48:15 AM] Sustaining Bolt applied a heal to Nlkosi restoring 1,899 points to Power.
+[08/24 10:48:15 AM] Sustenance applied a heal to Nlkosi restoring 15,487 points to Morale.
+[08/24 10:48:15 AM] The Wild Mûmak Bull scored a hit with a weak melee attack on Nlkosi for 11,454 Common damage to Morale.
+[08/24 10:48:16 AM] Nlkosi scored a hit with Writ of Lightning on the Wild Mûmak Bull for 8,969 Lightning damage to Morale.
+[08/24 10:48:16 AM] The Wild Mûmak Bull scored a hit with a mighty melee attack on Nlkosi for 25,771 Common damage to Morale.
+[08/24 10:48:17 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak Bull for 11,924 Lightning damage to Morale.
+[08/24 10:48:18 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Mûmak Bull for 36,298 Lightning damage to Morale.
+[08/24 10:48:18 AM] The Wild Mûmak Bull scored a hit with a minor melee attack on Nlkosi for 14,317 Common damage to Morale.
+[08/24 10:48:20 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Mûmak Bull for 39,114 Lightning damage to Morale.
+[08/24 10:48:21 AM] Nlkosi scored a critical hit with Scribe's Spark on the Wild Mûmak Bull for 43,805 Lightning damage to Morale.
+[08/24 10:48:21 AM] The Wild Mûmak Bull scored a hit with a weak melee attack on Nlkosi for 11,454 Common damage to Morale.
+[08/24 10:48:21 AM] Nlkosi scored a devastating hit with Fiery Ridicule on the Wild Mûmak Bull for 18,166 Fire damage to Morale.
+[08/24 10:48:22 AM] Nlkosi scored a hit with Essence of Storm on the Wild Mûmak Bull for 18,790 Lightning damage to Morale.
+[08/24 10:48:24 AM] The Wild Mûmak Bull scored a hit with Melee Knockdown on Nlkosi.
+[08/24 10:48:24 AM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 8,315 Fire damage to Morale.
+[08/24 10:48:26 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:48:26 AM] Nlkosi scored a critical hit with Static Surge on the Wild Mûmak Bull for 67,475 Lightning damage to Morale.
+[08/24 10:48:27 AM] The Wild Mûmak Bull scored a devastating hit with a weak melee attack on Nlkosi for 22,789 Common damage to Morale.
+[08/24 10:48:27 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 4,424 Fire damage to Morale.
+[08/24 10:48:28 AM] The Wild Mûmak Bull scored a hit with a minor melee attack on Nlkosi for 14,317 Common damage to Morale.
+[08/24 10:48:30 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 3,943 Fire damage to Morale.
+[08/24 10:48:30 AM] Nlkosi scored a devastating hit with Vivid Imagery on the Wild Mûmak Bull for 51,198 Lightning damage to Morale.
+[08/24 10:48:33 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 4,067 Fire damage to Morale.
+[08/24 10:48:34 AM] The Wild Mûmak Bull tried to use a mighty melee attack on Nlkosi but he evaded the attempt.
+[08/24 10:48:36 AM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 8,510 Fire damage to Morale.
+[08/24 10:48:37 AM] Nlkosi scored a hit with a melee attack on the Wild Mûmak Bull for 731 Lightning damage to Morale.
+[08/24 10:48:37 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:48:37 AM] The Wild Mûmak Bull scored a hit with a weak melee attack on Nlkosi for 11,454 Common damage to Morale.
+[08/24 10:48:37 AM] Nlkosi scored a critical hit with Writ of Lightning on the Wild Mûmak Bull for 32,772 Lightning damage to Morale.
+[08/24 10:48:38 AM] Nlkosi scored a hit with a melee attack on the Wild Mûmak Bull for 847 Lightning damage to Morale.
+[08/24 10:48:39 AM] Nlkosi scored a hit with Shocking Words on the Wild Mûmak Bull for 45,934 Lightning damage to Morale.
+[08/24 10:48:39 AM] Nlkosi scored a hit with a melee attack on the Wild Mûmak Bull for 730 Lightning damage to Morale.
+[08/24 10:48:40 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Mûmak Bull for 27,808 Lightning damage to Morale.
+[08/24 10:48:40 AM] Nlkosi scored a hit with a melee attack on the Wild Mûmak Bull for 795 Lightning damage to Morale.
+[08/24 10:48:41 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Mûmak Bull for 11,870 Lightning damage to Morale.
+[08/24 10:48:42 AM] Nlkosi scored a hit with a melee attack on the Wild Mûmak Bull for 820 Lightning damage to Morale.
+[08/24 10:48:43 AM] Nlkosi scored a hit with Essence of Storm on the Wild Mûmak Bull for 13,648 Lightning damage to Morale.
+[08/24 10:48:43 AM] Nlkosi scored a critical hit with a melee attack on the Wild Mûmak Bull for 1,155 Lightning damage to Morale.
+[08/24 10:48:44 AM] Nlkosi scored a critical hit with Writ of Lightning on the Wild Mûmak Bull for 33,337 Lightning damage to Morale.
+[08/24 10:48:45 AM] Nlkosi scored a hit with a melee attack on the Wild Mûmak Bull for 801 Lightning damage to Morale.
+[08/24 10:48:45 AM] Your mighty blow defeated the Wild Mûmak Bull.
+[08/24 10:48:45 AM] Nlkosi scored a critical hit with Epic Conclusion on the Wild Mûmak Bull for 228,707 Lightning damage to Morale.
+[08/24 10:48:52 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 10:48:53 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,232 Lightning damage to Morale.
+[08/24 10:48:54 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 10:48:55 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak for 11,768 Lightning damage to Morale.
+[08/24 10:48:56 AM] Nlkosi scored a hit with Sustaining Bolt on the Wild Mûmak for 6,868 Lightning damage to Morale.
+[08/24 10:48:56 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Young Mûmak for 5,671 Lightning damage to Morale.
+[08/24 10:48:56 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,448 Lightning damage to Morale.
+[08/24 10:48:56 AM] The Wild Mûmak scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 1,731 Common damage to Morale.
+[08/24 10:48:57 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,453 points to Power.
+[08/24 10:48:57 AM] Sustenance applied a heal to Nlkosi restoring 17,331 points to Morale.
+[08/24 10:48:58 AM] Nlkosi scored a hit with Distracting Flame on the Wild Mûmak.
+[08/24 10:48:59 AM] Nlkosi scored a hit with Essence of Flame on the Wild Mûmak for 21,198 Fire damage to Morale.
+[08/24 10:48:59 AM] Nlkosi scored a hit with Essence of Flame on the Wild Young Mûmak for 21,652 Fire damage to Morale.
+[08/24 10:48:59 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Young Mûmak for 5,679 Lightning damage to Morale.
+[08/24 10:48:59 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,170 Lightning damage to Morale.
+[08/24 10:49:00 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Mûmak for 16,433 Lightning damage to Morale.
+[08/24 10:49:01 AM] Nlkosi scored a hit with Distracting Flame on the Wild Mûmak for 3,843 Fire damage to Morale.
+[08/24 10:49:01 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak for 13,579 Lightning damage to Morale.
+[08/24 10:49:02 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 19,423 Fire damage to Morale.
+[08/24 10:49:02 AM] Nlkosi scored a hit with Epic Conclusion on the Wild Mûmak for 71,842 Lightning damage to Morale.
+[08/24 10:49:02 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Wild Young Mûmak but he was immune to the attempt.
+[08/24 10:49:02 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Young Mûmak for 5,466 Lightning damage to Morale.
+[08/24 10:49:02 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,160 Lightning damage to Morale.
+[08/24 10:49:04 AM] Nlkosi scored a hit with Distracting Flame on the Wild Mûmak for 3,696 Fire damage to Morale.
+[08/24 10:49:04 AM] Nlkosi scored a hit with Chilling Rhetoric on the Wild Mûmak for 8,526 Frost damage to Morale.
+[08/24 10:49:05 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Mûmak for 14,484 Lightning damage to Morale.
+[08/24 10:49:06 AM] The Wild Mûmak scored a partially evaded hit with a mighty melee attack on Nlkosi for 19,515 Common damage to Morale.
+[08/24 10:49:06 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak for 13,889 Lightning damage to Morale.
+[08/24 10:49:06 AM] The Wild Young Mûmak scored a hit with a moderate melee attack on Nlkosi for 9,278 Common damage to Morale.
+[08/24 10:49:07 AM] Nlkosi scored a hit with Distracting Flame on the Wild Mûmak for 3,682 Fire damage to Morale.
+[08/24 10:49:07 AM] Nlkosi tried to use Induce Stunned on the Wild Mûmak but she was immune to the attempt.
+[08/24 10:49:07 AM] Nlkosi scored a hit with Shocking Words on the Wild Mûmak for 31,954 Lightning damage to Morale.
+[08/24 10:49:08 AM] The Wild Mûmak scored a hit with a minor melee attack on Nlkosi for 11,746 Common damage to Morale.
+[08/24 10:49:09 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Mûmak for 14,420 Lightning damage to Morale.
+[08/24 10:49:09 AM] The Wild Young Mûmak scored a hit with a minor melee attack on Nlkosi for 8,434 Common damage to Morale.
+[08/24 10:49:10 AM] Nlkosi scored a hit with Writ of Lightning on the Wild Mûmak for 12,529 Lightning damage to Morale.
+[08/24 10:49:10 AM] Nlkosi scored a hit with Distracting Flame on the Wild Mûmak for 3,845 Fire damage to Morale.
+[08/24 10:49:10 AM] The Wild Mûmak scored a hit with a weak melee attack on Nlkosi for 9,397 Common damage to Morale.
+[08/24 10:49:11 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak for 11,448 Lightning damage to Morale.
+[08/24 10:49:12 AM] The Wild Mûmak scored a hit with a moderate melee attack on Nlkosi for 12,533 Common damage to Morale.
+[08/24 10:49:12 AM] Nlkosi scored a hit with Essence of Storm on the Wild Mûmak for 17,649 Lightning damage to Morale.
+[08/24 10:49:13 AM] The Wild Young Mûmak scored a hit with a weak melee attack on Nlkosi for 6,545 Common damage to Morale.
+[08/24 10:49:13 AM] Nlkosi scored a hit with Distracting Flame on the Wild Mûmak for 2,934 Fire damage to Morale.
+[08/24 10:49:13 AM] Nlkosi scored a hit with Sustaining Bolt on the Wild Mûmak for 7,542 Lightning damage to Morale.
+[08/24 10:49:14 AM] The Wild Mûmak scored a critical hit with a minor melee attack on Nlkosi for 16,293 Common damage to Morale.
+[08/24 10:49:14 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,642 points to Power.
+[08/24 10:49:14 AM] Sustenance applied a heal to Nlkosi restoring 23,655 points to Morale.
+[08/24 10:49:15 AM] The Wild Young Mûmak scored a hit with Minor Laceration on Nlkosi.
+[08/24 10:49:15 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:49:15 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Mûmak for 31,134 Lightning damage to Morale.
+[08/24 10:49:15 AM] Nothing to dispel.
+[08/24 10:49:16 AM] Nlkosi scored a hit with Improved Final Word on the Wild Mûmak.
+[08/24 10:49:16 AM] Minor Laceration has been cured.
+[08/24 10:49:17 AM] The Wild Mûmak scored a hit with a weak melee attack on Nlkosi for 9,115 Common damage to Morale.
+[08/24 10:49:17 AM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/24 10:49:18 AM] Nlkosi scored a hit with Shocking Touch on the Wild Mûmak for 5,794 Lightning damage to Morale.
+[08/24 10:49:18 AM] The Wild Young Mûmak scored a hit with a weak melee attack on Nlkosi for 6,545 Common damage to Morale.
+[08/24 10:49:18 AM] Nothing to cure.
+[08/24 10:49:19 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Mûmak for 10,747 Lightning damage to Morale.
+[08/24 10:49:20 AM] The Wild Young Mûmak scored a hit with a moderate melee attack on Nlkosi for 8,999 Common damage to Morale.
+[08/24 10:49:20 AM] Your mighty blow defeated the Wild Mûmak.
+[08/24 10:49:20 AM] Nlkosi scored a hit with Epic Conclusion on the Wild Mûmak for 50,318 Lightning damage to Morale.
+[08/24 10:49:20 AM] Nothing to cure.
+[08/24 10:49:23 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Young Mûmak for 13,893 Lightning damage to Morale.
+[08/24 10:49:24 AM] The Wild Young Mûmak scored a hit with Melee Knockdown on Nlkosi.
+[08/24 10:49:26 AM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[08/24 10:49:27 AM] The Wild Young Mûmak scored a hit with a weak melee attack on Nlkosi for 6,747 Common damage to Morale.
+[08/24 10:49:27 AM] Nlkosi scored a hit with Writ of Lightning on the Wild Young Mûmak for 13,759 Lightning damage to Morale.
+[08/24 10:49:28 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:49:28 AM] Your mighty blow defeated the Wild Young Mûmak.
+[08/24 10:49:28 AM] Nlkosi scored a critical hit with Scribe's Spark on the Wild Young Mûmak for 43,347 Lightning damage to Morale.
+[08/24 10:49:38 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 19,900 Fire damage to Morale.
+[08/24 10:49:38 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Young Mûmak for 20,766 Fire damage to Morale.
+[08/24 10:49:39 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 10:49:39 AM] The Wild Young Mûmak tried to use a moderate melee attack on the Volcanic Rune-stone but it parried the attempt.
+[08/24 10:49:40 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 19,900 Fire damage to Morale.
+[08/24 10:49:40 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Young Mûmak for 20,766 Fire damage to Morale.
+[08/24 10:49:40 AM] The Wild Mûmak scored a hit with a weak melee attack on the Volcanic Rune-stone for 1,419 Common damage to Morale.
+[08/24 10:49:41 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 10:49:42 AM] The Wild Mûmak scored a partially blocked hit with a moderate melee attack on the Volcanic Rune-stone for 1,234 Common damage to Morale.
+[08/24 10:49:42 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,666 Lightning damage to Morale.
+[08/24 10:49:42 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Young Mûmak for 5,760 Lightning damage to Morale.
+[08/24 10:49:42 AM] The Wild Young Mûmak scored a hit with a weak melee attack on the Volcanic Rune-stone for 859 Common damage to Morale.
+[08/24 10:49:42 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 19,900 Fire damage to Morale.
+[08/24 10:49:42 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Young Mûmak for 20,766 Fire damage to Morale.
+[08/24 10:49:43 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:49:43 AM] Your mighty blow defeated the Wild Young Mûmak.
+[08/24 10:49:43 AM] Nlkosi scored a devastating hit with Ceaseless Argument on the Wild Young Mûmak for 36,211 Lightning damage to Morale.
+[08/24 10:49:44 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 19,900 Fire damage to Morale.
+[08/24 10:49:45 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Wild Mûmak for 21,790 Lightning damage to Morale.
+[08/24 10:49:45 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,647 Lightning damage to Morale.
+[08/24 10:49:46 AM] Sustaining Bolt applied a heal to Nlkosi restoring 2,083 points to Power.
+[08/24 10:49:46 AM] Sustenance applied a critical heal to Nlkosi restoring 31,875 points to Morale.
+[08/24 10:49:46 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 19,900 Fire damage to Morale.
+[08/24 10:49:47 AM] The Wild Mûmak scored a partially evaded hit with a moderate melee attack on the Volcanic Rune-stone for 1,234 Common damage to Morale.
+[08/24 10:49:48 AM] Nlkosi scored a hit with Essence of Winter on the Wild Mûmak for 12,701 Frost damage to Morale.
+[08/24 10:49:48 AM] Nlkosi scored a hit with Essence of Winter on the Wild Young Mûmak for 12,822 Frost damage to Morale.
+[08/24 10:49:48 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,296 Lightning damage to Morale.
+[08/24 10:49:48 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 19,900 Fire damage to Morale.
+[08/24 10:49:48 AM] The Wild Mûmak scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,774 Common damage to Morale.
+[08/24 10:49:49 AM] Nlkosi scored a critical hit with Scribe's Spark on the Wild Mûmak for 41,041 Lightning damage to Morale.
+[08/24 10:49:50 AM] Nlkosi scored a hit with Fiery Ridicule on the Wild Mûmak for 7,562 Fire damage to Morale.
+[08/24 10:49:51 AM] Nlkosi scored a critical hit with Essence of Flame on the Wild Mûmak for 36,131 Fire damage to Morale.
+[08/24 10:49:51 AM] Nlkosi scored a critical hit with Essence of Flame on the Wild Young Mûmak for 33,776 Fire damage to Morale.
+[08/24 10:49:51 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Young Mûmak for 5,496 Lightning damage to Morale.
+[08/24 10:49:51 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Wild Mûmak but she was immune to the attempt.
+[08/24 10:49:51 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,954 Lightning damage to Morale.
+[08/24 10:49:52 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak for 15,011 Lightning damage to Morale.
+[08/24 10:49:53 AM] Nlkosi scored a critical hit with Scribe's Spark on the Wild Mûmak for 42,350 Lightning damage to Morale.
+[08/24 10:49:54 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak for 4,356 Fire damage to Morale.
+[08/24 10:49:54 AM] Nlkosi scored a hit with Chilling Rhetoric on the Wild Mûmak for 16,089 Frost damage to Morale.
+[08/24 10:49:54 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:49:54 AM] Nlkosi scored a critical hit with Writ of Lightning on the Wild Mûmak for 40,244 Lightning damage to Morale.
+[08/24 10:49:55 AM] The Wild Mûmak scored a hit with a mighty melee attack on Nlkosi for 19,144 Common damage to Morale.
+[08/24 10:49:55 AM] The Wild Young Mûmak scored a hit with a moderate melee attack on Nlkosi for 8,999 Common damage to Morale.
+[08/24 10:49:55 AM] Your mighty blow defeated the Wild Mûmak.
+[08/24 10:49:56 AM] Nlkosi scored a critical hit with Shocking Words on the Wild Mûmak for 130,150 Lightning damage to Morale.
+[08/24 10:49:57 AM] The Wild Young Mûmak scored a hit with Melee Knockdown on Nlkosi.
+[08/24 10:50:00 AM] The Wild Young Mûmak scored a hit with a minor melee attack on Nlkosi for 7,928 Common damage to Morale.
+[08/24 10:50:00 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Young Mûmak for 11,228 Lightning damage to Morale.
+[08/24 10:50:01 AM] Nlkosi scored a critical hit with Fiery Ridicule on the Wild Young Mûmak for 11,393 Fire damage to Morale.
+[08/24 10:50:02 AM] Your mighty blow defeated the Wild Young Mûmak.
+[08/24 10:50:02 AM] Nlkosi scored a critical hit with Epic Conclusion on the Wild Young Mûmak for 140,638 Lightning damage to Morale.
+[08/24 10:50:03 AM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/24 10:50:20 AM] Nlkosi applied a benefit with Finesse on Nlkosi.
+[08/24 10:50:23 AM] You have lost 67,573 points of temporary Morale!
+[08/24 10:50:28 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Young Mûmak for 5,533 Lightning damage to Morale.
+[08/24 10:50:28 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,829 Lightning damage to Morale.
+[08/24 10:50:28 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 10:50:30 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Young Mûmak for 19,900 Fire damage to Morale.
+[08/24 10:50:30 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 20,766 Fire damage to Morale.
+[08/24 10:50:30 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 10:50:31 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Young Mûmak for 5,733 Lightning damage to Morale.
+[08/24 10:50:31 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Young Mûmak for 5,757 Lightning damage to Morale.
+[08/24 10:50:31 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,557 Lightning damage to Morale.
+[08/24 10:50:32 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak for 10,666 Lightning damage to Morale.
+[08/24 10:50:32 AM] The Wild Mûmak tried to use a weak melee attack on the Volcanic Rune-stone but it parried the attempt.
+[08/24 10:50:32 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Young Mûmak for 20,766 Fire damage to Morale.
+[08/24 10:50:32 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Young Mûmak for 19,900 Fire damage to Morale.
+[08/24 10:50:32 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 20,766 Fire damage to Morale.
+[08/24 10:50:32 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:50:32 AM] Your mighty blow defeated the Wild Young Mûmak.
+[08/24 10:50:33 AM] Nlkosi scored a critical hit with Epic Conclusion on the Wild Young Mûmak for 135,509 Lightning damage to Morale.
+[08/24 10:50:33 AM] The Wild Young Mûmak tried to use Induce Knockeddown on the Charged Fulgurite Rune-stone but it was immune to the attempt.
+[08/24 10:50:33 AM] The Wild Young Mûmak scored a hit with Melee Knockdown on the Charged Fulgurite Rune-stone.
+[08/24 10:50:34 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Young Mûmak for 5,997 Lightning damage to Morale.
+[08/24 10:50:34 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,914 Lightning damage to Morale.
+[08/24 10:50:34 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Young Mûmak for 20,766 Fire damage to Morale.
+[08/24 10:50:34 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 20,766 Fire damage to Morale.
+[08/24 10:50:35 AM] Nlkosi scored a hit with Writ of Lightning on the Wild Young Mûmak for 12,562 Lightning damage to Morale.
+[08/24 10:50:36 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Young Mûmak for 21,035 Fire damage to Morale.
+[08/24 10:50:36 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 20,766 Fire damage to Morale.
+[08/24 10:50:37 AM] Your mighty blow defeated the Wild Young Mûmak.
+[08/24 10:50:37 AM] Nlkosi scored a hit with Distracting Flame on the Wild Young Mûmak.
+[08/24 10:50:37 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,625 Lightning damage to Morale.
+[08/24 10:50:37 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Wild Young Mûmak for 17,709 Lightning damage to Morale.
+[08/24 10:50:38 AM] Sustaining Bolt applied a heal to Nlkosi restoring 2,126 points to Power.
+[08/24 10:50:38 AM] Sustenance applied a critical heal to Nlkosi restoring 29,793 points to Morale.
+[08/24 10:50:38 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 20,766 Fire damage to Morale.
+[08/24 10:50:39 AM] The Wild Mûmak scored a hit with a minor melee attack on the Volcanic Rune-stone for 1,395 Common damage to Morale.
+[08/24 10:50:39 AM] Nlkosi scored a critical hit with Scribe's Spark on the Wild Mûmak for 36,686 Lightning damage to Morale.
+[08/24 10:50:40 AM] Nlkosi tried to use Induce Stunned on the Wild Mûmak but she was immune to the attempt.
+[08/24 10:50:40 AM] Nlkosi scored a critical hit with Shocking Words on the Wild Mûmak for 95,937 Lightning damage to Morale.
+[08/24 10:50:40 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 20,766 Fire damage to Morale.
+[08/24 10:50:42 AM] Nlkosi scored a hit with Essence of Winter on the Wild Mûmak for 12,760 Frost damage to Morale.
+[08/24 10:50:43 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Mûmak for 17,029 Lightning damage to Morale.
+[08/24 10:50:44 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:50:44 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Mûmak for 34,059 Lightning damage to Morale.
+[08/24 10:50:45 AM] Your mighty blow defeated the Wild Mûmak.
+[08/24 10:50:45 AM] Nlkosi scored a critical hit with Writ of Lightning on the Wild Mûmak for 35,511 Lightning damage to Morale.
+[08/24 10:50:56 AM] Nlkosi scored a hit with Essence of Flame on the Wild Mûmak Bull for 15,194 Fire damage to Morale.
+[08/24 10:50:57 AM] Nlkosi scored a hit with Fiery Ridicule on the Wild Mûmak Bull for 5,622 Fire damage to Morale.
+[08/24 10:50:57 AM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[08/24 10:50:59 AM] Nlkosi scored a hit with Essence of Winter on the Wild Mûmak Bull for 21,070 Frost damage to Morale.
+[08/24 10:50:59 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 3,618 Fire damage to Morale.
+[08/24 10:51:00 AM] Nlkosi scored a hit with Distracting Flame on the Wild Mûmak Bull.
+[08/24 10:51:01 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak Bull for 11,182 Lightning damage to Morale.
+[08/24 10:51:01 AM] The Wild Mûmak Bull scored a hit with Melee Knockdown on Nlkosi.
+[08/24 10:51:03 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 3,681 Fire damage to Morale.
+[08/24 10:51:03 AM] Nlkosi scored a critical hit with Distracting Flame on the Wild Mûmak Bull for 8,493 Fire damage to Morale.
+[08/24 10:51:03 AM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[08/24 10:51:04 AM] The Wild Mûmak Bull scored a hit with Sprain on Nlkosi.
+[08/24 10:51:05 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak Bull for 13,042 Lightning damage to Morale.
+[08/24 10:51:06 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 3,575 Fire damage to Morale.
+[08/24 10:51:06 AM] Nlkosi scored a hit with Essence of Storm on the Wild Mûmak Bull for 14,151 Lightning damage to Morale.
+[08/24 10:51:06 AM] Nlkosi scored a critical hit with Distracting Flame on the Wild Mûmak Bull for 7,102 Fire damage to Morale.
+[08/24 10:51:07 AM] Nlkosi scored a hit with Concession and Rebuttal: Shocking Words on the Wild Mûmak Bull for 43,508 Lightning damage to Morale.
+[08/24 10:51:08 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:51:08 AM] Nlkosi scored a critical hit with Concession and Rebuttal: Writ of Lightning on the Wild Mûmak Bull for 29,515 Lightning damage to Morale.
+[08/24 10:51:09 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 3,982 Fire damage to Morale.
+[08/24 10:51:09 AM] Nlkosi scored a hit with Distracting Flame on the Wild Mûmak Bull for 4,664 Fire damage to Morale.
+[08/24 10:51:10 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Mûmak Bull for 40,050 Lightning damage to Morale.
+[08/24 10:51:10 AM] Nlkosi scored a hit with Concession and Rebuttal: Sustaining Bolt on the Wild Mûmak Bull for 20,547 Lightning damage to Morale.
+[08/24 10:51:11 AM] Powerful Sustenance applied a heal to Nlkosi restoring 31,953 points to Morale.
+[08/24 10:51:11 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,453 points to Power.
+[08/24 10:51:12 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 4,129 Fire damage to Morale.
+[08/24 10:51:12 AM] Nlkosi scored a hit with Distracting Flame on the Wild Mûmak Bull for 3,857 Fire damage to Morale.
+[08/24 10:51:12 AM] Nlkosi scored a critical hit with Scribe's Spark on the Wild Mûmak Bull for 38,678 Lightning damage to Morale.
+[08/24 10:51:13 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Mûmak Bull for 40,050 Lightning damage to Morale.
+[08/24 10:51:14 AM] The Wild Mûmak Bull scored a critical hit with a weak melee attack on Nlkosi for 17,004 Common damage to Morale.
+[08/24 10:51:14 AM] Nlkosi scored a critical hit with Concession and Rebuttal: Epic Conclusion on the Wild Mûmak Bull for 210,993 Lightning damage to Morale.
+[08/24 10:51:15 AM] Nlkosi scored a critical hit with Distracting Flame on the Wild Mûmak Bull for 6,758 Fire damage to Morale.
+[08/24 10:51:16 AM] The Wild Mûmak Bull scored a hit with a moderate melee attack on Nlkosi for 16,350 Common damage to Morale.
+[08/24 10:51:16 AM] Nlkosi scored a critical hit with Epic Conclusion - Wounding Memory on the Wild Mûmak Bull for 27,081 Lightning damage to Morale.
+[08/24 10:51:17 AM] Nlkosi scored a critical hit with Essence of Storm on the Wild Mûmak Bull for 65,910 Lightning damage to Morale.
+[08/24 10:51:18 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Mûmak Bull for 18,599 Lightning damage to Morale.
+[08/24 10:51:18 AM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on the Wild Mûmak Bull for 13,715 Lightning damage to Morale.
+[08/24 10:51:19 AM] The Wild Mûmak Bull scored a hit with a weak melee attack on Nlkosi for 11,891 Common damage to Morale.
+[08/24 10:51:19 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:51:19 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Mûmak Bull for 37,108 Lightning damage to Morale.
+[08/24 10:51:20 AM] Nlkosi scored a hit with Fiery Ridicule on the Wild Mûmak Bull for 8,112 Fire damage to Morale.
+[08/24 10:51:20 AM] The Wild Mûmak Bull scored a hit with a mighty melee attack on Nlkosi for 26,754 Common damage to Morale.
+[08/24 10:51:20 AM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on the Wild Mûmak Bull for 13,945 Lightning damage to Morale.
+[08/24 10:51:21 AM] Nlkosi scored a devastating hit with Ceaseless Argument on the Wild Mûmak Bull for 52,580 Lightning damage to Morale.
+[08/24 10:51:22 AM] Nlkosi scored a hit with Fiery Ridicule on the Wild Mûmak Bull for 8,409 Fire damage to Morale.
+[08/24 10:51:22 AM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on the Wild Mûmak Bull for 14,614 Lightning damage to Morale.
+[08/24 10:51:23 AM] Your mighty blow defeated the Wild Mûmak Bull.
+[08/24 10:51:23 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Mûmak Bull for 44,231 Lightning damage to Morale.
+[08/24 10:51:34 AM] Increased Morale applied a heal to Nlkosi restoring 80,740 points to Morale.
+[08/24 10:51:40 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak for 8,966 Lightning damage to Morale.
+[08/24 10:51:41 AM] Nlkosi scored a hit with Essence of Storm on the Wild Mûmak for 12,963 Lightning damage to Morale.
+[08/24 10:51:42 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:51:42 AM] Nlkosi scored a devastating hit with Shocking Words on the Wild Mûmak for 112,943 Lightning damage to Morale.
+[08/24 10:51:43 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 10:51:44 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,757 Lightning damage to Morale.
+[08/24 10:51:44 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 10:51:46 AM] Nlkosi scored a hit with Writ of Lightning on the Wild Mûmak for 12,322 Lightning damage to Morale.
+[08/24 10:51:47 AM] Nlkosi scored a hit with Chilling Rhetoric on the Wild Mûmak for 12,080 Frost damage to Morale.
+[08/24 10:51:47 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Wild Mûmak but she was immune to the attempt.
+[08/24 10:51:47 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,438 Lightning damage to Morale.
+[08/24 10:51:47 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 20,168 Fire damage to Morale.
+[08/24 10:51:48 AM] Nlkosi scored a hit with Fiery Ridicule on the Wild Mûmak for 6,981 Fire damage to Morale.
+[08/24 10:51:48 AM] Your mighty blow defeated the Wild Mûmak.
+[08/24 10:51:48 AM] Nlkosi scored a critical hit with Epic Conclusion on the Wild Mûmak for 217,886 Lightning damage to Morale.
+[08/24 10:51:52 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Young Mûmak for 36,105 Lightning damage to Morale.
+[08/24 10:51:54 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Young Mûmak for 15,162 Lightning damage to Morale.
+[08/24 10:51:55 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Young Mûmak for 11,912 Lightning damage to Morale.
+[08/24 10:51:57 AM] Nlkosi scored a hit with Essence of Flame on the Wild Young Mûmak for 17,181 Fire damage to Morale.
+[08/24 10:51:58 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:51:58 AM] Your mighty blow defeated the Wild Young Mûmak.
+[08/24 10:51:58 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Young Mûmak for 37,066 Lightning damage to Morale.
+[08/24 10:52:21 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:52:22 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Mûmak Bull for 27,527 Lightning damage to Morale.
+[08/24 10:52:23 AM] Nlkosi scored a hit with Essence of Storm on the Wild Mûmak Bull for 16,798 Lightning damage to Morale.
+[08/24 10:52:24 AM] Nlkosi scored a critical hit with Epic Conclusion on the Wild Mûmak Bull for 119,757 Lightning damage to Morale.
+[08/24 10:52:25 AM] Nlkosi scored a hit with Chilling Rhetoric on the Wild Mûmak Bull for 7,756 Frost damage to Morale.
+[08/24 10:52:26 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak Bull for 20,766 Fire damage to Morale.
+[08/24 10:52:26 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 10:52:27 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak Bull for 5,892 Lightning damage to Morale.
+[08/24 10:52:27 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 10:52:28 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak Bull for 20,766 Fire damage to Morale.
+[08/24 10:52:28 AM] Nlkosi scored a hit with Sustaining Bolt on the Wild Mûmak Bull for 6,712 Lightning damage to Morale.
+[08/24 10:52:29 AM] Sustaining Bolt applied a heal to Nlkosi restoring 2,214 points to Power.
+[08/24 10:52:29 AM] Sustenance applied a heal to Nlkosi restoring 18,648 points to Morale.
+[08/24 10:52:30 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Mûmak Bull for 12,927 Lightning damage to Morale.
+[08/24 10:52:30 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak Bull for 20,766 Fire damage to Morale.
+[08/24 10:52:30 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Wild Mûmak Bull but he was immune to the attempt.
+[08/24 10:52:30 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak Bull for 5,597 Lightning damage to Morale.
+[08/24 10:52:30 AM] Nlkosi scored a hit with Fiery Ridicule on the Wild Mûmak Bull for 4,878 Fire damage to Morale.
+[08/24 10:52:32 AM] Nlkosi tried to use Induce Stunned on the Wild Mûmak Bull but he was immune to the attempt.
+[08/24 10:52:32 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:52:32 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak Bull for 22,186 Fire damage to Morale.
+[08/24 10:52:32 AM] Nlkosi scored a critical hit with Shocking Words on the Wild Mûmak Bull for 97,795 Lightning damage to Morale.
+[08/24 10:52:33 AM] The Wild Mûmak Bull scored a hit with Melee Knockdown on Nlkosi.
+[08/24 10:52:33 AM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 7,705 Fire damage to Morale.
+[08/24 10:52:33 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Wild Mûmak Bull but he was immune to the attempt.
+[08/24 10:52:33 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak Bull for 6,028 Lightning damage to Morale.
+[08/24 10:52:34 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak Bull for 22,186 Fire damage to Morale.
+[08/24 10:52:35 AM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[08/24 10:52:36 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak Bull for 22,186 Fire damage to Morale.
+[08/24 10:52:36 AM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 5,856 Fire damage to Morale.
+[08/24 10:52:36 AM] Nlkosi scored a devastating hit with Ceaseless Argument on the Wild Mûmak Bull for 48,446 Lightning damage to Morale.
+[08/24 10:52:36 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Wild Mûmak Bull but he was immune to the attempt.
+[08/24 10:52:36 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak Bull for 6,105 Lightning damage to Morale.
+[08/24 10:52:36 AM] The Wild Mûmak Bull scored a hit with a weak melee attack on Nlkosi for 10,646 Common damage to Morale.
+[08/24 10:52:37 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Mûmak Bull for 18,514 Lightning damage to Morale.
+[08/24 10:52:38 AM] The Wild Mûmak Bull scored a hit with a moderate melee attack on Nlkosi for 14,639 Common damage to Morale.
+[08/24 10:52:38 AM] Nlkosi scored a critical hit with Essence of Storm on the Wild Mûmak Bull for 64,868 Lightning damage to Morale.
+[08/24 10:52:39 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 2,987 Fire damage to Morale.
+[08/24 10:52:40 AM] The Wild Mûmak Bull scored a hit with a minor melee attack on Nlkosi for 13,720 Common damage to Morale.
+[08/24 10:52:40 AM] Nothing to dispel.
+[08/24 10:52:40 AM] Nlkosi scored a hit with Writ of Lightning on the Wild Mûmak Bull for 16,371 Lightning damage to Morale.
+[08/24 10:52:40 AM] Nlkosi scored a hit with Improved Final Word on the Wild Mûmak Bull.
+[08/24 10:52:41 AM] Nlkosi scored a devastating hit with Static Surge on the Wild Mûmak Bull for 87,888 Lightning damage to Morale.
+[08/24 10:52:42 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 3,143 Fire damage to Morale.
+[08/24 10:52:42 AM] The Wild Mûmak Bull scored a hit with a weak melee attack on Nlkosi for 10,976 Common damage to Morale.
+[08/24 10:52:43 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak Bull for 18,502 Lightning damage to Morale.
+[08/24 10:52:44 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Mûmak Bull for 17,377 Lightning damage to Morale.
+[08/24 10:52:44 AM] The Wild Mûmak Bull scored a hit with Laceration on Nlkosi.
+[08/24 10:52:45 AM] Nlkosi scored a hit with Fiery Ridicule on the Wild Mûmak Bull for 8,245 Fire damage to Morale.
+[08/24 10:52:45 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:52:45 AM] Your mighty blow defeated the Wild Mûmak Bull.
+[08/24 10:52:46 AM] Nlkosi scored a critical hit with Writ of Lightning on the Wild Mûmak Bull for 39,247 Lightning damage to Morale.
+[08/24 10:52:53 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Young Mûmak for 16,067 Lightning damage to Morale.
+[08/24 10:52:54 AM] Nlkosi scored a devastating hit with Writ of Lightning on the Wild Young Mûmak for 28,966 Lightning damage to Morale.
+[08/24 10:52:55 AM] Nlkosi scored a hit with Shocking Words on the Wild Young Mûmak for 37,585 Lightning damage to Morale.
+[08/24 10:52:56 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:52:56 AM] Your mighty blow defeated the Wild Young Mûmak.
+[08/24 10:52:56 AM] Nlkosi scored a devastating hit with Essence of Storm on the Wild Young Mûmak for 61,472 Lightning damage to Morale.
+[08/24 10:53:17 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 10:53:19 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Young Mûmak for 5,952 Lightning damage to Morale.
+[08/24 10:53:19 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,513 Lightning damage to Morale.
+[08/24 10:53:19 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 10:53:22 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Young Mûmak for 5,866 Lightning damage to Morale.
+[08/24 10:53:22 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,697 Lightning damage to Morale.
+[08/24 10:53:23 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:53:23 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Young Mûmak for 29,150 Lightning damage to Morale.
+[08/24 10:53:24 AM] Your mighty blow defeated the Wild Young Mûmak.
+[08/24 10:53:24 AM] Nlkosi scored a critical hit with Essence of Storm on the Wild Young Mûmak for 68,908 Lightning damage to Morale.
+[08/24 10:53:25 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,992 Lightning damage to Morale.
+[08/24 10:53:25 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 20,766 Fire damage to Morale.
+[08/24 10:53:25 AM] Nothing to cure.
+[08/24 10:53:26 AM] The Wild Mûmak tried to use Induce Knockeddown on the Charged Fulgurite Rune-stone but it was immune to the attempt.
+[08/24 10:53:26 AM] The Wild Mûmak scored a hit with Melee Knockdown on the Charged Fulgurite Rune-stone.
+[08/24 10:53:26 AM] Nothing to dispel.
+[08/24 10:53:26 AM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/24 10:53:26 AM] Nlkosi scored a hit with Improved Final Word on the Wild Mûmak.
+[08/24 10:53:27 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 20,766 Fire damage to Morale.
+[08/24 10:53:27 AM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/24 10:53:27 AM] Nothing to cure.
+[08/24 10:53:28 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,818 Lightning damage to Morale.
+[08/24 10:53:29 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 20,766 Fire damage to Morale.
+[08/24 10:53:29 AM] Nlkosi scored a hit with Fiery Ridicule on the Wild Mûmak for 6,047 Fire damage to Morale.
+[08/24 10:53:29 AM] Nothing to cure.
+[08/24 10:53:30 AM] Nlkosi scored a hit with Essence of Flame on the Wild Mûmak for 18,504 Fire damage to Morale.
+[08/24 10:53:32 AM] Nlkosi scored a hit with Essence of Winter on the Wild Mûmak for 24,194 Frost damage to Morale.
+[08/24 10:53:33 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Mûmak for 18,788 Lightning damage to Morale.
+[08/24 10:53:33 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak for 4,708 Fire damage to Morale.
+[08/24 10:53:33 AM] Nlkosi scored a hit with Sustaining Bolt on the Wild Mûmak for 8,130 Lightning damage to Morale.
+[08/24 10:53:34 AM] The Wild Mûmak scored a partially evaded hit with a moderate melee attack on Nlkosi for 9,632 Common damage to Morale.
+[08/24 10:53:34 AM] You have lost 9,632 points of temporary Morale!
+[08/24 10:53:34 AM] Sustaining Bolt applied a heal to Nlkosi restoring 2,282 points to Power.
+[08/24 10:53:34 AM] Sustenance applied a critical heal to Nlkosi restoring 33,683 points to Morale.
+[08/24 10:53:35 AM] Nlkosi scored a hit with Shocking Words on the Wild Mûmak for 42,021 Lightning damage to Morale.
+[08/24 10:53:36 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak for 4,815 Fire damage to Morale.
+[08/24 10:53:36 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:53:37 AM] Nlkosi scored a critical hit with Essence of Storm on the Wild Mûmak for 62,120 Lightning damage to Morale.
+[08/24 10:53:38 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Mûmak for 40,208 Lightning damage to Morale.
+[08/24 10:53:39 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak for 3,895 Fire damage to Morale.
+[08/24 10:53:39 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Mûmak for 14,887 Lightning damage to Morale.
+[08/24 10:53:40 AM] Nlkosi scored a hit with Writ of Lightning on the Wild Mûmak for 13,656 Lightning damage to Morale.
+[08/24 10:53:41 AM] Your mighty blow defeated the Wild Mûmak.
+[08/24 10:53:41 AM] Nlkosi scored a devastating hit with Epic Conclusion on the Wild Mûmak for 273,442 Lightning damage to Morale.
+[08/24 10:53:45 AM] Nlkosi scored a devastating hit with Scribe's Spark on the Wild Young Mûmak for 49,867 Lightning damage to Morale.
+[08/24 10:53:46 AM] You have lost 57,941 points of temporary Morale!
+[08/24 10:53:47 AM] Nlkosi scored a critical hit with Distracting Flame on the Wild Young Mûmak.
+[08/24 10:53:48 AM] Nlkosi scored a hit with Writ of Lightning on the Wild Young Mûmak for 13,975 Lightning damage to Morale.
+[08/24 10:53:49 AM] The Wild Young Mûmak scored a hit with Melee Knockdown on Nlkosi.
+[08/24 10:53:49 AM] Nlkosi scored a hit with Distracting Flame on the Wild Young Mûmak for 4,397 Fire damage to Morale.
+[08/24 10:53:51 AM] Nlkosi applied a benefit with Break The Bonds on Nlkosi.
+[08/24 10:53:52 AM] The Wild Young Mûmak scored a hit with a moderate melee attack on Nlkosi for 8,999 Common damage to Morale.
+[08/24 10:53:52 AM] Nlkosi scored a hit with Distracting Flame on the Wild Young Mûmak for 3,760 Fire damage to Morale.
+[08/24 10:53:52 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:53:52 AM] Your mighty blow defeated the Wild Young Mûmak.
+[08/24 10:53:53 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Young Mûmak for 41,019 Lightning damage to Morale.
+[08/24 10:54:08 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Young Mûmak for 11,329 Lightning damage to Morale.
+[08/24 10:54:08 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:54:09 AM] Nlkosi scored a critical hit with Shocking Words on the Wild Young Mûmak for 83,837 Lightning damage to Morale.
+[08/24 10:54:09 AM] Your mighty blow defeated the Wild Young Mûmak.
+[08/24 10:54:10 AM] Nlkosi scored a hit with Sustaining Bolt on the Wild Young Mûmak for 5,718 Lightning damage to Morale.
+[08/24 10:54:10 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,404 points to Power.
+[08/24 10:54:10 AM] Sustenance applied a heal to Nlkosi restoring 20,954 points to Morale.
+[08/24 10:54:11 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 10:54:13 AM] The Wild Mûmak scored a hit with a minor melee attack on Nlkosi for 10,965 Common damage to Morale.
+[08/24 10:54:14 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,431 Lightning damage to Morale.
+[08/24 10:54:14 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 10:54:15 AM] Nlkosi scored a hit with Writ of Lightning on the Wild Mûmak for 10,197 Lightning damage to Morale.
+[08/24 10:54:15 AM] The Wild Mûmak scored a hit with a moderate melee attack on Nlkosi for 12,061 Common damage to Morale.
+[08/24 10:54:16 AM] Nlkosi scored a critical hit with Epic Conclusion on the Wild Mûmak for 208,025 Lightning damage to Morale.
+[08/24 10:54:17 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,701 Lightning damage to Morale.
+[08/24 10:54:18 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak for 15,303 Lightning damage to Morale.
+[08/24 10:54:19 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:54:19 AM] Nlkosi scored a devastating hit with Scribe's Spark on the Wild Mûmak for 45,912 Lightning damage to Morale.
+[08/24 10:54:20 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,544 Lightning damage to Morale.
+[08/24 10:54:21 AM] The Wild Mûmak scored a hit with Melee Knockdown on Nlkosi.
+[08/24 10:54:23 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,322 Lightning damage to Morale.
+[08/24 10:54:23 AM] The Wild Mûmak scored a hit with a minor melee attack on Nlkosi for 10,965 Common damage to Morale.
+[08/24 10:54:24 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Mûmak for 39,314 Lightning damage to Morale.
+[08/24 10:54:25 AM] Nlkosi scored a critical hit with Scribe's Spark on the Wild Mûmak for 43,967 Lightning damage to Morale.
+[08/24 10:54:26 AM] The Wild Mûmak scored a partially evaded hit with a moderate melee attack on Nlkosi for 11,066 Common damage to Morale.
+[08/24 10:54:27 AM] Nlkosi scored a hit with Fiery Ridicule on the Wild Mûmak for 5,847 Fire damage to Morale.
+[08/24 10:54:27 AM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[08/24 10:54:29 AM] Nlkosi scored a hit with Flurry of Words on the Wild Mûmak for 3,410 Frost damage to Morale.
+[08/24 10:54:29 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:54:29 AM] Your mighty blow defeated the Wild Mûmak.
+[08/24 10:54:29 AM] Nlkosi applied a benefit with Flurry of Words on Nlkosi.
+[08/24 10:54:29 AM] Nlkosi scored a critical hit with Concession and Rebuttal: Sustaining Bolt on the Wild Mûmak for 55,607 Lightning damage to Morale.
+[08/24 10:54:30 AM] Powerful Sustenance applied a heal to Nlkosi restoring 39,818 points to Morale.
+[08/24 10:54:30 AM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,627 points to Power.
+[08/24 10:54:34 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Young Mûmak for 15,552 Lightning damage to Morale.
+[08/24 10:54:35 AM] Nlkosi scored a critical hit with Scribe's Spark on the Wild Young Mûmak for 38,635 Lightning damage to Morale.
+[08/24 10:54:36 AM] Your mighty blow defeated the Wild Young Mûmak.
+[08/24 10:54:36 AM] Nlkosi scored a critical hit with Concession and Rebuttal: Epic Conclusion on the Wild Young Mûmak for 200,308 Lightning damage to Morale.
+[08/24 10:54:40 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak for 11,646 Lightning damage to Morale.
+[08/24 10:54:42 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak for 12,841 Lightning damage to Morale.
+[08/24 10:54:43 AM] Nlkosi scored a hit with Writ of Lightning on the Wild Mûmak for 13,192 Lightning damage to Morale.
+[08/24 10:54:44 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 20,168 Fire damage to Morale.
+[08/24 10:54:44 AM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/24 10:54:45 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,349 Lightning damage to Morale.
+[08/24 10:54:45 AM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/24 10:54:46 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:54:46 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 20,168 Fire damage to Morale.
+[08/24 10:54:46 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Wild Mûmak for 23,037 Lightning damage to Morale.
+[08/24 10:54:47 AM] Sustaining Bolt applied a heal to Nlkosi restoring 2,180 points to Power.
+[08/24 10:54:47 AM] Sustenance applied a heal to Nlkosi restoring 19,215 points to Morale.
+[08/24 10:54:48 AM] Nlkosi scored a critical hit with Shocking Words on the Wild Mûmak for 117,209 Lightning damage to Morale.
+[08/24 10:54:48 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 20,168 Fire damage to Morale.
+[08/24 10:54:48 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 5,909 Lightning damage to Morale.
+[08/24 10:54:49 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak for 13,079 Lightning damage to Morale.
+[08/24 10:54:50 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 20,706 Fire damage to Morale.
+[08/24 10:54:50 AM] Nlkosi scored a critical hit with Writ of Lightning on the Wild Mûmak for 26,333 Lightning damage to Morale.
+[08/24 10:54:51 AM] The Wild Mûmak scored a hit with a weak melee attack on Nlkosi for 8,772 Common damage to Morale.
+[08/24 10:54:51 AM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Wild Mûmak but she was immune to the attempt.
+[08/24 10:54:51 AM] Nlkosi scored a hit with Fulgurite Strike on the Wild Mûmak for 6,053 Lightning damage to Morale.
+[08/24 10:54:52 AM] Nlkosi scored a hit with Volcanic Rune-stone on the Wild Mûmak for 20,706 Fire damage to Morale.
+[08/24 10:54:52 AM] The Wild Mûmak scored a hit with a minor melee attack on Nlkosi for 10,965 Common damage to Morale.
+[08/24 10:54:52 AM] Nlkosi scored a devastating hit with Scribe's Spark on the Wild Mûmak for 45,796 Lightning damage to Morale.
+[08/24 10:54:53 AM] Your mighty blow defeated the Wild Mûmak.
+[08/24 10:54:53 AM] Nlkosi scored a critical hit with Epic Conclusion on the Wild Mûmak for 151,227 Lightning damage to Morale.
+[08/24 10:54:58 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:54:59 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Mûmak Bull for 31,888 Lightning damage to Morale.
+[08/24 10:55:01 AM] Nlkosi scored a hit with Essence of Flame on the Wild Mûmak Bull for 16,898 Fire damage to Morale.
+[08/24 10:55:01 AM] Nlkosi scored a hit with Fiery Ridicule on the Wild Mûmak Bull for 6,593 Fire damage to Morale.
+[08/24 10:55:02 AM] Nlkosi scored a devastating hit with Essence of Storm on the Wild Mûmak Bull for 73,695 Lightning damage to Morale.
+[08/24 10:55:03 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Mûmak Bull for 13,132 Lightning damage to Morale.
+[08/24 10:55:04 AM] Nlkosi scored a critical hit with Sustaining Bolt on the Wild Mûmak Bull for 20,488 Lightning damage to Morale.
+[08/24 10:55:04 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 3,444 Fire damage to Morale.
+[08/24 10:55:04 AM] The Wild Mûmak Bull scored a hit with a minor melee attack on Nlkosi for 13,308 Common damage to Morale.
+[08/24 10:55:05 AM] Sustaining Bolt applied a heal to Nlkosi restoring 2,291 points to Power.
+[08/24 10:55:05 AM] Sustenance applied a heal to Nlkosi restoring 21,785 points to Morale.
+[08/24 10:55:06 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Mûmak Bull for 37,022 Lightning damage to Morale.
+[08/24 10:55:07 AM] The Wild Mûmak Bull scored a devastating hit with a weak melee attack on Nlkosi for 21,183 Common damage to Morale.
+[08/24 10:55:07 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 3,447 Fire damage to Morale.
+[08/24 10:55:07 AM] Nlkosi scored a critical hit with Scribe's Spark on the Wild Mûmak Bull for 41,491 Lightning damage to Morale.
+[08/24 10:55:09 AM] Nlkosi scored a hit with Writ of Lightning on the Wild Mûmak Bull for 11,931 Lightning damage to Morale.
+[08/24 10:55:09 AM] The Wild Mûmak Bull scored a hit with a mighty melee attack on Nlkosi for 23,955 Common damage to Morale.
+[08/24 10:55:10 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:55:10 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 3,936 Fire damage to Morale.
+[08/24 10:55:10 AM] Nlkosi scored a devastating hit with Shocking Words on the Wild Mûmak Bull for 146,664 Lightning damage to Morale.
+[08/24 10:55:12 AM] Nlkosi scored a hit with Scribe's Spark on the Wild Mûmak Bull for 13,925 Lightning damage to Morale.
+[08/24 10:55:13 AM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 6,891 Fire damage to Morale.
+[08/24 10:55:13 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Mûmak Bull for 36,238 Lightning damage to Morale.
+[08/24 10:55:14 AM] Nlkosi scored a devastating hit with Writ of Lightning on the Wild Mûmak Bull for 36,060 Lightning damage to Morale.
+[08/24 10:55:15 AM] Nlkosi scored a hit with Ceaseless Argument on the Wild Mûmak Bull for 17,562 Lightning damage to Morale.
+[08/24 10:55:16 AM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wild Mûmak Bull for 3,118 Fire damage to Morale.
+[08/24 10:55:17 AM] Nlkosi scored a hit with Essence of Winter on the Wild Mûmak Bull for 20,649 Frost damage to Morale.
+[08/24 10:55:18 AM] Nlkosi scored a devastating hit with Ceaseless Argument on the Wild Mûmak Bull for 48,449 Lightning damage to Morale.
+[08/24 10:55:19 AM] The Wild Mûmak Bull scored a critical hit with a weak melee attack on Nlkosi for 14,283 Common damage to Morale.
+[08/24 10:55:19 AM] Nlkosi scored a hit with Writ of Lightning on the Wild Mûmak Bull for 14,329 Lightning damage to Morale.
+[08/24 10:55:20 AM] Master of Tragedy applied a heal to Nlkosi restoring 332 points to Power.
+[08/24 10:55:20 AM] The Wild Mûmak Bull scored a hit with a moderate melee attack on Nlkosi for 13,733 Common damage to Morale.
+[08/24 10:55:20 AM] Nlkosi scored a critical hit with Essence of Storm on the Wild Mûmak Bull for 73,936 Lightning damage to Morale.
+[08/24 10:55:22 AM] Nlkosi scored a critical hit with Scribe's Spark on the Wild Mûmak Bull for 48,703 Lightning damage to Morale.
+[08/24 10:55:23 AM] Nlkosi scored a hit with Sustaining Bolt on the Wild Mûmak Bull for 11,408 Lightning damage to Morale.
+[08/24 10:55:23 AM] The Wild Mûmak Bull scored a hit with a weak melee attack on Nlkosi for 9,988 Common damage to Morale.
+[08/24 10:55:24 AM] Sustaining Bolt applied a heal to Nlkosi restoring 2,399 points to Power.
+[08/24 10:55:24 AM] Sustenance applied a heal to Nlkosi restoring 22,187 points to Morale.
+[08/24 10:55:24 AM] Your mighty blow defeated the Wild Mûmak Bull.
+[08/24 10:55:25 AM] Nlkosi scored a critical hit with Ceaseless Argument on the Wild Mûmak Bull for 38,403 Lightning damage to Morale.

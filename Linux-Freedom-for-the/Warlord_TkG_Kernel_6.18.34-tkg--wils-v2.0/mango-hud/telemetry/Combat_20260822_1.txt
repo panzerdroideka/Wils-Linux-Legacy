@@ -1,0 +1,649 @@
+### Chat Log: Combat 08/22 07:59 PM ###
+[08/22 08:09:05 PM] Nlkosi applied a benefit with Return to Vartúlin (Imhûlar) on Nlkosi.
+[08/22 08:18:01 PM] Nlkosi applied a benefit with Return to Vartúlin (Imhûlar) on Nlkosi.
+[08/22 08:40:37 PM] Nlkosi scored a hit with Ceaseless Argument on the Wandering Thicket for 13,673 Lightning damage to Morale.
+[08/22 08:40:38 PM] Nlkosi scored a devastating hit with Chilling Rhetoric on the Wandering Thicket for 20,005 Frost damage to Morale.
+[08/22 08:40:39 PM] Nlkosi scored a devastating hit with Essence of Flame on the Wandering Thicket for 43,682 Fire damage to Morale.
+[08/22 08:40:40 PM] Nlkosi scored a hit with Epic Conclusion on the Wandering Thicket for 49,739 Lightning damage to Morale.
+[08/22 08:40:41 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:40:42 PM] Nlkosi scored a critical hit with Essence of Storm on the Wandering Thicket for 57,792 Lightning damage to Morale.
+[08/22 08:40:42 PM] The Wandering Thicket scored a hit with a mighty swipe attack on Nlkosi for 15,690 Common damage to Morale.
+[08/22 08:40:43 PM] Nlkosi scored a hit with Writ of Lightning on the Wandering Thicket for 12,632 Lightning damage to Morale.
+[08/22 08:40:44 PM] The Wandering Thicket scored a critical hit with a moderate swipe attack on Nlkosi for 13,711 Common damage to Morale.
+[08/22 08:40:44 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Wandering Thicket for 20,450 Lightning damage to Morale.
+[08/22 08:40:45 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,012 points to Power.
+[08/22 08:40:45 PM] Sustenance applied a heal to Nlkosi restoring 18,201 points to Morale.
+[08/22 08:40:45 PM] Your mighty blow defeated the Wandering Thicket.
+[08/22 08:40:46 PM] Nlkosi scored a critical hit with Shocking Words on the Wandering Thicket for 100,012 Lightning damage to Morale.
+[08/22 08:42:04 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:42:05 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Adagím Thicket for 30,355 Lightning damage to Morale.
+[08/22 08:42:06 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/22 08:42:08 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Thicket for 6,751 Lightning damage to Morale.
+[08/22 08:42:08 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/22 08:42:09 PM] Nlkosi scored a hit with Sustaining Bolt on the Adagím Thicket for 8,495 Lightning damage to Morale.
+[08/22 08:42:10 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,172 points to Power.
+[08/22 08:42:10 PM] Sustenance applied a heal to Nlkosi restoring 19,270 points to Morale.
+[08/22 08:42:10 PM] Nlkosi scored a critical hit with Epic Conclusion on the Adagím Thicket for 132,056 Lightning damage to Morale.
+[08/22 08:42:11 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Fen-roamer for 7,280 Lightning damage to Morale.
+[08/22 08:42:11 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Thicket for 6,338 Lightning damage to Morale.
+[08/22 08:42:12 PM] The Adagím Thicket scored a hit with a minor swipe attack on Nlkosi for 9,072 Common damage to Morale.
+[08/22 08:42:13 PM] Nlkosi scored a hit with Essence of Storm on the Adagím Thicket for 15,256 Lightning damage to Morale.
+[08/22 08:42:14 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Thicket for 13,573 Lightning damage to Morale.
+[08/22 08:42:14 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Fen-roamer for 7,233 Lightning damage to Morale.
+[08/22 08:42:14 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Adagím Thicket but he was immune to the attempt.
+[08/22 08:42:14 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Thicket for 6,800 Lightning damage to Morale.
+[08/22 08:42:15 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:42:15 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Adagím Thicket for 41,042 Lightning damage to Morale.
+[08/22 08:42:16 PM] Nlkosi tried to use Induce Stunned on the Adagím Thicket but he was immune to the attempt.
+[08/22 08:42:17 PM] Nlkosi scored a hit with Shocking Words on the Adagím Thicket for 40,855 Lightning damage to Morale.
+[08/22 08:42:17 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Yellow Blight Growth but it was immune to the attempt.
+[08/22 08:42:17 PM] Nlkosi scored a hit with Fulgurite Strike on the Yellow Blight Growth for 3,937 Lightning damage to Morale.
+[08/22 08:42:17 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Yellow Blight Growth but it was immune to the attempt.
+[08/22 08:42:17 PM] Nlkosi scored a hit with Fulgurite Strike on the Yellow Blight Growth for 4,525 Lightning damage to Morale.
+[08/22 08:42:17 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Fen-roamer for 6,781 Lightning damage to Morale.
+[08/22 08:42:17 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Thicket for 6,689 Lightning damage to Morale.
+[08/22 08:42:18 PM] The Adagím Thicket scored a hit with a weak swipe attack on Nlkosi for 7,258 Common damage to Morale.
+[08/22 08:42:18 PM] Your mighty blow defeated the Adagím Thicket.
+[08/22 08:42:19 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Adagím Thicket for 14,128 Fire damage to Morale.
+[08/22 08:42:22 PM] Nlkosi scored a hit with Scribe's Spark on the Yellow Blight Growth for 8,695 Lightning damage to Morale.
+[08/22 08:42:23 PM] The Adagím Fen-roamer scored a partially evaded hit with a moderate melee attack on Nlkosi for 6,227 Common damage to Morale.
+[08/22 08:42:23 PM] Nlkosi scored a hit with Ceaseless Argument on the Yellow Blight Growth for 9,503 Lightning damage to Morale.
+[08/22 08:42:24 PM] Nlkosi scored a hit with Essence of Storm on the Yellow Blight Growth for 12,716 Lightning damage to Morale.
+[08/22 08:42:25 PM] The Adagím Fen-roamer tried to use a moderate swipe attack on Nlkosi but he evaded the attempt.
+[08/22 08:42:25 PM] The Yellow Blight Growth scored a hit with Average Acid Damage on Nlkosi for 18,395 Acid damage to Morale.
+[08/22 08:42:26 PM] Nlkosi scored a hit with Scribe's Spark on the Yellow Blight Growth for 11,840 Lightning damage to Morale.
+[08/22 08:42:26 PM] The Yellow Blight Growth scored a hit with Average Acid Damage on Nlkosi for 15,120 Acid damage to Morale.
+[08/22 08:42:26 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:42:26 PM] Nlkosi scored a devastating hit with Sustaining Bolt on the Yellow Blight Growth for 21,855 Lightning damage to Morale.
+[08/22 08:42:27 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,335 points to Power.
+[08/22 08:42:27 PM] Sustenance applied a heal to Nlkosi restoring 18,741 points to Morale.
+[08/22 08:42:28 PM] Nlkosi scored a critical hit with Writ of Lightning on the Yellow Blight Growth for 29,949 Lightning damage to Morale.
+[08/22 08:42:29 PM] The Adagím Fen-roamer scored a hit with a moderate melee attack on Nlkosi for 6,555 Common damage to Morale.
+[08/22 08:42:30 PM] Nlkosi scored a hit with Fiery Ridicule on the Yellow Blight Growth for 8,616 Fire damage to Morale.
+[08/22 08:42:31 PM] You have dispelled Yellow Spores - 2 from Adagím Fen-roamer.
+[08/22 08:42:31 PM] Nlkosi scored a hit with Ceaseless Argument on the Yellow Blight Growth for 12,018 Lightning damage to Morale.
+[08/22 08:42:31 PM] Nlkosi scored a hit with Improved Final Word on the Adagím Fen-roamer.
+[08/22 08:42:32 PM] The Adagím Fen-roamer scored a hit with a weak melee attack on Nlkosi for 4,767 Common damage to Morale.
+[08/22 08:42:32 PM] You have lost 4,767 points of temporary Morale!
+[08/22 08:42:32 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/22 08:42:32 PM] Nlkosi scored a hit with Static Surge on the Adagím Fen-roamer for 31,864 Lightning damage to Morale.
+[08/22 08:42:34 PM] The Adagím Fen-roamer scored a hit with a minor melee attack on Nlkosi for 5,959 Common damage to Morale.
+[08/22 08:42:34 PM] You have lost 5,959 points of temporary Morale!
+[08/22 08:42:35 PM] Nlkosi scored a hit with Scribe's Spark on the Adagím Fen-roamer for 15,381 Lightning damage to Morale.
+[08/22 08:42:35 PM] The Adagím Fen-roamer scored a hit with a moderate melee attack on Nlkosi for 6,346 Common damage to Morale.
+[08/22 08:42:35 PM] You have lost 6,346 points of temporary Morale!
+[08/22 08:42:37 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:42:37 PM] Your mighty blow defeated the Adagím Fen-roamer.
+[08/22 08:42:37 PM] Nlkosi scored a critical hit with Writ of Lightning on the Adagím Fen-roamer for 37,233 Lightning damage to Morale.
+[08/22 08:42:52 PM] You have lost 45,091 points of temporary Morale!
+[08/22 08:43:50 PM] Nlkosi scored a hit with Fulgurite Strike on the Wandering Thicket for 6,779 Lightning damage to Morale.
+[08/22 08:43:50 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/22 08:43:52 PM] The Wandering Thicket scored a partially evaded hit with a minor swipe attack on the Charged Fulgurite Rune-stone for 23 Common damage to Morale.
+[08/22 08:43:52 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Wandering Thicket for 26,439 Fire damage to Morale.
+[08/22 08:43:53 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/22 08:43:53 PM] Nlkosi scored a hit with Fulgurite Strike on the Wandering Thicket for 6,092 Lightning damage to Morale.
+[08/22 08:43:54 PM] Nlkosi scored a hit with Writ of Lightning on the Wandering Thicket for 12,147 Lightning damage to Morale.
+[08/22 08:43:54 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Wandering Thicket for 24,037 Fire damage to Morale.
+[08/22 08:43:55 PM] Nlkosi scored a hit with Epic Conclusion on the Wandering Thicket for 69,021 Lightning damage to Morale.
+[08/22 08:43:56 PM] Nlkosi scored a hit with Fulgurite Strike on the Wandering Thicket for 6,448 Lightning damage to Morale.
+[08/22 08:43:56 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Wandering Thicket for 24,037 Fire damage to Morale.
+[08/22 08:43:56 PM] Nlkosi scored a hit with Ceaseless Argument on the Wandering Thicket for 14,791 Lightning damage to Morale.
+[08/22 08:43:57 PM] Nlkosi tried to use Induce Stunned on the Wandering Thicket but he was immune to the attempt.
+[08/22 08:43:57 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:43:57 PM] Nlkosi scored a critical hit with Shocking Words on the Wandering Thicket for 94,241 Lightning damage to Morale.
+[08/22 08:43:58 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Wandering Thicket for 24,037 Fire damage to Morale.
+[08/22 08:43:58 PM] The Volcanic Rune-stone defeated the Wandering Thicket.
+[08/22 08:44:32 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Blightwood for 25,550 Fire damage to Morale.
+[08/22 08:44:32 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/22 08:44:34 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Blightwood for 6,497 Lightning damage to Morale.
+[08/22 08:44:34 PM] The Adagím Blightwood scored a hit with a weak swipe attack on the Volcanic Rune-stone for 460 Common damage to Morale.
+[08/22 08:44:34 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/22 08:44:34 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Blightwood for 25,550 Fire damage to Morale.
+[08/22 08:44:36 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:44:36 PM] Nlkosi scored a critical hit with Writ of Lightning on the Adagím Blightwood for 30,973 Lightning damage to Morale.
+[08/22 08:44:36 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Blightwood for 25,819 Fire damage to Morale.
+[08/22 08:44:37 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Blightwood for 6,463 Lightning damage to Morale.
+[08/22 08:44:37 PM] Nlkosi scored a hit with Epic Conclusion on the Adagím Blightwood for 73,541 Lightning damage to Morale.
+[08/22 08:44:38 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Blightwood for 25,819 Fire damage to Morale.
+[08/22 08:44:39 PM] Nlkosi scored a critical hit with Scribe's Spark on the Adagím Blightwood for 35,255 Lightning damage to Morale.
+[08/22 08:44:40 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Blue Blight Nodule but it was immune to the attempt.
+[08/22 08:44:40 PM] Nlkosi scored a hit with Fulgurite Strike on the Blue Blight Nodule for 4,245 Lightning damage to Morale.
+[08/22 08:44:40 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Adagím Blightwood but he was immune to the attempt.
+[08/22 08:44:40 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Blightwood for 5,062 Lightning damage to Morale.
+[08/22 08:44:40 PM] Nlkosi scored a hit with Essence of Storm on the Adagím Blightwood for 16,663 Lightning damage to Morale.
+[08/22 08:44:41 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Blue Blight Nodule for 21,504 Fire damage to Morale.
+[08/22 08:44:41 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Blightwood for 20,655 Fire damage to Morale.
+[08/22 08:44:42 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Blightwood for 8,787 Lightning damage to Morale.
+[08/22 08:44:43 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Blue Blight Nodule but it was immune to the attempt.
+[08/22 08:44:43 PM] Nlkosi scored a hit with Fulgurite Strike on the Blue Blight Nodule for 4,545 Lightning damage to Morale.
+[08/22 08:44:43 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Blightwood for 4,387 Lightning damage to Morale.
+[08/22 08:44:43 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Blue Blight Nodule for 21,504 Fire damage to Morale.
+[08/22 08:44:43 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Blightwood for 17,132 Fire damage to Morale.
+[08/22 08:44:44 PM] Nlkosi scored a hit with Distracting Flame on the Adagím Blightwood.
+[08/22 08:44:44 PM] Nlkosi scored a hit with Sustaining Bolt on the Adagím Blightwood for 4,640 Lightning damage to Morale.
+[08/22 08:44:45 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,246 points to Power.
+[08/22 08:44:45 PM] Sustenance applied a heal to Nlkosi restoring 22,191 points to Morale.
+[08/22 08:44:46 PM] Nlkosi scored a hit with Chilling Rhetoric on the Adagím Blightwood for 7,642 Frost damage to Morale.
+[08/22 08:44:46 PM] The Adagím Blightwood scored a partially evaded hit with Burrowed Attack on Nlkosi for 17,204 Common damage to Morale.
+[08/22 08:44:46 PM] Nlkosi tried to use Induce Stunned on the Adagím Blightwood but he was immune to the attempt.
+[08/22 08:44:46 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:44:46 PM] Nlkosi scored a critical hit with Shocking Words on the Adagím Blightwood for 80,833 Lightning damage to Morale.
+[08/22 08:44:46 PM] Nlkosi scored a hit with Distracting Flame on the Adagím Blightwood for 2,765 Fire damage to Morale.
+[08/22 08:44:49 PM] Your mighty blow defeated the Mottled Shrew.
+[08/22 08:44:49 PM] Nlkosi scored a hit with Essence of Winter on the Adagím Blightwood for 8,016 Frost damage to Morale.
+[08/22 08:44:49 PM] Nlkosi scored a devastating hit with Essence of Winter on the Mottled Shrew for 40,745 Frost damage to Morale.
+[08/22 08:44:49 PM] Nlkosi scored a critical hit with Essence of Winter on the Blue Blight Nodule for 15,908 Frost damage to Morale.
+[08/22 08:44:49 PM] The Adagím Blightwood scored a partially evaded hit with Burrowed Attack on Nlkosi for 17,204 Common damage to Morale.
+[08/22 08:44:49 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Adagím Blightwood for 9,821 Fire damage to Morale.
+[08/22 08:44:50 PM] Nlkosi scored a critical hit with Distracting Flame on the Adagím Blightwood for 4,884 Fire damage to Morale.
+[08/22 08:44:50 PM] Nothing to cure.
+[08/22 08:44:50 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/22 08:44:50 PM] The Blue Blight Nodule died.
+[08/22 08:44:51 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Blightwood for 4,309 Fire damage to Morale.
+[08/22 08:44:51 PM] Your mighty blow defeated the Adagím Blightwood.
+[08/22 08:44:51 PM] Nlkosi scored a critical hit with Essence of Storm on the Adagím Blightwood for 47,362 Lightning damage to Morale.
+[08/22 08:44:52 PM] Nothing to cure.
+[08/22 08:44:54 PM] Nothing to cure.
+[08/22 08:50:26 PM] The Adagím Blightwood scored a hit with a weak swipe attack on Nlkosi for 11,067 Common damage to Morale.
+[08/22 08:50:26 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:50:26 PM] Nlkosi scored a critical hit with Scribe's Spark on the Adagím Blightwood for 33,343 Lightning damage to Morale.
+[08/22 08:50:28 PM] Nlkosi scored a critical hit with Essence of Storm on the Adagím Blightwood for 61,791 Lightning damage to Morale.
+[08/22 08:50:29 PM] The attacker scored a hit with Low Acid Damage on Nlkosi for 12,974 Acid damage to Morale.
+[08/22 08:50:29 PM] Nlkosi scored a devastating hit with Shocking Words on the Adagím Blightwood for 146,469 Lightning damage to Morale.
+[08/22 08:50:31 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Blightwood for 12,304 Lightning damage to Morale.
+[08/22 08:50:32 PM] Nlkosi scored a hit with Sustaining Bolt on the Adagím Blightwood for 4,672 Lightning damage to Morale.
+[08/22 08:50:33 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,904 points to Power.
+[08/22 08:50:33 PM] Sustenance applied a critical heal to Nlkosi restoring 23,346 points to Morale.
+[08/22 08:50:34 PM] The Adagím Blightwood scored a hit with a mighty swipe attack on Nlkosi for 24,900 Common damage to Morale.
+[08/22 08:50:34 PM] You have dispelled Blue Spores - 4 from Adagím Blightwood.
+[08/22 08:50:35 PM] Nlkosi scored a hit with Head-butt on the Adagím Blightwood for 11,941 Common damage to Morale.
+[08/22 08:50:35 PM] Nlkosi scored a hit with Improved Final Word on the Adagím Blightwood.
+[08/22 08:50:35 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/22 08:50:36 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Blightwood for 8,811 Lightning damage to Morale.
+[08/22 08:50:37 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:50:37 PM] Nlkosi scored a critical hit with Scribe's Spark on the Adagím Blightwood for 33,994 Lightning damage to Morale.
+[08/22 08:50:38 PM] You have lost 11,067 points of temporary Morale!
+[08/22 08:50:38 PM] The Blue Blight Nodule scored a hit with Low Acid Damage on Nlkosi for 14,278 Acid damage to Morale.
+[08/22 08:50:38 PM] You have lost 14,278 points of temporary Morale!
+[08/22 08:50:39 PM] Nlkosi scored a critical hit with Essence of Storm on the Adagím Blightwood for 54,119 Lightning damage to Morale.
+[08/22 08:50:40 PM] The Blue Blight Nodule died.
+[08/22 08:50:40 PM] Nlkosi scored a hit with Epic Conclusion on the Adagím Blightwood for 63,920 Lightning damage to Morale.
+[08/22 08:50:41 PM] The Adagím Blightwood scored a hit with a weak swipe attack on Nlkosi for 10,735 Common damage to Morale.
+[08/22 08:50:41 PM] You have lost 10,735 points of temporary Morale!
+[08/22 08:50:42 PM] Nlkosi scored a devastating hit with Writ of Lightning on the Adagím Blightwood for 23,643 Lightning damage to Morale.
+[08/22 08:50:44 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Adagím Blightwood for 32,011 Lightning damage to Morale.
+[08/22 08:50:45 PM] You have lost 11,808 points of temporary Morale!
+[08/22 08:50:46 PM] Your mighty blow defeated the Adagím Blightwood.
+[08/22 08:50:46 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Adagím Blightwood for 32,463 Lightning damage to Morale.
+[08/22 08:50:55 PM] You have lost 14,275 points of temporary Morale!
+[08/22 08:53:23 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 25,722 Fire damage to Morale.
+[08/22 08:53:23 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:53:23 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/22 08:53:23 PM] The Adagím Jackal scored a hit with Crippling Bite on the Volcanic Rune-stone.
+[08/22 08:53:24 PM] The Adagím Jackal scored a partially evaded hit with a weak melee attack on the Volcanic Rune-stone for 13 Common damage to Morale.
+[08/22 08:53:25 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:53:25 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:53:25 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 25,722 Fire damage to Morale.
+[08/22 08:53:25 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,641 Lightning damage to Morale.
+[08/22 08:53:25 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 7,141 Lightning damage to Morale.
+[08/22 08:53:25 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 7,291 Lightning damage to Morale.
+[08/22 08:53:25 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/22 08:53:26 PM] Nlkosi scored a hit with Ceaseless Argument on the Adagím Jackal for 11,180 Lightning damage to Morale.
+[08/22 08:53:27 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:53:27 PM] The Volcanic Rune-stone defeated the Adagím Jackal.
+[08/22 08:53:27 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:53:27 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 25,722 Fire damage to Morale.
+[08/22 08:53:27 PM] The Volcanic Rune-stone defeated the Adagím Jackal.
+[08/22 08:53:28 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 7,454 Lightning damage to Morale.
+[08/22 08:53:28 PM] The Charged Fulgurite Rune-stone defeated the Adagím Jackal.
+[08/22 08:53:28 PM] Nlkosi scored a hit with Distracting Flame on the Adagím Jackal.
+[08/22 08:53:28 PM] Nlkosi scored a hit with Ceaseless Argument on the Adagím Jackal for 19,424 Lightning damage to Morale.
+[08/22 08:55:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 25,722 Fire damage to Morale.
+[08/22 08:55:12 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:55:12 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/22 08:55:13 PM] The Adagím Jackal tried to use a minor melee attack on the Volcanic Rune-stone but it evaded the attempt.
+[08/22 08:55:13 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,947 Lightning damage to Morale.
+[08/22 08:55:13 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 7,037 Lightning damage to Morale.
+[08/22 08:55:13 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,718 Lightning damage to Morale.
+[08/22 08:55:13 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/22 08:55:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 25,722 Fire damage to Morale.
+[08/22 08:55:14 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:55:15 PM] The Adagím Jackal scored a partially parried hit with a weak melee attack on the Volcanic Rune-stone for 13 Common damage to Morale.
+[08/22 08:55:15 PM] The Adagím Jackal tried to use a weak melee attack on the Charged Fulgurite Rune-stone but it evaded the attempt.
+[08/22 08:55:15 PM] Nlkosi scored a hit with Ceaseless Argument on the Adagím Jackal for 11,649 Lightning damage to Morale.
+[08/22 08:55:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 25,722 Fire damage to Morale.
+[08/22 08:55:16 PM] The Volcanic Rune-stone defeated the Adagím Jackal.
+[08/22 08:55:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:55:16 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:55:16 PM] The Volcanic Rune-stone defeated the Adagím Jackal.
+[08/22 08:55:16 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,723 Lightning damage to Morale.
+[08/22 08:55:16 PM] Nlkosi scored a hit with Distracting Flame on the Adagím Jackal.
+[08/22 08:55:17 PM] The Adagím Jackal scored a hit with Crippling Bite on the Volcanic Rune-stone.
+[08/22 08:55:18 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:55:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 25,095 Fire damage to Morale.
+[08/22 08:55:18 PM] The Volcanic Rune-stone defeated the Adagím Jackal.
+[08/22 08:55:18 PM] Nlkosi scored a devastating hit with Writ of Lightning on the Adagím Jackal for 32,710 Lightning damage to Morale.
+[08/22 08:55:34 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,507 Lightning damage to Morale.
+[08/22 08:55:34 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,591 Lightning damage to Morale.
+[08/22 08:55:34 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,798 Lightning damage to Morale.
+[08/22 08:55:34 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/22 08:55:35 PM] The Adagím Jackal scored a critical hit with a weak melee attack on the Charged Fulgurite Rune-stone for 29 Common damage to Morale.
+[08/22 08:55:36 PM] Nlkosi scored a hit with Ceaseless Argument on the Adagím Jackal for 10,387 Lightning damage to Morale.
+[08/22 08:55:37 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:55:37 PM] Your mighty blow defeated the Adagím Jackal.
+[08/22 08:55:37 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,842 Lightning damage to Morale.
+[08/22 08:55:37 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 7,112 Lightning damage to Morale.
+[08/22 08:55:37 PM] Nlkosi scored a devastating hit with Shocking Words on the Adagím Jackal for 113,081 Lightning damage to Morale.
+[08/22 08:55:39 PM] The Adagím Jackal scored a critical hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 39 Common damage to Morale.
+[08/22 08:55:40 PM] The Adagím Jackal scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 22 Common damage to Morale.
+[08/22 08:55:40 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 7,095 Lightning damage to Morale.
+[08/22 08:55:40 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,870 Lightning damage to Morale.
+[08/22 08:55:40 PM] Nlkosi scored a hit with Sustaining Bolt on the Adagím Jackal for 5,160 Lightning damage to Morale.
+[08/22 08:55:41 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,880 points to Power.
+[08/22 08:55:41 PM] Sustenance applied a heal to Nlkosi restoring 16,583 points to Morale.
+[08/22 08:55:41 PM] The Adagím Jackal scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 22 Common damage to Morale.
+[08/22 08:55:41 PM] The Adagím Jackal scored a partially blocked hit with a moderate melee attack on the Charged Fulgurite Rune-stone for 18 Common damage to Morale.
+[08/22 08:55:42 PM] Nlkosi scored a hit with Scribe's Spark on the Adagím Jackal for 14,601 Lightning damage to Morale.
+[08/22 08:55:43 PM] The Adagím Jackal scored a hit with a minor melee attack on the Charged Fulgurite Rune-stone for 27 Common damage to Morale.
+[08/22 08:55:43 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Adagím Jackal but he was immune to the attempt.
+[08/22 08:55:43 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,440 Lightning damage to Morale.
+[08/22 08:55:43 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Adagím Jackal but he was immune to the attempt.
+[08/22 08:55:43 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,452 Lightning damage to Morale.
+[08/22 08:55:43 PM] Nlkosi scored a hit with Chilling Rhetoric on the Adagím Jackal for 7,739 Frost damage to Morale.
+[08/22 08:55:43 PM] The Adagím Jackal tried to use a minor melee attack on the Charged Fulgurite Rune-stone but it evaded the attempt.
+[08/22 08:55:44 PM] Nlkosi scored a hit with Ceaseless Argument on the Adagím Jackal for 14,129 Lightning damage to Morale.
+[08/22 08:55:45 PM] Nlkosi scored a critical hit with Distracting Flame on the Adagím Jackal.
+[08/22 08:55:46 PM] Your mighty blow defeated the Adagím Jackal.
+[08/22 08:55:46 PM] Nlkosi scored a hit with Epic Conclusion on the Adagím Jackal for 69,964 Lightning damage to Morale.
+[08/22 08:55:48 PM] The Adagím Jackal scored a hit with a moderate melee attack on Nlkosi for 6,446 Common damage to Morale.
+[08/22 08:55:48 PM] Nlkosi scored a hit with Scribe's Spark on the Adagím Jackal for 17,076 Lightning damage to Morale.
+[08/22 08:55:50 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:55:50 PM] Your mighty blow defeated the Adagím Jackal.
+[08/22 08:55:50 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Adagím Jackal for 41,107 Lightning damage to Morale.
+[08/22 08:56:14 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Jackal Pup for 10,086 Lightning damage to Morale.
+[08/22 08:56:15 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Jackal Pup for 5,585 Fire damage to Morale.
+[08/22 08:56:16 PM] Nlkosi scored a critical hit with Distracting Flame on the Adagím Jackal Pup.
+[08/22 08:56:17 PM] Nlkosi scored a hit with Ceaseless Argument on the Adagím Jackal Pup for 14,292 Lightning damage to Morale.
+[08/22 08:56:18 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Adagím Jackal Pup for 7,856 Fire damage to Morale.
+[08/22 08:56:18 PM] Nothing to dispel.
+[08/22 08:56:18 PM] Nlkosi scored a hit with Improved Final Word on the Adagím Jackal Pup.
+[08/22 08:56:19 PM] The Adagím Jackal Pup scored a hit with a weak melee attack on Nlkosi for 4,649 Common damage to Morale.
+[08/22 08:56:19 PM] You have lost 4,649 points of temporary Morale!
+[08/22 08:56:19 PM] Nlkosi scored a hit with Distracting Flame on the Adagím Jackal Pup for 4,490 Fire damage to Morale.
+[08/22 08:56:19 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/22 08:56:20 PM] Nlkosi scored a hit with Head-butt on the Adagím Jackal Pup for 17,794 Common damage to Morale.
+[08/22 08:56:21 PM] The Adagím Jackal Pup scored a hit with Crippling Bite on Nlkosi.
+[08/22 08:56:21 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Adagím Jackal Pup for 4,567 Fire damage to Morale.
+[08/22 08:56:21 PM] Your mighty blow defeated the Adagím Jackal Pup.
+[08/22 08:56:21 PM] Nlkosi scored a hit with Chilling Rhetoric on the Adagím Jackal Pup for 10,372 Frost damage to Morale.
+[08/22 08:56:31 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:56:31 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Adagím Jackal Pup for 36,813 Lightning damage to Morale.
+[08/22 08:56:32 PM] Your mighty blow defeated the Adagím Jackal Pup.
+[08/22 08:56:32 PM] Nlkosi scored a critical hit with Essence of Storm on the Adagím Jackal Pup for 70,153 Lightning damage to Morale.
+[08/22 08:56:39 PM] You have lost 57,514 points of temporary Morale!
+[08/22 08:56:57 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/22 08:56:58 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Pack-leader for 7,259 Lightning damage to Morale.
+[08/22 08:56:59 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/22 08:57:00 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Pack-leader for 11,229 Lightning damage to Morale.
+[08/22 08:57:01 PM] Nlkosi scored a hit with Ceaseless Argument on the Adagím Pack-leader for 15,404 Lightning damage to Morale.
+[08/22 08:57:01 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Pack-leader for 7,498 Lightning damage to Morale.
+[08/22 08:57:02 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:57:02 PM] Nlkosi scored a critical hit with Essence of Storm on the Adagím Pack-leader for 67,541 Lightning damage to Morale.
+[08/22 08:57:03 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Pack-leader for 25,991 Fire damage to Morale.
+[08/22 08:57:03 PM] Nlkosi scored a hit with Epic Conclusion on the Adagím Pack-leader for 81,005 Lightning damage to Morale.
+[08/22 08:57:04 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Adagím Pack-leader but he was immune to the attempt.
+[08/22 08:57:04 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Pack-leader for 7,208 Lightning damage to Morale.
+[08/22 08:57:05 PM] Nlkosi scored a hit with Chilling Rhetoric on the Adagím Pack-leader for 7,017 Frost damage to Morale.
+[08/22 08:57:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Pack-leader for 26,295 Fire damage to Morale.
+[08/22 08:57:05 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Pack-leader for 7,015 Fire damage to Morale.
+[08/22 08:57:05 PM] Your mighty blow defeated the Adagím Pack-leader.
+[08/22 08:57:06 PM] Nlkosi scored a devastating hit with Ceaseless Argument on the Adagím Pack-leader for 42,263 Lightning damage to Morale.
+[08/22 08:57:53 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:57:53 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:57:53 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/22 08:57:54 PM] The Adagím Jackal scored a hit with a minor melee attack on the Volcanic Rune-stone for 27 Common damage to Morale.
+[08/22 08:57:54 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,800 Lightning damage to Morale.
+[08/22 08:57:54 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,484 Lightning damage to Morale.
+[08/22 08:57:54 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,938 Lightning damage to Morale.
+[08/22 08:57:54 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/22 08:57:54 PM] The Adagím Jackal scored a hit with a weak melee attack on the Volcanic Rune-stone for 22 Common damage to Morale.
+[08/22 08:57:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:57:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:57:55 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:57:55 PM] The Adagím Jackal scored a hit with a moderate melee attack on the Volcanic Rune-stone for 30 Common damage to Morale.
+[08/22 08:57:55 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:57:55 PM] Your mighty blow defeated the Adagím Jackal.
+[08/22 08:57:56 PM] Nlkosi scored a critical hit with Scribe's Spark on the Adagím Jackal for 37,523 Lightning damage to Morale.
+[08/22 08:57:56 PM] The Adagím Jackal tried to use Crippled on the Volcanic Rune-stone but it resisted the attempt.
+[08/22 08:57:56 PM] The Adagím Jackal scored a critical hit with Crippling Bite on the Volcanic Rune-stone.
+[08/22 08:57:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:57:57 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:57:57 PM] The Volcanic Rune-stone defeated the Adagím Jackal.
+[08/22 08:57:57 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,643 Lightning damage to Morale.
+[08/22 08:57:58 PM] The Adagím Jackal scored a hit with a weak melee attack on the Volcanic Rune-stone for 22 Common damage to Morale.
+[08/22 08:57:58 PM] Your mighty blow defeated the Adagím Jackal.
+[08/22 08:57:58 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Adagím Jackal for 22,844 Lightning damage to Morale.
+[08/22 08:57:59 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,244 points to Power.
+[08/22 08:57:59 PM] Sustenance applied a critical heal to Nlkosi restoring 31,696 points to Morale.
+[08/22 08:59:01 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 25,722 Fire damage to Morale.
+[08/22 08:59:01 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Pack-leader for 25,722 Fire damage to Morale.
+[08/22 08:59:01 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/22 08:59:02 PM] The Adagím Jackal tried to use Crippled on the Volcanic Rune-stone but it resisted the attempt.
+[08/22 08:59:02 PM] Nlkosi scored a hit with Fulgurite Strike on the Yellow Blight Growth for 5,532 Lightning damage to Morale.
+[08/22 08:59:02 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,522 Lightning damage to Morale.
+[08/22 08:59:02 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 7,018 Lightning damage to Morale.
+[08/22 08:59:02 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 7,084 Lightning damage to Morale.
+[08/22 08:59:02 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Pack-leader for 6,719 Lightning damage to Morale.
+[08/22 08:59:03 PM] The Adagím Jackal scored a hit with Crippling Bite on the Volcanic Rune-stone.
+[08/22 08:59:03 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/22 08:59:03 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Yellow Blight Growth for 26,880 Fire damage to Morale.
+[08/22 08:59:03 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 25,722 Fire damage to Morale.
+[08/22 08:59:03 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 25,722 Fire damage to Morale.
+[08/22 08:59:03 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Pack-leader for 25,722 Fire damage to Morale.
+[08/22 08:59:04 PM] Your mighty blow defeated the Adagím Jackal.
+[08/22 08:59:04 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Jackal for 14,589 Lightning damage to Morale.
+[08/22 08:59:04 PM] The Adagím Jackal scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 22 Common damage to Morale.
+[08/22 08:59:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Yellow Blight Growth for 26,880 Fire damage to Morale.
+[08/22 08:59:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:59:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 25,722 Fire damage to Morale.
+[08/22 08:59:05 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Pack-leader for 25,722 Fire damage to Morale.
+[08/22 08:59:05 PM] Your mighty blow defeated the Adagím Jackal.
+[08/22 08:59:05 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Yellow Blight Growth but it was immune to the attempt.
+[08/22 08:59:05 PM] Nlkosi scored a hit with Fulgurite Strike on the Yellow Blight Growth for 5,381 Lightning damage to Morale.
+[08/22 08:59:05 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,784 Lightning damage to Morale.
+[08/22 08:59:05 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Pack-leader for 7,020 Lightning damage to Morale.
+[08/22 08:59:06 PM] Nlkosi scored a hit with Ceaseless Argument on the Adagím Jackal for 12,208 Lightning damage to Morale.
+[08/22 08:59:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Yellow Blight Growth for 26,880 Fire damage to Morale.
+[08/22 08:59:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:59:07 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Pack-leader for 25,722 Fire damage to Morale.
+[08/22 08:59:08 PM] The Adagím Pack-leader tried to use a weak melee attack on the Volcanic Rune-stone but it blocked the attempt.
+[08/22 08:59:08 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:59:08 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Yellow Blight Growth but it was immune to the attempt.
+[08/22 08:59:08 PM] Nlkosi scored a hit with Fulgurite Strike on the Yellow Blight Growth for 5,440 Lightning damage to Morale.
+[08/22 08:59:08 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,898 Lightning damage to Morale.
+[08/22 08:59:08 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Adagím Pack-leader but he was immune to the attempt.
+[08/22 08:59:08 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Pack-leader for 7,083 Lightning damage to Morale.
+[08/22 08:59:09 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Adagím Pack-leader for 37,925 Lightning damage to Morale.
+[08/22 08:59:09 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Pack-leader for 6,675 Fire damage to Morale.
+[08/22 08:59:09 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Yellow Blight Growth for 26,880 Fire damage to Morale.
+[08/22 08:59:09 PM] The Volcanic Rune-stone defeated the Yellow Blight Growth.
+[08/22 08:59:09 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Jackal for 24,827 Fire damage to Morale.
+[08/22 08:59:09 PM] The Volcanic Rune-stone defeated the Adagím Jackal.
+[08/22 08:59:09 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Pack-leader for 26,026 Fire damage to Morale.
+[08/22 08:59:10 PM] The Adagím Pack-leader scored a hit with Crippling Bite on the Volcanic Rune-stone.
+[08/22 08:59:11 PM] Nlkosi scored a devastating hit with Distracting Flame on the Adagím Pack-leader.
+[08/22 08:59:11 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Adagím Pack-leader for 28,873 Frost damage to Morale.
+[08/22 08:59:11 PM] The Charged Fulgurite Rune-stone tried to use Induce Stunned on the Adagím Pack-leader but he was immune to the attempt.
+[08/22 08:59:11 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Pack-leader for 7,456 Lightning damage to Morale.
+[08/22 08:59:11 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Adagím Pack-leader for 26,026 Fire damage to Morale.
+[08/22 08:59:12 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Adagím Pack-leader for 23,805 Lightning damage to Morale.
+[08/22 08:59:12 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Adagím Pack-leader for 6,677 Fire damage to Morale.
+[08/22 08:59:12 PM] The Adagím Pack-leader scored a hit with Dislocation on the Volcanic Rune-stone.
+[08/22 08:59:12 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,354 points to Power.
+[08/22 08:59:12 PM] Sustenance applied a heal to Nlkosi restoring 19,034 points to Morale.
+[08/22 08:59:13 PM] Nlkosi scored a critical hit with Distracting Flame on the Adagím Pack-leader for 7,846 Fire damage to Morale.
+[08/22 08:59:14 PM] Nlkosi scored a hit with Essence of Winter on the Adagím Pack-leader for 19,161 Frost damage to Morale.
+[08/22 08:59:14 PM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[08/22 08:59:15 PM] Your mighty blow defeated the Adagím Pack-leader.
+[08/22 08:59:15 PM] Nlkosi scored a critical hit with Concession and Rebuttal: Epic Conclusion on the Adagím Pack-leader for 226,912 Lightning damage to Morale.
+[08/22 08:59:26 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,742 Lightning damage to Morale.
+[08/22 08:59:26 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/22 08:59:28 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:59:29 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Adagím Jackal for 42,653 Lightning damage to Morale.
+[08/22 08:59:29 PM] The Adagím Jackal scored a hit with a weak melee attack on the Charged Fulgurite Rune-stone for 22 Common damage to Morale.
+[08/22 08:59:29 PM] Nlkosi scored a hit with Fulgurite Strike on the Adagím Jackal for 6,894 Lightning damage to Morale.
+[08/22 08:59:29 PM] Your mighty blow defeated the Adagím Jackal.
+[08/22 08:59:30 PM] Nlkosi scored a devastating hit with Essence of Storm on the Adagím Jackal for 86,952 Lightning damage to Morale.
+[08/22 08:59:31 PM] Nothing to dispel.
+[08/22 08:59:31 PM] Nlkosi scored a hit with Ceaseless Argument on Âkhtal the Despoiler for 13,183 Lightning damage to Morale.
+[08/22 08:59:31 PM] Nlkosi scored a critical hit with Improved Final Word on Âkhtal the Despoiler.
+[08/22 08:59:32 PM] Nlkosi scored a hit with Fulgurite Strike on Âkhtal the Despoiler for 4,971 Lightning damage to Morale.
+[08/22 08:59:32 PM] Nlkosi scored a hit with Concession and Rebuttal: Sustaining Bolt on Âkhtal the Despoiler for 11,901 Lightning damage to Morale.
+[08/22 08:59:33 PM] Powerful Sustenance applied a heal to Nlkosi restoring 39,987 points to Morale.
+[08/22 08:59:33 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,223 points to Power.
+[08/22 08:59:34 PM] Nlkosi scored a hit with Scribe's Spark on Âkhtal the Despoiler for 12,575 Lightning damage to Morale.
+[08/22 08:59:35 PM] Nlkosi scored a hit with Fulgurite Strike on Âkhtal the Despoiler for 4,920 Lightning damage to Morale.
+[08/22 08:59:35 PM] Nlkosi scored a hit with Chilling Rhetoric on Âkhtal the Despoiler for 8,944 Frost damage to Morale.
+[08/22 08:59:36 PM] Nlkosi scored a hit with Concession and Rebuttal: Epic Conclusion on Âkhtal the Despoiler for 42,158 Lightning damage to Morale.
+[08/22 08:59:38 PM] Nlkosi scored a critical hit with Epic Conclusion - Wounding Memory on Âkhtal the Despoiler for 19,135 Lightning damage to Morale.
+[08/22 08:59:38 PM] Nlkosi scored a critical hit with Concession and Rebuttal: Writ of Lightning on Âkhtal the Despoiler for 28,067 Lightning damage to Morale.
+[08/22 08:59:39 PM] Nlkosi scored a hit with Essence of Storm on Âkhtal the Despoiler for 15,269 Lightning damage to Morale.
+[08/22 08:59:40 PM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on Âkhtal the Despoiler for 10,200 Lightning damage to Morale.
+[08/22 08:59:41 PM] Nlkosi scored a hit with Volcanic Rune-stone on Âkhtal the Despoiler for 19,214 Fire damage to Morale.
+[08/22 08:59:42 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/22 08:59:42 PM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on Âkhtal the Despoiler for 10,611 Lightning damage to Morale.
+[08/22 08:59:42 PM] Âkhtal the Despoiler scored a hit with a mighty melee attack on Nlkosi for 46,998 Common damage to Morale.
+[08/22 08:59:43 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 08:59:43 PM] Nlkosi scored a critical hit with Ceaseless Argument on Âkhtal the Despoiler for 35,194 Lightning damage to Morale.
+[08/22 08:59:43 PM] Nlkosi scored a hit with Volcanic Rune-stone on Âkhtal the Despoiler for 19,214 Fire damage to Morale.
+[08/22 08:59:44 PM] Nlkosi scored a critical hit with Epic Conclusion - Wounding Memory on Âkhtal the Despoiler for 20,259 Lightning damage to Morale.
+[08/22 08:59:44 PM] Nlkosi tried to use Induce Stunned on Âkhtal the Despoiler but he was immune to the attempt.
+[08/22 08:59:44 PM] Âkhtal the Despoiler scored a hit with a weak melee attack on Nlkosi for 20,888 Common damage to Morale.
+[08/22 08:59:44 PM] Nlkosi scored a critical hit with Concession and Rebuttal: Shocking Words on Âkhtal the Despoiler for 119,314 Lightning damage to Morale.
+[08/22 08:59:45 PM] Nlkosi scored a hit with Volcanic Rune-stone on Âkhtal the Despoiler for 19,214 Fire damage to Morale.
+[08/22 08:59:46 PM] Nlkosi scored a critical hit with Scribe's Spark on Âkhtal the Despoiler for 38,342 Lightning damage to Morale.
+[08/22 08:59:46 PM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on Âkhtal the Despoiler for 11,029 Lightning damage to Morale.
+[08/22 08:59:47 PM] Nlkosi scored a critical hit with Ceaseless Argument on Âkhtal the Despoiler for 35,935 Lightning damage to Morale.
+[08/22 08:59:47 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/22 08:59:47 PM] Nlkosi scored a hit with Volcanic Rune-stone on Âkhtal the Despoiler for 19,214 Fire damage to Morale.
+[08/22 08:59:48 PM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on Âkhtal the Despoiler for 10,523 Lightning damage to Morale.
+[08/22 08:59:49 PM] Nlkosi scored a hit with Essence of Winter on Âkhtal the Despoiler for 12,286 Frost damage to Morale.
+[08/22 08:59:49 PM] Nlkosi scored a hit with Essence of Storm on Âkhtal the Despoiler for 16,088 Lightning damage to Morale.
+[08/22 08:59:50 PM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on Âkhtal the Despoiler for 10,411 Lightning damage to Morale.
+[08/22 08:59:50 PM] Nlkosi scored a hit with Sustaining Bolt on Âkhtal the Despoiler for 6,105 Lightning damage to Morale.
+[08/22 08:59:51 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,914 points to Power.
+[08/22 08:59:51 PM] Sustenance applied a heal to Nlkosi restoring 21,290 points to Morale.
+[08/22 08:59:52 PM] Nlkosi scored a hit with Epic Conclusion - Wounding Memory on Âkhtal the Despoiler for 11,058 Lightning damage to Morale.
+[08/22 08:59:52 PM] Nlkosi scored a critical hit with Scribe's Spark on Âkhtal the Despoiler for 34,865 Lightning damage to Morale.
+[08/22 08:59:54 PM] Nlkosi scored a critical hit with Chilling Rhetoric on Âkhtal the Despoiler for 14,424 Frost damage to Morale.
+[08/22 08:59:55 PM] Âkhtal the Despoiler scored a partially evaded hit with Crippling Bite on Nlkosi.
+[08/22 08:59:55 PM] Nlkosi scored a hit with Fulgurite Strike on Âkhtal the Despoiler for 4,667 Lightning damage to Morale.
+[08/22 08:59:55 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/22 08:59:57 PM] Âkhtal the Despoiler scored a partially evaded hit with a weak melee attack on Nlkosi for 20,615 Common damage to Morale.
+[08/22 08:59:57 PM] You have lost 20,615 points of temporary Morale!
+[08/22 08:59:57 PM] Nlkosi scored a critical hit with Distracting Flame on Âkhtal the Despoiler.
+[08/22 08:59:58 PM] Nlkosi scored a hit with Scribe's Spark on Âkhtal the Despoiler for 15,806 Lightning damage to Morale.
+[08/22 08:59:58 PM] Nlkosi scored a hit with Fulgurite Strike on Âkhtal the Despoiler for 5,000 Lightning damage to Morale.
+[08/22 08:59:59 PM] Âkhtal the Despoiler scored a hit with a minor melee attack on Nlkosi for 27,777 Common damage to Morale.
+[08/22 08:59:59 PM] You have lost 27,777 points of temporary Morale!
+[08/22 08:59:59 PM] Nlkosi scored a hit with Ceaseless Argument on Âkhtal the Despoiler for 13,469 Lightning damage to Morale.
+[08/22 09:00:00 PM] Nlkosi scored a hit with Distracting Flame on Âkhtal the Despoiler for 3,702 Fire damage to Morale.
+[08/22 09:00:00 PM] Âkhtal the Despoiler scored a hit with a mighty melee attack on Nlkosi for 49,998 Common damage to Morale.
+[08/22 09:00:00 PM] You have lost 13,771 points of temporary Morale!
+[08/22 09:00:00 PM] Nlkosi scored a hit with Essence of Storm on Âkhtal the Despoiler for 15,502 Lightning damage to Morale.
+[08/22 09:00:01 PM] Nlkosi applied a benefit with Endurance of Stone on Nlkosi.
+[08/22 09:00:01 PM] Nlkosi scored a hit with Fulgurite Strike on Âkhtal the Despoiler for 5,361 Lightning damage to Morale.
+[08/22 09:00:01 PM] Nothing to dispel.
+[08/22 09:00:01 PM] Nlkosi scored a hit with Speak No Evil on Âkhtal the Despoiler.
+[08/22 09:00:02 PM] Âkhtal the Despoiler scored a hit with Injury on Nlkosi.
+[08/22 09:00:03 PM] Nlkosi scored a hit with Ceaseless Argument on Âkhtal the Despoiler for 12,245 Lightning damage to Morale.
+[08/22 09:00:03 PM] Nlkosi scored a critical hit with Distracting Flame on Âkhtal the Despoiler for 7,709 Fire damage to Morale.
+[08/22 09:00:04 PM] Nlkosi scored a hit with Shocking Touch on Âkhtal the Despoiler for 4,425 Lightning damage to Morale.
+[08/22 09:00:04 PM] Nlkosi scored a hit with Static Surge on Âkhtal the Despoiler for 21,433 Lightning damage to Morale.
+[08/22 09:00:04 PM] Nlkosi scored a hit with Fulgurite Strike on Âkhtal the Despoiler for 5,115 Lightning damage to Morale.
+[08/22 09:00:06 PM] Nlkosi scored a hit with Head-butt on Âkhtal the Despoiler for 13,516 Common damage to Morale.
+[08/22 09:00:06 PM] Nlkosi scored a critical hit with Distracting Flame on Âkhtal the Despoiler for 6,239 Fire damage to Morale.
+[08/22 09:00:08 PM] Âkhtal the Despoiler scored a critical hit with a weak melee attack on Nlkosi for 13,982 Common damage to Morale.
+[08/22 09:00:08 PM] Nlkosi scored a hit with Vivid Imagery on Âkhtal the Despoiler for 12,985 Lightning damage to Morale.
+[08/22 09:00:10 PM] Nlkosi scored a hit with Distracting Flame on Âkhtal the Despoiler for 3,402 Fire damage to Morale.
+[08/22 09:00:10 PM] Nlkosi scored a hit with Essence of Storm on Âkhtal the Despoiler for 14,287 Lightning damage to Morale.
+[08/22 09:00:10 PM] Âkhtal the Despoiler tried to use a minor melee attack on Nlkosi but he evaded the attempt.
+[08/22 09:00:12 PM] Nlkosi scored a hit with Essence of Winter on Âkhtal the Despoiler for 17,670 Frost damage to Morale.
+[08/22 09:00:12 PM] Âkhtal the Despoiler scored a critical hit with a mighty melee attack on Nlkosi for 67,207 Common damage to Morale.
+[08/22 09:00:13 PM] Nlkosi scored a hit with Distracting Flame on Âkhtal the Despoiler for 3,642 Fire damage to Morale.
+[08/22 09:00:13 PM] Nlkosi scored a hit with Epic Conclusion on Âkhtal the Despoiler for 51,990 Lightning damage to Morale.
+[08/22 09:00:14 PM] Âkhtal the Despoiler scored a hit with a moderate melee attack on Nlkosi for 28,721 Common damage to Morale.
+[08/22 09:00:15 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 09:00:16 PM] Nlkosi scored a critical hit with Scribe's Spark on Âkhtal the Despoiler for 29,904 Lightning damage to Morale.
+[08/22 09:00:16 PM] Âkhtal the Despoiler scored a hit with a weak melee attack on Nlkosi for 22,221 Common damage to Morale.
+[08/22 09:00:17 PM] Nlkosi scored a devastating hit with Sustaining Bolt on Âkhtal the Despoiler for 17,871 Lightning damage to Morale.
+[08/22 09:00:17 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,888 points to Power.
+[08/22 09:00:17 PM] Sustenance applied a critical heal to Nlkosi restoring 28,262 points to Morale.
+[08/22 09:00:18 PM] Âkhtal the Despoiler scored a hit with a minor melee attack on Nlkosi for 26,943 Common damage to Morale.
+[08/22 09:00:19 PM] Nlkosi scored a hit with Writ of Lightning on Âkhtal the Despoiler for 10,769 Lightning damage to Morale.
+[08/22 09:00:20 PM] Âkhtal the Despoiler scored a hit with a moderate melee attack on Nlkosi for 29,638 Common damage to Morale.
+[08/22 09:00:21 PM] Nlkosi scored a critical hit with Chilling Rhetoric on Âkhtal the Despoiler for 11,696 Frost damage to Morale.
+[08/22 09:00:21 PM] Nlkosi scored a hit with Essence of Storm on Âkhtal the Despoiler for 9,520 Lightning damage to Morale.
+[08/22 09:00:22 PM] Âkhtal the Despoiler scored a hit with a weak melee attack on Nlkosi for 21,555 Common damage to Morale.
+[08/22 09:00:23 PM] Nlkosi scored a critical hit with Writ of Lightning on Âkhtal the Despoiler for 25,788 Lightning damage to Morale.
+[08/22 09:00:23 PM] Increased Morale applied a heal to Nlkosi restoring 9,342 points to Morale.
+[08/22 09:00:23 PM] Crippled has been cured.
+[08/22 09:00:23 PM] Âkhtal the Despoiler tried to use a minor melee attack on Nlkosi but he evaded the attempt.
+[08/22 09:00:24 PM] Nlkosi scored a critical hit with Shocking Words on Âkhtal the Despoiler for 101,339 Lightning damage to Morale.
+[08/22 09:00:25 PM] Nlkosi scored a hit with Scribe's Spark on Âkhtal the Despoiler for 12,608 Lightning damage to Morale.
+[08/22 09:00:27 PM] Nlkosi scored a hit with Volcanic Rune-stone on Âkhtal the Despoiler for 18,676 Fire damage to Morale.
+[08/22 09:00:27 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/22 09:00:29 PM] Nlkosi scored a hit with Writ of Lightning on Âkhtal the Despoiler for 9,705 Lightning damage to Morale.
+[08/22 09:00:29 PM] Nlkosi scored a hit with Volcanic Rune-stone on Âkhtal the Despoiler for 19,214 Fire damage to Morale.
+[08/22 09:00:30 PM] Nlkosi scored a hit with Ceaseless Argument on Âkhtal the Despoiler for 13,174 Lightning damage to Morale.
+[08/22 09:00:31 PM] Nlkosi scored a hit with Volcanic Rune-stone on Âkhtal the Despoiler for 19,214 Fire damage to Morale.
+[08/22 09:00:31 PM] Master of Tragedy applied a heal to Nlkosi restoring 325 points to Power.
+[08/22 09:00:31 PM] Nlkosi scored a critical hit with Scribe's Spark on Âkhtal the Despoiler for 40,660 Lightning damage to Morale.
+[08/22 09:00:31 PM] Âkhtal the Despoiler scored a hit with a weak melee attack on Nlkosi for 20,888 Common damage to Morale.
+[08/22 09:00:32 PM] Nlkosi scored a critical hit with Ceaseless Argument on Âkhtal the Despoiler for 39,537 Lightning damage to Morale.
+[08/22 09:00:33 PM] Nlkosi scored a hit with Volcanic Rune-stone on Âkhtal the Despoiler for 19,214 Fire damage to Morale.
+[08/22 09:00:33 PM] Âkhtal the Despoiler incapacitated you.
+[08/22 09:00:33 PM] Âkhtal the Despoiler scored a hit with a moderate melee attack on Nlkosi for 28,721 Common damage to Morale.
+[08/22 09:00:37 PM] You have been revived.
+[08/22 09:02:20 PM] Nlkosi applied a benefit with Track Mines on Nlkosi.
+[08/22 09:05:30 PM] The Jázga Pup scored a hit with a weak melee attack on Nlkosi for 3,278 Common damage to Morale.
+[08/22 09:05:32 PM] The Jázga Pup scored a hit with a minor melee attack on Nlkosi for 4,098 Common damage to Morale.
+[08/22 09:05:33 PM] The Jázga Pup scored a hit with a moderate melee attack on Nlkosi for 4,508 Common damage to Morale.
+[08/22 09:05:34 PM] Nlkosi scored a hit with Sustaining Bolt on the Jázga Pup for 4,690 Lightning damage to Morale.
+[08/22 09:05:34 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,845 points to Power.
+[08/22 09:05:34 PM] Sustenance applied a heal to Nlkosi restoring 19,659 points to Morale.
+[08/22 09:05:35 PM] The Jázga Pup scored a hit with a weak melee attack on Nlkosi for 3,278 Common damage to Morale.
+[08/22 09:05:36 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Jázga Pup for 16,903 Frost damage to Morale.
+[08/22 09:05:36 PM] Master of Tragedy applied a heal to Nlkosi restoring 341 points to Power.
+[08/22 09:05:36 PM] Your mighty blow defeated the Jázga Pup.
+[08/22 09:05:37 PM] Nlkosi scored a devastating hit with Scribe's Spark on the Jázga Pup for 49,190 Lightning damage to Morale.
+[08/22 09:06:56 PM] The Adagím Fen-ambler scored a hit with a minor melee attack on Nlkosi for 8,781 Common damage to Morale.
+[08/22 09:13:38 PM] The Adagím Rotting Moulder-wood scored a hit with a minor swipe attack on Nlkosi for 10,938 Common damage to Morale.
+[08/22 09:14:09 PM] The Adagím Rotting Moulder-wood scored a hit with Angry Bees on Nlkosi.
+[08/22 09:14:11 PM] The Adagím Rotting Moulder-wood scored a hit with Swarm of Bees on Nlkosi for 6,563 Common damage to Morale.
+[08/22 09:14:13 PM] The Adagím Rotting Moulder-wood scored a hit with Swarm of Bees on Nlkosi for 6,563 Common damage to Morale.
+[08/22 09:14:15 PM] The Adagím Rotting Moulder-wood scored a hit with Swarm of Bees on Nlkosi for 6,563 Common damage to Morale.
+[08/22 09:14:17 PM] The Adagím Rotting Moulder-wood scored a hit with Swarm of Bees on Nlkosi for 6,563 Common damage to Morale.
+[08/22 09:14:19 PM] The Adagím Rotting Moulder-wood scored a hit with Swarm of Bees on Nlkosi for 6,563 Common damage to Morale.
+[08/22 09:14:24 PM] The Adagím Fen-ambler scored a hit with a weak melee attack on Nlkosi for 6,339 Common damage to Morale.
+[08/22 09:14:32 PM] The Adagím Rotting Moulder-wood scored a hit with a minor swipe attack on Nlkosi for 12,032 Common damage to Morale.
+[08/22 09:14:35 PM] The Adagím Fen-ambler scored a hit with a moderate melee attack on Nlkosi for 10,460 Common damage to Morale.
+[08/22 09:14:37 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Fen-ambler for 9,554 Lightning damage to Morale.
+[08/22 09:14:37 PM] The Adagím Fen-ambler scored a hit with a weak melee attack on Nlkosi for 7,607 Common damage to Morale.
+[08/22 09:14:38 PM] Nlkosi scored a hit with Epic Conclusion on the Adagím Fen-ambler for 43,448 Lightning damage to Morale.
+[08/22 09:14:39 PM] Master of Tragedy applied a heal to Nlkosi restoring 341 points to Power.
+[08/22 09:14:39 PM] Your mighty blow defeated the Adagím Fen-ambler.
+[08/22 09:14:39 PM] Nlkosi scored a critical hit with Essence of Storm on the Adagím Fen-ambler for 48,787 Lightning damage to Morale.
+[08/22 09:19:04 PM] The Wandering Bramble scored a hit with a minor swipe attack on Nlkosi for 7,903 Common damage to Morale.
+[08/22 09:19:06 PM] The Wandering Bramble scored a hit with a weak swipe attack on Nlkosi for 6,323 Common damage to Morale.
+[08/22 09:19:06 PM] Nlkosi scored a hit with Ceaseless Argument on the Wandering Bramble for 10,634 Lightning damage to Morale.
+[08/22 09:19:07 PM] Nlkosi scored a hit with Essence of Storm on the Wandering Bramble for 15,127 Lightning damage to Morale.
+[08/22 09:19:08 PM] Master of Tragedy applied a heal to Nlkosi restoring 341 points to Power.
+[08/22 09:19:08 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Wandering Bramble for 17,958 Lightning damage to Morale.
+[08/22 09:19:09 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,964 points to Power.
+[08/22 09:19:09 PM] Sustenance applied a heal to Nlkosi restoring 18,189 points to Morale.
+[08/22 09:19:10 PM] Nlkosi scored a hit with Writ of Lightning on the Wandering Bramble for 14,079 Lightning damage to Morale.
+[08/22 09:19:10 PM] The Wandering Bramble tried to use a moderate swipe attack on Nlkosi but he evaded the attempt.
+[08/22 09:19:11 PM] Nlkosi scored a hit with Fiery Ridicule on the Wandering Bramble for 8,708 Fire damage to Morale.
+[08/22 09:19:12 PM] Nlkosi scored a hit with Scribe's Spark on the Wandering Bramble for 17,733 Lightning damage to Morale.
+[08/22 09:19:12 PM] The Wandering Bramble scored a hit with a minor swipe attack on Nlkosi for 8,433 Common damage to Morale.
+[08/22 09:19:13 PM] Nlkosi scored a hit with Shocking Words on the Wandering Bramble for 45,462 Lightning damage to Morale.
+[08/22 09:19:14 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wandering Bramble for 4,026 Fire damage to Morale.
+[08/22 09:19:16 PM] Nlkosi scored a critical hit with Scribe's Spark on the Wandering Bramble for 44,031 Lightning damage to Morale.
+[08/22 09:19:16 PM] Nlkosi scored a critical hit with Fiery Ridicule - Tier 1 on the Wandering Bramble for 9,066 Fire damage to Morale.
+[08/22 09:19:17 PM] Nlkosi scored a hit with Essence of Storm on the Wandering Bramble for 18,163 Lightning damage to Morale.
+[08/22 09:19:19 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Wandering Bramble for 5,557 Fire damage to Morale.
+[08/22 09:19:20 PM] Nlkosi scored a hit with Scribe's Spark on the Wandering Bramble for 15,066 Lightning damage to Morale.
+[08/22 09:19:20 PM] The Wandering Bramble scored a hit with a weak swipe attack on Nlkosi for 6,955 Common damage to Morale.
+[08/22 09:19:21 PM] Master of Tragedy applied a heal to Nlkosi restoring 341 points to Power.
+[08/22 09:19:21 PM] Your mighty blow defeated the Wandering Bramble.
+[08/22 09:19:21 PM] Nlkosi scored a devastating hit with Ceaseless Argument on the Wandering Bramble for 51,767 Lightning damage to Morale.
+[08/22 09:21:15 PM] The Adagím Spitter scored a hit with a moderate ranged attack on Nlkosi for 7,084 Common damage to Morale.
+[08/22 09:21:33 PM] The Adagím Rotting Moulder-wood scored a hit with Melee Arc Knockback on Nlkosi for 7,962 Common damage to Morale.
+[08/22 09:21:36 PM] Nlkosi scored a hit with Ceaseless Argument on the Adagím Rotting Moulder-wood for 11,258 Lightning damage to Morale.
+[08/22 09:21:37 PM] The Adagím Rotting Moulder-wood scored a hit with a minor swipe attack on Nlkosi for 9,952 Common damage to Morale.
+[08/22 09:21:37 PM] Master of Tragedy applied a heal to Nlkosi restoring 341 points to Power.
+[08/22 09:21:38 PM] Nlkosi scored a devastating hit with Writ of Lightning on the Adagím Rotting Moulder-wood for 28,478 Lightning damage to Morale.
+[08/22 09:21:40 PM] Nlkosi scored a hit with Shocking Words on the Adagím Rotting Moulder-wood for 33,242 Lightning damage to Morale.
+[08/22 09:21:40 PM] Nothing to dispel.
+[08/22 09:21:41 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Adagím Rotting Moulder-wood for 37,927 Lightning damage to Morale.
+[08/22 09:21:41 PM] Nlkosi scored a hit with Improved Final Word on the Adagím Rotting Moulder-wood.
+[08/22 09:21:41 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/22 09:21:42 PM] Nothing to cure.
+[08/22 09:21:43 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/22 09:21:43 PM] Nlkosi scored a critical hit with Essence of Storm on the Adagím Rotting Moulder-wood for 70,820 Lightning damage to Morale.
+[08/22 09:21:44 PM] Nothing to cure.
+[08/22 09:21:44 PM] The Adagím Spitter scored a hit with a weak ranged attack on Nlkosi for 5,327 Common damage to Morale.
+[08/22 09:21:44 PM] You have lost 5,327 points of temporary Morale!
+[08/22 09:21:44 PM] Nlkosi scored a hit with Sustaining Bolt on the Adagím Rotting Moulder-wood for 8,988 Lightning damage to Morale.
+[08/22 09:21:45 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,407 points to Power.
+[08/22 09:21:45 PM] Sustenance applied a heal to Nlkosi restoring 20,912 points to Morale.
+[08/22 09:21:46 PM] Nothing to cure.
+[08/22 09:21:46 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Adagím Rotting Moulder-wood for 37,927 Lightning damage to Morale.
+[08/22 09:21:46 PM] The Adagím Rotting Moulder-wood tried to use a minor swipe attack on Nlkosi but he evaded the attempt.
+[08/22 09:21:47 PM] Nlkosi scored a critical hit with Scribe's Spark on the Adagím Rotting Moulder-wood for 46,039 Lightning damage to Morale.
+[08/22 09:21:48 PM] Nlkosi scored a hit with Fiery Ridicule on the Adagím Rotting Moulder-wood for 7,188 Fire damage to Morale.
+[08/22 09:21:49 PM] The Adagím Spitter scored a hit with a minor ranged attack on Nlkosi for 6,234 Common damage to Morale.
+[08/22 09:21:49 PM] You have lost 6,234 points of temporary Morale!
+[08/22 09:21:49 PM] The Adagím Rotting Moulder-wood scored a hit with a weak swipe attack on Nlkosi for 7,006 Common damage to Morale.
+[08/22 09:21:49 PM] You have lost 7,006 points of temporary Morale!
+[08/22 09:21:49 PM] Master of Tragedy applied a heal to Nlkosi restoring 341 points to Power.
+[08/22 09:21:49 PM] Your mighty blow defeated the Adagím Rotting Moulder-wood.
+[08/22 09:21:49 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Adagím Rotting Moulder-wood for 46,175 Lightning damage to Morale.
+[08/22 09:21:51 PM] Nlkosi scored a critical hit with Writ of Lightning on the Red Blight Growth for 29,440 Lightning damage to Morale.
+[08/22 09:21:51 PM] The Adagím Spitter scored a hit with a weak ranged attack on Nlkosi for 4,987 Common damage to Morale.
+[08/22 09:21:51 PM] You have lost 4,987 points of temporary Morale!
+[08/22 09:21:51 PM] Your mighty blow defeated the Red Blight Growth.
+[08/22 09:21:52 PM] Nlkosi scored a critical hit with Epic Conclusion on the Red Blight Growth for 178,862 Lightning damage to Morale.
+[08/22 09:21:54 PM] The Adagím Spitter scored a hit with a minor ranged attack on Nlkosi for 6,234 Common damage to Morale.
+[08/22 09:21:54 PM] You have lost 6,234 points of temporary Morale!
+[08/22 09:22:00 PM] The Adagím Spitter scored a hit with a weak ranged attack on Nlkosi for 5,667 Common damage to Morale.
+[08/22 09:22:00 PM] You have lost 5,667 points of temporary Morale!
+[08/22 09:22:01 PM] You have lost 26,708 points of temporary Morale!
+[08/22 09:22:05 PM] Nlkosi scored a hit with Scribe's Spark on the Adagím Spitter for 13,338 Lightning damage to Morale.
+[08/22 09:22:05 PM] The Adagím Spitter scored a hit with a weak ranged attack on Nlkosi for 5,152 Common damage to Morale.
+[08/22 09:22:06 PM] Master of Tragedy applied a heal to Nlkosi restoring 341 points to Power.
+[08/22 09:22:06 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Adagím Spitter for 35,245 Lightning damage to Morale.
+[08/22 09:22:07 PM] Your mighty blow defeated the Adagím Spitter.
+[08/22 09:22:07 PM] Nlkosi scored a critical hit with Essence of Storm on the Adagím Spitter for 67,873 Lightning damage to Morale.
+[08/22 09:24:46 PM] Master of Tragedy applied a heal to Nlkosi restoring 341 points to Power.
+[08/22 09:24:46 PM] Nlkosi scored a critical hit with Scribe's Spark on the Adagím Rotting Moulder-wood for 34,276 Lightning damage to Morale.
+[08/22 09:24:46 PM] The Adagím Rotting Moulder-wood scored a partially evaded hit with a mighty swipe attack on Nlkosi for 16,094 Common damage to Morale.
+[08/22 09:24:47 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Rotting Moulder-wood for 12,515 Lightning damage to Morale.
+[08/22 09:24:48 PM] Nlkosi scored a hit with Epic Conclusion on the Adagím Rotting Moulder-wood for 53,060 Lightning damage to Morale.
+[08/22 09:24:50 PM] Nlkosi scored a critical hit with Distracting Flame on the Adagím Rotting Moulder-wood.
+[08/22 09:24:51 PM] The Adagím Rotting Moulder-wood scored a hit with a moderate swipe attack on Nlkosi for 10,947 Common damage to Morale.
+[08/22 09:24:51 PM] Nlkosi scored a hit with Essence of Storm on the Adagím Rotting Moulder-wood for 13,663 Lightning damage to Morale.
+[08/22 09:24:52 PM] Nlkosi scored a hit with Writ of Lightning on the Adagím Rotting Moulder-wood for 13,664 Lightning damage to Morale.
+[08/22 09:24:52 PM] You have dispelled Red Spores - 1 from Adagím Rotting Moulder-wood.
+[08/22 09:24:52 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/22 09:24:52 PM] Nlkosi scored a critical hit with Improved Final Word on the Adagím Rotting Moulder-wood.
+[08/22 09:24:53 PM] Nlkosi scored a hit with Distracting Flame on the Adagím Rotting Moulder-wood for 4,028 Fire damage to Morale.
+[08/22 09:24:53 PM] Nlkosi applied a benefit with Concession and Rebuttal on Nlkosi.
+[08/22 09:24:53 PM] Nothing to cure.
+[08/22 09:24:54 PM] The Adagím Rotting Moulder-wood scored a hit with a weak swipe attack on Nlkosi for 7,723 Common damage to Morale.
+[08/22 09:24:54 PM] You have lost 7,723 points of temporary Morale!
+[08/22 09:24:54 PM] Nlkosi applied a benefit with Scribe a New Ending on Nlkosi.
+[08/22 09:24:54 PM] Nlkosi scored a critical hit with Concession and Rebuttal: Sustaining Bolt on the Adagím Rotting Moulder-wood for 58,987 Lightning damage to Morale.
+[08/22 09:24:55 PM] Powerful Sustenance applied a heal to Nlkosi restoring 35,310 points to Morale.
+[08/22 09:24:55 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,130 points to Power.
+[08/22 09:24:55 PM] Nothing to cure.
+[08/22 09:24:56 PM] Nlkosi scored a hit with Distracting Flame on the Adagím Rotting Moulder-wood for 4,154 Fire damage to Morale.
+[08/22 09:24:56 PM] Nlkosi scored a hit with Scribe's Spark on the Adagím Rotting Moulder-wood for 20,639 Lightning damage to Morale.
+[08/22 09:24:57 PM] The Adagím Rotting Moulder-wood scored a hit with a melee double attack on Nlkosi for 8,232 Common damage to Morale.
+[08/22 09:24:57 PM] You have lost 8,232 points of temporary Morale!
+[08/22 09:24:57 PM] Nothing to cure.
+[08/22 09:24:58 PM] The Adagím Rotting Moulder-wood missed trying to use a melee double attack on Nlkosi.
+[08/22 09:24:58 PM] Nlkosi scored a hit with Essence of Flame on the Adagím Rotting Moulder-wood for 25,909 Fire damage to Morale.
+[08/22 09:24:58 PM] Nlkosi scored a hit with Essence of Flame on the Red Blight Growth for 22,146 Fire damage to Morale.
+[08/22 09:24:58 PM] Nlkosi tried to use Induce Stunned on the Red Blight Growth but it was immune to the attempt.
+[08/22 09:24:58 PM] Master of Tragedy applied a heal to Nlkosi restoring 341 points to Power.
+[08/22 09:24:58 PM] Your mighty blow defeated the Adagím Rotting Moulder-wood.
+[08/22 09:24:58 PM] The Red Blight Growth scored a hit with High Acid Damage on Nlkosi for 17,758 Acid damage to Morale.
+[08/22 09:24:59 PM] Nlkosi scored a devastating hit with Concession and Rebuttal: Shocking Words on the Adagím Rotting Moulder-wood for 165,950 Lightning damage to Morale.
+[08/22 09:24:59 PM] Nlkosi scored a hit with Concession and Rebuttal: Shocking Words on the Red Blight Growth for 34,514 Lightning damage to Morale.
+[08/22 09:24:59 PM] You have lost 17,758 points of temporary Morale!
+[08/22 09:25:03 PM] Nlkosi scored a hit with Scribe's Spark on the Red Blight Growth for 12,603 Lightning damage to Morale.
+[08/22 09:25:04 PM] Nlkosi scored a hit with Concession and Rebuttal: Writ of Lightning on the Red Blight Growth for 8,575 Lightning damage to Morale.
+[08/22 09:25:12 PM] You have lost 28,450 points of temporary Morale!
+[08/22 09:26:08 PM] Nlkosi applied a benefit with Return to Vartúlin (Imhûlar) on Nlkosi.

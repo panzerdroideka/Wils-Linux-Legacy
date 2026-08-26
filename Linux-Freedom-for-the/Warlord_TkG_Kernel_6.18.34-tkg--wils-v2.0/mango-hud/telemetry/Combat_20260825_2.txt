@@ -1,0 +1,285 @@
+### Chat Log: Combat 08/25 05:55 PM ###
+[08/25 05:56:13 PM] Nlkosi scored a hit with Writ of Lightning on the Idagâl Jackal for 9,122 Lightning damage to Morale.
+[08/25 05:56:13 PM] The Idagâl Jackal scored a hit with a weak melee attack on Nlkosi for 8,484 Common damage to Morale.
+[08/25 05:56:14 PM] Nlkosi scored a hit with Epic Conclusion on the Idagâl Jackal for 36,381 Lightning damage to Morale.
+[08/25 05:56:15 PM] The Idagâl Jackal scored a hit with a minor melee attack on Nlkosi for 9,969 Common damage to Morale.
+[08/25 05:56:16 PM] Nlkosi scored a hit with Essence of Storm on the Idagâl Jackal for 11,148 Lightning damage to Morale.
+[08/25 05:56:17 PM] The Idagâl Jackal scored a hit with a moderate melee attack on Nlkosi for 10,966 Common damage to Morale.
+[08/25 05:56:17 PM] Nlkosi scored a hit with Ceaseless Argument on the Idagâl Jackal for 11,576 Lightning damage to Morale.
+[08/25 05:56:18 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 05:56:18 PM] Your mighty blow defeated the Idagâl Jackal.
+[08/25 05:56:18 PM] Nlkosi scored a devastating hit with Scribe's Spark on the Idagâl Jackal for 43,830 Lightning damage to Morale.
+[08/25 05:56:21 PM] Nlkosi scored a hit with Ceaseless Argument on the Great Dread-tortoise for 10,327 Lightning damage to Morale.
+[08/25 05:56:22 PM] Nlkosi scored a hit with Sustaining Bolt on the Great Dread-tortoise for 4,317 Lightning damage to Morale.
+[08/25 05:56:22 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,061 points to Power.
+[08/25 05:56:22 PM] Sustenance applied a critical heal to Nlkosi restoring 22,362 points to Morale.
+[08/25 05:56:23 PM] Nlkosi scored a hit with Ceaseless Argument on the Great Dread-tortoise for 8,234 Lightning damage to Morale.
+[08/25 05:56:24 PM] Nlkosi scored a critical hit with Scribe's Spark on the Great Dread-tortoise for 27,589 Lightning damage to Morale.
+[08/25 05:56:25 PM] Nothing to dispel.
+[08/25 05:56:26 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Great Dread-tortoise for 28,877 Lightning damage to Morale.
+[08/25 05:56:26 PM] Nlkosi scored a hit with Improved Final Word on the Great Dread-tortoise.
+[08/25 05:56:26 PM] The Great Dread-tortoise scored a partially evaded hit with Melee Stun on Nlkosi.
+[08/25 05:56:28 PM] Your mighty blow defeated the Great Dread-tortoise.
+[08/25 05:56:28 PM] Nlkosi scored a hit with Head-butt on the Great Dread-tortoise for 9,859 Common damage to Morale.
+[08/25 05:56:31 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 05:56:31 PM] Your mighty blow defeated the Oryx.
+[08/25 05:56:31 PM] Nlkosi scored a critical hit with Scribe's Spark on the Oryx for 51,859 Lightning damage to Morale.
+[08/25 05:57:12 PM] Nlkosi scored a hit with Ceaseless Argument on the Young Wild-drake for 10,166 Lightning damage to Morale.
+[08/25 05:57:13 PM] Nlkosi scored a hit with Chilling Rhetoric on the Young Wild-drake for 6,713 Frost damage to Morale.
+[08/25 05:57:13 PM] The Young Wild-drake scored a hit with a weak ranged attack on Nlkosi for 8,686 Acid damage to Morale.
+[08/25 05:57:14 PM] Nlkosi scored a hit with Essence of Flame on the Young Wild-drake for 10,796 Fire damage to Morale.
+[08/25 05:57:15 PM] Nlkosi scored a hit with Essence of Storm on the Young Wild-drake for 13,064 Lightning damage to Morale.
+[08/25 05:57:16 PM] Your mighty blow defeated the Young Wild-drake.
+[08/25 05:57:16 PM] Nlkosi scored a hit with Epic Conclusion on the Young Wild-drake for 58,206 Lightning damage to Morale.
+[08/25 05:57:46 PM] The Lakeshore Scavenger scored a hit with a weak melee attack on Nlkosi for 8,202 Common damage to Morale.
+[08/25 05:57:47 PM] The Lakeshore Scavenger scored a hit with a minor melee attack on Nlkosi for 10,253 Common damage to Morale.
+[08/25 05:57:49 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 05:57:49 PM] The Lakeshore Scavenger scored a hit with a moderate melee attack on Nlkosi for 11,278 Common damage to Morale.
+[08/25 05:57:49 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Lakeshore Scavenger for 23,476 Lightning damage to Morale.
+[08/25 05:57:50 PM] Nlkosi scored a hit with Writ of Lightning on the Lakeshore Scavenger for 8,158 Lightning damage to Morale.
+[08/25 05:57:51 PM] Nlkosi scored a hit with Epic Conclusion on the Lakeshore Scavenger for 35,774 Lightning damage to Morale.
+[08/25 05:57:52 PM] The Wild-drake Whelpling scored a hit with Caustic Expulsion on Nlkosi for 13,898 Acid damage to Morale.
+[08/25 05:57:52 PM] Nothing to dispel.
+[08/25 05:57:52 PM] Nlkosi scored a hit with Improved Final Word on the Wild-drake Whelpling.
+[08/25 05:57:52 PM] The Wild-drake Whelpling scored a hit with a weak melee attack on Nlkosi for 8,991 Acid damage to Morale.
+[08/25 05:57:53 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/25 05:57:53 PM] The Lakeshore Scavenger scored a hit with a weak melee attack on Nlkosi for 8,550 Common damage to Morale.
+[08/25 05:57:53 PM] You have lost 8,550 points of temporary Morale!
+[08/25 05:57:54 PM] Nlkosi scored a hit with Vivid Imagery on the Wild-drake Whelpling for 13,182 Lightning damage to Morale.
+[08/25 05:57:54 PM] Nlkosi scored a hit with Vivid Imagery on the Lakeshore Scavenger for 9,741 Lightning damage to Morale.
+[08/25 05:57:55 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Wild-drake Whelpling for 13,876 Frost damage to Morale.
+[08/25 05:57:56 PM] Nlkosi scored a hit with Shocking Words on the Wild-drake Whelpling for 29,117 Lightning damage to Morale.
+[08/25 05:57:57 PM] Nlkosi scored a hit with Ceaseless Argument on the Wild-drake Whelpling for 10,871 Lightning damage to Morale.
+[08/25 05:57:58 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Wild-drake Whelpling for 15,043 Lightning damage to Morale.
+[08/25 05:57:59 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,904 points to Power.
+[08/25 05:57:59 PM] Sustenance applied a heal to Nlkosi restoring 21,392 points to Morale.
+[08/25 05:58:00 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 05:58:00 PM] Your mighty blow defeated the Wild-drake Whelpling.
+[08/25 05:58:00 PM] Nlkosi scored a devastating hit with Ceaseless Argument on the Wild-drake Whelpling for 40,407 Lightning damage to Morale.
+[08/25 05:58:07 PM] You have lost 19,374 points of temporary Morale!
+[08/25 05:58:10 PM] Nlkosi scored a hit with Writ of Lightning on the Lakeshore Scavenger for 11,734 Lightning damage to Morale.
+[08/25 05:58:10 PM] The Lakeshore Scavenger scored a hit with a minor melee attack on Nlkosi for 12,548 Common damage to Morale.
+[08/25 05:58:10 PM] You have lost 12,548 points of temporary Morale!
+[08/25 05:58:11 PM] Nlkosi scored a hit with Ceaseless Argument on the Lakeshore Scavenger for 10,226 Lightning damage to Morale.
+[08/25 05:58:12 PM] Your mighty blow defeated the Lakeshore Scavenger.
+[08/25 05:58:12 PM] You have lost 12,961 points of temporary Morale!
+[08/25 05:58:12 PM] You have lost 14,140 points of temporary Morale!
+[08/25 05:58:12 PM] Nlkosi scored a hit with Essence of Flame on the Lakeshore Scavenger for 16,269 Fire damage to Morale.
+[08/25 06:12:27 PM] Nlkosi applied a benefit with Travel to Kinship House on Nlkosi.
+[08/25 06:42:46 PM] Nlkosi applied a benefit with Return to Swain's Guild-hall (Umbar) on Nlkosi.
+[08/25 06:55:50 PM] The Watchman defeated the Zamarzîr Shallow-toad.
+[08/25 07:07:29 PM] The Watchman defeated the Sand-lizard.
+[08/25 07:09:00 PM] The Watchman defeated the Zamarzîr Coast-scuttler.
+[08/25 07:13:23 PM] The Watchman defeated the Sand-lizard.
+[08/25 07:15:51 PM] Logging chat tab Combat to file Z:\home\wils\Games\WARLORDLOTRO\Spillfiler\Combat_20260825_2.txt
+[08/25 07:19:25 PM] Nlkosi scored a hit with Ceaseless Argument on the Baj Khatûg Shore-scuttler for 6,859 Lightning damage to Morale.
+[08/25 07:19:27 PM] Nlkosi scored a hit with Essence of Storm on the Baj Khatûg Shore-scuttler for 6,716 Lightning damage to Morale.
+[08/25 07:19:29 PM] Nlkosi scored a hit with Scribe's Spark on the Baj Khatûg Shore-scuttler for 19,546 Lightning damage to Morale.
+[08/25 07:19:29 PM] Your mighty blow defeated the Baj Khatûg Shore-scuttler.
+[08/25 07:19:29 PM] Nlkosi scored a critical hit with Fiery Ridicule on the Baj Khatûg Shore-scuttler for 17,707 Fire damage to Morale.
+[08/25 07:19:32 PM] Nlkosi scored a hit with Sustaining Bolt on the Baj Khatûg Shore-scuttler for 4,164 Lightning damage to Morale.
+[08/25 07:19:33 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,218 points to Power.
+[08/25 07:19:33 PM] Sustenance applied a critical heal to Nlkosi restoring 24,175 points to Morale.
+[08/25 07:19:33 PM] Nlkosi scored a hit with Fiery Ridicule on the Baj Khatûg Shore-scuttler for 3,377 Fire damage to Morale.
+[08/25 07:19:34 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 07:19:34 PM] Your mighty blow defeated the Baj Khatûg Shore-scuttler.
+[08/25 07:19:34 PM] Nlkosi scored a critical hit with Shocking Words on the Baj Khatûg Shore-scuttler for 145,905 Lightning damage to Morale.
+[08/25 07:19:44 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 07:19:45 PM] Nlkosi scored a critical hit with Essence of Storm on the Baj Khatûg Shore-scuttler for 29,588 Lightning damage to Morale.
+[08/25 07:19:46 PM] Nlkosi scored a critical hit with Writ of Lightning on the Baj Khatûg Shore-scuttler for 16,939 Lightning damage to Morale.
+[08/25 07:19:47 PM] Your mighty blow defeated the Baj Khatûg Shore-scuttler.
+[08/25 07:19:47 PM] Nlkosi scored a critical hit with Epic Conclusion on the Baj Khatûg Shore-scuttler for 82,333 Lightning damage to Morale.
+[08/25 07:19:49 PM] Your mighty blow defeated the Turtle.
+[08/25 07:19:49 PM] Nlkosi scored a critical hit with Scribe's Spark on the Turtle for 41,795 Lightning damage to Morale.
+[08/25 07:19:51 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Baj Khatûg Shore-scuttler for 18,008 Lightning damage to Morale.
+[08/25 07:19:52 PM] Nlkosi scored a hit with Writ of Lightning on the Baj Khatûg Shore-scuttler for 17,473 Lightning damage to Morale.
+[08/25 07:19:53 PM] Nlkosi scored a hit with Sustaining Bolt on the Baj Khatûg Shore-scuttler for 11,336 Lightning damage to Morale.
+[08/25 07:19:54 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,024 points to Power.
+[08/25 07:19:54 PM] Sustenance applied a heal to Nlkosi restoring 19,543 points to Morale.
+[08/25 07:19:54 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 07:19:54 PM] Your mighty blow defeated the Baj Khatûg Shore-scuttler.
+[08/25 07:19:55 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Baj Khatûg Shore-scuttler for 54,705 Lightning damage to Morale.
+[08/25 07:19:56 PM] Nlkosi scored a hit with Ceaseless Argument on the Baj Khatûg Shore-scuttler for 7,616 Lightning damage to Morale.
+[08/25 07:19:57 PM] Your mighty blow defeated the Baj Khatûg Shore-scuttler.
+[08/25 07:19:57 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Baj Khatûg Shore-scuttler for 54,986 Lightning damage to Morale.
+[08/25 07:20:02 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Baj Khatûg Shore-scuttler for 20,176 Lightning damage to Morale.
+[08/25 07:20:03 PM] Nlkosi scored a devastating hit with Fiery Ridicule on the Baj Khatûg Shore-scuttler for 24,697 Fire damage to Morale.
+[08/25 07:20:05 PM] Your mighty blow defeated the Baj Khatûg Shore-scuttler.
+[08/25 07:20:05 PM] Nlkosi scored a hit with Essence of Flame on the Baj Khatûg Shore-scuttler for 30,010 Fire damage to Morale.
+[08/25 07:20:08 PM] Nlkosi scored a hit with Fiery Ridicule on the Baj Khatûg Shore-scuttler for 4,032 Fire damage to Morale.
+[08/25 07:20:10 PM] Nlkosi scored a hit with Essence of Winter on the Baj Khatûg Shore-scuttler for 9,448 Frost damage to Morale.
+[08/25 07:20:10 PM] Nlkosi scored a hit with Chilling Rhetoric on the Baj Khatûg Shore-scuttler for 12,369 Frost damage to Morale.
+[08/25 07:20:11 PM] Nlkosi scored a hit with Fiery Ridicule - Tier 1 on the Baj Khatûg Shore-scuttler for 7,368 Fire damage to Morale.
+[08/25 07:20:11 PM] Your mighty blow defeated the Baj Khatûg Shore-scuttler.
+[08/25 07:20:11 PM] Nlkosi scored a hit with Writ of Lightning on the Baj Khatûg Shore-scuttler for 17,146 Lightning damage to Morale.
+[08/25 07:20:13 PM] Nlkosi scored a hit with Sustaining Bolt on the Baj Khatûg Shore-scuttler for 3,637 Lightning damage to Morale.
+[08/25 07:20:14 PM] Sustaining Bolt applied a critical heal to Nlkosi restoring 2,802 points to Power.
+[08/25 07:20:14 PM] Sustenance applied a heal to Nlkosi restoring 18,381 points to Morale.
+[08/25 07:20:15 PM] Nlkosi scored a hit with Essence of Storm on the Baj Khatûg Shore-scuttler for 8,554 Lightning damage to Morale.
+[08/25 07:20:16 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 07:20:16 PM] Your mighty blow defeated the Baj Khatûg Shore-scuttler.
+[08/25 07:20:16 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Baj Khatûg Shore-scuttler for 52,163 Lightning damage to Morale.
+[08/25 07:20:18 PM] Nlkosi scored a hit with Essence of Flame on Shelly for 10,611 Fire damage to Morale.
+[08/25 07:20:18 PM] Nlkosi scored a critical hit with Essence of Flame on the Baj Khatûg Shore-scuttler for 18,510 Fire damage to Morale.
+[08/25 07:20:19 PM] Nlkosi scored a critical hit with Ceaseless Argument on Shelly for 21,621 Lightning damage to Morale.
+[08/25 07:20:20 PM] Nlkosi scored a hit with Shocking Words on Shelly for 50,838 Lightning damage to Morale.
+[08/25 07:20:21 PM] Nlkosi scored a hit with Ceaseless Argument on Shelly for 14,206 Lightning damage to Morale.
+[08/25 07:20:22 PM] Your mighty blow defeated Shelly.
+[08/25 07:20:22 PM] Nlkosi scored a hit with Fiery Ridicule on Shelly for 7,139 Fire damage to Morale.
+[08/25 07:20:23 PM] Nlkosi scored a hit with Fiery Ridicule on the Baj Khatûg Shore-scuttler for 9,124 Fire damage to Morale.
+[08/25 07:20:24 PM] Your mighty blow defeated the Baj Khatûg Shore-scuttler.
+[08/25 07:20:24 PM] Nlkosi scored a devastating hit with Essence of Storm on the Baj Khatûg Shore-scuttler for 97,380 Lightning damage to Morale.
+[08/25 07:20:31 PM] Nlkosi scored a hit with Scribe's Spark on the Baj Khatûg Shore-scuttler for 6,449 Lightning damage to Morale.
+[08/25 07:20:32 PM] Nlkosi scored a critical hit with Chilling Rhetoric on the Baj Khatûg Shore-scuttler for 8,694 Frost damage to Morale.
+[08/25 07:20:33 PM] Nlkosi scored a hit with Writ of Lightning on the Baj Khatûg Shore-scuttler for 18,981 Lightning damage to Morale.
+[08/25 07:20:34 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 07:20:34 PM] Your mighty blow defeated the Baj Khatûg Shore-scuttler.
+[08/25 07:20:34 PM] Nlkosi scored a critical hit with Essence of Storm on the Baj Khatûg Shore-scuttler for 86,379 Lightning damage to Morale.
+[08/25 07:53:51 PM] Nlkosi scored a hit with Ceaseless Argument on the Drowned Wight for 10,927 Lightning damage to Morale.
+[08/25 07:53:52 PM] Your mighty blow defeated the Drowned Wight.
+[08/25 07:53:52 PM] Nlkosi scored a hit with Epic Conclusion on the Drowned Wight for 41,776 Lightning damage to Morale.
+[08/25 08:07:02 PM] The Drowned Wight scored a hit with Shadow Aura on Nlkosi for 97 Shadow damage to Morale.
+[08/25 08:07:06 PM] The Drowned Blight-caller scored a hit with Shadow Aura on Nlkosi for 579 Shadow damage to Morale.
+[08/25 08:07:08 PM] The Drowned Wight scored a hit with Shadow Aura on Nlkosi for 186 Shadow damage to Morale.
+[08/25 08:07:08 PM] The Drowned Wight scored a hit with Shadow Aura on Nlkosi for 20 Shadow damage to Morale.
+[08/25 08:07:12 PM] The Drowned Wight scored a hit with Shadow Aura on Nlkosi for 130 Shadow damage to Morale.
+[08/25 08:12:13 PM] The Drowned Wight scored a hit with Shadow Aura on Nlkosi for 302 Shadow damage to Morale.
+[08/25 08:12:27 PM] The Drowned Blight-caller scored a hit with Shadow Aura on Nlkosi for 1,395 Shadow damage to Morale.
+[08/25 08:12:32 PM] The Drowned Blight-caller scored a hit with Shadow Aura on Nlkosi for 1,395 Shadow damage to Morale.
+[08/25 08:12:37 PM] The Drowned Blight-caller scored a hit with Shadow Aura on Nlkosi for 1,395 Shadow damage to Morale.
+[08/25 08:12:42 PM] The Drowned Blight-caller scored a hit with Shadow Aura on Nlkosi for 1,395 Shadow damage to Morale.
+[08/25 08:12:47 PM] The Drowned Blight-caller scored a hit with Shadow Aura on Nlkosi for 1,395 Shadow damage to Morale.
+[08/25 08:12:48 PM] The Drowned Blight-caller scored a hit with Shadow Aura on Nlkosi for 75 Shadow damage to Morale.
+[08/25 08:14:18 PM] Nlkosi scored a hit with Volcanic Rune-stone on the Kergrim Scavenger for 26,880 Fire damage to Morale.
+[08/25 08:14:19 PM] Nlkosi applied a benefit with Volcanic Rune-stone on Nlkosi.
+[08/25 08:14:19 PM] Nlkosi scored a hit with Fulgurite Strike on the Kergrim Scavenger for 7,856 Lightning damage to Morale.
+[08/25 08:14:19 PM] Nlkosi applied a benefit with Fulgurite Rune-stone on Nlkosi.
+[08/25 08:14:20 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 08:14:20 PM] Your mighty blow defeated the Kergrim Scavenger.
+[08/25 08:14:20 PM] Nlkosi scored a critical hit with Sustaining Bolt on the Kergrim Scavenger for 20,421 Lightning damage to Morale.
+[08/25 08:14:21 PM] Sustaining Bolt applied a heal to Nlkosi restoring 2,040 points to Power.
+[08/25 08:14:21 PM] Sustenance applied a heal to Nlkosi restoring 17,476 points to Morale.
+[08/25 08:14:26 PM] Nlkosi scored a critical hit with Scribe's Spark on the Drowned Blight-caller for 38,429 Lightning damage to Morale.
+[08/25 08:14:27 PM] Your mighty blow defeated the Drowned Blight-caller.
+[08/25 08:14:27 PM] Nlkosi scored a critical hit with Shocking Words on the Drowned Blight-caller for 94,272 Lightning damage to Morale.
+[08/25 08:14:29 PM] Your mighty blow defeated the Ribbon Snake.
+[08/25 08:14:29 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Ribbon Snake for 43,757 Lightning damage to Morale.
+[08/25 08:14:30 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 08:14:31 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Drowned Blight-caller for 40,826 Lightning damage to Morale.
+[08/25 08:14:31 PM] Your mighty blow defeated the Drowned Blight-caller.
+[08/25 08:14:32 PM] Nlkosi scored a critical hit with Scribe's Spark on the Drowned Blight-caller for 45,589 Lightning damage to Morale.
+[08/25 08:14:53 PM] Nlkosi scored a hit with Writ of Lightning on the Drowned Blight-caller for 12,840 Lightning damage to Morale.
+[08/25 08:14:54 PM] The Drowned Blight-caller scored a hit with a weak melee attack on Nlkosi for 2,302 Common damage to Morale.
+[08/25 08:14:54 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 08:14:54 PM] Your mighty blow defeated the Drowned Blight-caller.
+[08/25 08:14:54 PM] The Drowned Blight-caller scored a hit with Shadow Aura on Nlkosi for 913 Shadow damage to Morale.
+[08/25 08:14:55 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Drowned Blight-caller for 42,012 Lightning damage to Morale.
+[08/25 08:15:13 PM] Nlkosi scored a hit with Writ of Lightning on the Drowned Blight-caller for 14,762 Lightning damage to Morale.
+[08/25 08:15:14 PM] Nlkosi scored a hit with Scribe's Spark on the Drowned Blight-caller for 20,380 Lightning damage to Morale.
+[08/25 08:15:15 PM] The Drowned Blight-caller tried to use a weak melee attack on Nlkosi but he evaded the attempt.
+[08/25 08:15:15 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 08:15:15 PM] Your mighty blow defeated the Drowned Blight-caller.
+[08/25 08:15:15 PM] The Drowned Blight-caller scored a hit with Shadow Aura on Nlkosi for 296 Shadow damage to Morale.
+[08/25 08:15:16 PM] Nlkosi scored a critical hit with Shocking Words on the Drowned Blight-caller for 107,581 Lightning damage to Morale.
+[08/25 08:15:40 PM] The Drowned Wight scored a hit with Shadow Aura on Nlkosi for 467 Shadow damage to Morale.
+[08/25 08:15:48 PM] The Drowned Blight-caller scored a hit with Shadow Aura on Nlkosi for 1,395 Shadow damage to Morale.
+[08/25 08:15:52 PM] The Drowned Blight-caller scored a hit with Shadow Aura on Nlkosi for 921 Shadow damage to Morale.
+[08/25 08:16:41 PM] The Drowned Wight scored a hit with Shadow Aura on Nlkosi for 676 Shadow damage to Morale.
+[08/25 08:16:42 PM] The Drowned Wight scored a hit with Shadow Aura on Nlkosi for 21 Shadow damage to Morale.
+[08/25 08:16:50 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 08:16:50 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Drowned Wight for 34,212 Lightning damage to Morale.
+[08/25 08:16:51 PM] Your mighty blow defeated the Drowned Wight.
+[08/25 08:16:51 PM] Nlkosi scored a critical hit with Epic Conclusion on the Drowned Wight for 117,090 Lightning damage to Morale.
+[08/25 08:17:38 PM] The Bax Garâkh Blight-caller scored a hit with Shadow Aura on Nlkosi for 158 Shadow damage to Morale.
+[08/25 08:17:50 PM] The Bax Garâkh Wight scored a hit with Shadow Aura on Nlkosi for 917 Shadow damage to Morale.
+[08/25 08:18:08 PM] The Bax Garâkh Blight-caller scored a hit with Shadow Aura on Nlkosi for 308 Shadow damage to Morale.
+[08/25 08:18:44 PM] Nlkosi scored a hit with Ceaseless Argument on the Drowned Limb for 11,968 Lightning damage to Morale.
+[08/25 08:18:45 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 08:18:45 PM] Your mighty blow defeated the Drowned Limb.
+[08/25 08:18:45 PM] Nlkosi scored a devastating hit with Writ of Lightning on the Drowned Limb for 31,220 Lightning damage to Morale.
+[08/25 08:20:54 PM] Nlkosi applied a benefit with Herbalist on Nlkosi.
+[08/25 08:20:55 PM] The Herbalist applied a benefit with Herbalist Aura on the Herbalist.
+[08/25 08:21:06 PM] Nlkosi applied a benefit with Herbalist on Nlkosi.
+[08/25 08:21:06 PM] The Herbalist applied a benefit with Herbalist Aura on the Herbalist.
+[08/25 08:24:15 PM] Refreshing Herbs applied a heal to Nlkosi restoring 953 points to Morale.
+[08/25 08:24:15 PM] The Herbalist applied a benefit with Refreshing Herbs on Nlkosi.
+[08/25 08:24:18 PM] The Herbalist applied a benefit with Nature's Power on the Herbalist.
+[08/25 08:24:20 PM] Herbalist's Care applied a heal to Nlkosi restoring 205 points to Morale.
+[08/25 08:24:20 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 08:24:21 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 922 points to Power.
+[08/25 08:24:24 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,181 points to Power.
+[08/25 08:24:27 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,069 points to Power.
+[08/25 08:24:30 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,024 points to Power.
+[08/25 08:24:33 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,229 points to Power.
+[08/25 08:24:48 PM] Herbalist's Care applied a heal to Nlkosi restoring 208 points to Morale.
+[08/25 08:24:48 PM] The Herbalist applied a benefit with Herbalist's Care on Nlkosi.
+[08/25 08:24:52 PM] The Herbalist applied a benefit with Nature's Power on Nlkosi.
+[08/25 08:24:53 PM] Nlkosi applied a heal with Refreshing Herbs to the Herbalist restoring 953 points to Morale.
+[08/25 08:24:54 PM] The Herbalist applied a benefit with Refreshing Herbs on the Herbalist.
+[08/25 08:24:54 PM] Nature's Power applied a heal to Nlkosi restoring 1,008 points to Power.
+[08/25 08:24:57 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 210 points to Morale.
+[08/25 08:24:57 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 08:24:57 PM] Nature's Power applied a heal to Nlkosi restoring 991 points to Power.
+[08/25 08:25:00 PM] Nature's Power applied a heal to Nlkosi restoring 897 points to Power.
+[08/25 08:25:03 PM] Nature's Power applied a heal to Nlkosi restoring 994 points to Power.
+[08/25 08:25:06 PM] Nature's Power applied a heal to Nlkosi restoring 1,008 points to Power.
+[08/25 08:26:01 PM] Nlkosi scored a hit with Scribe's Spark on the Acid-spitting Drake for 13,233 Lightning damage to Morale.
+[08/25 08:26:02 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 08:26:02 PM] Your mighty blow defeated the Acid-spitting Drake.
+[08/25 08:26:02 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Acid-spitting Drake for 36,017 Lightning damage to Morale.
+[08/25 08:26:04 PM] Nlkosi scored a hit with Ceaseless Argument on the Fierce Fire-matron for 11,626 Lightning damage to Morale.
+[08/25 08:26:05 PM] Nlkosi scored a hit with Writ of Lightning on the Fierce Fire-matron for 15,903 Lightning damage to Morale.
+[08/25 08:26:06 PM] The Fierce Fire-matron scored a hit with a moderate ranged attack on Nlkosi for 5,506 Fire damage to Morale.
+[08/25 08:26:08 PM] Your mighty blow defeated the Fierce Fire-matron.
+[08/25 08:26:08 PM] Nlkosi scored a critical hit with Shocking Words on the Fierce Fire-matron for 134,155 Lightning damage to Morale.
+[08/25 08:26:22 PM] Nlkosi applied a benefit with Herbalist on Nlkosi.
+[08/25 08:26:22 PM] The Herbalist applied a benefit with Herbalist Aura on the Herbalist.
+[08/25 08:26:25 PM] Nlkosi scored a hit with Writ of Lightning on the Acid-spitting Drake for 14,935 Lightning damage to Morale.
+[08/25 08:26:26 PM] Nlkosi scored a hit with Ceaseless Argument on the Acid-spitting Drake for 12,558 Lightning damage to Morale.
+[08/25 08:26:26 PM] The Herbalist applied a benefit with Nature's Power on the Herbalist.
+[08/25 08:26:26 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 08:26:26 PM] Your mighty blow defeated the Acid-spitting Drake.
+[08/25 08:26:27 PM] Nlkosi scored a devastating hit with Epic Conclusion on the Acid-spitting Drake for 181,044 Lightning damage to Morale.
+[08/25 08:26:29 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,128 points to Power.
+[08/25 08:26:32 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,073 points to Power.
+[08/25 08:26:35 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,034 points to Power.
+[08/25 08:26:38 PM] Nlkosi applied a heal with Nature's Power to the Herbalist restoring 1,163 points to Power.
+[08/25 08:26:39 PM] Nlkosi applied a benefit with Herbalist on Nlkosi.
+[08/25 08:26:40 PM] The Herbalist applied a benefit with Herbalist Aura on the Herbalist.
+[08/25 08:26:45 PM] The Herbalist applied a benefit with Nature's Power on Nlkosi.
+[08/25 08:26:46 PM] Nlkosi scored a hit with Ceaseless Argument on the Acid-spitting Whelpling for 13,553 Lightning damage to Morale.
+[08/25 08:26:47 PM] Nlkosi scored a devastating hit with Chilling Rhetoric on the Acid-spitting Whelpling for 21,361 Frost damage to Morale.
+[08/25 08:26:47 PM] Your mighty blow defeated the Acid-spitting Whelpling.
+[08/25 08:26:47 PM] Nlkosi applied a heal with Herbalist's Care to the Herbalist restoring 235 points to Morale.
+[08/25 08:26:47 PM] Nlkosi scored a hit with Scribe's Spark on the Acid-spitting Whelpling for 13,416 Lightning damage to Morale.
+[08/25 08:26:47 PM] The Herbalist applied a benefit with Herbalist's Care on the Herbalist.
+[08/25 08:26:48 PM] Nature's Power applied a heal to Nlkosi restoring 1,129 points to Power.
+[08/25 08:26:51 PM] Nature's Power applied a heal to Nlkosi restoring 955 points to Power.
+[08/25 08:26:54 PM] Nature's Power applied a heal to Nlkosi restoring 1,097 points to Power.
+[08/25 08:26:57 PM] Nature's Power applied a heal to Nlkosi restoring 1,231 points to Power.
+[08/25 08:27:00 PM] Nature's Power applied a heal to Nlkosi restoring 1,010 points to Power.
+[08/25 08:31:36 PM] Nlkosi applied a benefit with Armour of The Elements on Nlkosi.
+[08/25 08:31:56 PM] You have lost 67,573 points of temporary Morale!
+[08/25 08:42:22 PM] Nlkosi scored a hit with Ceaseless Argument on the Khibi Queen for 12,489 Lightning damage to Morale.
+[08/25 08:42:22 PM] Nlkosi scored a hit with Sustaining Bolt on the Khibi Queen for 6,162 Lightning damage to Morale.
+[08/25 08:42:23 PM] The Khibi Spitter scored a hit with a minor ranged attack on Nlkosi for 3,229 Common damage to Morale.
+[08/25 08:42:23 PM] Sustaining Bolt applied a heal to Nlkosi restoring 1,977 points to Power.
+[08/25 08:42:23 PM] Sustenance applied a heal to Nlkosi restoring 15,173 points to Morale.
+[08/25 08:42:24 PM] Nlkosi scored a hit with Ceaseless Argument on the Khibi Queen for 15,609 Lightning damage to Morale.
+[08/25 08:42:25 PM] The Khibi Queen scored a hit with a moderate melee attack on Nlkosi for 5,150 Common damage to Morale.
+[08/25 08:42:25 PM] Nlkosi scored a hit with Scribe's Spark on the Khibi Queen for 14,616 Lightning damage to Morale.
+[08/25 08:42:25 PM] The Khibi Spitter scored a hit with a weak ranged attack on Nlkosi for 2,583 Common damage to Morale.
+[08/25 08:42:26 PM] Master of Tragedy applied a heal to Nlkosi restoring 316 points to Power.
+[08/25 08:42:26 PM] Your mighty blow defeated the Khibi Queen.
+[08/25 08:42:26 PM] Nlkosi scored a critical hit with Shocking Words on the Khibi Queen for 118,749 Lightning damage to Morale.
+[08/25 08:42:28 PM] The Khibi Spitter scored a hit with a minor ranged attack on Nlkosi for 3,229 Common damage to Morale.
+[08/25 08:42:30 PM] The Khibi Spitter scored a devastating hit with a moderate ranged attack on Nlkosi for 6,855 Common damage to Morale.
+[08/25 08:42:32 PM] Nlkosi scored a hit with Scribe's Spark on the Khibi Spitter for 15,155 Lightning damage to Morale.
+[08/25 08:42:33 PM] The Khibi Spitter scored a hit with a weak ranged attack on Nlkosi for 2,583 Common damage to Morale.
+[08/25 08:42:33 PM] Your mighty blow defeated the Khibi Spitter.
+[08/25 08:42:34 PM] Nlkosi scored a critical hit with Ceaseless Argument on the Khibi Spitter for 42,335 Lightning damage to Morale.
+[08/25 08:48:46 PM] Nlkosi applied a benefit with Herbalist on Nlkosi.
+[08/25 08:48:46 PM] The Herbalist applied a benefit with Herbalist Aura on the Herbalist.
+[08/25 08:50:55 PM] You have been incapacitated by misadventure.
+[08/25 08:50:57 PM] You succumb to your wounds.
+[08/25 09:10:43 PM] Nlkosi applied a benefit with Travel to Kinship House on Nlkosi.
