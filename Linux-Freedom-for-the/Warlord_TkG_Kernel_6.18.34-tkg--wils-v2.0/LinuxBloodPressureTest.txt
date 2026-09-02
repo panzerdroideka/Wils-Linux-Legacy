@@ -1,0 +1,12 @@
+echo -e "\n\033[1;32m=== 🩺 WARLORD BLODTRYKKSMÅLING ===\033[0m"
+echo -e "\033[1;36m[1] MINNE & SYSTEMLAST:\033[0m"
+uptime -p && free -h | grep -E 'Mem|total'
+echo -e "\n\033[1;36m[2] CPU GOVERNOR:\033[0m"
+cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+echo -e "\n\033[1;36m[3] TEMPERATUR & KRAFT (AMD):\033[0m"
+sensors | grep -E 'Tctl|edge|PPT'
+echo -e "\n\033[1;36m[4] INNTRENGERE (Status på deaktiverte systemtjenester):\033[0m"
+systemctl status bluetooth avahi-daemon cups packagekit 2>/dev/null | grep -E 'Loaded:|Active:'
+echo -e "\n\033[1;36m[5] CRON-SJEKK (Er RAM-tyven borte for godt?):\033[0m"
+journalctl -b | grep -q "drop_caches" && echo "⚠️ ADVARSEL: drop_caches kjører fortsatt!" || echo "✓ Ren oppstart! Ingen rogue RAM-sletting oppdaget."
+echo -e "\033[1;32m===================================\033[0m\n"
