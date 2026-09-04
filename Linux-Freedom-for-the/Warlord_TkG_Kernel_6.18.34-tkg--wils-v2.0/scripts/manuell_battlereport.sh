@@ -40,6 +40,8 @@ echo "• Karakter: $KARAKTER"
 echo "• Nivå: $LEVEL"
 echo "• Middle-Earth"
 echo ""
+echo "Sharing my love and passion for this, , is caring, not the income!"
+echo ""
 # ⚡ LIGHTNING-ANGREP (Søker nå smart på kun karakternavn)
 echo "⚡ TOPP KRAFT-ANGREP (LIGHTNING):"
 

@@ -3,7 +3,7 @@
 DATE=$(date +%Y-%m-%d)
 
 # Definer absolutte stier (Ingen relativ "cd" nødvendig)
-TARGET_REPO="/home/wils/GitHub/Warlord-Logs-Public"
+TARGET_REPO="/home/wils/GitHub/panzerdroideka/Warlord-Logs-Public"
 ARCHIVE_DIR="$TARGET_REPO/$DATE"
 SOURCE_LOGS="/home/wils/Games/gaminglogger"
 
@@ -24,8 +24,10 @@ find "$SOURCE_LOGS" -name "wine_$DATE*.csv" -exec cp {} "$ARCHIVE_DIR/gaming/" \
 
 # 4. Git-operasjon (Spesifiserer arbeidskatalog uten å forlate scriptet)
 echo "Synkroniserer med skyen..."
-git -C "$TARGET_REPO" add .
-git -C "$TARGET_REPO" commit -m "Warlord Telemetri-arkiv: $DATE - System & Gaming"
-git -C "$TARGET_REPO" push origin main
+# 4. Git-operasjon
+cd "/home/wils/GitHub/panzerdroideka/Warlord-Logs-Public" || exit
+git add .
+git commit -m "Warlord Telemetri-arkiv: $DATE - System & Gaming"
+git push origin main
 
 echo "=== Alt er arkivert! Du kan nå logge av med god samvittighet. ==="

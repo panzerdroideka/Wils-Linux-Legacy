@@ -4,14 +4,19 @@
 # Skript:   wils-prep-upgrade.sh
 # Funksjon: DEL 1 - Åpner hvelvet og demaskerer alt med F1-presisjon
 # ==========================================================================
-
+echo "Wils@Warlord:~$ This is the Way"
+echo ""
 echo "=== Wils-Linux-Legacy: DEL 1 - Klargjøring før oppgradering ==="
 echo "--------------------------------------------------------------------"
 
-echo "1. Tvinger rot-filsystemet (/) til Read-Write (rw)..."
-sudo mount -o remount,rw /
+# Denne delen er unødvendig da btrfs i utgangspunktet er
+# slik at / er mountet i rw ALLTID by DESIGN
+# echo "1. Tvinger rot-filsystemet (/) til Read-Write (rw)..."
+# sync
+# sleep 3
+#sudo mount -o remount,rw /
 
-echo "2. Fjerner immutable-flagg (-i) med presisjon på systemfilene..."
+echo "1. Fjerner immutable-flagg (-i) med presisjon på systemfilene..."
 # Vi låser kun opp det vi faktisk låste i DEL 3, ingen tung rekursiv tråling
 sudo chattr -i /etc/fstab 2>/dev/null
 sudo chattr -i /etc/apt/sources.list.d/ubuntu.sources 2>/dev/null
@@ -20,12 +25,12 @@ sudo chattr -i /etc/default/grub 2>/dev/null
 sudo chattr -i /boot/grub/grub.cfg 2>/dev/null
 sudo chattr -i /boot/grub
 
-echo "3. Renser opp i gamle korrupte krasjfiler (.tmp, .distUpgrade, .bak)..."
+echo "2. Renser opp i gamle korrupte krasjfiler (.tmp, .distUpgrade, .bak)..."
 sudo rm -f /etc/apt/sources.list.d/*.tmp 2>/dev/null
 sudo rm -f /etc/apt/sources.list.d/*.distUpgrade 2>/dev/null
 sudo rm -f /etc/apt/sources.list.d/*.bak 2>/dev/null
 
-echo "4. Avmaskerer alle herdede systemd-tjenester og sockets..."
+echo "3. Avmaskerer alle herdede systemd-tjenester og sockets..."
 UNITS="alsa-utils.service avahi-daemon.service cryptdisks-early.service \
 cryptdisks.service cups.service dbus-org.freedesktop.Avahi.service \
 dbus-org.freedesktop.ModemManager1.service google-chrome-update.service \

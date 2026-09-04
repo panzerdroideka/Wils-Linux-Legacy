@@ -4,14 +4,16 @@
 # Skript:   wils-immutize-vault.sh
 # Funksjon: DEL 3 - Hard herding, maskering og feilsikker Vault-låsing (2026)
 # ==========================================================================
-
+echo "Wils@Warlord:~$ This is the Way"
+echo ""
 echo "=== Wils-Linux-Legacy: DEL 3 - Utfører Vault-låsing ==="
 echo "--------------------------------------------------------------------"
 
-echo "1. Sørger for at rotfilsystemet er i skrivemodus under herding..."
-sudo mount -o remount,rw /
+# Fjerner mount -o remount,rw / da systemet er designet til å ha / til rw permanent
+# echo "1. Sørger for at rotfilsystemet er i skrivemodus under herding..."
+# sudo mount -o remount,rw /
 
-echo "2. Re-maskerer samtlige herdede systemd-tjenester og sockets..."
+echo "1. Re-maskerer samtlige herdede systemd-tjenester og sockets..."
 UNITS="alsa-utils.service avahi-daemon.service cryptdisks-early.service \
 cryptdisks.service cups.service dbus-org.freedesktop.ModemManager1.service \
 hwclock.service libvirtd.service ModemManager.service packagekit.service \
@@ -29,20 +31,22 @@ sudo systemctl stop fwupd 2>/dev/null
 sudo sync
 sleep 3
 
-echo "3. Forsegler kjernekonfigurasjoner med Immutable-flagg (+i)..."
+echo "2. Forsegler kjernekonfigurasjoner med Immutable-flagg (+i)..."
 sudo chattr +i /etc/fstab
 sudo chattr +i /etc/apt/sources.list.d/ubuntu.sources
 sudo chattr +i /etc/default/grub
 sudo chattr +i /boot/grub/grub.cfg
 sudo chattr +i /boot/grub
 
-echo "4. Klargjør systemet og tømmer I/O-køen..."
+echo "3. Klargjør systemet og tømmer I/O-køen..."
 sync
-sleep 2
-echo "--> Vrir om hovednøkkelen (Remount til Read-Only)..."
-sudo mount -o remount,ro /
+sleep 3
+# echo "--> Vrir om hovednøkkelen (Remount til Read-Only)..."
+# sync
+# sleep 3
+#sudo mount -o remount,ro /
 
-echo "5. Verifiserer F1-Hvelvets sanne immutabilitet..."
+echo "4. Verifiserer F1-Hvelvets sanne immutabilitet..."
 echo "--------------------------------------------------------------------"
 
 # Sjekker at chattr-betongen faktisk har herdet over kjernefilene

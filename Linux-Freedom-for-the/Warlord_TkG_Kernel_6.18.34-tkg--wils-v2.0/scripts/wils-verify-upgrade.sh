@@ -2,11 +2,11 @@
 # ==========================================================================
 # Prosjekt: Wils-Linux-Legacy (Frankenstein / Warlord)
 # Skript:   wils-verify-upgrade.sh
-# Funksjon: DEL 2 - Tvinger frem stikkprøver med interaktiv Y/N-sjekk
+# Funksjon: DEL 3 - Tvinger frem stikkprøver med interaktiv Y/N-sjekk
 # ==========================================================================
-
-clear
-echo "=== Wils-Linux-Legacy: DEL 2 - Strategisk Verifisering ==="
+echo "Wils@Warlord:~$ This is the Way"
+echo ""
+echo "=== Wils-Linux-Legacy: DEL 3 - Strategisk Verifisering ==="
 echo "===================================================================="
 echo ""
 

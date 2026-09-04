@@ -4,8 +4,8 @@
 # ============================================================
 # Dette er et maskineri bygget med Ferrari F1 teamet's
 # presisjon og perfeksjon som inspirasjon!
-echo "Wils@This is the Way"
-
+echo "Wils@Warlord:~$ This is the Way"
+echo ""
 echo "--- 🔓 Starter Vedlikehold: Åpner hvelvet ---"
 sudo mount -o remount,rw /
 # Låser opp GRUB eksplisitt for å unngå feil senere
@@ -21,11 +21,12 @@ sudo apt update && sudo apt full-upgrade -y
 sudo flatpak update -y
 
 echo "--- 🛠️ Kjører sikker systemrengjøring ---"
-sudo ~/scripts/fix.sh
+# sudo ~/scripts/fix.sh
+# sudo ~/scripts/clear-cache
 # clean.sh er fjernet da apt autoremove gjør jobben!
-
+sudo apt --fix-broken install
 echo "--- ⚙ Oppdaterer GRUB og rydder pakkecache ---"
-sudo apt autoremove -y && sudo apt autoclean
+sudo apt autoremove -y && sudo apt autoclean && sync
 sudo update-grub
 
 echo "--- 🔒 Klargjør for trygg hvelv-låsing ---"

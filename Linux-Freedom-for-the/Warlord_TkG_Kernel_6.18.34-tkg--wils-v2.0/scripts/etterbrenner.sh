@@ -39,6 +39,8 @@ echo "• Karakter: $KARAKTER"
 echo "• Nivå: $LEVEL"
 echo "• Middle-Earth"
 echo ""
+echo "Sharing my love and passion for this, , is caring, not the income!"
+echo ""
 # ⚡ LIGHTNING-ANGREP (Søker på kun karakternavn for å berge lørdagens missions)
 echo "⚡ TOPP KRAFT-ANGREP (LIGHTNING):"
 grep "$KARAKTER" "$TELEMETRI_LOGG" | grep -i "Epic Conclusion\|Shocking Words" | head -n 6 | sed 's/^.*\] //' | while read -r l; do
