@@ -374,3 +374,139 @@ Git never forgets.
 This is the Way.
 
 
+Evidence That Learning Happened
+Learning Linux is not memorizing commands.
+
+Learning Linux is learning how to find answers.
+
+Observe.
+
+Test.
+
+Verify.
+
+Repeat.
+
+The terminal is not judging.
+
+The terminal is teaching.
+
+A mistake is not a failure.
+
+A mistake is evidence.
+
+Evidence becomes knowledge.
+
+Knowledge becomes experience.
+
+Experience becomes understanding.
+
+WARLORD Doctrine
+🏰 WARLORD 🐧 🛡 🐧
+
+Ikke gjett.
+
+Ikke anta.
+
+Les loggene.
+
+Følg bevisene.
+
+Gjør jobben skikkelig.
+
+Gjør den FERDIG-FERDIG.
+
+This is the Way.
+
+Mr. Term Whispers
+The logs know.
+
+The evidence remembers.
+
+Git never forgets.
+
+Every mistake becomes knowledge the moment you stop arguing with it and start investigating it.
+
+And somewhere deep inside the kernel...
+
+🐧 Pingu is watching.
+
+Proof
+This repository started with a simple question:
+
+"Why does PrintScreen not behave as expected?"
+
+The investigation led to:
+
+Git workflow
+Timeline creation
+Evidence collection
+Bugzilla templates
+Documentation practices
+Linux navigation skills
+Better understanding of KDE Plasma
+Better understanding of Linux itself
+The bug is the destination.
+
+Learning is the journey.
+
+This repository contains the evidence.
+
+🏰 WARLORD 🐧 🛡 🐧
+
+Read the logs.
+
+Follow the evidence.
+
+Finish the job.
+
+This is the Way.
+
+
+A Final Note
+Nobody learns Linux without mistakes.
+
+Nobody learns Git without mistakes.
+
+Nobody learns debugging without mistakes.
+
+The goal is not to avoid mistakes.
+
+The goal is to observe them, understand them, and learn from them.
+
+The person who never makes mistakes is often the person who never attempts anything difficult.
+
+This repository contains both the successes and the mistakes.
+
+Both were necessary.
+
+🏰 WARLORD 🐧 🛡 🐧
+
+Ikke gjett.
+
+Ikke anta.
+
+Les loggene.
+
+Følg bevisene.
+
+Gjør jobben skikkelig.
+
+Gjør den FERDIG-FERDIG.
+
+This is the Way.
+
+Mr. Term whispers:
+
+Perfect people do not exist.
+
+Perfect logs rarely exist.
+
+But honest evidence beats perfect excuses every single time.
+
+The person who never makes mistakes is often the person who never attempts anything difficult.
+
+Git remembered the journey.
+
+🐧 Pingu is watching.
+
